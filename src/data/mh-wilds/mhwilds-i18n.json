@@ -1,0 +1,7445 @@
+[
+  {
+    "name": "armor.Hope Mask",
+    "part": "head",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Divine Blessing": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Divine Blessing": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Divine Blessing": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Helm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Braces",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Coil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Helm",
+    "part": "head",
+    "skills": {
+      "skill.Hunger Resistance": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Quick Sheathe": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Evade Extender": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Evade Extender": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Helm",
+    "part": "head",
+    "skills": {
+      "skill.Speed Eating": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Speed Eating": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Item Prolonger": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Item Prolonger": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Headgear",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Vest",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Gloves",
+    "part": "arms",
+    "skills": {
+      "skill.Hunger Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Belt",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Pants",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Vest",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Gloves",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Belt",
+    "part": "waist",
+    "skills": {
+      "skill.Recovery Speed": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Pants",
+    "part": "legs",
+    "skills": {
+      "skill.Recovery Speed": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Helm",
+    "part": "head",
+    "skills": {
+      "skill.Marathon Runner": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Marathon Runner": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bulaqchi Specs",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Talioth Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Leap of Faith": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Fire Resistance": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Braces",
+    "part": "arms",
+    "skills": {
+      "skill.Flinch Free": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Fire Resistance": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Flinch Free": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Tremor Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Tremor Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Tremor Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Quick Sheathe": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Piragill Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Water Resistance": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Survival Expert": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Survival Expert": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Headgear",
+    "part": "head",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Recovery Up": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Recovery Up": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Helm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Stench Resistance": 1,
+      "skill.Fortifying Pelt": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Stench Resistance": 1,
+      "skill.Fortifying Pelt": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Helm",
+    "part": "head",
+    "skills": {
+      "skill.Divine Blessing": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Divine Blessing": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Greaves",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Comaqchi Accessory",
+    "part": "head",
+    "skills": {
+      "skill.Sleep Resistance": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Helm",
+    "part": "head",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Helm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Bind Resistance": 1,
+      "skill.Poison Resistance": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Vambraces",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Greaves",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Headdress",
+    "part": "head",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Recovery Speed": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Recovery Speed": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Coil",
+    "part": "waist",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Ice Resistance": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Ice Resistance": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Helm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Coil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Greaves",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Seikret Coil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Vambraces",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Coil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandhelm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandmail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandbraces",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandcoil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Mirehelm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Miremail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Mirebraces",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Miregreaves",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Helm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Coil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Greaves",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Vambraces",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Coil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Helm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Braces",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Greaves",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Helm",
+    "part": "head",
+    "skills": {
+      "skill.Maximum Might": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Mail",
+    "part": "chest",
+    "skills": {
+      "skill.Stamina Surge": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Vambraces",
+    "part": "arms",
+    "skills": {
+      "skill.Maximum Might": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Greaves",
+    "part": "legs",
+    "skills": {
+      "skill.Stamina Surge": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Helm",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Mail",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Coil",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Greaves",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Mask \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Divine Blessing": 2
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Poison Resistance": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Divine Blessing": 1,
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hope Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Stun Resistance": 2
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Headgear \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Belt \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Hunger Resistance": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Leather Pants \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Hunger Resistance": 1,
+      "skill.Item Prolonger": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Headgear \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Armor \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Gloves \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Belt \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Recovery Speed": 1,
+      "skill.Ice Resistance": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chainmail Pants \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Recovery Speed": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Helm \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Stun Resistance": 1,
+      "skill.Speed Eating": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Marathon Runner": 1,
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Marathon Runner": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bone Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Helm \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Quick Sheathe": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Flinch Free": 2
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {
+      "skill.Tremor Resistance": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Alloy Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Quick Sheathe": 1,
+      "skill.Flinch Free": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bulaqchi Specs \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Bulaqchi Specs \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Talioth Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Piragill Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Aquatic/Oilsilt Mobility": 1,
+      "skill.Water Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Piragill Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Aquatic/Oilsilt Mobility": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Evade Window": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Survival Expert": 1,
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Mail \\u03b2",
+    "part": "chest",
+    "skills": {
+      "skill.Survival Expert": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Coil \\u03b2",
+    "part": "waist",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Vespoid Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Survival Expert": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kranodath Mail \\u03b2",
+    "part": "chest",
+    "skills": {
+      "skill.Flinch Free": 2,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Comaqchi Accessory \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Comaqchi Accessory \\u03b2",
+    "part": "head",
+    "skills": {
+      "skill.Sleep Resistance": 2,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kut-Ku Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kut-Ku Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kut-Ku Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kut-Ku Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kut-Ku Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kut-Ku Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kut-Ku Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Helm \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Speed Eating": 1,
+      "skill.Wide-Range": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Speed Eating": 1,
+      "skill.Weakness Exploit": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {
+      "skill.Item Prolonger": 1,
+      "skill.Wide-Range": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Item Prolonger": 1,
+      "skill.Weakness Exploit": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Helm \\u03b2",
+    "part": "head",
+    "skills": {
+      "skill.Speed Eating": 1,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Mail \\u03b2",
+    "part": "chest",
+    "skills": {
+      "skill.Speed Eating": 1,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Coil \\u03b2",
+    "part": "waist",
+    "skills": {
+      "skill.Speed Eating": 1,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Chatacabra Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Weakness Exploit": 1,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Helm \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Flinch Free": 1,
+      "skill.Latent Power": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Braces \\u03b1",
+    "part": "arms",
+    "skills": {
+      "skill.Flinch Free": 1,
+      "skill.Fire Resistance": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Fire Resistance": 1,
+      "skill.Latent Power": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Flinch Free": 1,
+      "skill.Evade Extender": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Mail \\u03b2",
+    "part": "chest",
+    "skills": {
+      "skill.Latent Power": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Braces \\u03b2",
+    "part": "arms",
+    "skills": {
+      "skill.Flinch Free": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Coil \\u03b2",
+    "part": "waist",
+    "skills": {
+      "skill.Fire Resistance": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Quematrice Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Flinch Free": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Recovery Up": 2,
+      "skill.Evade Window": 1,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Paralysis Resistance": 2,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Headgear \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Mail \\u03b2",
+    "part": "chest",
+    "skills": {
+      "skill.Recovery Up": 1,
+      "skill.Evade Window": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {
+      "skill.Recovery Up": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Barina Coil \\u03b2",
+    "part": "waist",
+    "skills": {
+      "skill.Paralysis Resistance": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Conga Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Helm \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Wide-Range": 2,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Poison Resistance": 2,
+      "skill.Wide-Range": 1,
+      "skill.Flexible Leathercraft": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Helm \\u03b2",
+    "part": "head",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Mail \\u03b2",
+    "part": "chest",
+    "skills": {
+      "skill.Poison Resistance": 2,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rompopolo Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Wide-Range": 2,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Mail \\u03b2",
+    "part": "chest",
+    "skills": {
+      "skill.Stamina Surge": 1,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Coil \\u03b2",
+    "part": "waist",
+    "skills": {
+      "skill.Stamina Surge": 1,
+      "skill.Buttery Leathercraft": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gypceros Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Bind Resistance": 1,
+      "skill.Sleep Resistance": 2,
+      "skill.Neopteron Alert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Helm \\u03b2",
+    "part": "head",
+    "skills": {
+      "skill.Bind Resistance": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Nerscylla Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Sleep Resistance": 1,
+      "skill.Neopteron Camouflage": 1
+    },
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {
+      "skill.Evade Extender": 1,
+      "skill.Stamina Surge": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Helm \\u03b2",
+    "part": "head",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Coil \\u03b2",
+    "part": "waist",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Balahara Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Evade Extender": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Headdress \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Evade Extender": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Ice Resistance": 2,
+      "skill.Evade Window": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Evade Window": 2,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Ice Resistance": 1,
+      "skill.Peak Performance": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Headdress \\u03b2",
+    "part": "head",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Coil \\u03b2",
+    "part": "waist",
+    "skills": {
+      "skill.Evade Window": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Hirabami Greaves \\u03b2",
+    "part": "legs",
+    "skills": {
+      "skill.Peak Performance": 1,
+      "skill.Scale Layering": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Helm \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Divine Blessing": 1,
+      "skill.Recovery Speed": 1,
+      "skill.Scaling Prowess": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathian Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ingot Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Seikret Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gajau Boots \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Fulgur Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Fulgur Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Fulgur Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Fulgur Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Fulgur Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Fulgur Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Fulgur Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Braces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Braces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Doshaguma Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Braces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Doshaguma Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Ajarakan Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Braces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Ebony Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Xu Wu Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathalos Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathalos Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathalos Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathalos Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathalos Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathalos Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rathalos Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Rathalos Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gravios Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Blango Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Commission Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Commission Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Commission Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Commission Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kunafa Headgear \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Wide-Range": 2,
+      "skill.Palico Rally": 1,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kunafa Sash \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Speed Eating": 2,
+      "skill.Palico Rally": 1,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Kunafa Chaps \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Wide-Range": 2,
+      "skill.Palico Rally": 1,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Azuz Headdress \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Maximum Might": 2,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Azuz Apron \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Suja Sash \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Divine Blessing": 3,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Sild Hood \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Sild Coat \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Wide-Range": 4,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Death Stench Brain \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Death Stench Grip \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Death Stench Bowels \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Death Stench Heel \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Butterfly Thorax \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Butterfly Brachia \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Butterfly Elytra \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.King Beetle Vertex \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.King Beetle Thorax \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.King Beetle Elytra \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.King Beetle Crura \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.High Metal Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.High Metal Braces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.High Metal Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.High Metal Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Flinch Free": 3,
+      "skill.Bleeding Resistance": 3,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Battle Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Hunger Resistance": 3,
+      "skill.Sleep Resistance": 2,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Battle Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {
+      "skill.Free Meal": 3,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Battle Coil \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Item Prolonger": 3,
+      "skill.Bind Resistance": 2,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Battle Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Melahoa Jacket \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Tool Specialist": 3,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Melahoa Branch \\u03b1",
+    "part": "arms",
+    "skills": {
+      "skill.Recovery Speed": 3,
+      "skill.Paralysis Resistance": 2,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Melahoa Folia \\u03b1",
+    "part": "waist",
+    "skills": {
+      "skill.Recovery Up": 3,
+      "skill.Bleeding Resistance": 2,
+      "skill.Imparted Wisdom": 1
+    },
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Artian Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Artian Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Artian Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Artian Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dober Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dober Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dober Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dober Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Damascus Helm \\u03b1",
+    "part": "head",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Divine Blessing": 2
+    },
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Damascus Mail \\u03b1",
+    "part": "chest",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Recovery Up": 2
+    },
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Damascus Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Divine Blessing": 1
+    },
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Damascus Greaves \\u03b1",
+    "part": "legs",
+    "skills": {
+      "skill.Wide-Range": 1,
+      "skill.Item Prolonger": 2
+    },
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dahaad Shardhelm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dahaad Shardmail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dahaad Shardcoil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dahaad Shardgreaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dahaad Shardmail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dahaad Shardbraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dahaad Shardcoil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildhelm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildmail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildcoil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildgreaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildhelm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildbraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildcoil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Duna Wildgreaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandmail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandbraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandgreaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandhelm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandmail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandcoil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Rey Sandgreaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Mirehelm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Mirebraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Mirecoil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Mirehelm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Miremail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Mirebraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Udra Miregreaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gore Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gore Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gore Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gore Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gore Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gore Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Gore Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Helm \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Arkvulcan Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Greaves \\u03b1",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.G. Arkveld Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Guild Ace Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Guild Ace Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Guild Ace Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Dragonking Eyepatch \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mimiphyta \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Expedition Headgear \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Marathon Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Marathon Runner": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Marathon Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Marathon Runner": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm IV",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sheathe Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Quick Sheathe": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sheathe Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Quick Sheathe": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Challenger Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Challenger Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Unscathed Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Peak Performance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Unscathed Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Peak Performance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fury Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Exploiter Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Weakness Exploit": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Exploiter Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Weakness Exploit": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Power Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Latent Power": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Power Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Latent Power": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mighty Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Maximum Might": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Surge Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Stamina Surge": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Surge Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Stamina Surge": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Surge Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Stamina Surge": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm IV",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 4
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blessing Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Divine Blessing": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blessing Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Divine Blessing": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blessing Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Divine Blessing": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Recovery Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Up": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Recovery Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Up": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Speed Heal Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Speed": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Speed Heal Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Speed": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Speed Heal Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Speed": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Glutton's Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Speed Eating": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Glutton's Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Speed Eating": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Earplugs Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Windproof Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Windproof Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Windproof Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Tremor Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Tremor Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Tremor Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Tremor Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Leaping Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Extender": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Leaping Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Extender": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fire Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Fire Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fire Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Fire Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fire Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Fire Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Water Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Water Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Water Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Water Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Thunder Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Thunder Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Thunder Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Thunder Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Thunder Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Thunder Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Ice Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Ice Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Ice Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Ice Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Dragon Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Dragon Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Dragon Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Dragon Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Dragon Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Dragon Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blight Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Blight Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Poison Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Poison Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Poison Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Poison Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Poison Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Poison Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Paralysis Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Paralysis Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Paralysis Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Paralysis Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sleep Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Sleep Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sleep Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Sleep Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sleep Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Sleep Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Stun Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Stun Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Stun Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Stun Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Stun Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blast Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Blast Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blast Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Blast Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blast Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Blast Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Botany Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Botany Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Botany Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Geology Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Geology Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Geology Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Breaker Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Breaker Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bombardier Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bombardier Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mushroom Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mushroom Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mushroom Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Extension Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Item Prolonger": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Extension Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Item Prolonger": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm IV",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 4
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Light Eater's Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Free Meal": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Light Eater's Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Free Meal": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Grit Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Grit Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Grit Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Impact Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Flinch Free": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Impact Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Flinch Free": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hungerless Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Hunger Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hungerless Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Hunger Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hungerless Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Hunger Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counter Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counter Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Foray Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Foray Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Phoenix Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Phoenix Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Chain Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counterattack Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Adrenaline Rush": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counterattack Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Adrenaline Rush": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Descent Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Descent Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bleed Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Bleeding Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bleed Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Bleeding Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Guard Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Iron Skin": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Guard Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Iron Skin": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Guard Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Iron Skin": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Survival Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Survival Expert": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Survival Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Survival Expert": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Maintenance Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Tool Specialist": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Maintenance Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Tool Specialist": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Maintenance Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Tool Specialist": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Intimidator Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Intimidator Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Escape Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Bind Resistance": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Escape Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Bind Resistance": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Escape Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Bind Resistance": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Chainblade Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Chainblade Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Convert Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Convert Element": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sanity Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sanity Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sanity Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hope Charm",
+    "part": "charm",
+    "skills": {
+      "skill.Self-Improvement": 1,
+      "skill.Recovery Up": 1
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mizutsune Mail \\u03b1",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mizutsune Braces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      1,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mizutsune Coil \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      2,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mizutsune Helm \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mizutsune Mail \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      2,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mizutsune Coil \\u03b2",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Mizutsune Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Numinous Crown \\u03b1",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Numinous Vambraces \\u03b1",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      2,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Numinous Overlay \\u03b1",
+    "part": "waist",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Numinous Crown \\u03b2",
+    "part": "head",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Numinous Shroud \\u03b2",
+    "part": "chest",
+    "skills": {},
+    "slots": [
+      3,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Numinous Vambraces \\u03b2",
+    "part": "arms",
+    "skills": {},
+    "slots": [
+      3,
+      1,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "armor.Numinous Greaves \\u03b2",
+    "part": "legs",
+    "skills": {},
+    "slots": [
+      3,
+      2,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm V",
+    "part": "charm",
+    "skills": {},
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Power Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Latent Power": 3
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm V",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 5
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm IV",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 4
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Convert Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Convert Element": 2
+    },
+    "slots": [
+      0,
+      0,
+      0
+    ],
+    "setSkill": [],
+    "seriesSkill": []
+  }
+]
