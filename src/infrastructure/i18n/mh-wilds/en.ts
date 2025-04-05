@@ -846,6 +846,13 @@ const enSkill = {
 const enCommon = {
   common_slots: "Slots",
   common_skills: "Skills",
+  implemented: "Implemented Features",
+  inProgress: "In Progress",
+  planned: "Planned Features",
+  page1: "Page 1",
+  page2: "Page 2",
+  page3: "Page 3",
+  mhWilds: "Monster Hunter Wilds",
 };
 
 export { enArmor, enCharm, enSkill, enCommon };

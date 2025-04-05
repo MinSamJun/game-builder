@@ -1,30 +1,38 @@
-import { PageBlock } from "@container/page-block";
+"use client";
+
+import { PageBlock } from "@/infrastructure/page-block";
+import { useI18n } from "@infrastructure/user-i18n";
+import { LanguageSelector } from "@infrastructure/user-i18n/language-selector";
 
 const Home = () => {
+  const { lang, setLang, t } = useI18n();
+
   return (
     <main className="p-4">
+      <LanguageSelector lang={lang} onChange={setLang} />
+
       <PageBlock
-        title="구현된 페이지"
+        title={t("common", "implemented")}
         items={[
-          { title: "구현된 페이지 1", href: "/" },
-          { title: "구현된 페이지 2", href: "/" },
-          { title: "구현된 페이지 3", href: "/" },
+          { title: t("common", "page1"), href: "/" },
+          { title: t("common", "page2"), href: "/" },
+          { title: t("common", "page3"), href: "/" },
         ]}
       />
       <PageBlock
-        title="구현중인 페이지"
+        title={t("common", "inProgress")}
         items={[
-          { title: "몬헌 와일즈", href: "/mh-wilds" },
-          { title: "구현중인 페이지 2", href: "/" },
-          { title: "구현중인 페이지 3", href: "/" },
+          { title: t("common", "mhWilds"), href: "/mh-wilds" },
+          { title: t("common", "page2"), href: "/" },
+          { title: t("common", "page3"), href: "/" },
         ]}
       />
       <PageBlock
-        title="구현할 페이지"
+        title={t("common", "planned")}
         items={[
-          { title: "구현할 페이지 1", href: "/" },
-          { title: "구현할 페이지 2", href: "/" },
-          { title: "구현할 페이지 3", href: "/" },
+          { title: t("common", "page1"), href: "/" },
+          { title: t("common", "page2"), href: "/" },
+          { title: t("common", "page3"), href: "/" },
         ]}
       />
     </main>

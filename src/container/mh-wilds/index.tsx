@@ -1,52 +1,20 @@
 "use client";
 
 import { useState } from "react";
-import { ko, en, ja } from "@infrastructure/i18n/mh-wilds";
+import { useI18n } from "@infrastructure/user-i18n";
 
-const DEFAULT_LANG = "ko";
-const NAMESPACES = ["armor", "charm", "skill", "common"];
+const NAMESPACES = ["armor", "charm", "skill", "common"] as const;
 const EQUIPMENT_TYPES = NAMESPACES.filter((ns) => ns !== "common");
-
-type Lang = "en" | "ja" | "ko";
-type Namespace = (typeof NAMESPACES)[number];
-type TranslationSet = Record<Namespace, Record<string, string>>;
-
-const initialResources: Record<Lang, TranslationSet> = {
-  en: {
-    armor: en.enArmor || {},
-    charm: en.enCharm || {},
-    skill: en.enSkill || {},
-    common: en.enCommon || {},
-  },
-  ja: {
-    armor: ja.jaArmor || {},
-    charm: ja.jaCharm || {},
-    skill: ja.jaSkill || {},
-    common: ja.jaCommon || {},
-  },
-  ko: {
-    armor: ko.koArmor || {},
-    charm: ko.koCharm || {},
-    skill: ko.koSkill || {},
-    common: ko.koCommon || {},
-  },
-};
+type EquipmentNamespace = (typeof EQUIPMENT_TYPES)[number];
 
 export function MHWildsContent() {
-  const [lang, setLang] = useState<Lang>(DEFAULT_LANG);
-  const [type, setType] = useState(EQUIPMENT_TYPES[0]);
+  const { lang, setLang, getNamespaceData } = useI18n();
+  const [type, setType] = useState<EquipmentNamespace>(EQUIPMENT_TYPES[0]);
   const [term, setTerm] = useState("");
-  const [translations, setTranslations] = useState(
-    initialResources[DEFAULT_LANG]
-  );
 
-  const handleLangChange = (selectedLanguage: Lang) => {
-    setLang(selectedLanguage);
-    setTranslations(initialResources[selectedLanguage]);
-  };
-
-  const filtered = Object.entries(translations[type] || {}).filter(
-    ([, value]) => value.toLowerCase().includes(term.toLowerCase())
+  const translations = getNamespaceData(type); // 해당 네임스페이스의 번역 데이터
+  const filtered = Object.entries(translations || {}).filter(([, value]) =>
+    value.toLowerCase().includes(term.toLowerCase())
   );
 
   return (
@@ -55,10 +23,10 @@ export function MHWildsContent() {
         Monster Hunter Wilds - Build Planner
       </div>
 
-      {/* Language Selector */}
+      {/* Language Selector (하드코딩) */}
       <div className="mb-6 flex space-x-4">
         <button
-          onClick={() => handleLangChange("ko")}
+          onClick={() => setLang("ko")}
           className={`px-4 py-2 rounded ${
             lang === "ko" ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
           }`}
@@ -66,7 +34,7 @@ export function MHWildsContent() {
           한국어
         </button>
         <button
-          onClick={() => handleLangChange("en")}
+          onClick={() => setLang("en")}
           className={`px-4 py-2 rounded ${
             lang === "en" ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
           }`}
@@ -74,7 +42,7 @@ export function MHWildsContent() {
           English
         </button>
         <button
-          onClick={() => handleLangChange("ja")}
+          onClick={() => setLang("ja")}
           className={`px-4 py-2 rounded ${
             lang === "ja" ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
           }`}

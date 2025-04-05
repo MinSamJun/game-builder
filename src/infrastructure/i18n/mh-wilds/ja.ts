@@ -846,6 +846,13 @@ const jaSkill = {
 const jaCommon = {
   common_slots: "スロット",
   common_skills: "スキル",
+  implemented: "実装済み機能",
+  inProgress: "開発中の機能",
+  planned: "計画された機能",
+  page1: "ページ 1",
+  page2: "ページ 2",
+  page3: "ページ 3",
+  mhWilds: "モンスターハンター ワイルズ",
 };
 
 export { jaArmor, jaCharm, jaSkill, jaCommon };

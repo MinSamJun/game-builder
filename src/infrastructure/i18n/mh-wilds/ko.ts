@@ -820,6 +820,13 @@ const koSkill = {
 const koCommon = {
   common_slots: "슬롯",
   common_skills: "스킬",
+  implemented: "구현된 기능",
+  inProgress: "개발 중인 기능",
+  planned: "계획된 기능",
+  page1: "페이지 1",
+  page2: "페이지 2",
+  page3: "페이지 3",
+  mhWilds: "몬스터 헌터 와일즈",
 };
 
 export { koArmor, koCharm, koSkill, koCommon };
