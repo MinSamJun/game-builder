@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { ko, en, ja } from "@/infrastructure/i18n/mh-wilds";
+import { ko, en, ja } from "@infrastructure/i18n/mh-wilds";
 
 const DEFAULT_LANG = "ko";
 const NAMESPACES = ["armor", "charm", "skill", "common"];

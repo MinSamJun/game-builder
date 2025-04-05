@@ -1,6 +1,6 @@
-import { PageBlock } from "@/conatainer/page-block";
+import { PageBlock } from "@container/page-block";
 
-export default function Home() {
+const Home = () => {
   return (
     <main className="p-4">
       <PageBlock
@@ -29,4 +29,6 @@ export default function Home() {
       />
     </main>
   );
-}
+};
+
+export default Home;

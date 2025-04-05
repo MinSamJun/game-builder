@@ -1,4 +1,4 @@
-import { MHWildsContent } from "@/conatainer/mh-wilds";
+import { MHWildsContent } from "@container/mh-wilds";
 
 export default function MHWildsPage() {
   return <MHWildsContent />;
