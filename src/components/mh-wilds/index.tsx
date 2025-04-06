@@ -2,15 +2,20 @@
 
 import { useState } from "react";
 import { useI18n } from "@infrastructure/user-i18n";
+import { ArmorList, CharmList, ArmorSkillList } from "@/container/mh-wilds";
 
-type EquipmentNamespace = "mhWilds_armor" | "mhWilds_charm" | "mhWilds_skill";
+type EquipmentNamespace =
+  | "mhWilds_armor"
+  | "mhWilds_charm"
+  | "mhWilds_armor_skill";
 
 export function MHWildsContent() {
   const { lang, setLang, getNamespaceData } = useI18n();
-  const [type, setType] = useState<EquipmentNamespace>("mhWilds_armor");
+  const [equipmentType, setEquipmentType] =
+    useState<EquipmentNamespace>("mhWilds_armor");
   const [term, setTerm] = useState("");
 
-  const translations = getNamespaceData(type);
+  const translations = getNamespaceData(equipmentType);
   const commonTranslations = getNamespaceData("mhWilds_common");
   const filtered = Object.entries(translations || {}).filter(([, value]) =>
     value.toLowerCase().includes(term.toLowerCase())
@@ -51,9 +56,9 @@ export function MHWildsContent() {
 
       <div className="mb-6 flex space-x-4">
         <button
-          onClick={() => setType("mhWilds_armor")}
+          onClick={() => setEquipmentType("mhWilds_armor")}
           className={`px-4 py-2 rounded ${
-            type === "mhWilds_armor"
+            equipmentType === "mhWilds_armor"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -61,9 +66,9 @@ export function MHWildsContent() {
           {commonTranslations.mhWilds_armor}
         </button>
         <button
-          onClick={() => setType("mhWilds_charm")}
+          onClick={() => setEquipmentType("mhWilds_charm")}
           className={`px-4 py-2 rounded ${
-            type === "mhWilds_charm"
+            equipmentType === "mhWilds_charm"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -71,14 +76,14 @@ export function MHWildsContent() {
           {commonTranslations.mhWilds_charm}
         </button>
         <button
-          onClick={() => setType("mhWilds_skill")}
+          onClick={() => setEquipmentType("mhWilds_armor_skill")}
           className={`px-4 py-2 rounded ${
-            type === "mhWilds_skill"
+            equipmentType === "mhWilds_armor_skill"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
         >
-          {commonTranslations.mhWilds_skill}
+          {commonTranslations.mhWilds_armor_skill}
         </button>
       </div>
 
@@ -90,7 +95,13 @@ export function MHWildsContent() {
         onChange={(e) => setTerm(e.target.value)}
       />
 
-      {filtered.length > 0 ? (
+      {equipmentType === "mhWilds_armor" ? (
+        <ArmorList searchTerm={term} />
+      ) : equipmentType === "mhWilds_charm" ? (
+        <CharmList searchTerm={term} />
+      ) : equipmentType === "mhWilds_armor_skill" ? (
+        <ArmorSkillList searchTerm={term} />
+      ) : filtered.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {filtered.map(([key, value]) => (
             <div key={key} className="border p-4 rounded shadow">
