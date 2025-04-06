@@ -1,24 +1,39 @@
-import { enArmor, enCharm, enSkill, enCommon } from "./en";
-import { jaArmor, jaCharm, jaSkill, jaCommon } from "./ja";
-import { koArmor, koCharm, koSkill, koCommon } from "./ko";
+import {
+  mhWildsArmorEn,
+  mhWildsCharmEn,
+  mhWildsSkillEn,
+  mhWildsCommonEn,
+} from "./en";
+import {
+  mhWildsArmorJa,
+  mhWildsCharmJa,
+  mhWildsSkillJa,
+  mhWildsCommonJa,
+} from "./ja";
+import {
+  mhWildsArmorKo,
+  mhWildsCharmKo,
+  mhWildsSkillKo,
+  mhWildsCommonKo,
+} from "./ko";
 
-export const en = {
-  enArmor,
-  enCharm,
-  enSkill,
-  enCommon,
+export const mhWildsEn = {
+  mhWilds_armor: mhWildsArmorEn,
+  mhWilds_charm: mhWildsCharmEn,
+  mhWilds_skill: mhWildsSkillEn,
+  mhWilds_common: mhWildsCommonEn,
 };
 
-export const ja = {
-  jaArmor,
-  jaCharm,
-  jaSkill,
-  jaCommon,
+export const mhWildsJa = {
+  mhWilds_armor: mhWildsArmorJa,
+  mhWilds_charm: mhWildsCharmJa,
+  mhWilds_skill: mhWildsSkillJa,
+  mhWilds_common: mhWildsCommonJa,
 };
 
-export const ko = {
-  koArmor,
-  koCharm,
-  koSkill,
-  koCommon,
+export const mhWildsKo = {
+  mhWilds_armor: mhWildsArmorKo,
+  mhWilds_charm: mhWildsCharmKo,
+  mhWilds_skill: mhWildsSkillKo,
+  mhWilds_common: mhWildsCommonKo,
 };

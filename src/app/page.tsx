@@ -12,27 +12,27 @@ const Home = () => {
       <LanguageSelector lang={lang} onChange={setLang} />
 
       <PageBlock
-        title={t("common", "implemented")}
+        title={t("homePage_common", "implemented")}
         items={[
-          { title: t("common", "page1"), href: "/" },
-          { title: t("common", "page2"), href: "/" },
-          { title: t("common", "page3"), href: "/" },
+          { title: t("homePage_items", "page1"), href: "/" },
+          { title: t("homePage_items", "page2"), href: "/" },
+          { title: t("homePage_items", "page3"), href: "/" },
         ]}
       />
       <PageBlock
-        title={t("common", "inProgress")}
+        title={t("homePage_common", "inProgress")}
         items={[
-          { title: t("common", "mhWilds"), href: "/mh-wilds" },
-          { title: t("common", "page2"), href: "/" },
-          { title: t("common", "page3"), href: "/" },
+          { title: t("homePage_items", "mhWilds"), href: "/mh-wilds" },
+          { title: t("homePage_items", "page2"), href: "/" },
+          { title: t("homePage_items", "page3"), href: "/" },
         ]}
       />
       <PageBlock
-        title={t("common", "planned")}
+        title={t("homePage_common", "planned")}
         items={[
-          { title: t("common", "page1"), href: "/" },
-          { title: t("common", "page2"), href: "/" },
-          { title: t("common", "page3"), href: "/" },
+          { title: t("homePage_items", "page1"), href: "/" },
+          { title: t("homePage_items", "page2"), href: "/" },
+          { title: t("homePage_items", "page3"), href: "/" },
         ]}
       />
     </main>

@@ -1,30 +1,46 @@
 "use client";
 
 import React, { createContext, useContext, useState, ReactNode } from "react";
-import { ko, en, ja } from "@infrastructure/i18n/mh-wilds";
-
+import { mhWildsKo, mhWildsEn, mhWildsJa } from "@infrastructure/i18n/mh-wilds";
+import {
+  homePageKo,
+  homePageEn,
+  homePageJa,
+} from "@infrastructure/i18n/home-page";
 type Lang = "en" | "ja" | "ko";
-type Namespace = "armor" | "charm" | "skill" | "common";
+type Namespace =
+  | "mhWilds_armor"
+  | "mhWilds_charm"
+  | "mhWilds_skill"
+  | "mhWilds_common"
+  | "homePage_common"
+  | "homePage_items";
 type TranslationSet = Record<Namespace, Record<string, string>>;
 
 const resources: Record<Lang, TranslationSet> = {
   en: {
-    armor: en.enArmor || {},
-    charm: en.enCharm || {},
-    skill: en.enSkill || {},
-    common: en.enCommon || {},
+    mhWilds_armor: mhWildsEn.mhWilds_armor || {},
+    mhWilds_charm: mhWildsEn.mhWilds_charm || {},
+    mhWilds_skill: mhWildsEn.mhWilds_skill || {},
+    mhWilds_common: mhWildsEn.mhWilds_common || {},
+    homePage_common: homePageEn.homePage_common || {},
+    homePage_items: homePageEn.homePage_items || {},
   },
   ja: {
-    armor: ja.jaArmor || {},
-    charm: ja.jaCharm || {},
-    skill: ja.jaSkill || {},
-    common: ja.jaCommon || {},
+    mhWilds_armor: mhWildsJa.mhWilds_armor || {},
+    mhWilds_charm: mhWildsJa.mhWilds_charm || {},
+    mhWilds_skill: mhWildsJa.mhWilds_skill || {},
+    mhWilds_common: mhWildsJa.mhWilds_common || {},
+    homePage_common: homePageJa.homePage_common || {},
+    homePage_items: homePageJa.homePage_items || {},
   },
   ko: {
-    armor: ko.koArmor || {},
-    charm: ko.koCharm || {},
-    skill: ko.koSkill || {},
-    common: ko.koCommon || {},
+    mhWilds_armor: mhWildsKo.mhWilds_armor || {},
+    mhWilds_charm: mhWildsKo.mhWilds_charm || {},
+    mhWilds_skill: mhWildsKo.mhWilds_skill || {},
+    mhWilds_common: mhWildsKo.mhWilds_common || {},
+    homePage_common: homePageKo.homePage_common || {},
+    homePage_items: homePageKo.homePage_items || {},
   },
 };
 
