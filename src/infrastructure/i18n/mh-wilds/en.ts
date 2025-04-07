@@ -884,32 +884,45 @@ export const mhWildsSeriesSkillEn = {
 };
 
 export const mhWildsGuropSkillEn = {
-  mhwilds_skill_fortifying_Pelt: "Fortifying Pelt",
-  mhwilds_skill_fortify: "Fortify",
-  mhwilds_skill_scaling_prowess: "Scaling Prowess",
-  mhwilds_skill_master_mounter: "Master Mounter",
-  mhwilds_skill_flexible_leathercraft: "Flexible Leathercraft",
-  mhwilds_skill_hunter_gatherer: "Hunter Gatherer",
-  mhwilds_skill_neopteron_alert: "Neopteron Alert",
-  mhwilds_skill_honey_hunter: "Honey Hunter",
-  mhwilds_skill_neopteron_camouflage: "Neopteron Camouflage",
-  mhwilds_skill_fleetfoot: "Fleetfoot",
-  mhwilds_skill_scale_layering: "Scale Layering",
-  mhwilds_skill_adrenaline: "Adrenaline",
-  mhwilds_skill_buttery_leathercraft: "Buttery Leathercraft",
-  mhwilds_skill_affinity_sliding: "Affinity Sliding",
-  mhwilds_skill_alluring_pelt: "Alluring Pelt",
-  mhwilds_skill_diversion: "Diversion",
-  mhwilds_skill_lord_s_favor: "Lord's Favor",
-  mhwilds_skill_inspiration: "Inspiration",
-  mhwilds_skill_lord_s_fury: "Lord's Fury",
-  mhwilds_skill_resuscitate: "Resuscitate",
-  mhwilds_skill_guardian_s_pulse: "Guardian's Pulse",
-  mhwilds_skill_wylk_burst: "Wylk Burst",
-  mhwilds_skill_guardian_s_protection: "Guardian's Protection",
-  mhwilds_skill_ward_of_wyveria: "Ward of Wyveria",
-  mhwilds_skill_imparted_wisdom: "Imparted Wisdom",
-  mhwilds_skill_foragers_luck: "Forager's Luck",
-  mhwilds_skill_glory_s_favor: "Glory's Favor",
-  mhwilds_skill_luck_: "Luck",
+  mhwilds_gurop_name_fortifying_Pelt: "Fortifying Pelt",
+  mhwilds_gurop_skill_fortify: "Fortify",
+
+  mhwilds_gurop_name_scaling_prowess: "Scaling Prowess",
+  mhwilds_gurop_skill_master_mounter: "Master Mounter",
+
+  mhwilds_gurop_name_flexible_leathercraft: "Flexible Leathercraft",
+  mhwilds_gurop_skill_hunter_gatherer: "Hunter Gatherer",
+
+  mhwilds_gurop_name_neopteron_alert: "Neopteron Alert",
+  mhwilds_gurop_skill_honey_hunter: "Honey Hunter",
+
+  mhwilds_gurop_name_neopteron_camouflage: "Neopteron Camouflage",
+  mhwilds_gurop_skill_fleetfoot: "Fleetfoot",
+
+  mhwilds_gurop_skill_scale_layering: "Scale Layering",
+  mhwilds_gurop_skill_adrenaline: "Adrenaline",
+
+  mhwilds_gurop_name_buttery_leathercraft: "Buttery Leathercraft",
+  mhwilds_gurop_skill_affinity_sliding: "Affinity Sliding",
+
+  mhwilds_gurop_name_alluring_pelt: "Alluring Pelt",
+  mhwilds_gurop_skill_diversion: "Diversion",
+
+  mhwilds_gurop_name_lord_s_favor: "Lord's Favor",
+  mhwilds_gurop_skill_inspiration: "Inspiration",
+
+  mhwilds_gurop_name_lord_s_fury: "Lord's Fury",
+  mhwilds_gurop_skill_resuscitate: "Resuscitate",
+
+  mhwilds_gurop_name_guardian_s_pulse: "Guardian's Pulse",
+  mhwilds_gurop_skill_wylk_burst: "Wylk Burst",
+
+  mhwilds_gurop_name_guardian_s_protection: "Guardian's Protection",
+  mhwilds_gurop_skill_ward_of_wyveria: "Ward of Wyveria",
+
+  mhwilds_gurop_name_imparted_wisdom: "Imparted Wisdom",
+  mhwilds_gurop_skill_foragers_luck: "Forager's Luck",
+
+  mhwilds_gurop_name_glory_s_favor: "Glory's Favor",
+  mhwilds_gurop_skill_luck_: "Luck",
 };

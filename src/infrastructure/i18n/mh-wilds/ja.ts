@@ -883,32 +883,45 @@ export const mhWildsSeriesSkillJa = {
 };
 
 export const mhWildsGuropSkillJa = {
-  mhwilds_skill_fortifying_Pelt: "毛皮の昂揚",
-  mhwilds_skill_fortify: "不屈",
-  mhwilds_skill_scaling_prowess: "鱗張りの技法",
-  mhwilds_skill_master_mounter: "乗り名人",
-  mhwilds_skill_flexible_leathercraft: "革細工の柔性",
-  mhwilds_skill_hunter_gatherer: "採集の達人",
-  mhwilds_skill_neopteron_alert: "甲虫の知らせ",
-  mhwilds_skill_honey_hunter: "ハニーハンター",
-  mhwilds_skill_neopteron_camouflage: "甲虫の擬態",
-  mhwilds_skill_fleetfoot: "忍び歩き",
-  mhwilds_skill_scale_layering: "鱗重ねの工夫",
-  mhwilds_skill_adrenaline: "奮起",
-  mhwilds_skill_buttery_leathercraft: "革細工の滑性",
-  mhwilds_skill_affinity_sliding: "滑走強化",
-  mhwilds_skill_alluring_pelt: "毛皮の誘惑",
-  mhwilds_skill_diversion: "陽動",
-  mhwilds_skill_lord_s_favor: "ヌシの誇り",
-  mhwilds_skill_inspiration: "激励",
-  mhwilds_skill_lord_s_fury: "ヌシの憤激",
-  mhwilds_skill_resuscitate: "死中に活",
-  mhwilds_skill_guardian_s_pulse: "護竜の脈動",
-  mhwilds_skill_wylk_burst: "竜乳活性",
-  mhwilds_skill_guardian_s_protection: "護竜の守り",
-  mhwilds_skill_ward_of_wyveria: "竜都の護り",
-  mhwilds_skill_imparted_wisdom: "先達の導き",
-  mhwilds_skill_foragers_luck: "探索者の幸運",
-  mhwilds_skill_glory_s_favor: "栄光の誉れ",
-  mhwilds_skill_luck_: "幸運",
+  mhwilds_gurop_name_fortifying_Pelt: "毛皮の昂揚",
+  mhwilds_gurop_skill_fortify: "不屈",
+
+  mhwilds_gurop_name_scaling_prowess: "鱗張りの技法",
+  mhwilds_gurop_skill_master_mounter: "乗り名人",
+
+  mhwilds_gurop_name_flexible_leathercraft: "革細工の柔性",
+  mhwilds_gurop_skill_hunter_gatherer: "採集の達人",
+
+  mhwilds_gurop_name_neopteron_alert: "甲虫の知らせ",
+  mhwilds_gurop_skill_honey_hunter: "ハニーハンター",
+
+  mhwilds_gurop_name_neopteron_camouflage: "甲虫の擬態",
+  mhwilds_gurop_skill_fleetfoot: "忍び歩き",
+
+  mhwilds_gurop_name_scale_layering: "鱗重ねの工夫",
+  mhwilds_gurop_skill_adrenaline: "奮起",
+
+  mhwilds_gurop_name_buttery_leathercraft: "革細工の滑性",
+  mhwilds_gurop_skill_affinity_sliding: "滑走強化",
+
+  mhwilds_gurop_name_alluring_pelt: "毛皮の誘惑",
+  mhwilds_gurop_skill_diversion: "陽動",
+
+  mhwilds_gurop_name_lord_s_favor: "ヌシの誇り",
+  mhwilds_gurop_skill_inspiration: "激励",
+
+  mhwilds_gurop_name_lord_s_fury: "ヌシの憤激",
+  mhwilds_gurop_skill_resuscitate: "死中に活",
+
+  mhwilds_gurop_name_guardian_s_pulse: "護竜の脈動",
+  mhwilds_gurop_skill_wylk_burst: "竜乳活性",
+
+  mhwilds_gurop_name_guardian_s_protection: "護竜の守り",
+  mhwilds_gurop_skill_ward_of_wyveria: "竜都の護り",
+
+  mhwilds_gurop_name_imparted_wisdom: "先達の導き",
+  mhwilds_gurop_skill_foragers_luck: "探索者の幸運",
+
+  mhwilds_gurop_name_glory_s_favor: "栄光の誉れ",
+  mhwilds_gurop_skill_luck_: "幸運",
 };
