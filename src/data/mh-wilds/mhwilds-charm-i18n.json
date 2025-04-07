@@ -1,0 +1,1315 @@
+[
+  {
+    "name": "charm.Marathon Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Marathon Runner": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Marathon Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Marathon Runner": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm IV",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sheathe Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Quick Sheathe": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sheathe Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Quick Sheathe": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Challenger Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Challenger Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Unscathed Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Peak Performance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Unscathed Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Peak Performance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fury Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Exploiter Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Weakness Exploit": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Exploiter Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Weakness Exploit": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Power Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Latent Power": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Power Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Latent Power": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mighty Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Maximum Might": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Surge Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Stamina Surge": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Surge Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Stamina Surge": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Surge Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Stamina Surge": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm IV",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 4
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blessing Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Divine Blessing": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blessing Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Divine Blessing": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blessing Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Divine Blessing": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Recovery Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Up": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Recovery Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Up": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Speed Heal Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Speed": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Speed Heal Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Speed": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Speed Heal Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Recovery Speed": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Glutton's Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Speed Eating": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Glutton's Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Speed Eating": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Earplugs Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Windproof Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Windproof Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Windproof Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Tremor Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Tremor Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Tremor Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Tremor Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Leaping Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Extender": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Leaping Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Extender": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fire Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Fire Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fire Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Fire Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fire Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Fire Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Water Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Water Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Water Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Water Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Thunder Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Thunder Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Thunder Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Thunder Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Thunder Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Thunder Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Ice Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Ice Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Ice Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Ice Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Dragon Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Dragon Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Dragon Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Dragon Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Dragon Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Dragon Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blight Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Blight Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Poison Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Poison Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Poison Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Poison Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Poison Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Poison Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Paralysis Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Paralysis Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Paralysis Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Paralysis Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sleep Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Sleep Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sleep Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Sleep Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sleep Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Sleep Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Stun Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Stun Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Stun Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Stun Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Stun Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Stun Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blast Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Blast Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blast Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Blast Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Blast Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Blast Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Botany Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Botany Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Botany Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Geology Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Geology Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Geology Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Breaker Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Breaker Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bombardier Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bombardier Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mushroom Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mushroom Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Mushroom Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Extension Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Item Prolonger": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Extension Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Item Prolonger": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Friendship Charm IV",
+    "part": "charm",
+    "skills": {
+      "skill.Wide-Range": 4
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Light Eater's Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Free Meal": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Light Eater's Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Free Meal": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Grit Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Grit Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Grit Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Impact Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Flinch Free": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Impact Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Flinch Free": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hungerless Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Hunger Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hungerless Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Hunger Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hungerless Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Hunger Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counter Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counter Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Foray Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Foray Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Phoenix Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Phoenix Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Chain Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counterattack Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Adrenaline Rush": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Counterattack Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Adrenaline Rush": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Descent Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Descent Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bleed Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Bleeding Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Bleed Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Bleeding Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Guard Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Iron Skin": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Guard Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Iron Skin": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Guard Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Iron Skin": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Survival Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Survival Expert": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Survival Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Survival Expert": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Maintenance Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Tool Specialist": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Maintenance Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Tool Specialist": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Maintenance Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Tool Specialist": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Intimidator Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Intimidator Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Escape Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Bind Resistance": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Escape Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Bind Resistance": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Escape Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Bind Resistance": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Chainblade Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Chainblade Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Convert Charm I",
+    "part": "charm",
+    "skills": {
+      "skill.Convert Element": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sanity Charm I",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sanity Charm II",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Sanity Charm III",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Hope Charm",
+    "part": "charm",
+    "skills": {
+      "skill.Self-Improvement": 1,
+      "skill.Recovery Up": 1
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm V",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Power Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Latent Power": 3
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Defense Charm V",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 5
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Evasion Charm IV",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 4
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  },
+  {
+    "name": "charm.Convert Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Convert Element": 2
+    },
+    "slots": [0, 0, 0],
+    "setSkill": [],
+    "seriesSkill": []
+  }
+]

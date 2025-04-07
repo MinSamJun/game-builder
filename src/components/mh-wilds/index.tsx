@@ -15,16 +15,12 @@ export function MHWildsContent() {
     useState<EquipmentNamespace>("mhWilds_armor");
   const [term, setTerm] = useState("");
 
-  const translations = getNamespaceData(equipmentType);
-  const commonTranslations = getNamespaceData("mhWilds_common");
-  const filtered = Object.entries(translations || {}).filter(([, value]) =>
-    value.toLowerCase().includes(term.toLowerCase())
-  );
+  const mhWildsCommonNamespace = getNamespaceData("mhWilds_common");
 
   return (
     <div className="container mx-auto p-4">
       <div className="text-2xl font-bold mb-6">
-        Monster Hunter Wilds - Build Planner
+        {mhWildsCommonNamespace?.mhWilds_planner}
       </div>
 
       <div className="mb-6 flex space-x-4">
@@ -63,7 +59,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {commonTranslations.mhWilds_armor}
+          {mhWildsCommonNamespace?.mhWilds_armor}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_charm")}
@@ -73,7 +69,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {commonTranslations.mhWilds_charm}
+          {mhWildsCommonNamespace?.mhWilds_charm}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_armor_skill")}
@@ -83,13 +79,13 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {commonTranslations.mhWilds_armor_skill}
+          {mhWildsCommonNamespace?.mhWilds_armor_skill}
         </button>
       </div>
 
       <input
         type="text"
-        placeholder={commonTranslations.mhwilds_common_searchPlaceholder}
+        placeholder={mhWildsCommonNamespace?.mhwilds_common_searchPlaceholder}
         className="mb-6 px-4 py-2 border rounded w-full"
         value={term}
         onChange={(e) => setTerm(e.target.value)}
@@ -101,17 +97,9 @@ export function MHWildsContent() {
         <CharmList searchTerm={term} />
       ) : equipmentType === "mhWilds_armor_skill" ? (
         <ArmorSkillList searchTerm={term} />
-      ) : filtered.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {filtered.map(([key, value]) => (
-            <div key={key} className="border p-4 rounded shadow">
-              <div className="font-semibold">{value}</div>
-            </div>
-          ))}
-        </div>
       ) : (
         <div className="text-center py-8 text-gray-500">
-          {commonTranslations.mhwilds_common_noResults}
+          {mhWildsCommonNamespace?.mhwilds_common_noResults}
         </div>
       )}
     </div>
