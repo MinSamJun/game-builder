@@ -51,7 +51,7 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
       </div>
 
       {filteredArmorList.map(
-        ({ name, skills, slots, setSkill, seriesSkill, def }) => (
+        ({ name, skills, slots, seriesSkill, groupSkill, def }) => (
           <div key={name} className="border p-4 rounded shadow">
             <div className="font-semibold">{mhWildsArmorNamespace[name]}</div>
 
@@ -66,8 +66,8 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
                 <div className="text-gray-400 italic">No skills</div>
               )}
               {slots}
-              {setSkill}
               {seriesSkill}
+              {groupSkill}
             </div>
 
             <div className="text-sm mt-2 bg-gray-700 text-white rounded p-2">

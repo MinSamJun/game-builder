@@ -1311,5 +1311,53 @@
     "slots": [0, 0, 0],
     "setSkill": [],
     "seriesSkill": []
+  },
+  {
+    "name": "charm.Fitness Charm V",
+    "part": "charm",
+    "skills": {},
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {}
+  },
+  {
+    "name": "charm.Power Charm III",
+    "part": "charm",
+    "skills": {
+      "skill.Latent Power": 3
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {}
+  },
+  {
+    "name": "charm.Defense Charm V",
+    "part": "charm",
+    "skills": {
+      "skill.Defense Boost": 5
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {}
+  },
+  {
+    "name": "charm.Evasion Charm IV",
+    "part": "charm",
+    "skills": {
+      "skill.Evade Window": 4
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {}
+  },
+  {
+    "name": "charm.Convert Charm II",
+    "part": "charm",
+    "skills": {
+      "skill.Convert Element": 2
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {}
   }
 ]

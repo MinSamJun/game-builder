@@ -8,6 +8,9 @@ export const mhWildsCommonJa = {
   mhWilds_armor: "防具",
   mhWilds_charm: "護石",
   mhWilds_armor_skill: "防具のスキル",
+  mhwilds_low_rank: "下位",
+  mhwilds_high_rank: "上位",
+  mhwilds_master_rank: "マスター",
 };
 
 export const mhWildsArmorJa = {
@@ -814,38 +817,69 @@ export const mhWildsSlotJa = {
 };
 
 export const mhWildsSeriesSkillJa = {
+  mhwilds_series_name_doshaguma_s_might: "闢獣の力",
   mhwilds_series_skill_powerhouse_i: "力自慢Ⅰ",
   mhwilds_series_skill_powerhouse_ii: "力自慢Ⅱ",
+
+  mhwilds_series_name_rathalos_s_flare: "火竜の力",
   mhwilds_series_skill_scorcher_i: "灼熱化Ⅰ",
   mhwilds_series_skill_scorcher_ii: "灼熱化Ⅱ",
+
+  mhwilds_series_name_xu_wu_s_vigor: "暗器蛸の力",
   mhwilds_series_skill_protein_fiend_i: "蛮勇の食卓Ⅰ",
   mhwilds_series_skill_protein_fiend_ii: "蛮勇の食卓Ⅱ",
+
+  mhwilds_series_name_gravios_s_protection: "鎧竜の守護",
   mhwilds_series_skill_flawless_armor_i: "無傷の重装Ⅰ",
   mhwilds_series_skill_flawless_armor_ii: "無傷の重装Ⅱ",
+
+  mhwilds_series_name_blangonga_s_spirit: "雪獅子の闘志",
   mhwilds_series_skill_war_cry_i: "ウォークライⅠ",
   mhwilds_series_skill_war_cry_ii: "ウォークライⅡ",
+
+  mhwilds_series_name_ebony_odogaron_s_power: "兇爪竜の力",
   mhwilds_series_skill_burst_boost_i: "連撃強化Ⅰ",
   mhwilds_series_skill_burst_boost_ii: "連撃強化Ⅱ",
+
+  mhwilds_series_name_fulgur_anjanath_s_will: "雷顎竜の闘志",
   mhwilds_series_skill_second_wind_i: "無尽蔵Ⅰ",
   mhwilds_series_skill_second_wind_ii: "無尽蔵Ⅱ",
+
+  mhwilds_series_name_uth_duna_s_cover: "波衣竜の守護",
   mhwilds_series_skill_protective_veil_i: "守護のヴェールⅠ",
   mhwilds_series_skill_protective_veil_ii: "守護のヴェールⅡ",
+
+  mhwilds_series_name_rey_dau_s_voltage: "煌雷竜の力",
   mhwilds_series_skill_thunderous_roar_i: "雷々響鳴Ⅰ",
   mhwilds_series_skill_thunderous_roar_ii: "雷々響鳴Ⅱ",
+
+  mhwilds_series_name_nu_udra_s_mutiny: "獄焔蛸の反逆",
   mhwilds_series_skill_bad_blood_i: "恨撃Ⅰ",
   mhwilds_series_skill_bad_blood_ii: "恨撃Ⅱ",
+
+  mhwilds_series_name_jin_dahaad_s_revolt: "凍峰竜の反逆",
   mhwilds_series_skill_binding_counter_i: "束縛反攻Ⅰ",
   mhwilds_series_skill_binding_counter_ii: "束縛反攻Ⅱ",
+
+  mhwilds_series_name_gore_magala_s_tyranny: "黒蝕竜の力",
   mhwilds_series_skill_black_eclipse_i: "黒蝕一体Ⅰ",
   mhwilds_series_skill_black_eclipse_ii: "黒蝕一体Ⅱ",
+
+  mhwilds_series_name_arkveld_s_hunger: "鎖刃竜の飢餓",
   mhwilds_series_skill_hasten_recovery_i: "加速再生Ⅰ",
   mhwilds_series_skill_hasten_recovery_ii: "加速再生Ⅱ",
+
+  mhwilds_series_name_guardian_arkveld_s_vitality: "護鎖刃竜の命脈",
   mhwilds_series_skill_decimator_i: "破壊衝動Ⅰ",
   mhwilds_series_skill_decimator_ii: "破壊衝動Ⅱ",
-  mhwilds_series_skill_mizutsune_s_prowess_i: "泡狐の舞Ⅰ",
-  mhwilds_series_skill_mizutsune_s_prowess_ii: "泡狐の舞Ⅱ",
-  mhwilds_series_skill_zoh_shia_s_pulse_i: "超回復Ⅰ",
-  mhwilds_series_skill_zoh_shia_s_pulse_ii: "超回復Ⅱ",
+
+  mhwilds_series_name_mizutsune_s_prowess: "泡狐竜の力",
+  mhwilds_series_skill_bubbly_dance_i: "泡狐の舞Ⅰ",
+  mhwilds_series_skill_bubbly_dance_ii: "泡狐の舞Ⅱ",
+
+  mhwilds_series_name_zoh_shia_s_pulse: "白熾龍の脈動",
+  mhwilds_series_skill_super_recovery_i: "超回復Ⅰ",
+  mhwilds_series_skill_super_recovery_ii: "超回復Ⅱ",
 };
 
 export const mhWildsGuropSkillJa = {

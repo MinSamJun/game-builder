@@ -1,648 +1,821 @@
 [
   {
     "name": "mhwilds_armor_hope_mask",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": [],
+    "seriesSkill": {},
+    "groupSkill": {},
     "def": [22, 1, 0, 1, 0, 0]
   },
   {
     "name": "mhwilds_armor_hope_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
-      "skill.Divine Blessing": 1
+      "mhwilds_skill_divine_blessing": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": [],
+    "seriesSkill": {},
+    "groupSkill": {},
     "def": [22, 1, 0, 1, 0, 0]
   },
   {
     "name": "mhwilds_armor_hope_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
-      "skill.Divine Blessing": 1
+      "mhwilds_skill_divine_blessing": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": [],
+    "seriesSkill": {},
+    "groupSkill": {},
     "def": [22, 1, 0, 1, 0, 0]
   },
   {
     "name": "mhwilds_armor_hope_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": [],
+    "seriesSkill": {},
+    "groupSkill": {},
     "def": [22, 1, 0, 1, 0, 0]
   },
   {
     "name": "mhwilds_armor_hope_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
-      "skill.Divine Blessing": 1
+      "mhwilds_skill_divine_blessing": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": [],
+    "seriesSkill": {},
+    "groupSkill": {},
     "def": [22, 1, 0, 1, 0, 0]
   },
+
   {
     "name": "mhwilds_armor_doshaguma_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
-    "skills": {},
+    "skills": { "mhwilds_skill_free_meal": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": { "mhwilds_series_name_doshaguma_s_might": 1 },
+    "groupSkill": { "mhwilds_gurop_skill_fortifying_Pelt": 1 },
+    "def": [36, -3, 2, -1, -1, 4]
   },
   {
     "name": "mhwilds_armor_doshaguma_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": { "mhwilds_series_name_doshaguma_s_might": 1 },
+    "groupSkill": { "mhwilds_gurop_skill_fortifying_Pelt": 1 },
+    "def": [36, -3, 2, -1, -1, 4]
   },
   {
     "name": "mhwilds_armor_doshaguma_braces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": { "mhwilds_series_name_doshaguma_s_might": 1 },
+    "groupSkill": { "mhwilds_gurop_skill_fortifying_Pelt": 1 },
+    "def": [36, -3, 2, -1, -1, 4]
   },
   {
     "name": "mhwilds_armor_doshaguma_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": { "mhwilds_series_name_doshaguma_s_might": 1 },
+    "groupSkill": { "mhwilds_gurop_skill_fortifying_Pelt": 1 },
+    "def": [36, -3, 2, -1, -1, 4]
   },
   {
+    "name": "mhwilds_armor_doshaguma_greaves",
+    "type": "mhwilds_low_rank",
+    "part": "legs",
+    "skills": { "mhwilds_skill_free_meal": 1 },
+    "slots": [0, 0, 0],
+    "seriesSkill": { "mhwilds_series_name_doshaguma_s_might": 1 },
+    "groupSkill": { "mhwilds_gurop_skill_fortifying_Pelt": 1 },
+    "def": [36, -3, 2, -1, -1, 4]
+  },
+
+  {
     "name": "mhwilds_armor_balahara_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
-      "skill.Hunger Resistance": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_hunger_resistance": 1,
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [32, -1, 2, -3, 1, 1]
   },
   {
     "name": "mhwilds_armor_balahara_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
-      "skill.Quick Sheathe": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_quick_sheathe": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [32, -1, 2, -3, 1, 1]
   },
   {
     "name": "mhwilds_armor_balahara_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
-      "skill.Evade Extender": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_evade_extenderr": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [32, -1, 2, -3, 1, 1]
+  },
+  {
+    "name": "mhwilds_armor_balahara_coil",
+    "type": "mhwilds_low_rank",
+    "part": "waist",
+    "skills": {
+      "mhwilds_skill_evade_extenderr": 1
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [32, -1, 2, -3, 1, 1]
   },
   {
     "name": "mhwilds_armor_balahara_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
-      "skill.Evade Extender": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_evade_extenderr": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [32, -1, 2, -3, 1, 1]
   },
+
   {
     "name": "mhwilds_armor_chatacabra_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
-      "skill.Speed Eating": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_speed_eating": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_flexible_leathercraft": 1 },
+    "def": [26, 1, 2, -3, -1, 1]
   },
   {
     "name": "mhwilds_armor_chatacabra_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
-      "skill.Speed Eating": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_speed_eating": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_flexible_leathercraft": 1 },
+    "def": [26, 1, 2, -3, -1, 1]
   },
   {
     "name": "mhwilds_armor_chatacabra_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
-      "skill.Item Prolonger": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_item_prolonger": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_flexible_leathercraft": 1 },
+    "def": [26, 1, 2, -3, -1, 1]
+  },
+  {
+    "name": "mhwilds_armor_chatacabra_coil",
+    "part": "waist",
+    "skills": {
+      "mhwilds_skill_speed_eating": 1
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_flexible_leathercraft": 1 },
+    "def": [26, 1, 2, -3, -1, 1]
   },
   {
     "name": "mhwilds_armor_chatacabra_greaves",
     "part": "legs",
     "skills": {
-      "skill.Item Prolonger": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_item_prolonger": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_flexible_leathercraft": 1 },
+    "def": [26, 1, 2, -3, -1, 1]
   },
+
   {
     "name": "mhwilds_armor_leather_headgear",
+    "type": "mhwilds_low_rank",
     "part": "head",
-    "skills": {},
+    "skills": { "mhwilds_skill_botanist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [22, 2, 0, 0, 0, 0]
   },
   {
     "name": "mhwilds_armor_leather_vest",
+    "type": "mhwilds_low_rank",
     "part": "chest",
-    "skills": {},
+    "skills": { "mhwilds_skill_botanist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, 1, 2, -3, -1, 1]
   },
   {
     "name": "mhwilds_armor_leather_gloves",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
-      "skill.Hunger Resistance": 1
+      "mhwilds_skill_hunger_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, 1, 2, -3, -1, 1]
   },
   {
     "name": "mhwilds_armor_leather_belt",
+    "type": "mhwilds_low_rank",
     "part": "waist",
-    "skills": {},
+    "skills": { "mhwilds_skill_botanist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, 1, 2, -3, -1, 1]
   },
   {
     "name": "mhwilds_armor_leather_pants",
+    "type": "mhwilds_low_rank",
     "part": "legs",
-    "skills": {},
+    "skills": { "mhwilds_skill_botanist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, 1, 2, -3, -1, 1]
+  },
+
+  {
+    "name": "mhwilds_armor_chainmail_headgear",
+    "type": "mhwilds_low_rank",
+    "part": "head",
+    "skills": { "mhwilds_skill_botanist": 1 },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [22, 2, 0, 0, 0, 0]
   },
   {
     "name": "mhwilds_armor_chainmail_vest",
+    "type": "mhwilds_low_rank",
     "part": "chest",
-    "skills": {},
+    "skills": { "mhwilds_skill_botanist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [22, 2, 0, 0, 0, 0]
   },
   {
     "name": "mhwilds_armor_chainmail_gloves",
+    "type": "mhwilds_low_rank",
     "part": "arms",
-    "skills": {},
+    "skills": { "mhwilds_skill_hunger_resistance": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [22, 2, 0, 0, 0, 0]
   },
   {
     "name": "mhwilds_armor_chainmail_belt",
+    "type": "mhwilds_low_rank",
     "part": "waist",
-    "skills": {
-      "skill.Recovery Speed": 1
-    },
+    "skills": { "mhwilds_skill_botanist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [22, 2, 0, 0, 0, 0]
   },
   {
     "name": "mhwilds_armor_chainmail_pants",
+    "type": "mhwilds_low_rank",
     "part": "legs",
-    "skills": {
-      "skill.Recovery Speed": 1
-    },
+    "skills": { "mhwilds_skill_botanist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [22, 2, 0, 0, 0, 0]
   },
+
   {
     "name": "mhwilds_armor_bone_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
-      "skill.Marathon Runner": 1
+      "mhwilds_skill_marathon_runner": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [24, 2, 0, 2, 0, 2]
+  },
+  {
+    "name": "mhwilds_armor_bone_mail",
+    "type": "mhwilds_low_rank",
+    "part": "head",
+    "skills": {
+      "mhwilds_skill_marathon_runner": 1
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [24, 2, 0, 2, 0, 2]
   },
   {
     "name": "mhwilds_armor_bone_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [24, 2, 0, 2, 0, 2]
   },
   {
     "name": "mhwilds_armor_bone_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
-      "skill.Marathon Runner": 1
+      "mhwilds_skill_marathon_runner": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [24, 2, 0, 2, 0, 2]
   },
   {
     "name": "mhwilds_armor_bone_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [24, 2, 0, 2, 0, 2]
   },
+
   {
     "name": "mhwilds_armor_bulaqchi_specs",
+    "type": "mhwilds_low_rank",
     "part": "head",
-    "skills": {},
+    "skills": { "mhwilds_skill_entomologist": 1 },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_neopteron_alert": 1 },
+    "def": [24, -4, 1, 1, -2, 4]
   },
+
   {
     "name": "mhwilds_armor_talioth_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
-      "skill.Leap of Faith": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_leap_of_faith": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_flexible_leathercraft": 1 },
+    "def": [24, 4, -2, -2, -2, 2]
+  },
+
+  {
+    "name": "mhwilds_armor_quematrice_helm",
+    "type": "mhwilds_low_rank",
+    "part": "head",
+    "skills": {
+      "mhwilds_skill_flinch_free": 1
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [26, 2, -3, 0, -1, 0]
   },
   {
     "name": "mhwilds_armor_quematrice_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
-      "skill.Fire Resistance": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_fire_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [26, 2, -3, 0, -1, 0]
   },
   {
     "name": "mhwilds_armor_quematrice_braces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
-      "skill.Flinch Free": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_flinch_free": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [26, 2, -3, 0, -1, 0]
   },
   {
     "name": "mhwilds_armor_quematrice_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
-      "skill.Fire Resistance": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_fire_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [26, 2, -3, 0, -1, 0]
   },
   {
     "name": "mhwilds_armor_quematrice_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
-      "skill.Flinch Free": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_flinch_free": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": { "mhwilds_skill_scaling_prowess": 1 },
+    "def": [26, 2, -3, 0, -1, 0]
+  },
+
+  {
+    "name": "mhwilds_armor_alloy_helm",
+    "type": "mhwilds_low_rank",
+    "part": "head",
+    "skills": {
+      "mhwilds_skill_quick_sheathe": 1
+    },
+    "slots": [0, 0, 0],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, -2, 1, -2, -2, 1]
   },
   {
     "name": "mhwilds_armor_alloy_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
-      "skill.Tremor Resistance": 1
+      "mhwilds_skill_tremor_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, -2, 1, -2, -2, 1]
   },
   {
     "name": "mhwilds_armor_alloy_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
-      "skill.Tremor Resistance": 1
+      "mhwilds_skill_tremor_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, -2, 1, -2, -2, 1]
   },
   {
     "name": "mhwilds_armor_alloy_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
-      "skill.Tremor Resistance": 1
+      "mhwilds_skill_tremor_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, -2, 1, -2, -2, 1]
   },
   {
     "name": "mhwilds_armor_alloy_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
-      "skill.Quick Sheathe": 1
+      "mhwilds_skill_quick_sheathe": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [26, -2, 1, -2, -2, 1]
   },
+
   {
     "name": "mhwilds_armor_piragill_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
       "skill.Water Resistance": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
       "skill.Survival Expert": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
       "skill.Paralysis Resistance": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
       "skill.Paralysis Resistance": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
       "skill.Survival Expert": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
       "skill.Paralysis Resistance": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
       "skill.Paralysis Resistance": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
       "skill.Recovery Up": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
       "skill.Recovery Up": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
       "skill.Stench Resistance": 1,
       "skill.Fortifying Pelt": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
       "skill.Stench Resistance": 1,
       "skill.Fortifying Pelt": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
-      "skill.Divine Blessing": 1
+      "mhwilds_skill_divine_blessing": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
-      "skill.Divine Blessing": 1
+      "mhwilds_skill_divine_blessing": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_comaqchi_accessory",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
       "skill.Sleep Resistance": 1,
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
       "skill.Wide-Range": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
       "skill.Wide-Range": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
       "skill.Wide-Range": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
       "skill.Wide-Range": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
       "skill.Bind Resistance": 1,
@@ -650,634 +823,705 @@
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Recovery Speed": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Recovery Speed": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Ice Resistance": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Ice Resistance": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ajarakan_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ajarakan_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ajarakan_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ajarakan_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_seikret_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_duna_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_duna_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_duna_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rey_sand_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rey_sand_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rey_sand_braces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rey_sand_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_udra_mire_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_udra_mire_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_udra_mire_braces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_udra_mire_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_doshaguma_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_doshaguma_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_doshaguma_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_doshaguma_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathalos_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathalos_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathalos_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ebony_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ebony_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ebony_braces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ebony_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_xu_wu_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {
       "skill.Maximum Might": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_xu_wu_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {
       "skill.Stamina Surge": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_xu_wu_vambraces",
+    "type": "mhwilds_low_rank",
     "part": "arms",
     "skills": {
       "skill.Maximum Might": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_xu_wu_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {
       "skill.Stamina Surge": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_arkveld_helm",
+    "type": "mhwilds_low_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_arkveld_mail",
+    "type": "mhwilds_low_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_arkveld_coil",
+    "type": "mhwilds_low_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_arkveld_greaves",
+    "type": "mhwilds_low_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
+
   {
     "name": "mhwilds_armor_hope_maskα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
-      "skill.Divine Blessing": 2
+      "mhwilds_skill_divine_blessing": 2
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hope_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Poison Resistance": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hope_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
-      "skill.Divine Blessing": 1,
+      "mhwilds_skill_divine_blessing": 1,
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hope_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "mhwilds_skill_stun_resistance": 2
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_leather_headgearα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_leather_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_leather_beltα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
-      "skill.Hunger Resistance": 1
+      "mhwilds_skill_hunger_resistance": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_leather_pantsα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
-      "skill.Hunger Resistance": 1,
+      "mhwilds_skill_hunger_resistance": 1,
       "skill.Item Prolonger": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chainmail_headgearα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chainmail_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chainmail_glovesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chainmail_beltα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Recovery Speed": 1,
       "skill.Ice Resistance": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chainmail_pantsα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Recovery Speed": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_bone_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "mhwilds_skill_stun_resistance": 1,
       "skill.Speed Eating": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_bone_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
-      "skill.Marathon Runner": 1,
+      "mhwilds_skill_marathon_runner": 1,
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_bone_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
-      "skill.Marathon Runner": 1
+      "mhwilds_skill_marathon_runner": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_bone_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "mhwilds_skill_stun_resistance": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_alloy_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
-      "skill.Quick Sheathe": 1
+      "mhwilds_skill_quick_sheathe": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_alloy_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
-      "skill.Flinch Free": 2
+      "mhwilds_skill_flinch_free": 2
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_alloy_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
-      "skill.Tremor Resistance": 1
+      "mhwilds_skill_tremor_resistance": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_alloy_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
-      "skill.Quick Sheathe": 1,
-      "skill.Flinch Free": 1
+      "mhwilds_skill_quick_sheathe": 1,
+      "mhwilds_skill_flinch_free": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_bulaqchi_specsα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_bulaqchi_specsβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_talioth_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_piragill_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Aquatic/Oilsilt Mobility": 1,
       "skill.Water Resistance": 2
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_piragill_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Aquatic/Oilsilt Mobility": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Paralysis Resistance": 1,
@@ -1285,11 +1529,12 @@
       "skill.Neopteron Alert": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Survival Expert": 1,
@@ -1297,325 +1542,356 @@
       "skill.Neopteron Alert": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Survival Expert": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
       "skill.Paralysis Resistance": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Paralysis Resistance": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_vespoid_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Survival Expert": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kranodath_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
-      "skill.Flinch Free": 2,
+      "mhwilds_skill_flinch_free": 2,
       "skill.Scale Layering": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_comaqchi_accessoryα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_comaqchi_accessoryβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Sleep Resistance": 2,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kut_ku_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kut_ku_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kut_ku_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kut_ku_helmβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kut_ku_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kut_ku_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_kut_ku_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Speed Eating": 1,
       "skill.Wide-Range": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Speed Eating": 1,
       "skill.Weakness Exploit": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
       "skill.Item Prolonger": 1,
       "skill.Wide-Range": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Item Prolonger": 1,
       "skill.Weakness Exploit": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_helmβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Speed Eating": 1,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Speed Eating": 1,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Speed Eating": 1,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_chatacabra_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Weakness Exploit": 1,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
-      "skill.Flinch Free": 1,
+      "mhwilds_skill_flinch_free": 1,
       "skill.Latent Power": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_bracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
-      "skill.Flinch Free": 1,
-      "skill.Fire Resistance": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_flinch_free": 1,
+      "mhwilds_skill_fire_resistance": 1,
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
-      "skill.Fire Resistance": 1,
+      "mhwilds_skill_fire_resistance": 1,
       "skill.Latent Power": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
-      "skill.Flinch Free": 1,
-      "skill.Evade Extender": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_flinch_free": 1,
+      "mhwilds_skill_evade_extenderr": 1,
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Latent Power": 1,
       "skill.Scale Layering": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_bracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
-      "skill.Flinch Free": 1,
+      "mhwilds_skill_flinch_free": 1,
       "skill.Scale Layering": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
-      "skill.Fire Resistance": 1,
+      "mhwilds_skill_fire_resistance": 1,
       "skill.Scale Layering": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_quematrice_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
-      "skill.Flinch Free": 1,
+      "mhwilds_skill_flinch_free": 1,
       "skill.Scale Layering": 1
     },
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Recovery Up": 2,
@@ -1623,46 +1899,51 @@
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Paralysis Resistance": 2,
       "skill.Neopteron Alert": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_headgearβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Recovery Up": 1,
@@ -1670,263 +1951,292 @@
       "skill.Neopteron Camouflage": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
       "skill.Recovery Up": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_barina_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Paralysis Resistance": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_helmβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_conga_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Wide-Range": 2,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Poison Resistance": 2,
       "skill.Wide-Range": 1,
-      "skill.Flexible Leathercraft": 1
+      "mhwilds_skill_flexible_leathercraft": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_helmβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Wide-Range": 1,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Poison Resistance": 2,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rompopolo_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Wide-Range": 2,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Stamina Surge": 1,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Stamina Surge": 1,
       "skill.Buttery Leathercraft": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gypceros_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Bind Resistance": 1,
@@ -1934,973 +2244,1088 @@
       "skill.Neopteron Alert": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_helmβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Bind Resistance": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_nerscylla_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Sleep Resistance": 1,
       "skill.Neopteron Camouflage": 1
     },
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
-      "skill.Evade Extender": 1,
+      "mhwilds_skill_evade_extenderr": 1,
       "skill.Stamina Surge": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_helmβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Scale Layering": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Scale Layering": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_balahara_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
-      "skill.Evade Extender": 1,
+      "mhwilds_skill_evade_extenderr": 1,
       "skill.Scale Layering": 1
     },
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_headdressα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Evade Window": 1,
-      "skill.Evade Extender": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_evade_extenderr": 1,
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Ice Resistance": 2,
       "skill.Evade Window": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Evade Window": 2,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Ice Resistance": 1,
       "skill.Peak Performance": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_headdressβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Scale Layering": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Scale Layering": 1
     },
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Evade Window": 1,
       "skill.Scale Layering": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_hirabami_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Peak Performance": 1,
       "skill.Scale Layering": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
-      "skill.Divine Blessing": 1,
+      "mhwilds_skill_divine_blessing": 1,
       "skill.Recovery Speed": 1,
-      "skill.Scaling Prowess": 1
+      "mhwilds_skill_scaling_prowess": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_rathian_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_mailα",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_ingot_greavesα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_seikret_coilβ",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_gajau_bootsα",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_fulgur_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_fulgur_vambracesα",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_fulgur_coilα",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_fulgur_helmβ",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_fulgur_mailβ",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_fulgur_vambracesβ",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_fulgur_greavesβ",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "mhwilds_armor_doshaguma_helmα",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Doshaguma Braces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Doshaguma Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Doshaguma Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Doshaguma Mail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Doshaguma Braces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Doshaguma Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Braces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Doshaguma Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Mail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Ajarakan Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Ebony Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Ebony Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Ebony Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Ebony Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Ebony Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Ebony Braces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Ebony Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Mail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Xu Wu Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rathalos Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rathalos Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rathalos Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rathalos Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rathalos Mail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rathalos Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rathalos Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Rathalos Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Rathalos Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Rathalos Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Rathalos Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Rathalos Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Rathalos Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Rathalos Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gravios Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Mail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Blango Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Commission Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Commission Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Commission Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Commission Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Kunafa Headgear α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Wide-Range": 2,
@@ -2908,11 +3333,12 @@
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Kunafa Sash α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Speed Eating": 2,
@@ -2920,11 +3346,12 @@
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Kunafa Chaps α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Wide-Range": 2,
@@ -2932,207 +3359,230 @@
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Azuz Headdress α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Maximum Might": 2,
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Azuz Apron α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Suja Sash α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
-      "skill.Divine Blessing": 3,
+      "mhwilds_skill_divine_blessing": 3,
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Sild Hood α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Sild Coat α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Wide-Range": 4,
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Death Stench Brain α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Death Stench Grip α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Death Stench Bowels α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Death Stench Heel α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Butterfly Thorax α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Butterfly Brachia α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Butterfly Elytra α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.King Beetle Vertex α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.King Beetle Thorax α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.King Beetle Elytra α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.King Beetle Crura α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.High Metal Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.High Metal Braces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.High Metal Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.High Metal Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
-      "skill.Flinch Free": 3,
+      "mhwilds_skill_flinch_free": 3,
       "skill.Bleeding Resistance": 3,
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Battle Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
-      "skill.Hunger Resistance": 3,
+      "mhwilds_skill_hunger_resistance": 3,
       "skill.Sleep Resistance": 2,
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Battle Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
       "skill.Free Meal": 3,
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Battle Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Item Prolonger": 3,
@@ -3140,30 +3590,33 @@
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Battle Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Melahoa Jacket α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Tool Specialist": 3,
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Melahoa Branch α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
       "skill.Recovery Speed": 3,
@@ -3171,11 +3624,12 @@
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Melahoa Folia α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {
       "skill.Recovery Up": 3,
@@ -3183,731 +3637,766 @@
       "skill.Imparted Wisdom": 1
     },
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Artian Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Artian Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Artian Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Artian Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dober Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dober Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dober Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dober Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Damascus Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {
       "skill.Wide-Range": 1,
-      "skill.Divine Blessing": 2
+      "mhwilds_skill_divine_blessing": 2
     },
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Damascus Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {
       "skill.Wide-Range": 1,
       "skill.Recovery Up": 2
     },
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Damascus Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {
       "skill.Wide-Range": 1,
-      "skill.Divine Blessing": 1
+      "mhwilds_skill_divine_blessing": 1
     },
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Damascus Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {
       "skill.Wide-Range": 1,
       "skill.Item Prolonger": 2
     },
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dahaad Shardhelm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dahaad Shardmail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dahaad Shardcoil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dahaad Shardgreaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dahaad Shardmail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dahaad Shardbraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dahaad Shardcoil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildhelm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildmail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildcoil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildgreaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildhelm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildbraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [3, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildcoil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Duna Wildgreaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rey Sandmail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rey Sandbraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rey Sandgreaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rey Sandhelm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rey Sandmail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rey Sandcoil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Rey Sandgreaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Udra Mirehelm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Udra Mirebraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Udra Mirecoil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Udra Mirehelm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Udra Miremail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Udra Mirebraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Udra Miregreaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gore Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gore Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gore Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gore Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gore Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gore Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Gore Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [3, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Helm α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [1, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Arkvulcan Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Arkveld Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Arkveld Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Arkveld Greaves α",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Arkveld Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Arkveld Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 1, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Arkveld Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.G. Arkveld Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Guild Ace Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Guild Ace Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Guild Ace Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Dragonking Eyepatch α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mimiphyta α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Expedition Headgear α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mizutsune Mail α",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mizutsune Braces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [1, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mizutsune Coil α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [2, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mizutsune Helm β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mizutsune Mail β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [2, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mizutsune Coil β",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [3, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Mizutsune Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Numinous Crown α",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Numinous Vambraces α",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [2, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Numinous Overlay α",
+    "type": "mhwilds_high_rank",
     "part": "waist",
     "skills": {},
     "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Numinous Crown β",
+    "type": "mhwilds_high_rank",
     "part": "head",
     "skills": {},
     "slots": [3, 2, 1],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Numinous Shroud β",
+    "type": "mhwilds_high_rank",
     "part": "chest",
     "skills": {},
     "slots": [3, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Numinous Vambraces β",
+    "type": "mhwilds_high_rank",
     "part": "arms",
     "skills": {},
     "slots": [3, 1, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   },
   {
     "name": "armor.Numinous Greaves β",
+    "type": "mhwilds_high_rank",
     "part": "legs",
     "skills": {},
     "slots": [3, 2, 0],
-    "setSkill": [],
-    "seriesSkill": []
-  },
-  {
-    "name": "charm.Fitness Charm V",
-    "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
-  },
-  {
-    "name": "charm.Power Charm III",
-    "part": "charm",
-    "skills": {
-      "skill.Latent Power": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
-  },
-  {
-    "name": "charm.Defense Charm V",
-    "part": "charm",
-    "skills": {
-      "skill.Defense Boost": 5
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
-  },
-  {
-    "name": "charm.Evasion Charm IV",
-    "part": "charm",
-    "skills": {
-      "skill.Evade Window": 4
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
-  },
-  {
-    "name": "charm.Convert Charm II",
-    "part": "charm",
-    "skills": {
-      "skill.Convert Element": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "seriesSkill": {},
+    "groupSkill": {}
   }
 ]

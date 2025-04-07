@@ -8,6 +8,9 @@ export const mhWildsCommonEn = {
   mhWilds_armor: "Armor",
   mhWilds_charm: "Charm",
   mhWilds_armor_skill: "Armor Skill",
+  mhwilds_low_rank: "Low Rank",
+  mhwilds_high_rank: "High Rank",
+  mhwilds_master_rank: "Master Rank",
 };
 
 export const mhWildsArmorEn = {
@@ -814,38 +817,70 @@ export const mhWildsSlotEn = {
 };
 
 export const mhWildsSeriesSkillEn = {
+  mhwilds_series_name_doshaguma_s_might: "Doshaguma's Might",
   mhwilds_series_skill_powerhouse_i: "Powerhouse I",
   mhwilds_series_skill_powerhouse_ii: "Powerhouse II",
+
+  mhwilds_series_name_rathalos_s_flare: "Rathalos's Flare",
   mhwilds_series_skill_scorcher_i: "Scorcher I",
   mhwilds_series_skill_scorcher_ii: "Scorcher II",
+
+  mhwilds_series_name_xu_wu_s_vigor: "Xu Wu's Vigor",
   mhwilds_series_skill_protein_fiend_i: "Protein Fiend I",
   mhwilds_series_skill_protein_fiend_ii: "Protein Fiend II",
+
+  mhwilds_series_name_gravios_s_protection: "Gravios's Protection",
   mhwilds_series_skill_flawless_armor_i: "Flawless Armor I",
   mhwilds_series_skill_flawless_armor_ii: "Flawless Armor II",
+
+  mhwilds_series_name_blangonga_s_spirit: "Blangonga's Spirit",
   mhwilds_series_skill_war_cry_i: "War Cry I",
   mhwilds_series_skill_war_cry_ii: "War Cry II",
+
+  mhwilds_series_name_ebony_odogaron_s_power: "Ebony Odogaron's Power",
   mhwilds_series_skill_burst_boost_i: "Burst Boost I",
   mhwilds_series_skill_burst_boost_ii: "Burst Boost II",
+
+  mhwilds_series_name_fulgur_anjanath_s_will: "Fulgur Anjanath's Will",
   mhwilds_series_skill_second_wind_i: "Second Wind I",
   mhwilds_series_skill_second_wind_ii: "Second Wind II",
+
+  mhwilds_series_name_uth_duna_s_cover: "Uth Duna's Cover",
   mhwilds_series_skill_protective_veil_i: "Protective Veil I",
   mhwilds_series_skill_protective_veil_ii: "Protective Veil II",
+
+  mhwilds_series_name_rey_dau_s_voltage: "Rey Dau's Voltage",
   mhwilds_series_skill_thunderous_roar_i: "Thunderous Roar I",
   mhwilds_series_skill_thunderous_roar_ii: "Thunderous Roar II",
+
+  mhwilds_series_name_nu_udra_s_mutiny: "Nu Udra's Mutiny",
   mhwilds_series_skill_bad_blood_i: "Bad Blood I",
   mhwilds_series_skill_bad_blood_ii: "Bad Blood II",
+
+  mhwilds_series_name_jin_dahaad_s_revolt: "Jin Dahaad's Revolt",
   mhwilds_series_skill_binding_counter_i: "Binding Counter I",
   mhwilds_series_skill_binding_counter_ii: "Binding Counter II",
+
+  mhwilds_series_name_gore_magala_s_tyranny: "Gore Magala's Tyranny",
   mhwilds_series_skill_black_eclipse_i: "Black Eclipse I",
   mhwilds_series_skill_black_eclipse_ii: "Black Eclipse II",
+
+  mhwilds_series_name_arkveld_s_hunger: "Arkveld's Hunger",
   mhwilds_series_skill_hasten_recovery_i: "Hasten Recovery I",
   mhwilds_series_skill_hasten_recovery_ii: "Hasten Recovery II",
+
+  mhwilds_series_name_guardian_arkveld_s_vitality:
+    "Guardian Arkveld's Vitality",
   mhwilds_series_skill_decimator_i: "Decimator I",
   mhwilds_series_skill_decimator_ii: "Decimator II",
-  mhwilds_series_skill_mizutsune_s_prowess_i: "Mizutsune's Prowess I",
-  mhwilds_series_skill_mizutsune_s_prowess_ii: "Mizutsune's Prowess II",
-  mhwilds_series_skill_zoh_shia_s_pulse_i: "Zoh Shia's Pulse I",
-  mhwilds_series_skill_zoh_shia_s_pulse_ii: "Zoh Shia's Pulse II",
+
+  mhwilds_series_name_mizutsune_s_prowess: "Mizutsune's Prowess",
+  mhwilds_series_skill_bubbly_dance_i: "Bubbly Dance I",
+  mhwilds_series_skill_bubbly_dance_ii: "Bubbly Dance II",
+
+  mhwilds_series_name_zoh_shia_s_pulse: "Zoh Shia's Pulse",
+  mhwilds_series_skill_super_recovery_i: "Super Recovery I",
+  mhwilds_series_skill_super_recovery_ii: "Super Recovery II",
 };
 
 export const mhWildsGuropSkillEn = {
