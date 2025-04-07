@@ -5,12 +5,21 @@ export const mhWildsCommonJa = {
   mhwilds_common_skills: "スキル",
   mhwilds_common_searchPlaceholder: "装備を検索...",
   mhwilds_common_noResults: "検索結果がありません。",
-  mhWilds_armor: "防具",
-  mhWilds_charm: "護石",
-  mhWilds_armor_skill: "防具のスキル",
-  mhwilds_low_rank: "下位",
-  mhwilds_high_rank: "上位",
-  mhwilds_master_rank: "マスター",
+  mhwilds_common_none: "なし",
+  mhWilds_common_armor: "防具",
+  mhWilds_common_charm: "護石",
+  mhWilds_common_armor_skill: "防具のスキル",
+  mhwilds_common_armor_series_skill: "シリーズスキル",
+  mhwilds_common_armor_group_skill: "グループスキル",
+  mhwilds_common_low_rank: "下位",
+  mhwilds_common_high_rank: "上位",
+  mhwilds_common_master_rank: "マスター",
+  mhwilds_common_defense: "防御力",
+  mhwilds_common_fire: "火",
+  mhwilds_common_water: "水",
+  mhwilds_common_thunder: "雷",
+  mhwilds_common_ice: "氷",
+  mhwilds_common_dragon: "龍",
 };
 
 export const mhWildsArmorJa = {
@@ -882,46 +891,46 @@ export const mhWildsSeriesSkillJa = {
   mhwilds_series_skill_super_recovery_ii: "超回復Ⅱ",
 };
 
-export const mhWildsGuropSkillJa = {
-  mhwilds_gurop_name_fortifying_Pelt: "毛皮の昂揚",
-  mhwilds_gurop_skill_fortify: "不屈",
+export const mhWildsGroupSkillJa = {
+  mhwilds_group_name_fortifying_pelt: "毛皮の昂揚",
+  mhwilds_group_skill_fortify: "不屈",
 
-  mhwilds_gurop_name_scaling_prowess: "鱗張りの技法",
-  mhwilds_gurop_skill_master_mounter: "乗り名人",
+  mhwilds_group_name_scaling_prowess: "鱗張りの技法",
+  mhwilds_group_skill_master_mounter: "乗り名人",
 
-  mhwilds_gurop_name_flexible_leathercraft: "革細工の柔性",
-  mhwilds_gurop_skill_hunter_gatherer: "採集の達人",
+  mhwilds_group_name_flexible_leathercraft: "革細工の柔性",
+  mhwilds_group_skill_hunter_gatherer: "採集の達人",
 
-  mhwilds_gurop_name_neopteron_alert: "甲虫の知らせ",
-  mhwilds_gurop_skill_honey_hunter: "ハニーハンター",
+  mhwilds_group_name_neopteron_alert: "甲虫の知らせ",
+  mhwilds_group_skill_honey_hunter: "ハニーハンター",
 
-  mhwilds_gurop_name_neopteron_camouflage: "甲虫の擬態",
-  mhwilds_gurop_skill_fleetfoot: "忍び歩き",
+  mhwilds_group_name_neopteron_camouflage: "甲虫の擬態",
+  mhwilds_group_skill_fleetfoot: "忍び歩き",
 
-  mhwilds_gurop_name_scale_layering: "鱗重ねの工夫",
-  mhwilds_gurop_skill_adrenaline: "奮起",
+  mhwilds_group_name_scale_layering: "鱗重ねの工夫",
+  mhwilds_group_skill_adrenaline: "奮起",
 
-  mhwilds_gurop_name_buttery_leathercraft: "革細工の滑性",
-  mhwilds_gurop_skill_affinity_sliding: "滑走強化",
+  mhwilds_group_name_buttery_leathercraft: "革細工の滑性",
+  mhwilds_group_skill_affinity_sliding: "滑走強化",
 
-  mhwilds_gurop_name_alluring_pelt: "毛皮の誘惑",
-  mhwilds_gurop_skill_diversion: "陽動",
+  mhwilds_group_name_alluring_pelt: "毛皮の誘惑",
+  mhwilds_group_skill_diversion: "陽動",
 
-  mhwilds_gurop_name_lord_s_favor: "ヌシの誇り",
-  mhwilds_gurop_skill_inspiration: "激励",
+  mhwilds_group_name_lord_s_favor: "ヌシの誇り",
+  mhwilds_group_skill_inspiration: "激励",
 
-  mhwilds_gurop_name_lord_s_fury: "ヌシの憤激",
-  mhwilds_gurop_skill_resuscitate: "死中に活",
+  mhwilds_group_name_lord_s_fury: "ヌシの憤激",
+  mhwilds_group_skill_resuscitate: "死中に活",
 
-  mhwilds_gurop_name_guardian_s_pulse: "護竜の脈動",
-  mhwilds_gurop_skill_wylk_burst: "竜乳活性",
+  mhwilds_group_name_guardian_s_pulse: "護竜の脈動",
+  mhwilds_group_skill_wylk_burst: "竜乳活性",
 
-  mhwilds_gurop_name_guardian_s_protection: "護竜の守り",
-  mhwilds_gurop_skill_ward_of_wyveria: "竜都の護り",
+  mhwilds_group_name_guardian_s_protection: "護竜の守り",
+  mhwilds_group_skill_ward_of_wyveria: "竜都の護り",
 
-  mhwilds_gurop_name_imparted_wisdom: "先達の導き",
-  mhwilds_gurop_skill_foragers_luck: "探索者の幸運",
+  mhwilds_group_name_imparted_wisdom: "先達の導き",
+  mhwilds_group_skill_foragers_luck: "探索者の幸運",
 
-  mhwilds_gurop_name_glory_s_favor: "栄光の誉れ",
-  mhwilds_gurop_skill_luck_: "幸運",
+  mhwilds_group_name_glory_s_favor: "栄光の誉れ",
+  mhwilds_group_skill_luck_: "幸運",
 };

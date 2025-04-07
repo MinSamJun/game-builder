@@ -12,6 +12,8 @@ type Namespace =
   | "mhWilds_armor"
   | "mhWilds_charm"
   | "mhWilds_armor_skill"
+  | "mhWilds_armor_series_skill"
+  | "mhWilds_armor_group_skill"
   | "mhWilds_common"
   | "homePage_common"
   | "homePage_items";
@@ -22,6 +24,8 @@ const resources: Record<Lang, TranslationSet> = {
     mhWilds_armor: mhWildsEn.mhWilds_armor || {},
     mhWilds_charm: mhWildsEn.mhWilds_charm || {},
     mhWilds_armor_skill: mhWildsEn.mhWilds_armor_skill || {},
+    mhWilds_armor_series_skill: mhWildsEn.mhWilds_armor_series_skill || {},
+    mhWilds_armor_group_skill: mhWildsEn.mhWilds_armor_group_skill || {},
     mhWilds_common: mhWildsEn.mhWilds_common || {},
     homePage_common: homePageEn.homePage_common || {},
     homePage_items: homePageEn.homePage_items || {},
@@ -30,6 +34,8 @@ const resources: Record<Lang, TranslationSet> = {
     mhWilds_armor: mhWildsJa.mhWilds_armor || {},
     mhWilds_charm: mhWildsJa.mhWilds_charm || {},
     mhWilds_armor_skill: mhWildsJa.mhWilds_armor_skill || {},
+    mhWilds_armor_series_skill: mhWildsJa.mhWilds_armor_series_skill || {},
+    mhWilds_armor_group_skill: mhWildsJa.mhWilds_armor_group_skill || {},
     mhWilds_common: mhWildsJa.mhWilds_common || {},
     homePage_common: homePageJa.homePage_common || {},
     homePage_items: homePageJa.homePage_items || {},
@@ -38,6 +44,8 @@ const resources: Record<Lang, TranslationSet> = {
     mhWilds_armor: mhWildsKo.mhWilds_armor || {},
     mhWilds_charm: mhWildsKo.mhWilds_charm || {},
     mhWilds_armor_skill: mhWildsKo.mhWilds_armor_skill || {},
+    mhWilds_armor_series_skill: mhWildsKo.mhWilds_armor_series_skill || {},
+    mhWilds_armor_group_skill: mhWildsKo.mhWilds_armor_group_skill || {},
     mhWilds_common: mhWildsKo.mhWilds_common || {},
     homePage_common: homePageKo.homePage_common || {},
     homePage_items: homePageKo.homePage_items || {},

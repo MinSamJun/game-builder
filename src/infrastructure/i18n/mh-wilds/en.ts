@@ -5,12 +5,21 @@ export const mhWildsCommonEn = {
   mhwilds_common_skills: "Skills",
   mhwilds_common_searchPlaceholder: "Search equipment...",
   mhwilds_common_noResults: "No results found.",
-  mhWilds_armor: "Armor",
-  mhWilds_charm: "Charm",
-  mhWilds_armor_skill: "Armor Skill",
-  mhwilds_low_rank: "Low Rank",
-  mhwilds_high_rank: "High Rank",
-  mhwilds_master_rank: "Master Rank",
+  mhwilds_common_none: "None",
+  mhWilds_common_armor: "Armor",
+  mhWilds_common_charm: "Charm",
+  mhWilds_common_armor_skill: "Armor Skill",
+  mhwilds_common_armor_series_skill: "Series Skill",
+  mhwilds_common_armor_group_skill: "Group Skill",
+  mhwilds_common_low_rank: "Low Rank",
+  mhwilds_common_high_rank: "High Rank",
+  mhwilds_common_master_rank: "Master Rank",
+  mhwilds_common_defense: "Defense",
+  mhwilds_common_fire: "Fire",
+  mhwilds_common_water: "Water",
+  mhwilds_common_thunder: "Thunder",
+  mhwilds_common_ice: "Ice",
+  mhwilds_common_dragon: "Dragon",
 };
 
 export const mhWildsArmorEn = {
@@ -883,46 +892,46 @@ export const mhWildsSeriesSkillEn = {
   mhwilds_series_skill_super_recovery_ii: "Super Recovery II",
 };
 
-export const mhWildsGuropSkillEn = {
-  mhwilds_gurop_name_fortifying_Pelt: "Fortifying Pelt",
-  mhwilds_gurop_skill_fortify: "Fortify",
+export const mhWildsGroupSkillEn = {
+  mhwilds_group_name_fortifying_pelt: "Fortifying Pelt",
+  mhwilds_group_skill_fortify: "Fortify",
 
-  mhwilds_gurop_name_scaling_prowess: "Scaling Prowess",
-  mhwilds_gurop_skill_master_mounter: "Master Mounter",
+  mhwilds_group_name_scaling_prowess: "Scaling Prowess",
+  mhwilds_group_skill_master_mounter: "Master Mounter",
 
-  mhwilds_gurop_name_flexible_leathercraft: "Flexible Leathercraft",
-  mhwilds_gurop_skill_hunter_gatherer: "Hunter Gatherer",
+  mhwilds_group_name_flexible_leathercraft: "Flexible Leathercraft",
+  mhwilds_group_skill_hunter_gatherer: "Hunter Gatherer",
 
-  mhwilds_gurop_name_neopteron_alert: "Neopteron Alert",
-  mhwilds_gurop_skill_honey_hunter: "Honey Hunter",
+  mhwilds_group_name_neopteron_alert: "Neopteron Alert",
+  mhwilds_group_skill_honey_hunter: "Honey Hunter",
 
-  mhwilds_gurop_name_neopteron_camouflage: "Neopteron Camouflage",
-  mhwilds_gurop_skill_fleetfoot: "Fleetfoot",
+  mhwilds_group_name_neopteron_camouflage: "Neopteron Camouflage",
+  mhwilds_group_skill_fleetfoot: "Fleetfoot",
 
-  mhwilds_gurop_skill_scale_layering: "Scale Layering",
-  mhwilds_gurop_skill_adrenaline: "Adrenaline",
+  mhwilds_group_skill_scale_layering: "Scale Layering",
+  mhwilds_group_skill_adrenaline: "Adrenaline",
 
-  mhwilds_gurop_name_buttery_leathercraft: "Buttery Leathercraft",
-  mhwilds_gurop_skill_affinity_sliding: "Affinity Sliding",
+  mhwilds_group_name_buttery_leathercraft: "Buttery Leathercraft",
+  mhwilds_group_skill_affinity_sliding: "Affinity Sliding",
 
-  mhwilds_gurop_name_alluring_pelt: "Alluring Pelt",
-  mhwilds_gurop_skill_diversion: "Diversion",
+  mhwilds_group_name_alluring_pelt: "Alluring Pelt",
+  mhwilds_group_skill_diversion: "Diversion",
 
-  mhwilds_gurop_name_lord_s_favor: "Lord's Favor",
-  mhwilds_gurop_skill_inspiration: "Inspiration",
+  mhwilds_group_name_lord_s_favor: "Lord's Favor",
+  mhwilds_group_skill_inspiration: "Inspiration",
 
-  mhwilds_gurop_name_lord_s_fury: "Lord's Fury",
-  mhwilds_gurop_skill_resuscitate: "Resuscitate",
+  mhwilds_group_name_lord_s_fury: "Lord's Fury",
+  mhwilds_group_skill_resuscitate: "Resuscitate",
 
-  mhwilds_gurop_name_guardian_s_pulse: "Guardian's Pulse",
-  mhwilds_gurop_skill_wylk_burst: "Wylk Burst",
+  mhwilds_group_name_guardian_s_pulse: "Guardian's Pulse",
+  mhwilds_group_skill_wylk_burst: "Wylk Burst",
 
-  mhwilds_gurop_name_guardian_s_protection: "Guardian's Protection",
-  mhwilds_gurop_skill_ward_of_wyveria: "Ward of Wyveria",
+  mhwilds_group_name_guardian_s_protection: "Guardian's Protection",
+  mhwilds_group_skill_ward_of_wyveria: "Ward of Wyveria",
 
-  mhwilds_gurop_name_imparted_wisdom: "Imparted Wisdom",
-  mhwilds_gurop_skill_foragers_luck: "Forager's Luck",
+  mhwilds_group_name_imparted_wisdom: "Imparted Wisdom",
+  mhwilds_group_skill_foragers_luck: "Forager's Luck",
 
-  mhwilds_gurop_name_glory_s_favor: "Glory's Favor",
-  mhwilds_gurop_skill_luck_: "Luck",
+  mhwilds_group_name_glory_s_favor: "Glory's Favor",
+  mhwilds_group_skill_luck_: "Luck",
 };

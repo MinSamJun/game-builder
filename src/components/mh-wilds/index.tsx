@@ -59,7 +59,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhWilds_armor}
+          {mhWildsCommonNamespace?.mhWilds_common_armor}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_charm")}
@@ -69,7 +69,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhWilds_charm}
+          {mhWildsCommonNamespace?.mhWilds_common_charm}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_armor_skill")}
@@ -79,7 +79,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhWilds_armor_skill}
+          {mhWildsCommonNamespace?.mhWilds_common_armor_skill}
         </button>
       </div>
 
