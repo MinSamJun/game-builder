@@ -4,16 +4,14 @@ import { useState } from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import mhWildsArmorData from "@/data/mh-wilds/mhwilds-armors-i18n.json";
 
-const armorPartFilter = ["head", "chest", "arms", "waist", "legs"] as const;
-type ArmorPart = (typeof armorPartFilter)[number];
-
 interface ArmorListProps {
   searchTerm: string;
 }
 
 interface Armor {
   name: string;
-  part: ArmorPart;
+  part: string;
+  rank: string;
   skills?: Record<string, number | undefined>;
   slots?: number[];
   seriesSkill?: Record<string, number | undefined>;
@@ -22,7 +20,8 @@ interface Armor {
 }
 
 export function ArmorList({ searchTerm }: ArmorListProps) {
-  const [selectedPart, setSelectedPart] = useState<ArmorPart | null>(null);
+  const [selectedPart, setSelectedPart] = useState<string | null>(null);
+  const [selectedRank, setSelectedRank] = useState<string | null>(null);
   const [page, setPage] = useState(1);
   const { getNamespaceData } = useI18n();
   const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor") ?? {};
@@ -37,8 +36,9 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
   const itemsPerPage = 10;
 
   const filteredArmorList = (mhWildsArmorData as Armor[]).filter(
-    ({ name, part }) =>
+    ({ name, part, rank }) =>
       (!selectedPart || part === selectedPart) &&
+      (!selectedRank || rank === selectedRank) &&
       (mhWildsArmorNamespace[name] ?? name)
         .toLowerCase()
         .includes(searchTerm.toLowerCase())
@@ -50,29 +50,123 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
   );
 
   const nextPage = () => {
-    setPage(page + 1);
+    if (page < Math.ceil(filteredArmorList.length / itemsPerPage)) {
+      setPage(page + 1);
+    }
   };
 
   const prevPage = () => {
-    setPage(page - 1);
+    if (page > 1) {
+      setPage(page - 1);
+    }
   };
 
   return (
     <div>
       <div className="flex flex-wrap gap-2 mb-4">
-        {armorPartFilter.map((part) => (
-          <button
-            key={part}
-            onClick={() => setSelectedPart(selectedPart === part ? null : part)}
-            className={`px-3 py-1 rounded border ${
-              selectedPart === part
-                ? "bg-blue-500 text-white"
-                : "bg-white text-gray-700"
-            }`}
-          >
-            {part.toUpperCase()}
-          </button>
-        ))}
+        <button
+          key={"head"}
+          onClick={() =>
+            setSelectedPart(selectedPart === "head" ? null : "head")
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedPart === "head"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_head}
+        </button>
+
+        <button
+          key={"chest"}
+          onClick={() =>
+            setSelectedPart(selectedPart === "chest" ? null : "chest")
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedPart === "chest"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_chest}
+        </button>
+
+        <button
+          key={"arms"}
+          onClick={() =>
+            setSelectedPart(selectedPart === "arms" ? null : "arms")
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedPart === "arms"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_arms}
+        </button>
+
+        <button
+          key={"waist"}
+          onClick={() =>
+            setSelectedPart(selectedPart === "waist" ? null : "waist")
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedPart === "waist"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_waist}
+        </button>
+
+        <button
+          key={"legs"}
+          onClick={() =>
+            setSelectedPart(selectedPart === "legs" ? null : "legs")
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedPart === "legs"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_legs}
+        </button>
+      </div>
+
+      <div className="flex flex-wrap gap-2 mb-4">
+        <button
+          key={"mhwilds_low_rank"}
+          onClick={() =>
+            setSelectedRank(
+              selectedRank === "mhwilds_low_rank" ? null : "mhwilds_low_rank"
+            )
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedRank === "mhwilds_low_rank"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_low_rank}
+        </button>
+
+        <button
+          key={"mhwilds_high_rank"}
+          onClick={() =>
+            setSelectedRank(
+              selectedRank === "mhwilds_high_rank" ? null : "mhwilds_high_rank"
+            )
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedRank === "mhwilds_high_rank"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_high_rank}
+        </button>
       </div>
 
       {paginatedArmorList.map(
