@@ -1,1363 +1,1474 @@
 [
   {
-    "name": "charm.Marathon Charm I",
+    "name": "mhwilds_charm_marathon_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Marathon Runner": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_marathon_runner": "1"
+    }
   },
   {
-    "name": "charm.Marathon Charm II",
+    "name": "mhwilds_charm_marathon_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Marathon Runner": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_marathon_runner": "2"
+    }
   },
   {
-    "name": "charm.Fitness Charm I",
+    "name": "mhwilds_charm_marathon_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_marathon_runner": "3"
+    }
+  },
+  {
+    "name": "mhwilds_charm_fitness_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_constitution": "1"
+    }
+  },
+  {
+    "name": "mhwilds_charm_fitness_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_constitution": "2"
+    }
+  },
+  {
+    "name": "mhwilds_charm_fitness_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_constitution": "3"
+    }
+  },
+  {
+    "name": "mhwilds_charm_fitness_charm_iv",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_constitution": "4"
+    }
+  },
+  {
+    "name": "mhwilds_charm_sheathe_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_quick_sheathe": "1"
+    }
+  },
+  {
+    "name": "mhwilds_charm_sheathe_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_quick_sheathe": "2"
+    }
+  },
+  {
+    "name": "mhwilds_charm_sheathe_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_quick_sheathe": "3"
+    }
   },
   {
-    "name": "charm.Fitness Charm II",
+    "name": "mhwilds_charm_challenger_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_agitator": "1"
+    }
+  },
+  {
+    "name": "mhwilds_charm_challenger_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_agitator": "2"
+    }
+  },
+  {
+    "name": "mhwilds_charm_unscathed_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_peak_performance": "1"
+    }
+  },
+  {
+    "name": "mhwilds_charm_unscathed_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_peak_performance": "2"
+    }
+  },
+  {
+    "name": "mhwilds_charm_fury_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_resentment": "1"
+    }
+  },
+  {
+    "name": "mhwilds_charm_fury_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_resentment": "2"
+    }
+  },
+  {
+    "name": "mhwilds_charm_exploiter_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_weakness_exploit": "1"
+    }
+  },
+  {
+    "name": "mhwilds_charm_exploiter_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": {
+      "mhwilds_skill_weakness_exploit": "2"
+    }
   },
   {
-    "name": "charm.Fitness Charm III",
+    "name": "mhwilds_charm_power_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_latent_power": "1"
+    }
   },
   {
-    "name": "charm.Fitness Charm IV",
+    "name": "mhwilds_charm_power_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_latent_power": "2"
+    }
   },
   {
-    "name": "charm.Sheathe Charm I",
+    "name": "mhwilds_charm_mighty_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Quick Sheathe": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_maximum_might": "1"
+    }
   },
   {
-    "name": "charm.Sheathe Charm III",
+    "name": "mhwilds_charm_mighty_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Quick Sheathe": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_maximum_might": "2"
+    }
   },
   {
-    "name": "charm.Challenger Charm I",
+    "name": "mhwilds_charm_surge_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_stamina_surge": "1"
+    }
   },
   {
-    "name": "charm.Challenger Charm II",
+    "name": "mhwilds_charm_surge_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_stamina_surge": "2"
+    }
   },
   {
-    "name": "charm.Unscathed Charm I",
+    "name": "mhwilds_charm_surge_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Peak Performance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_stamina_surge": "3"
+    }
   },
   {
-    "name": "charm.Unscathed Charm II",
+    "name": "mhwilds_charm_defense_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Peak Performance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_defense_boost": "1"
+    }
   },
   {
-    "name": "charm.Fury Charm II",
+    "name": "mhwilds_charm_defense_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_defense_boost": "2"
+    }
   },
   {
-    "name": "charm.Exploiter Charm I",
+    "name": "mhwilds_charm_defense_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Weakness Exploit": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_defense_boost": "3"
+    }
   },
   {
-    "name": "charm.Exploiter Charm II",
+    "name": "mhwilds_charm_defense_charm_iv",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Weakness Exploit": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_defense_boost": "4"
+    }
   },
   {
-    "name": "charm.Power Charm I",
+    "name": "mhwilds_charm_blessing_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Latent Power": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_divine_blessing": "1"
+    }
   },
   {
-    "name": "charm.Power Charm II",
+    "name": "mhwilds_charm_blessing_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Latent Power": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_divine_blessing": "2"
+    }
   },
   {
-    "name": "charm.Mighty Charm I",
+    "name": "mhwilds_charm_blessing_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Maximum Might": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_divine_blessing": "3"
+    }
   },
   {
-    "name": "charm.Surge Charm I",
+    "name": "mhwilds_charm_recovery_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Stamina Surge": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_recovery_up": "1"
+    }
   },
   {
-    "name": "charm.Surge Charm II",
+    "name": "mhwilds_charm_recovery_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Stamina Surge": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_recovery_up": "2"
+    }
   },
   {
-    "name": "charm.Surge Charm III",
+    "name": "mhwilds_charm_recovery_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Stamina Surge": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_recovery_up": "3"
+    }
   },
   {
-    "name": "charm.Defense Charm I",
+    "name": "mhwilds_charm_speed_heal_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Defense Boost": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_recovery_speed": "1"
+    }
   },
   {
-    "name": "charm.Defense Charm II",
+    "name": "mhwilds_charm_speed_heal_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Defense Boost": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_recovery_speed": "2"
+    }
   },
   {
-    "name": "charm.Defense Charm IV",
+    "name": "mhwilds_charm_speed_heal_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Defense Boost": 4
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_recovery_speed": "3"
+    }
   },
   {
-    "name": "charm.Blessing Charm I",
+    "name": "mhwilds_charm_gluttons_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Divine Blessing": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_earplugs": "1"
+    }
   },
   {
-    "name": "charm.Blessing Charm II",
+    "name": "mhwilds_charm_gluttons_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Divine Blessing": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_earplugs": "2"
+    }
   },
   {
-    "name": "charm.Blessing Charm III",
+    "name": "mhwilds_charm_gluttons_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Divine Blessing": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_earplugs": "3"
+    }
   },
   {
-    "name": "charm.Recovery Charm I",
+    "name": "mhwilds_charm_earplugs_charm_i",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Recovery Up": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_earplugs": "1"
+    }
   },
   {
-    "name": "charm.Recovery Charm III",
+    "name": "mhwilds_charm_windproof_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Recovery Up": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_windproof": "1"
+    }
   },
   {
-    "name": "charm.Speed Heal Charm I",
+    "name": "mhwilds_charm_windproof_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Recovery Speed": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_windproof": "2"
+    }
   },
   {
-    "name": "charm.Speed Heal Charm II",
+    "name": "mhwilds_charm_windproof_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Recovery Speed": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_windproof": "3"
+    }
   },
   {
-    "name": "charm.Speed Heal Charm III",
+    "name": "mhwilds_charm_tremor_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Recovery Speed": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_tremor_resistance": "1"
+    }
   },
   {
-    "name": "charm.Glutton's Charm I",
+    "name": "mhwilds_charm_tremor_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Speed Eating": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_tremor_resistance": "2"
+    }
   },
   {
-    "name": "charm.Glutton's Charm III",
+    "name": "mhwilds_charm_tremor_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Speed Eating": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_tremor_resistance": "3"
+    }
   },
   {
-    "name": "charm.Earplugs Charm I",
+    "name": "mhwilds_charm_evasion_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_evade_window": "1"
+    }
   },
   {
-    "name": "charm.Windproof Charm I",
+    "name": "mhwilds_charm_evasion_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_evade_window": "2"
+    }
   },
   {
-    "name": "charm.Windproof Charm II",
+    "name": "mhwilds_charm_evasion_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_evade_window": "3"
+    }
   },
   {
-    "name": "charm.Windproof Charm III",
+    "name": "mhwilds_charm_leaping_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_evade_extender": "1"
+    }
   },
   {
-    "name": "charm.Tremor Charm I",
+    "name": "mhwilds_charm_leaping_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Tremor Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_evade_extender": "2"
+    }
   },
   {
-    "name": "charm.Tremor Charm III",
+    "name": "mhwilds_charm_leaping_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Tremor Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_evade_extender": "3"
+    }
   },
   {
-    "name": "charm.Evasion Charm I",
+    "name": "mhwilds_charm_fire_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Evade Window": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_fire_resistance": "1"
+    }
   },
   {
-    "name": "charm.Evasion Charm II",
+    "name": "mhwilds_charm_fire_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Evade Window": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_fire_resistance": "2"
+    }
   },
   {
-    "name": "charm.Evasion Charm III",
+    "name": "mhwilds_charm_fire_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Evade Window": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_fire_resistance": "3"
+    }
   },
   {
-    "name": "charm.Leaping Charm I",
+    "name": "mhwilds_charm_water_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Evade Extender": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_water_resistance": "1"
+    }
   },
   {
-    "name": "charm.Leaping Charm III",
+    "name": "mhwilds_charm_water_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Evade Extender": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_water_resistance": "2"
+    }
   },
   {
-    "name": "charm.Fire Charm I",
+    "name": "mhwilds_charm_water_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Fire Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_water_resistance": "3"
+    }
   },
   {
-    "name": "charm.Fire Charm II",
+    "name": "mhwilds_charm_thunder_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Fire Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_thunder_resistance": "1"
+    }
   },
   {
-    "name": "charm.Fire Charm III",
+    "name": "mhwilds_charm_thunder_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Fire Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_thunder_resistance": "2"
+    }
   },
   {
-    "name": "charm.Water Charm I",
+    "name": "mhwilds_charm_thunder_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Water Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_thunder_resistance": "3"
+    }
   },
   {
-    "name": "charm.Water Charm III",
+    "name": "mhwilds_charm_ice_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Water Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_ice_resistance": "1"
+    }
   },
   {
-    "name": "charm.Thunder Charm I",
+    "name": "mhwilds_charm_ice_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Thunder Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_ice_resistance": "2"
+    }
   },
   {
-    "name": "charm.Thunder Charm II",
+    "name": "mhwilds_charm_ice_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Thunder Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_ice_resistance": "3"
+    }
   },
   {
-    "name": "charm.Thunder Charm III",
+    "name": "mhwilds_charm_dragon_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Thunder Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_dragon_resistance": "1"
+    }
   },
   {
-    "name": "charm.Ice Charm I",
+    "name": "mhwilds_charm_dragon_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Ice Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_dragon_resistance": "2"
+    }
   },
   {
-    "name": "charm.Ice Charm III",
+    "name": "mhwilds_charm_dragon_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Ice Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_dragon_resistance": "3"
+    }
   },
   {
-    "name": "charm.Dragon Charm I",
+    "name": "mhwilds_charm_blight_charm_i",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Dragon Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_blight_resistance": "1"
+    }
   },
   {
-    "name": "charm.Dragon Charm II",
+    "name": "mhwilds_charm_blight_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Dragon Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_blight_resistance": "2"
+    }
   },
   {
-    "name": "charm.Dragon Charm III",
+    "name": "mhwilds_charm_poison_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Dragon Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_poison_resistance": "1"
+    }
   },
   {
-    "name": "charm.Blight Charm I",
+    "name": "mhwilds_charm_poison_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Blight Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_poison_resistance": "2"
+    }
   },
   {
-    "name": "charm.Poison Charm I",
+    "name": "mhwilds_charm_poison_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Poison Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_poison_resistance": "3"
+    }
   },
   {
-    "name": "charm.Poison Charm II",
+    "name": "mhwilds_charm_paralysis_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Poison Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_paralysis_resistance": "1"
+    }
   },
   {
-    "name": "charm.Poison Charm III",
+    "name": "mhwilds_charm_paralysis_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Poison Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_paralysis_resistance": "2"
+    }
   },
   {
-    "name": "charm.Paralysis Charm I",
+    "name": "mhwilds_charm_paralysis_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Paralysis Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_paralysis_resistance": "3"
+    }
   },
   {
-    "name": "charm.Paralysis Charm II",
+    "name": "mhwilds_charm_sleep_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Paralysis Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_sleep_resistance": "1"
+    }
   },
   {
-    "name": "charm.Sleep Charm I",
+    "name": "mhwilds_charm_sleep_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Sleep Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_sleep_resistance": "2"
+    }
   },
   {
-    "name": "charm.Sleep Charm II",
+    "name": "mhwilds_charm_sleep_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Sleep Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_sleep_resistance": "3"
+    }
   },
   {
-    "name": "charm.Sleep Charm III",
+    "name": "mhwilds_charm_stun_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Sleep Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_stun_resistance": "1"
+    }
   },
   {
-    "name": "charm.Stun Charm I",
+    "name": "mhwilds_charm_stun_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Stun Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_stun_resistance": "2"
+    }
   },
   {
-    "name": "charm.Stun Charm II",
+    "name": "mhwilds_charm_stun_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Stun Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_stun_resistance": "3"
+    }
   },
   {
-    "name": "charm.Stun Charm III",
+    "name": "mhwilds_charm_blast_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Stun Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_blast_resistance": "1"
+    }
   },
   {
-    "name": "charm.Blast Charm I",
+    "name": "mhwilds_charm_blast_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Blast Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_blast_resistance": "2"
+    }
   },
   {
-    "name": "charm.Blast Charm II",
+    "name": "mhwilds_charm_blast_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Blast Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_blast_resistance": "3"
+    }
   },
   {
-    "name": "charm.Blast Charm III",
+    "name": "mhwilds_charm_botany_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Blast Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_botanist": "1"
+    }
   },
   {
-    "name": "charm.Botany Charm I",
+    "name": "mhwilds_charm_botany_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_botanist": "2"
+    }
   },
   {
-    "name": "charm.Botany Charm II",
+    "name": "mhwilds_charm_botany_charm_iii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_botanist": "3"
+    }
   },
   {
-    "name": "charm.Botany Charm III",
+    "name": "mhwilds_charm_botany_charm_iv",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_botanist": "4"
+    }
   },
   {
-    "name": "charm.Geology Charm I",
+    "name": "mhwilds_charm_geology_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_geologist": "1"
+    }
   },
   {
-    "name": "charm.Geology Charm II",
+    "name": "mhwilds_charm_geology_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_geologist": "2"
+    }
   },
   {
-    "name": "charm.Geology Charm III",
+    "name": "mhwilds_charm_geology_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_geologist": "3"
+    }
   },
   {
-    "name": "charm.Breaker Charm I",
+    "name": "mhwilds_charm_breaker_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_partbreaker": "1"
+    }
   },
   {
-    "name": "charm.Breaker Charm II",
+    "name": "mhwilds_charm_breaker_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_partbreaker": "2"
+    }
   },
   {
-    "name": "charm.Bombardier Charm I",
+    "name": "mhwilds_charm_bombardier_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_bombardier": "1"
+    }
   },
   {
-    "name": "charm.Bombardier Charm III",
+    "name": "mhwilds_charm_bombardier_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_bombardier": "2"
+    }
   },
   {
-    "name": "charm.Mushroom Charm I",
+    "name": "mhwilds_charm_bombardier_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_bombardier": "3"
+    }
   },
   {
-    "name": "charm.Mushroom Charm II",
+    "name": "mhwilds_charm_mushroom_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_mushroomancer": "1"
+    }
   },
   {
-    "name": "charm.Mushroom Charm III",
+    "name": "mhwilds_charm_mushroom_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_mushroomancer": "2"
+    }
   },
   {
-    "name": "charm.Extension Charm I",
+    "name": "mhwilds_charm_mushroom_charm_iii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Item Prolonger": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_mushroomancer": "3"
+    }
   },
   {
-    "name": "charm.Extension Charm III",
+    "name": "mhwilds_charm_extension_charm_i",
+    "rarity": null,
     "part": "charm",
     "skills": {
-      "skill.Item Prolonger": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_item_prolonger": "1"
+    }
   },
   {
-    "name": "charm.Friendship Charm I",
+    "name": "mhwilds_charm_extension_charm_ii",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Wide-Range": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_item_prolonger": "2"
+    }
   },
   {
-    "name": "charm.Friendship Charm II",
+    "name": "mhwilds_charm_extension_charm_iii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Wide-Range": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_item_prolonger": "3"
+    }
   },
   {
-    "name": "charm.Friendship Charm III",
+    "name": "mhwilds_charm_friendship_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Wide-Range": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_resentment": "1"
+    }
   },
   {
-    "name": "charm.Friendship Charm IV",
+    "name": "mhwilds_charm_friendship_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Wide-Range": 4
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_widerange": "2"
+    }
   },
   {
-    "name": "charm.Light Eater's Charm II",
+    "name": "mhwilds_charm_friendship_charm_iii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Free Meal": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_widerange": "3"
+    }
   },
   {
-    "name": "charm.Light Eater's Charm III",
+    "name": "mhwilds_charm_friendship_charm_iv",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Free Meal": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_widerange": "4"
+    }
   },
   {
-    "name": "charm.Grit Charm I",
+    "name": "mhwilds_charm_light_eaters_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_free_meal": "1"
+    }
   },
   {
-    "name": "charm.Grit Charm II",
+    "name": "mhwilds_charm_light_eaters_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_free_meal": "2"
+    }
   },
   {
-    "name": "charm.Grit Charm III",
+    "name": "mhwilds_charm_light_eaters_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_free_meal": "3"
+    }
   },
   {
-    "name": "charm.Impact Charm I",
+    "name": "mhwilds_charm_grit_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Flinch Free": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_heroics": "1"
+    }
   },
   {
-    "name": "charm.Impact Charm III",
+    "name": "mhwilds_charm_grit_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Flinch Free": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_heroics": "2"
+    }
   },
   {
-    "name": "charm.Hungerless Charm I",
+    "name": "mhwilds_charm_grit_charm_iii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Hunger Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_heroics": "3"
+    }
   },
   {
-    "name": "charm.Hungerless Charm II",
+    "name": "mhwilds_charm_impact_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Hunger Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_flinch_free": "1"
+    }
   },
   {
-    "name": "charm.Hungerless Charm III",
+    "name": "mhwilds_charm_impact_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Hunger Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_flinch_free": "2"
+    }
   },
   {
-    "name": "charm.Counter Charm I",
+    "name": "mhwilds_charm_impact_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_flinch_free": "3"
+    }
   },
   {
-    "name": "charm.Counter Charm III",
+    "name": "mhwilds_charm_hungerless_charm_i",
+    "rarity": 2,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_hunger_resistance": "1"
+    }
   },
   {
-    "name": "charm.Foray Charm I",
+    "name": "mhwilds_charm_hungerless_charm_ii",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_hunger_resistance": "2"
+    }
   },
   {
-    "name": "charm.Foray Charm II",
+    "name": "mhwilds_charm_hungerless_charm_iii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_hunger_resistance": "3"
+    }
   },
   {
-    "name": "charm.Phoenix Charm I",
+    "name": "mhwilds_charm_counter_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_counterstrike": "1"
+    }
   },
   {
-    "name": "charm.Phoenix Charm II",
+    "name": "mhwilds_charm_counter_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_counterstrike": "2"
+    }
   },
   {
-    "name": "charm.Chain Charm I",
+    "name": "mhwilds_charm_counter_charm_iii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_counterstrike": "3"
+    }
   },
   {
-    "name": "charm.Counterattack Charm I",
+    "name": "mhwilds_charm_foray_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Adrenaline Rush": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_foray": "1"
+    }
   },
   {
-    "name": "charm.Counterattack Charm II",
+    "name": "mhwilds_charm_foray_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Adrenaline Rush": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_foray": "2"
+    }
   },
   {
-    "name": "charm.Descent Charm I",
+    "name": "mhwilds_charm_phoenix_charm_i",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_coalescence": "1"
+    }
   },
   {
-    "name": "charm.Descent Charm II",
+    "name": "mhwilds_charm_phoenix_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_coalescence": "2"
+    }
   },
   {
-    "name": "charm.Bleed Charm I",
+    "name": "mhwilds_charm_chain_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Bleeding Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_burst": "1"
+    }
   },
   {
-    "name": "charm.Bleed Charm III",
+    "name": "mhwilds_charm_chain_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Bleeding Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_burst": "2"
+    }
   },
   {
-    "name": "charm.Guard Charm I",
+    "name": "mhwilds_charm_counterattack_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Iron Skin": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_adrenaline_rush": "1"
+    }
   },
   {
-    "name": "charm.Guard Charm II",
+    "name": "mhwilds_charm_counterattack_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Iron Skin": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_adrenaline_rush": "2"
+    }
   },
   {
-    "name": "charm.Guard Charm III",
+    "name": "mhwilds_charm_descent_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Iron Skin": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_ambush": "1"
+    }
   },
   {
-    "name": "charm.Survival Charm I",
+    "name": "mhwilds_charm_descent_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Survival Expert": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_ambush": "2"
+    }
   },
   {
-    "name": "charm.Survival Charm II",
+    "name": "mhwilds_charm_bleed_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Survival Expert": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_bleeding_resistance": "1"
+    }
   },
   {
-    "name": "charm.Maintenance Charm I",
+    "name": "mhwilds_charm_bleed_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Tool Specialist": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_bleeding_resistance": "2"
+    }
   },
   {
-    "name": "charm.Maintenance Charm II",
+    "name": "mhwilds_charm_bleed_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Tool Specialist": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_bleeding_resistance": "3"
+    }
   },
   {
-    "name": "charm.Maintenance Charm III",
+    "name": "mhwilds_charm_guard_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Tool Specialist": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_iron_skin": "1"
+    }
   },
   {
-    "name": "charm.Intimidator Charm I",
+    "name": "mhwilds_charm_guard_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_iron_skin": "2"
+    }
   },
   {
-    "name": "charm.Intimidator Charm II",
+    "name": "mhwilds_charm_guard_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_iron_skin": "3"
+    }
   },
   {
-    "name": "charm.Escape Charm I",
+    "name": "mhwilds_charm_survival_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Bind Resistance": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_survival_expert": "1"
+    }
   },
   {
-    "name": "charm.Escape Charm II",
+    "name": "mhwilds_charm_survival_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Bind Resistance": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_survival_expert": "2"
+    }
   },
   {
-    "name": "charm.Escape Charm III",
+    "name": "mhwilds_charm_survival_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Bind Resistance": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_survival_expert": "3"
+    }
   },
   {
-    "name": "charm.Chainblade Charm I",
+    "name": "mhwilds_charm_maintenance_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_tool_specialist": "1"
+    }
   },
   {
-    "name": "charm.Chainblade Charm II",
+    "name": "mhwilds_charm_maintenance_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_tool_specialist": "2"
+    }
   },
   {
-    "name": "charm.Convert Charm I",
+    "name": "mhwilds_charm_maintenance_charm_iii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Convert Element": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_tool_specialist": "3"
+    }
   },
   {
-    "name": "charm.Sanity Charm I",
+    "name": "mhwilds_charm_intimidator_charm_i",
+    "rarity": 3,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_intimidator": "1"
+    }
   },
   {
-    "name": "charm.Sanity Charm II",
+    "name": "mhwilds_charm_intimidator_charm_ii",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_intimidator": "2"
+    }
   },
   {
-    "name": "charm.Sanity Charm III",
+    "name": "mhwilds_charm_intimidator_charm_iii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_intimidator": "3"
+    }
   },
   {
-    "name": "charm.Hope Charm",
+    "name": "mhwilds_charm_escape_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Self-Improvement": 1,
-      "skill.Recovery Up": 1
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_bind_resistance": "1"
+    }
   },
   {
-    "name": "charm.Fitness Charm V",
+    "name": "mhwilds_charm_escape_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+    "skills": {
+      "mhwilds_skill_bind_resistance": "2"
+    }
   },
   {
-    "name": "charm.Power Charm III",
+    "name": "mhwilds_charm_escape_charm_iii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Latent Power": 3
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_bind_resistance": "3"
+    }
   },
   {
-    "name": "charm.Defense Charm V",
+    "name": "mhwilds_charm_chainblade_charm_i",
+    "rarity": 4,
+    "rank": "mhwilds_common_low_rank",
     "part": "charm",
     "skills": {
-      "skill.Defense Boost": 5
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_flayer": "1"
+    }
   },
   {
-    "name": "charm.Evasion Charm IV",
+    "name": "mhwilds_charm_chainblade_charm_ii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Evade Window": 4
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_flayer": "2"
+    }
   },
   {
-    "name": "charm.Convert Charm II",
+    "name": "mhwilds_charm_imbibe_charm_i",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Convert Element": 2
-    },
-    "slots": [0, 0, 0],
-    "setSkill": [],
-    "seriesSkill": []
+      "mhwilds_skill_elemental_absorption": "1"
+    }
   },
   {
-    "name": "charm.Fitness Charm V",
+    "name": "mhwilds_charm_convert_charm_i",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
-    "skills": {},
-    "slots": [0, 0, 0],
-    "seriesSkill": {},
-    "groupSkill": {}
+    "skills": {
+      "mhwilds_skill_convert_element": "1"
+    }
   },
   {
-    "name": "charm.Power Charm III",
+    "name": "mhwilds_charm_sanity_charm_i",
+    "rarity": 5,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Latent Power": 3
-    },
-    "slots": [0, 0, 0],
-    "seriesSkill": {},
-    "groupSkill": {}
+      "mhwilds_skill_antivirus": "1"
+    }
   },
   {
-    "name": "charm.Defense Charm V",
+    "name": "mhwilds_charm_sanity_charm_ii",
+    "rarity": 6,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Defense Boost": 5
-    },
-    "slots": [0, 0, 0],
-    "seriesSkill": {},
-    "groupSkill": {}
+      "mhwilds_skill_antivirus": "2"
+    }
   },
   {
-    "name": "charm.Evasion Charm IV",
+    "name": "mhwilds_charm_sanity_charm_iii",
+    "rarity": 7,
+    "rank": "mhwilds_common_high_rank",
     "part": "charm",
     "skills": {
-      "skill.Evade Window": 4
-    },
-    "slots": [0, 0, 0],
-    "seriesSkill": {},
-    "groupSkill": {}
+      "mhwilds_skill_antivirus": "3"
+    }
   },
   {
-    "name": "charm.Convert Charm II",
+    "name": "mhwilds_charm_hope_charm",
+    "rarity": null,
     "part": "charm",
     "skills": {
-      "skill.Convert Element": 2
-    },
-    "slots": [0, 0, 0],
-    "seriesSkill": {},
-    "groupSkill": {}
+      "mhwilds_skill_selfimprovement": "1",
+      "mhwilds_skill_hunger_resistance": "1"
+    }
+  },
+  {
+    "name": "mhwilds_charm_fitness_charm_v",
+    "rarity": null,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": { "mhwilds_skill_constitution": 5 }
+  },
+  {
+    "name": "mhwilds_charm_power_charm_iii",
+    "rarity": null,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": { "mhwilds_skill_latent_power": 3 }
+  },
+  {
+    "name": "mhwilds_charm_defense_charm_v",
+    "rarity": null,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": { "mhwilds_skill_defense_boost": 5 }
+  },
+  {
+    "name": "mhwilds_charm_earplugs_charm_ii",
+    "rarity": null,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": { "mhwilds_skill_earplugs": 2 }
+  },
+  {
+    "name": "mhwilds_charm_evasion_charm_iv",
+    "rarity": null,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": { "mhwilds_skill_evade_window": 4 }
+  },
+  {
+    "name": "mhwilds_charm_convert_charm_ii",
+    "rarity": null,
+    "rank": "mhwilds_common_high_rank",
+    "part": "charm",
+    "skills": { "mhwilds_skill_convert_element": 2 }
   }
 ]
