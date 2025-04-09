@@ -1,7 +1,9 @@
+"use client";
+
+import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import mhWildsCharmData from "@/data/mh-wilds/mhwilds-charm-i18n.json";
 import { NoResults } from "@container/common/no-results";
-import { mhWildsSeriesSkillEn } from "@/infrastructure/i18n/mh-wilds/en";
 
 interface CharmListProps {
   searchTerm: string;
@@ -21,10 +23,13 @@ export function CharmList({ searchTerm }: CharmListProps) {
   const mhWildsCharmSkillNamespace = getNamespaceData("mhWilds_armor_skill");
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common");
 
-  const filteredCharmList = (mhWildsCharmData as Charm[]).filter(({ name }) =>
-    (mhWildsCharmNamespace[name] ?? name)
-      .toLowerCase()
-      .includes(searchTerm.toLowerCase())
+  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
+  const filteredCharmList = (mhWildsCharmData as Charm[]).filter(
+    ({ name, rank }) =>
+      (!selectedRank || rank === selectedRank) &&
+      (mhWildsCharmNamespace[name] ?? name)
+        .toLowerCase()
+        .includes(searchTerm.toLowerCase())
   );
 
   return (
@@ -33,6 +38,42 @@ export function CharmList({ searchTerm }: CharmListProps) {
         <NoResults />
       ) : (
         <>
+          <div className="flex flex-wrap gap-2 mb-4">
+            <button
+              key={"mhwilds_low_rank"}
+              onClick={() =>
+                setSelectedRank(
+                  selectedRank === "mhwilds_low_rank"
+                    ? null
+                    : "mhwilds_low_rank"
+                )
+              }
+              className={`px-3 py-1 rounded border ${
+                selectedRank === "mhwilds_low_rank"
+                  ? "bg-blue-500 text-white"
+                  : "bg-white text-gray-700"
+              }`}
+            >
+              {mhWildsCommonNamespace?.mhwilds_common_low_rank}
+            </button>
+            <button
+              key={"mhwilds_high_rank"}
+              onClick={() =>
+                setSelectedRank(
+                  selectedRank === "mhwilds_high_rank"
+                    ? null
+                    : "mhwilds_high_rank"
+                )
+              }
+              className={`px-3 py-1 rounded border ${
+                selectedRank === "mhwilds_high_rank"
+                  ? "bg-blue-500 text-white"
+                  : "bg-white text-gray-700"
+              }`}
+            >
+              {mhWildsCommonNamespace?.mhwilds_common_high_rank}
+            </button>
+          </div>
           <div className=" gap-4 text-sm">
             {filteredCharmList.map(({ name, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
@@ -41,9 +82,6 @@ export function CharmList({ searchTerm }: CharmListProps) {
                 </div>
 
                 <div className="bg-gray-800 text-white rounded p-4">
-                  <strong>
-                    {mhWildsCommonNamespace?.mhwilds_common_skills}:
-                  </strong>
                   {skills && Object.keys(skills).length > 0 ? (
                     Object.entries(skills).map(([skill, level]) => (
                       <div key={skill}>
