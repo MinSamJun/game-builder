@@ -1,0 +1,82 @@
+[
+  {
+    "name": "mhwilds_series_name_doshaguma_s_might",
+    "skill2": "mhwilds_series_skill_powerhouse_i",
+    "skill4": "mhwilds_series_skill_powerhouse_ii"
+  },
+  {
+    "name": "mhwilds_series_name_rathalos_s_flare",
+    "skill2": "mhwilds_series_skill_scorcher_i",
+    "skill4": "mhwilds_series_skill_scorcher_ii"
+  },
+  {
+    "name": "mhwilds_series_name_xu_wu_s_vigor",
+    "skill2": "mhwilds_series_skill_protein_fiend_i",
+    "skill4": "mhwilds_series_skill_protein_fiend_ii"
+  },
+  {
+    "name": "mhwilds_series_name_gravios_s_protection",
+    "skill2": "mhwilds_series_skill_flawless_armor_i",
+    "skill4": "mhwilds_series_skill_flawless_armor_ii"
+  },
+  {
+    "name": "mhwilds_series_name_blangonga_s_spirit",
+    "skill2": "mhwilds_series_skill_war_cry_i",
+    "skill4": "mhwilds_series_skill_war_cry_ii"
+  },
+  {
+    "name": "mhwilds_series_name_ebony_odogaron_s_power",
+    "skill2": "mhwilds_series_skill_burst_boost_i",
+    "skill4": "mhwilds_series_skill_burst_boost_ii"
+  },
+  {
+    "name": "mhwilds_series_name_fulgur_anjanath_s_will",
+    "skill2": "mhwilds_series_skill_second_wind_i",
+    "skill4": "mhwilds_series_skill_second_wind_ii"
+  },
+  {
+    "name": "mhwilds_series_name_uth_duna_s_cover",
+    "skill2": "mhwilds_series_skill_protective_veil_i",
+    "skill4": "mhwilds_series_skill_protective_veil_ii"
+  },
+  {
+    "name": "mhwilds_series_name_rey_dau_s_voltage",
+    "skill2": "mhwilds_series_skill_thunderous_roar_i",
+    "skill4": "mhwilds_series_skill_thunderous_roar_ii"
+  },
+  {
+    "name": "mhwilds_series_name_nu_udra_s_mutiny",
+    "skill2": "mhwilds_series_skill_bad_blood_i",
+    "skill4": "mhwilds_series_skill_bad_blood_ii"
+  },
+  {
+    "name": "mhwilds_series_name_jin_dahaad_s_revolt",
+    "skill2": "mhwilds_series_skill_binding_counter_i",
+    "skill4": "mhwilds_series_skill_binding_counter_ii"
+  },
+  {
+    "name": "mhwilds_series_name_gore_magala_s_tyranny",
+    "skill2": "mhwilds_series_skill_black_eclipse_i",
+    "skill4": "mhwilds_series_skill_black_eclipse_ii"
+  },
+  {
+    "name": "mhwilds_series_name_arkveld_s_hunger",
+    "skill2": "mhwilds_series_skill_hasten_recovery_i",
+    "skill4": "mhwilds_series_skill_hasten_recovery_ii"
+  },
+  {
+    "name": "mhwilds_series_name_guardian_arkveld_s_vitality",
+    "skill2": "mhwilds_series_skill_decimator_i",
+    "skill4": "mhwilds_series_skill_decimator_ii"
+  },
+  {
+    "name": "mhwilds_series_name_mizutsune_s_prowess",
+    "skill2": "mhwilds_series_skill_bubbly_dance_i",
+    "skill4": "mhwilds_series_skill_bubbly_dance_ii"
+  },
+  {
+    "name": "mhwilds_series_name_zoh_shia_s_pulse",
+    "skill2": "mhwilds_series_skill_super_recovery_i",
+    "skill4": "mhwilds_series_skill_super_recovery_ii"
+  }
+]

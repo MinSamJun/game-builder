@@ -2,12 +2,20 @@
 
 import { useState } from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { ArmorList, CharmList, ArmorSkillList } from "@/container/mh-wilds";
+import {
+  ArmorList,
+  CharmList,
+  ArmorSkillList,
+  SeriesSkillList,
+  GroupSkillList,
+} from "@/container/mh-wilds";
 
 type EquipmentNamespace =
   | "mhWilds_armor"
   | "mhWilds_charm"
-  | "mhWilds_armor_skill";
+  | "mhWilds_armor_skill"
+  | "mhWilds_series_skill"
+  | "mhWilds_group_skill";
 
 export function MHWildsContent() {
   const { lang, setLang, getNamespaceData } = useI18n();
@@ -81,6 +89,26 @@ export function MHWildsContent() {
         >
           {mhWildsCommonNamespace?.mhWilds_common_armor_skill}
         </button>
+        <button
+          onClick={() => setEquipmentType("mhWilds_series_skill")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_series_skill"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_series_skill}
+        </button>
+        <button
+          onClick={() => setEquipmentType("mhWilds_group_skill")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_group_skill"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_group_skill}
+        </button>
       </div>
 
       <input
@@ -97,6 +125,10 @@ export function MHWildsContent() {
         <CharmList searchTerm={term} />
       ) : equipmentType === "mhWilds_armor_skill" ? (
         <ArmorSkillList searchTerm={term} />
+      ) : equipmentType === "mhWilds_series_skill" ? (
+        <SeriesSkillList searchTerm={term} />
+      ) : equipmentType === "mhWilds_group_skill" ? (
+        <GroupSkillList searchTerm={term} />
       ) : (
         <div className="text-center py-8 text-gray-500">
           {mhWildsCommonNamespace?.mhwilds_common_noResults}

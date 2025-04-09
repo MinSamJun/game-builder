@@ -14,8 +14,11 @@ export const mhWildsCommonKo = {
   mhwilds_common_waist: "허리",
   mhwilds_common_legs: "다리",
   mhWilds_common_armor_skill: "방어구 스킬",
-  mhwilds_common_armor_series_skill: "시리즈 스킬",
-  mhwilds_common_armor_group_skill: "그룹 스킬",
+  mhwilds_common_series_skill: "시리즈 스킬",
+  mhwilds_common_skill2: "스킬2",
+  mhwilds_common_skill4: "스킬4",
+  mhwilds_common_group_name: "그룹 이름",
+  mhwilds_common_group_skill: "그룹 스킬",
   mhwilds_common_low_rank: "하위",
   mhwilds_common_high_rank: "상위",
   mhwilds_common_master_rank: "마스터",
@@ -924,112 +927,90 @@ export const mhWildsSlotKo = {
   mhwilds_slot_lv3: "LV3 슬롯",
 };
 
-export const mhWildsSeriesSkillKo = {
+export const mhWildsSeriesNameKo = {
   mhwilds_series_name_doshaguma_s_might: "벽수의 힘",
+  mhwilds_series_name_rathalos_s_flare: "화룡의 힘",
+  mhwilds_series_name_xu_wu_s_vigor: "암기소의 힘",
+  mhwilds_series_name_gravios_s_protection: "개룡의 수호",
+  mhwilds_series_name_blangonga_s_spirit: "눈사자의 투지",
+  mhwilds_series_name_ebony_odogaron_s_power: "흉조룡의 힘",
+  mhwilds_series_name_fulgur_anjanath_s_will: "뇌악룡의 투지",
+  mhwilds_series_name_uth_duna_s_cover: "파의룡의 수호",
+  mhwilds_series_name_rey_dau_s_voltage: "황뢰룡의 힘",
+  mhwilds_series_name_nu_udra_s_mutiny: "염옥소의 반역",
+  mhwilds_series_name_jin_dahaad_s_revolt: "동봉룡의 반역",
+  mhwilds_series_name_gore_magala_s_tyranny: "흑식룡의 힘",
+  mhwilds_series_name_arkveld_s_hunger: "쇄인룡의 굶주림",
+  mhwilds_series_name_guardian_arkveld_s_vitality: "호쇄인룡의 명맥",
+  mhwilds_series_name_mizutsune_s_prowess: "포호룡의 힘",
+  mhwilds_series_name_zoh_shia_s_pulse: "백열룡의 맥동",
+};
+
+export const mhWildsSeriesSkillKo = {
   mhwilds_series_skill_powerhouse_i: "힘자랑Ⅰ",
   mhwilds_series_skill_powerhouse_ii: "힘자랑Ⅱ",
-
-  mhwilds_series_name_rathalos_s_flare: "화룡의 힘",
   mhwilds_series_skill_scorcher_i: "작열화Ⅰ",
   mhwilds_series_skill_scorcher_ii: "작열화Ⅱ",
-
-  mhwilds_series_name_xu_wu_s_vigor: "암기소의 힘",
   mhwilds_series_skill_protein_fiend_i: "만용의 식탁Ⅰ",
   mhwilds_series_skill_protein_fiend_ii: "만용의 식탁Ⅱ",
-
-  mhwilds_series_name_gravios_s_protection: "개룡의 수호",
   mhwilds_series_skill_flawless_armor_i: "무결점의 방어Ⅰ",
   mhwilds_series_skill_flawless_armor_ii: "무결점의 방어Ⅱ",
-
-  mhwilds_series_name_blangonga_s_spirit: "눈사자의 투지",
   mhwilds_series_skill_war_cry_i: "전투의 함성Ⅰ",
   mhwilds_series_skill_war_cry_ii: "전투의 함성Ⅱ",
-
-  mhwilds_series_name_ebony_odogaron_s_power: "흉조룡의 힘",
   mhwilds_series_skill_burst_boost_i: "연격 강화Ⅰ",
   mhwilds_series_skill_burst_boost_ii: "연격 강화Ⅱ",
-
-  mhwilds_series_name_fulgur_anjanath_s_will: "뇌악룡의 투지",
   mhwilds_series_skill_second_wind_i: "무진장Ⅰ",
   mhwilds_series_skill_second_wind_ii: "무진장Ⅱ",
-
-  mhwilds_series_name_uth_duna_s_cover: "파의룡의 수호",
   mhwilds_series_skill_protective_veil_i: "수호의 베일Ⅰ",
   mhwilds_series_skill_protective_veil_ii: "수호의 베일Ⅱ",
-
-  mhwilds_series_name_rey_dau_s_voltage: "황뢰룡의 힘",
   mhwilds_series_skill_thunderous_roar_i: "천둥소리Ⅰ",
   mhwilds_series_skill_thunderous_roar_ii: "천둥소리Ⅱ",
-
-  mhwilds_series_name_nu_udra_s_mutiny: "염옥소의 반역",
   mhwilds_series_skill_bad_blood_i: "한격Ⅰ",
   mhwilds_series_skill_bad_blood_ii: "한격Ⅱ",
-
-  mhwilds_series_name_jin_dahaad_s_revolt: "동봉룡의 반역",
   mhwilds_series_skill_binding_counter_i: "속박 반격Ⅰ",
   mhwilds_series_skill_binding_counter_ii: "속박 반격Ⅱ",
-
-  mhwilds_series_name_gore_magala_s_tyranny: "흑식룡의 힘",
   mhwilds_series_skill_black_eclipse_i: "흑식일체Ⅰ",
   mhwilds_series_skill_black_eclipse_ii: "흑식일체Ⅱ",
-
-  mhwilds_series_name_arkveld_s_hunger: "쇄인룡의 굶주림",
   mhwilds_series_skill_hasten_recovery_i: "가속 재생Ⅰ",
   mhwilds_series_skill_hasten_recovery_ii: "가속 재생Ⅱ",
-
-  mhwilds_series_name_guardian_arkveld_s_vitality: "호쇄인룡의 명맥",
   mhwilds_series_skill_decimator_i: "파괴 충동Ⅰ",
   mhwilds_series_skill_decimator_ii: "파괴 충동Ⅱ",
-
-  mhwilds_series_name_mizutsune_s_prowess: "포호룡의 힘",
   mhwilds_series_skill_bubbly_dance_i: "거품의 춤Ⅰ",
   mhwilds_series_skill_bubbly_dance_ii: "거품의 춤Ⅱ",
-
-  mhwilds_series_name_zoh_shia_s_pulse: "백열룡의 맥동",
   mhwilds_series_skill_super_recovery_i: "슈퍼회복력Ⅰ",
   mhwilds_series_skill_super_recovery_ii: "슈퍼회복력Ⅱ",
 };
 
-export const mhWildsGroupSkillKo = {
+export const mhWildsGroupNameKo = {
   mhwilds_group_name_fortifying_pelt: "모피의 고양",
-  mhwilds_group_skill_fortify: "불굴",
-
   mhwilds_group_name_scaling_prowess: "비늘 붙이기 기법",
-  mhwilds_group_skill_master_mounter: "탑승 명인",
-
   mhwilds_group_name_flexible_leathercraft: "가죽세공의 유연성",
-  mhwilds_group_skill_hunter_gatherer: "채집의 달인",
-
   mhwilds_group_name_neopteron_alert: "갑충의 알림",
-  mhwilds_group_skill_honey_hunter: "허니 헌터",
-
   mhwilds_group_name_neopteron_camouflage: "갑충의 의태",
-  mhwilds_group_skill_fleetfoot: "슬금슬금",
-
   mhwilds_group_name_scale_layering: "비늘 겹치기 연구",
-  mhwilds_group_skill_adrenaline: "분발",
-
   mhwilds_group_name_buttery_leathercraft: "가죽세공의 광택성",
-  mhwilds_group_skill_affinity_sliding: "활주 강화",
-
   mhwilds_group_name_alluring_pelt: "모피의 유혹",
-  mhwilds_group_skill_diversion: "양동",
-
   mhwilds_group_name_lord_s_favor: "주인의 긍지",
-  mhwilds_group_skill_inspiration: "격려",
-
   mhwilds_group_name_lord_s_fury: "주인의 분노",
-  mhwilds_group_skill_resuscitate: "돌파구",
-
   mhwilds_group_name_guardian_s_pulse: "수호룡의 맥동",
-  mhwilds_group_skill_wylk_burst: "용유 활성",
-
   mhwilds_group_name_guardian_s_protection: "수호룡의 방어",
-  mhwilds_group_skill_ward_of_wyveria: "용도의 가호",
-
   mhwilds_group_name_imparted_wisdom: "선도자의 안내",
-  mhwilds_group_skill_foragers_luck: "탐색자의 행운",
-
   mhwilds_group_name_glory_s_favor: "영광의 명예",
-  mhwilds_group_skill_luck_: "행운",
+};
+
+export const mhWildsGroupSkillKo = {
+  mhwilds_group_skill_fortify: "불굴",
+  mhwilds_group_skill_master_mounter: "탑승 명인",
+  mhwilds_group_skill_hunter_gatherer: "채집의 달인",
+  mhwilds_group_skill_honey_hunter: "허니 헌터",
+  mhwilds_group_skill_fleetfoot: "슬금슬금",
+  mhwilds_group_skill_adrenaline: "분발",
+  mhwilds_group_skill_affinity_sliding: "활주 강화",
+  mhwilds_group_skill_diversion: "양동",
+  mhwilds_group_skill_inspiration: "격려",
+  mhwilds_group_skill_resuscitate: "돌파구",
+  mhwilds_group_skill_wylk_burst: "용유 활성",
+  mhwilds_group_skill_ward_of_wyveria: "용도의 가호",
+  mhwilds_group_skill_foragers_luck: "탐색자의 행운",
+  mhwilds_group_skill_luck: "행운",
 };

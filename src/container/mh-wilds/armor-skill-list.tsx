@@ -1,33 +1,50 @@
+"use client";
+
+import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
+import { mhWildsArmorSkillData } from "@/data/mh-wilds";
+import { NoResults } from "@container/common/no-results";
 
 interface ArmorSkillListProps {
   searchTerm: string;
 }
 
+interface ArmorSkill {
+  name: string;
+}
+
 export function ArmorSkillList({ searchTerm }: ArmorSkillListProps) {
   const { getNamespaceData } = useI18n();
-  const translations = getNamespaceData("mhWilds_armor_skill");
-  const commonTranslations = getNamespaceData("mhWilds_common");
+  const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor");
+  const mhWildsArmorSkillNamespace = getNamespaceData("mhWilds_armor_skill");
 
-  const filtered = Object.entries(translations || {}).filter(([, value]) =>
-    value.toLowerCase().includes(searchTerm.toLowerCase())
+  const filteredArmorSkillList = (mhWildsArmorSkillData as ArmorSkill[]).filter(
+    ({ name }) =>
+      (mhWildsArmorNamespace[name] ?? name)
+        .toLowerCase()
+        .includes(searchTerm.toLowerCase())
   );
 
-  if (filtered.length === 0) {
-    return (
-      <div className="text-center py-8 text-gray-500">
-        {commonTranslations.mhwilds_common_noResults}
-      </div>
-    );
-  }
-
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {filtered.map(([key, value]) => (
-        <div key={key} className="border p-4 rounded shadow">
-          <div className="font-semibold">{value}</div>
-        </div>
-      ))}
-    </div>
+    <>
+      {filteredArmorSkillList.length === 0 ? (
+        <NoResults />
+      ) : (
+        <>
+          <div className=" gap-4 text-sm">
+            {filteredArmorSkillList.map(({ name }) => (
+              <div key={name} className="border p-4 rounded shadow space-y-2">
+                <div className="font-semibold text-base">
+                  {mhWildsArmorSkillNamespace[name]}
+                </div>
+                <div className="bg-gray-800 text-white rounded p-4">
+                  todo: 스킬내용 추가해야함
+                </div>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
+    </>
   );
 }

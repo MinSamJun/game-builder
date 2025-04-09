@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import mhWildsCharmData from "@/data/mh-wilds/mhwilds-charm-i18n.json";
+import { mhWildsCharmData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
 interface CharmListProps {

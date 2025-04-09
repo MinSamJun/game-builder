@@ -8,9 +8,17 @@ export const mhWildsCommonJa = {
   mhwilds_common_none: "なし",
   mhWilds_common_armor: "防具",
   mhWilds_common_charm: "護石",
+  mhwilds_common_head: "頭",
+  mhwilds_common_chest: "胴",
+  mhwilds_common_arms: "腕",
+  mhwilds_common_waist: "腰",
+  mhwilds_common_legs: "脚",
   mhWilds_common_armor_skill: "防具のスキル",
-  mhwilds_common_armor_series_skill: "シリーズスキル",
-  mhwilds_common_armor_group_skill: "グループスキル",
+  mhwilds_common_series_skill: "シリーズスキル",
+  mhwilds_common_skill2: "スキル2",
+  mhwilds_common_skill4: "スキル4",
+  mhwilds_common_group_name: "グループ名",
+  mhwilds_common_group_skill: "グループスキル",
   mhwilds_common_low_rank: "下位",
   mhwilds_common_high_rank: "上位",
   mhwilds_common_master_rank: "マスター",
@@ -827,112 +835,90 @@ export const mhWildsSlotJa = {
   mhwilds_slot_lv3: "LV3スロット",
 };
 
-export const mhWildsSeriesSkillJa = {
+export const mhWildsSeriesNameJa = {
   mhwilds_series_name_doshaguma_s_might: "闢獣の力",
+  mhwilds_series_name_rathalos_s_flare: "火竜の力",
+  mhwilds_series_name_xu_wu_s_vigor: "暗器蛸の力",
+  mhwilds_series_name_gravios_s_protection: "鎧竜の守護",
+  mhwilds_series_name_blangonga_s_spirit: "雪獅子の闘志",
+  mhwilds_series_name_ebony_odogaron_s_power: "兇爪竜の力",
+  mhwilds_series_name_fulgur_anjanath_s_will: "雷顎竜の闘志",
+  mhwilds_series_name_uth_duna_s_cover: "波衣竜の守護",
+  mhwilds_series_name_rey_dau_s_voltage: "煌雷竜の力",
+  mhwilds_series_name_nu_udra_s_mutiny: "獄焔蛸の反逆",
+  mhwilds_series_name_jin_dahaad_s_revolt: "凍峰竜の反逆",
+  mhwilds_series_name_gore_magala_s_tyranny: "黒蝕竜の力",
+  mhwilds_series_name_arkveld_s_hunger: "鎖刃竜の飢餓",
+  mhwilds_series_name_guardian_arkveld_s_vitality: "護鎖刃竜の命脈",
+  mhwilds_series_name_mizutsune_s_prowess: "泡狐竜の力",
+  mhwilds_series_name_zoh_shia_s_pulse: "白熾龍の脈動",
+};
+
+export const mhWildsSeriesSkillJa = {
   mhwilds_series_skill_powerhouse_i: "力自慢Ⅰ",
   mhwilds_series_skill_powerhouse_ii: "力自慢Ⅱ",
-
-  mhwilds_series_name_rathalos_s_flare: "火竜の力",
   mhwilds_series_skill_scorcher_i: "灼熱化Ⅰ",
   mhwilds_series_skill_scorcher_ii: "灼熱化Ⅱ",
-
-  mhwilds_series_name_xu_wu_s_vigor: "暗器蛸の力",
   mhwilds_series_skill_protein_fiend_i: "蛮勇の食卓Ⅰ",
   mhwilds_series_skill_protein_fiend_ii: "蛮勇の食卓Ⅱ",
-
-  mhwilds_series_name_gravios_s_protection: "鎧竜の守護",
   mhwilds_series_skill_flawless_armor_i: "無傷の重装Ⅰ",
   mhwilds_series_skill_flawless_armor_ii: "無傷の重装Ⅱ",
-
-  mhwilds_series_name_blangonga_s_spirit: "雪獅子の闘志",
   mhwilds_series_skill_war_cry_i: "ウォークライⅠ",
   mhwilds_series_skill_war_cry_ii: "ウォークライⅡ",
-
-  mhwilds_series_name_ebony_odogaron_s_power: "兇爪竜の力",
   mhwilds_series_skill_burst_boost_i: "連撃強化Ⅰ",
   mhwilds_series_skill_burst_boost_ii: "連撃強化Ⅱ",
-
-  mhwilds_series_name_fulgur_anjanath_s_will: "雷顎竜の闘志",
   mhwilds_series_skill_second_wind_i: "無尽蔵Ⅰ",
   mhwilds_series_skill_second_wind_ii: "無尽蔵Ⅱ",
-
-  mhwilds_series_name_uth_duna_s_cover: "波衣竜の守護",
   mhwilds_series_skill_protective_veil_i: "守護のヴェールⅠ",
   mhwilds_series_skill_protective_veil_ii: "守護のヴェールⅡ",
-
-  mhwilds_series_name_rey_dau_s_voltage: "煌雷竜の力",
   mhwilds_series_skill_thunderous_roar_i: "雷々響鳴Ⅰ",
   mhwilds_series_skill_thunderous_roar_ii: "雷々響鳴Ⅱ",
-
-  mhwilds_series_name_nu_udra_s_mutiny: "獄焔蛸の反逆",
   mhwilds_series_skill_bad_blood_i: "恨撃Ⅰ",
   mhwilds_series_skill_bad_blood_ii: "恨撃Ⅱ",
-
-  mhwilds_series_name_jin_dahaad_s_revolt: "凍峰竜の反逆",
   mhwilds_series_skill_binding_counter_i: "束縛反攻Ⅰ",
   mhwilds_series_skill_binding_counter_ii: "束縛反攻Ⅱ",
-
-  mhwilds_series_name_gore_magala_s_tyranny: "黒蝕竜の力",
   mhwilds_series_skill_black_eclipse_i: "黒蝕一体Ⅰ",
   mhwilds_series_skill_black_eclipse_ii: "黒蝕一体Ⅱ",
-
-  mhwilds_series_name_arkveld_s_hunger: "鎖刃竜の飢餓",
   mhwilds_series_skill_hasten_recovery_i: "加速再生Ⅰ",
   mhwilds_series_skill_hasten_recovery_ii: "加速再生Ⅱ",
-
-  mhwilds_series_name_guardian_arkveld_s_vitality: "護鎖刃竜の命脈",
   mhwilds_series_skill_decimator_i: "破壊衝動Ⅰ",
   mhwilds_series_skill_decimator_ii: "破壊衝動Ⅱ",
-
-  mhwilds_series_name_mizutsune_s_prowess: "泡狐竜の力",
   mhwilds_series_skill_bubbly_dance_i: "泡狐の舞Ⅰ",
   mhwilds_series_skill_bubbly_dance_ii: "泡狐の舞Ⅱ",
-
-  mhwilds_series_name_zoh_shia_s_pulse: "白熾龍の脈動",
   mhwilds_series_skill_super_recovery_i: "超回復Ⅰ",
   mhwilds_series_skill_super_recovery_ii: "超回復Ⅱ",
 };
 
-export const mhWildsGroupSkillJa = {
+export const mhWildsGroupNameJa = {
   mhwilds_group_name_fortifying_pelt: "毛皮の昂揚",
-  mhwilds_group_skill_fortify: "不屈",
-
   mhwilds_group_name_scaling_prowess: "鱗張りの技法",
-  mhwilds_group_skill_master_mounter: "乗り名人",
-
   mhwilds_group_name_flexible_leathercraft: "革細工の柔性",
-  mhwilds_group_skill_hunter_gatherer: "採集の達人",
-
   mhwilds_group_name_neopteron_alert: "甲虫の知らせ",
-  mhwilds_group_skill_honey_hunter: "ハニーハンター",
-
   mhwilds_group_name_neopteron_camouflage: "甲虫の擬態",
-  mhwilds_group_skill_fleetfoot: "忍び歩き",
-
   mhwilds_group_name_scale_layering: "鱗重ねの工夫",
-  mhwilds_group_skill_adrenaline: "奮起",
-
   mhwilds_group_name_buttery_leathercraft: "革細工の滑性",
-  mhwilds_group_skill_affinity_sliding: "滑走強化",
-
   mhwilds_group_name_alluring_pelt: "毛皮の誘惑",
-  mhwilds_group_skill_diversion: "陽動",
-
   mhwilds_group_name_lord_s_favor: "ヌシの誇り",
-  mhwilds_group_skill_inspiration: "激励",
-
   mhwilds_group_name_lord_s_fury: "ヌシの憤激",
-  mhwilds_group_skill_resuscitate: "死中に活",
-
   mhwilds_group_name_guardian_s_pulse: "護竜の脈動",
-  mhwilds_group_skill_wylk_burst: "竜乳活性",
-
   mhwilds_group_name_guardian_s_protection: "護竜の守り",
-  mhwilds_group_skill_ward_of_wyveria: "竜都の護り",
-
   mhwilds_group_name_imparted_wisdom: "先達の導き",
-  mhwilds_group_skill_foragers_luck: "探索者の幸運",
-
   mhwilds_group_name_glory_s_favor: "栄光の誉れ",
-  mhwilds_group_skill_luck_: "幸運",
+};
+
+export const mhWildsGroupSkillJa = {
+  mhwilds_group_skill_fortify: "不屈",
+  mhwilds_group_skill_master_mounter: "乗り名人",
+  mhwilds_group_skill_hunter_gatherer: "採集の達人",
+  mhwilds_group_skill_honey_hunter: "ハニーハンター",
+  mhwilds_group_skill_fleetfoot: "忍び歩き",
+  mhwilds_group_skill_adrenaline: "奮起",
+  mhwilds_group_skill_affinity_sliding: "滑走強化",
+  mhwilds_group_skill_diversion: "陽動",
+  mhwilds_group_skill_inspiration: "激励",
+  mhwilds_group_skill_resuscitate: "死中に活",
+  mhwilds_group_skill_wylk_burst: "竜乳活性",
+  mhwilds_group_skill_ward_of_wyveria: "竜都の護り",
+  mhwilds_group_skill_foragers_luck: "探索者の幸運",
+  mhwilds_group_skill_luck: "幸運",
 };
