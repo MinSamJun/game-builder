@@ -65,12 +65,14 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
     <div>
       <div className="flex flex-wrap gap-2 mb-4">
         <button
-          key={"head"}
+          key={"mhwilds_head"}
           onClick={() =>
-            setSelectedPart(selectedPart === "head" ? null : "head")
+            setSelectedPart(
+              selectedPart === "mhwilds_head" ? null : "mhwilds_head"
+            )
           }
           className={`px-3 py-1 rounded border ${
-            selectedPart === "head"
+            selectedPart === "mhwilds_head"
               ? "bg-blue-500 text-white"
               : "bg-white text-gray-700"
           }`}
@@ -79,12 +81,14 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
         </button>
 
         <button
-          key={"chest"}
+          key={"mhwilds_chest"}
           onClick={() =>
-            setSelectedPart(selectedPart === "chest" ? null : "chest")
+            setSelectedPart(
+              selectedPart === "mhwilds_chest" ? null : "mhwilds_chest"
+            )
           }
           className={`px-3 py-1 rounded border ${
-            selectedPart === "chest"
+            selectedPart === "mhwilds_chest"
               ? "bg-blue-500 text-white"
               : "bg-white text-gray-700"
           }`}
@@ -93,12 +97,14 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
         </button>
 
         <button
-          key={"arms"}
+          key={"mhwilds_arms"}
           onClick={() =>
-            setSelectedPart(selectedPart === "arms" ? null : "arms")
+            setSelectedPart(
+              selectedPart === "mhwilds_arms" ? null : "mhwilds_arms"
+            )
           }
           className={`px-3 py-1 rounded border ${
-            selectedPart === "arms"
+            selectedPart === "mhwilds_arms"
               ? "bg-blue-500 text-white"
               : "bg-white text-gray-700"
           }`}
@@ -107,12 +113,14 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
         </button>
 
         <button
-          key={"waist"}
+          key={"mhwilds_waist"}
           onClick={() =>
-            setSelectedPart(selectedPart === "waist" ? null : "waist")
+            setSelectedPart(
+              selectedPart === "mhwilds_waist" ? null : "mhwilds_waist"
+            )
           }
           className={`px-3 py-1 rounded border ${
-            selectedPart === "waist"
+            selectedPart === "mhwilds_waist"
               ? "bg-blue-500 text-white"
               : "bg-white text-gray-700"
           }`}
@@ -121,12 +129,14 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
         </button>
 
         <button
-          key={"legs"}
+          key={"mhwilds_legs"}
           onClick={() =>
-            setSelectedPart(selectedPart === "legs" ? null : "legs")
+            setSelectedPart(
+              selectedPart === "mhwilds_legs" ? null : "mhwilds_legs"
+            )
           }
           className={`px-3 py-1 rounded border ${
-            selectedPart === "legs"
+            selectedPart === "mhwilds_legs"
               ? "bg-blue-500 text-white"
               : "bg-white text-gray-700"
           }`}

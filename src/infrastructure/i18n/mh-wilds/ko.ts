@@ -33,164 +33,204 @@ export const mhWildsArmorKo = {
   mhwilds_armor_hope_vambraces: "호프암",
   mhwilds_armor_hope_coil: "호프코일",
   mhwilds_armor_hope_greaves: "호프그리브",
+
   mhwilds_armor_doshaguma_helm: "도샤구마헬름",
   mhwilds_armor_doshaguma_mail: "도샤구마메일",
   mhwilds_armor_doshaguma_braces: "도샤구마암",
   mhwilds_armor_doshaguma_coil: "도샤구마코일",
   mhwilds_armor_doshaguma_greaves: "도샤구마그리브",
+
   mhwilds_armor_balahara_helm: "발라헬름",
   mhwilds_armor_balahara_mail: "발라메일",
   mhwilds_armor_balahara_vambraces: "발라암",
   mhwilds_armor_balahara_coil: "발라코일",
   mhwilds_armor_balahara_greaves: "발라그리브",
+
   mhwilds_armor_chatacabra_helm: "차타헬름",
   mhwilds_armor_chatacabra_mail: "차타메일",
   mhwilds_armor_chatacabra_vambraces: "차타암",
   mhwilds_armor_chatacabra_coil: "차타코일",
   mhwilds_armor_chatacabra_greaves: "차타그리브",
+
   mhwilds_armor_leather_headgear: "레더헤드",
   mhwilds_armor_leather_vest: "레더베스트",
   mhwilds_armor_leather_gloves: "레더글러브",
   mhwilds_armor_leather_belt: "레더벨트",
   mhwilds_armor_leather_pants: "레더팬츠",
+
   mhwilds_armor_chainmail_headgear: "체인헤드",
   mhwilds_armor_chainmail_vest: "체인베스트",
   mhwilds_armor_chainmail_gloves: "체인글러브",
   mhwilds_armor_chainmail_belt: "체인벨트",
   mhwilds_armor_chainmail_pants: "체인팬츠",
+
   mhwilds_armor_bone_helm: "본헬름",
   mhwilds_armor_bone_mail: "본메일",
   mhwilds_armor_bone_vambraces: "본암",
   mhwilds_armor_bone_coil: "본코일",
   mhwilds_armor_bone_greaves: "본그리브",
+
   mhwilds_armor_bulaqchi_specs: "브라치카글라스",
+
   mhwilds_armor_talioth_vambraces: "탈리오스암",
+
   mhwilds_armor_quematrice_helm: "트리스헬름",
   mhwilds_armor_quematrice_mail: "트리스메일",
   mhwilds_armor_quematrice_braces: "트리스암",
   mhwilds_armor_quematrice_coil: "트리스코일",
   mhwilds_armor_quematrice_greaves: "트리스그리브",
+
   mhwilds_armor_alloy_helm: "얼로이헬름",
   mhwilds_armor_alloy_mail: "얼로이메일",
   mhwilds_armor_alloy_vambraces: "얼로이암",
   mhwilds_armor_alloy_coil: "얼로이코일",
   mhwilds_armor_alloy_greaves: "얼로이그리브",
+
   mhwilds_armor_piragill_greaves: "필라길그리브",
+
   mhwilds_armor_vespoid_helm: "랑고헬름",
   mhwilds_armor_vespoid_mail: "랑고메일",
   mhwilds_armor_vespoid_vambraces: "랑고암",
   mhwilds_armor_vespoid_coil: "랑고코일",
   mhwilds_armor_vespoid_greaves: "랑고그리브",
+
   mhwilds_armor_gajau_boots: "가쟈우부츠",
+
   mhwilds_armor_barina_headgear: "라바라헬름",
   mhwilds_armor_barina_mail: "라바라메일",
   mhwilds_armor_barina_vambraces: "라바라암",
   mhwilds_armor_barina_coil: "라바라코일",
   mhwilds_armor_barina_greaves: "라바라그리브",
+
   mhwilds_armor_conga_helm: "콩가헬름",
   mhwilds_armor_conga_mail: "콩가메일",
   mhwilds_armor_conga_vambraces: "콩가암",
   mhwilds_armor_conga_coil: "콩가코일",
   mhwilds_armor_conga_greaves: "콩가그리브",
+
   mhwilds_armor_ingot_helm: "잉곳헬름",
   mhwilds_armor_ingot_mail: "잉곳메일",
   mhwilds_armor_ingot_vambraces: "잉곳암",
   mhwilds_armor_ingot_coil: "잉곳코일",
   mhwilds_armor_ingot_greaves: "잉곳그리브",
+
   mhwilds_armor_kranodath_mail: "크라노다스메일",
+
   mhwilds_armor_comaqchi_accessory: "네라치카액세서리",
+
   mhwilds_armor_rompopolo_helm: "푸포루헬름",
   mhwilds_armor_rompopolo_mail: "푸포루메일",
   mhwilds_armor_rompopolo_vambraces: "푸포루암",
   mhwilds_armor_rompopolo_coil: "푸포루코일",
   mhwilds_armor_rompopolo_greaves: "푸포루그리브",
+
   mhwilds_armor_nerscylla_helm: "스큐라헬름",
   mhwilds_armor_nerscylla_mail: "스큐라메일",
   mhwilds_armor_nerscylla_vambraces: "스큐라암",
   mhwilds_armor_nerscylla_coil: "스큐라코일",
   mhwilds_armor_nerscylla_greaves: "스큐라그리브",
+
   mhwilds_armor_hirabami_headdress: "히라바미헬름",
   mhwilds_armor_hirabami_mail: "히라바미메일",
   mhwilds_armor_hirabami_vambraces: "히라바미암",
   mhwilds_armor_hirabami_coil: "히라바미코일",
   mhwilds_armor_hirabami_greaves: "히라바미그리브",
+
   mhwilds_armor_ajarakan_helm: "아자라헬름",
   mhwilds_armor_ajarakan_mail: "아자라메일",
   mhwilds_armor_ajarakan_vambraces: "아자라암",
   mhwilds_armor_ajarakan_coil: "아자라코일",
   mhwilds_armor_ajarakan_greaves: "아자라그리브",
+
   mhwilds_armor_g_seikret_coil: "수호룡 세크레트코일",
+
   mhwilds_armor_duna_helm: "투나물헬름",
   mhwilds_armor_duna_mail: "투나물메일",
   mhwilds_armor_duna_vambraces: "투나물암",
   mhwilds_armor_duna_coil: "투나물코일",
   mhwilds_armor_duna_greaves: "투나물그리브",
+
   mhwilds_armor_rey_sandhelm: "레다젤트헬름",
   mhwilds_armor_rey_sandmail: "레다젤트메일",
   mhwilds_armor_rey_sandbraces: "레다젤트암",
   mhwilds_armor_rey_sandcoil: "레다젤트코일",
   mhwilds_armor_rey_sandgreaves: "레다젤트그리브",
+
   mhwilds_armor_udra_mirehelm: "이그졸스헬름",
   mhwilds_armor_udra_miremail: "이그졸스메일",
   mhwilds_armor_udra_mirebraces: "이그졸스암",
   mhwilds_armor_udra_mirecoil: "이그졸스코일",
   mhwilds_armor_udra_miregreaves: "이그졸스그리브",
+
   mhwilds_armor_g_doshaguma_helm: "호벽수헬름",
   mhwilds_armor_g_doshaguma_mail: "호벽수메일",
   mhwilds_armor_g_doshaguma_braces: "호벽수암",
   mhwilds_armor_g_doshaguma_coil: "호벽수코일",
   mhwilds_armor_g_doshaguma_greaves: "호벽수그리브",
+
   mhwilds_armor_g_rathalos_helm: "호화룡헬름",
   mhwilds_armor_g_rathalos_mail: "호화룡메일",
   mhwilds_armor_g_rathalos_vambraces: "호화룡암",
   mhwilds_armor_g_rathalos_coil: "호화룡코일",
   mhwilds_armor_g_rathalos_greaves: "호화룡그리브",
+
   mhwilds_armor_g_ebony_helm: "호흉조룡헬름",
   mhwilds_armor_g_ebony_mail: "호흉조룡메일",
   mhwilds_armor_g_ebony_braces: "호흉조룡암",
   mhwilds_armor_g_ebony_coil: "호흉조룡코일",
   mhwilds_armor_g_ebony_greaves: "호흉조룡그리브",
+
   mhwilds_armor_xu_wu_helm: "시이우헬름",
   mhwilds_armor_xu_wu_mail: "시이우메일",
   mhwilds_armor_xu_wu_vambraces: "시이우암",
   mhwilds_armor_xu_wu_coil: "시이우코일",
   mhwilds_armor_xu_wu_greaves: "시이우그리브",
+
   mhwilds_armor_g_arkveld_helm: "호쇄인룡헬름",
   mhwilds_armor_g_arkveld_mail: "호쇄인룡메일",
   mhwilds_armor_g_arkveld_vambraces: "호쇄인룡암",
   mhwilds_armor_g_arkveld_coil: "호쇄인룡코일",
   mhwilds_armor_g_arkveld_greaves: "호쇄인룡그리브",
+
   mhwilds_armor_hope_maskα: "호프마스크α",
   mhwilds_armor_hope_mailα: "호프메일α",
   mhwilds_armor_hope_vambracesα: "호프암α",
   mhwilds_armor_hope_coilα: "호프코일α",
   mhwilds_armor_hope_greavesα: "호프그리브α",
+
   mhwilds_armor_leather_headgearα: "레더헤드α",
   mhwilds_armor_leather_mailα: "레더베스트α",
   mhwilds_armor_leather_glovesα: "레더글러브α",
   mhwilds_armor_leather_beltα: "레더벨트α",
   mhwilds_armor_leather_pantsα: "레더팬츠α",
+
   mhwilds_armor_chainmail_headgearα: "체인헤드α",
   mhwilds_armor_chainmail_armorα: "체인베스트α",
   mhwilds_armor_chainmail_glovesα: "체인글러브α",
   mhwilds_armor_chainmail_beltα: "체인벨트α",
   mhwilds_armor_chainmail_pantsα: "체인팬츠α",
+
   mhwilds_armor_bone_helmα: "본헬름α",
   mhwilds_armor_bone_mailα: "본메일α",
   mhwilds_armor_bone_vambracesα: "본암α",
   mhwilds_armor_bone_coilα: "본코일α",
   mhwilds_armor_bone_greavesα: "본그리브α",
+
   mhwilds_armor_alloy_helmα: "얼로이헬름α",
   mhwilds_armor_alloy_mailα: "얼로이메일α",
   mhwilds_armor_alloy_vambracesα: "얼로이암α",
   mhwilds_armor_alloy_coilα: "얼로이코일α",
   mhwilds_armor_alloy_greavesα: "얼로이그리브α",
+
   mhwilds_armor_bulaqchi_specsα: "브라치카글라스α",
   mhwilds_armor_bulaqchi_specsβ: "브라치카글라스β",
+
   mhwilds_armor_talioth_vambracesα: "탈리오스암α",
   mhwilds_armor_talioth_vambracesβ: "탈리오스암β",
+
   mhwilds_armor_piragill_greavesα: "필라길그리브α",
   mhwilds_armor_piragill_greavesβ: "필라길그리브β",
+
   mhwilds_armor_vespoid_helmα: "랑고헬름α",
   mhwilds_armor_vespoid_mailα: "랑고메일α",
   mhwilds_armor_vespoid_vambracesα: "랑고암α",
@@ -201,10 +241,13 @@ export const mhWildsArmorKo = {
   mhwilds_armor_vespoid_vambracesβ: "랑고암β",
   mhwilds_armor_vespoid_coilβ: "랑고코일β",
   mhwilds_armor_vespoid_greavesβ: "랑고그리브β",
+
   mhwilds_armor_kranodath_mailα: "크라노다스메일α",
   mhwilds_armor_kranodath_mailβ: "크라노다스메일β",
+
   mhwilds_armor_comaqchi_accessoryα: "네라치카액세서리α",
   mhwilds_armor_comaqchi_accessoryβ: "네라치카액세서리β",
+
   mhwilds_armor_kutku_helmα: "쿡크헬름α",
   mhwilds_armor_kutku_mailα: "쿡크메일α",
   mhwilds_armor_kutku_vambracesα: "쿡크암α",
@@ -215,6 +258,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_kutku_vambracesβ: "쿡크암β",
   mhwilds_armor_kutku_coilβ: "쿡크코일β",
   mhwilds_armor_kutku_greavesβ: "쿡크그리브β",
+
   mhwilds_armor_chatacabra_helmα: "차타헬름α",
   mhwilds_armor_chatacabra_mailα: "차타메일α",
   mhwilds_armor_chatacabra_vambracesα: "차타암α",
@@ -225,6 +269,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_chatacabra_vambracesβ: "차타암β",
   mhwilds_armor_chatacabra_coilβ: "차타코일β",
   mhwilds_armor_chatacabra_greavesβ: "차타그리브β",
+
   mhwilds_armor_quematrice_helmα: "트리스헬름α",
   mhwilds_armor_quematrice_mailα: "트리스메일α",
   mhwilds_armor_quematrice_bracesα: "트리스암α",
@@ -235,6 +280,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_quematrice_bracesβ: "트리스암β",
   mhwilds_armor_quematrice_coilβ: "트리스코일β",
   mhwilds_armor_quematrice_greavesβ: "트리스그리브β",
+
   mhwilds_armor_barina_headgearα: "라바라헬름α",
   mhwilds_armor_barina_mailα: "라바라메일α",
   mhwilds_armor_barina_vambracesα: "라바라암α",
@@ -245,6 +291,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_barina_vambracesβ: "라바라암β",
   mhwilds_armor_barina_coilβ: "라바라코일β",
   mhwilds_armor_barina_greavesβ: "라바라그리브β",
+
   mhwilds_armor_conga_helmα: "콩가헬름α",
   mhwilds_armor_conga_mailα: "콩가메일α",
   mhwilds_armor_conga_vambracesα: "콩가암α",
@@ -255,6 +302,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_conga_vambracesβ: "콩가암β",
   mhwilds_armor_conga_coilβ: "콩가코일β",
   mhwilds_armor_conga_greavesβ: "콩가그리브β",
+
   mhwilds_armor_rompopolo_helmα: "푸포루헬름α",
   mhwilds_armor_rompopolo_mailα: "푸포루메일α",
   mhwilds_armor_rompopolo_vambracesα: "푸포루암α",
@@ -265,6 +313,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_rompopolo_vambracesβ: "푸포루암β",
   mhwilds_armor_rompopolo_coilβ: "푸포루코일β",
   mhwilds_armor_rompopolo_greavesβ: "푸포루그리브β",
+
   mhwilds_armor_gypceros_helmα: "게리오스헬름α",
   mhwilds_armor_gypceros_mailα: "게리오스메일α",
   mhwilds_armor_gypceros_vambracesα: "게리오스암α",
@@ -275,6 +324,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_gypceros_vambracesβ: "게리오스암β",
   mhwilds_armor_gypceros_coilβ: "게리오스코일β",
   mhwilds_armor_gypceros_greavesβ: "게리오스그리브β",
+
   mhwilds_armor_nerscylla_helmα: "스큐라헬름α",
   mhwilds_armor_nerscylla_mailα: "스큐라메일α",
   mhwilds_armor_nerscylla_vambracesα: "스큐라암α",
@@ -285,6 +335,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_nerscylla_vambracesβ: "스큐라암β",
   mhwilds_armor_nerscylla_coilβ: "스큐라코일β",
   mhwilds_armor_nerscylla_greavesβ: "스큐라그리브β",
+
   mhwilds_armor_balahara_helmα: "발라헬름α",
   mhwilds_armor_balahara_mailα: "발라메일α",
   mhwilds_armor_balahara_vambracesα: "발라암α",
@@ -295,6 +346,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_balahara_vambracesβ: "발라암β",
   mhwilds_armor_balahara_coilβ: "발라코일β",
   mhwilds_armor_balahara_greavesβ: "발라그리브β",
+
   mhwilds_armor_hirabami_headdressα: "히라바미헬름α",
   mhwilds_armor_hirabami_mailα: "히라바미메일α",
   mhwilds_armor_hirabami_vambracesα: "히라바미암α",
@@ -305,6 +357,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_hirabami_vambracesβ: "히라바미암β",
   mhwilds_armor_hirabami_coilβ: "히라바미코일β",
   mhwilds_armor_hirabami_greavesβ: "히라바미그리브β",
+
   mhwilds_armor_rathian_helmα: "레이아헬름α",
   mhwilds_armor_rathian_mailα: "레이아메일α",
   mhwilds_armor_rathian_vambracesα: "레이아암α",
@@ -315,14 +368,18 @@ export const mhWildsArmorKo = {
   mhwilds_armor_rathian_vambracesβ: "레이아암β",
   mhwilds_armor_rathian_coilβ: "레이아코일β",
   mhwilds_armor_rathian_greavesβ: "레이아그리브β",
+
   mhwilds_armor_ingot_helmα: "잉곳헬름α",
   mhwilds_armor_ingot_mailα: "잉곳메일α",
   mhwilds_armor_ingot_vambracesα: "잉곳암α",
   mhwilds_armor_ingot_coilα: "잉곳코일α",
   mhwilds_armor_ingot_greavesα: "잉곳그리브α",
+
   mhwilds_armor_g_seikret_coilα: "수호룡 세크레트코일α",
   mhwilds_armor_g_seikret_coilβ: "수호룡 세크레트코일β",
+
   mhwilds_armor_gajau_bootsα: "가쟈우부츠α",
+
   mhwilds_armor_g_fulgur_helmα: "호뢰악룡헬름α",
   mhwilds_armor_g_fulgur_mailα: "호뢰악룡메일α",
   mhwilds_armor_g_fulgur_vambracesα: "호뢰악룡암α",
@@ -333,6 +390,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_g_fulgur_vambracesβ: "호뢰악룡암β",
   mhwilds_armor_g_fulgur_coilβ: "호뢰악룡코일β",
   mhwilds_armor_g_fulgur_greavesβ: "호뢰악룡그리브β",
+
   mhwilds_armor_doshaguma_helmα: "도샤구마헬름α",
   mhwilds_armor_doshaguma_mailα: "도샤구마메일α",
   mhwilds_armor_doshaguma_bracesα: "도샤구마암α",
@@ -343,6 +401,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_doshaguma_bracesβ: "도샤구마암β",
   mhwilds_armor_doshaguma_coilβ: "도샤구마코일β",
   mhwilds_armor_doshaguma_greavesβ: "도샤구마그리브β",
+
   mhwilds_armor_g_doshaguma_helmα: "호벽수헬름α",
   mhwilds_armor_g_doshaguma_mailα: "호벽수메일α",
   mhwilds_armor_g_doshaguma_bracesα: "호벽수암α",
@@ -353,6 +412,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_g_doshaguma_bracesβ: "호벽수암β",
   mhwilds_armor_g_doshaguma_coilβ: "호벽수코일β",
   mhwilds_armor_g_doshaguma_greavesβ: "호벽수그리브β",
+
   mhwilds_armor_ajarakan_helmα: "아자라헬름α",
   mhwilds_armor_ajarakan_mailα: "아자라메일α",
   mhwilds_armor_ajarakan_vambracesα: "아자라암α",
@@ -363,6 +423,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_ajarakan_vambracesβ: "아자라암β",
   mhwilds_armor_ajarakan_coilβ: "아자라코일β",
   mhwilds_armor_ajarakan_greavesβ: "아자라그리브β",
+
   mhwilds_armor_g_ebony_helmα: "호흉조룡헬름α",
   mhwilds_armor_g_ebony_mailα: "호흉조룡메일α",
   mhwilds_armor_g_ebony_bracesα: "호흉조룡암α",
@@ -373,6 +434,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_g_ebony_bracesβ: "호흉조룡암β",
   mhwilds_armor_g_ebony_coilβ: "호흉조룡코일β",
   mhwilds_armor_g_ebony_greavesβ: "호흉조룡그리브β",
+
   mhwilds_armor_xu_wu_helmα: "시이우헬름α",
   mhwilds_armor_xu_wu_mailα: "시이우메일α",
   mhwilds_armor_xu_wu_vambracesα: "시이우암α",
@@ -383,6 +445,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_xu_wu_vambracesβ: "시이우암β",
   mhwilds_armor_xu_wu_coilβ: "시이우코일β",
   mhwilds_armor_xu_wu_greavesβ: "시이우그리브β",
+
   mhwilds_armor_rathalos_helmα: "레우스헬름α",
   mhwilds_armor_rathalos_mailα: "레우스메일α",
   mhwilds_armor_rathalos_vambracesα: "레우스암α",
@@ -393,6 +456,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_rathalos_vambracesβ: "레우스암β",
   mhwilds_armor_rathalos_coilβ: "레우스코일β",
   mhwilds_armor_rathalos_greavesβ: "레우스그리브β",
+
   mhwilds_armor_g_rathalos_helmα: "호화룡헬름α",
   mhwilds_armor_g_rathalos_mailα: "호화룡메일α",
   mhwilds_armor_g_rathalos_vambracesα: "호화룡암α",
@@ -403,6 +467,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_g_rathalos_vambracesβ: "호화룡암β",
   mhwilds_armor_g_rathalos_coilβ: "호화룡코일β",
   mhwilds_armor_g_rathalos_greavesβ: "호화룡그리브β",
+
   mhwilds_armor_gravios_helmα: "그라비드헬름α",
   mhwilds_armor_gravios_mailα: "그라비드메일α",
   mhwilds_armor_gravios_vambracesα: "그라비드암α",
@@ -413,6 +478,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_gravios_vambracesβ: "그라비드암β",
   mhwilds_armor_gravios_coilβ: "그라비드코일β",
   mhwilds_armor_gravios_greavesβ: "그라비드그리브β",
+
   mhwilds_armor_blango_helmα: "블랑고헬름α",
   mhwilds_armor_blango_mailα: "블랑고메일α",
   mhwilds_armor_blango_vambracesα: "블랑고암α",
@@ -423,66 +489,81 @@ export const mhWildsArmorKo = {
   mhwilds_armor_blango_vambracesβ: "블랑고암β",
   mhwilds_armor_blango_coilβ: "블랑고코일β",
   mhwilds_armor_blango_greavesβ: "블랑고그리브β",
+
   mhwilds_armor_commission_helmα: "조사단헬름α",
   mhwilds_armor_commission_mailα: "조사단메일α",
   mhwilds_armor_commission_vambracesα: "조사단암α",
   mhwilds_armor_commission_coilα: "조사단코일α",
   mhwilds_armor_commission_greavesα: "조사단그리브α",
+
   mhwilds_armor_kunafa_headgearα: "쿠나파헤드α",
   mhwilds_armor_kunafa_cloakα: "쿠나파케이프α",
   mhwilds_armor_kunafa_sashα: "쿠나파벨트α",
   mhwilds_armor_kunafa_chapsα: "쿠나파챕스α",
+
   mhwilds_armor_azuz_headdressα: "아즈즈헤드α",
   mhwilds_armor_azuz_apronα: "아즈즈에이프런α",
   mhwilds_armor_azuz_pantsα: "아즈즈팬츠α",
+
   mhwilds_armor_suja_sashα: "스자의 허리띠α",
+
   mhwilds_armor_sild_hoodα: "실드후드α",
   mhwilds_armor_sild_coatα: "실드코트α",
+
   mhwilds_armor_death_stench_brainα: "데스기어게힐α",
   mhwilds_armor_death_stench_muscleα: "데스기어무스켈α",
   mhwilds_armor_death_stench_gripα: "데스기어파오스트α",
   mhwilds_armor_death_stench_bowelsα: "데스기어네이블α",
   mhwilds_armor_death_stench_heelα: "데스기어페르제α",
+
   mhwilds_armor_butterfly_vertexα: "파피메르테스타α",
   mhwilds_armor_butterfly_thoraxα: "파피메르페트α",
   mhwilds_armor_butterfly_brachiaα: "파피메르마노α",
   mhwilds_armor_butterfly_elytraα: "파피메르앙카α",
   mhwilds_armor_butterfly_cruraα: "파피메르감바α",
+
   mhwilds_armor_king_beetle_vertexα: "킹비트테스타α",
   mhwilds_armor_king_beetle_thoraxα: "킹비트페트α",
   mhwilds_armor_king_beetle_brachiaα: "킹비트마노α",
   mhwilds_armor_king_beetle_elytraα: "킹비트앙카α",
   mhwilds_armor_king_beetle_cruraα: "킹비트감바α",
+
   mhwilds_armor_high_metal_helmα: "하이메탈헬름α",
   mhwilds_armor_high_metal_mailα: "하이메탈메일α",
   mhwilds_armor_high_metal_bracesα: "하이메탈암α",
   mhwilds_armor_high_metal_coilα: "하이메탈코일α",
   mhwilds_armor_high_metal_greavesα: "하이메탈그리브α",
+
   mhwilds_armor_battle_helmα: "배틀헬름α",
   mhwilds_armor_battle_mailα: "배틀메일α",
   mhwilds_armor_battle_vambracesα: "배틀암α",
   mhwilds_armor_battle_coilα: "배틀코일α",
   mhwilds_armor_battle_greavesα: "배틀그리브α",
+
   mhwilds_armor_melahoa_hatα: "멜호아프롤α",
   mhwilds_armor_melahoa_jacketα: "멜호아토론코α",
   mhwilds_armor_melahoa_branchα: "멜호아라마α",
   mhwilds_armor_melahoa_foliaα: "멜호아오하α",
   mhwilds_armor_melahoa_rootsα: "멜호아라이스α",
+
   mhwilds_armor_artian_helmα: "아티어헬름α",
   mhwilds_armor_artian_mailα: "아티어메일α",
   mhwilds_armor_artian_vambracesα: "아티어암α",
   mhwilds_armor_artian_coilα: "아티어코일α",
   mhwilds_armor_artian_greavesα: "아티어그리브α",
+
   mhwilds_armor_dober_helmα: "도베르헬름α",
   mhwilds_armor_dober_mailα: "도베르메일α",
   mhwilds_armor_dober_vambracesα: "도베르암α",
   mhwilds_armor_dober_coilα: "도베르코일α",
   mhwilds_armor_dober_greavesα: "도베르그리브α",
+
   mhwilds_armor_damascus_helmα: "다마스크헬름α",
   mhwilds_armor_damascus_mailα: "다마스크메일α",
   mhwilds_armor_damascus_vambracesα: "다마스크암α",
   mhwilds_armor_damascus_coilα: "다마스크코일α",
   mhwilds_armor_damascus_greavesα: "다마스크그리브α",
+
   mhwilds_armor_dahaad_shardhelmα: "다하딜라헬름α",
   mhwilds_armor_dahaad_shardmailα: "다하딜라메일α",
   mhwilds_armor_dahaad_shardbracesα: "다하딜라암α",
@@ -493,6 +574,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_dahaad_shardbracesβ: "다하딜라암β",
   mhwilds_armor_dahaad_shardcoilβ: "다하딜라코일β",
   mhwilds_armor_dahaad_shardgreavesβ: "다하딜라그리브β",
+
   mhwilds_armor_duna_wildhelmα: "투나물헬름α",
   mhwilds_armor_duna_wildmailα: "투나물메일α",
   mhwilds_armor_duna_wildbracesα: "투나물암α",
@@ -503,6 +585,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_duna_wildbracesβ: "투나물암β",
   mhwilds_armor_duna_wildcoilβ: "투나물코일β",
   mhwilds_armor_duna_wildgreavesβ: "투나물그리브β",
+
   mhwilds_armor_rey_sandhelmα: "레다젤트헬름α",
   mhwilds_armor_rey_sandmailα: "레다젤트메일α",
   mhwilds_armor_rey_sandbracesα: "레다젤트암α",
@@ -513,6 +596,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_rey_sandbracesβ: "레다젤트암β",
   mhwilds_armor_rey_sandcoilβ: "레다젤트코일β",
   mhwilds_armor_rey_sandgreavesβ: "레다젤트그리브β",
+
   mhwilds_armor_udra_mirehelmα: "이그졸스헬름α",
   mhwilds_armor_udra_miremailα: "이그졸스메일α",
   mhwilds_armor_udra_mirebracesα: "이그졸스암α",
@@ -523,6 +607,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_udra_mirebracesβ: "이그졸스암β",
   mhwilds_armor_udra_mirecoilβ: "이그졸스코일β",
   mhwilds_armor_udra_miregreavesβ: "이그졸스그리브β",
+
   mhwilds_armor_gore_helmα: "고어헬름α",
   mhwilds_armor_gore_mailα: "고어메일α",
   mhwilds_armor_gore_vambracesα: "고어암α",
@@ -533,6 +618,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_gore_vambracesβ: "고어암β",
   mhwilds_armor_gore_coilβ: "고어코일β",
   mhwilds_armor_gore_greavesβ: "고어그리브β",
+
   mhwilds_armor_arkvulcan_helmα: "슈바르카헬름α",
   mhwilds_armor_arkvulcan_mailα: "슈바르카메일α",
   mhwilds_armor_arkvulcan_vambracesα: "슈바르카암α",
@@ -543,6 +629,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_arkvulcan_vambracesβ: "슈바르카암β",
   mhwilds_armor_arkvulcan_coilβ: "슈바르카코일β",
   mhwilds_armor_arkvulcan_greavesβ: "슈바르카그리브β",
+
   mhwilds_armor_g_arkveld_helmα: "호쇄인룡헬름α",
   mhwilds_armor_g_arkveld_mailα: "호쇄인룡메일α",
   mhwilds_armor_g_arkveld_vambracesα: "호쇄인룡암α",
@@ -553,14 +640,19 @@ export const mhWildsArmorKo = {
   mhwilds_armor_g_arkveld_vambracesβ: "호쇄인룡암β",
   mhwilds_armor_g_arkveld_coilβ: "호쇄인룡코일β",
   mhwilds_armor_g_arkveld_greavesβ: "호쇄인룡그리브β",
+
   mhwilds_armor_guild_ace_earringsα: "길드에이스피어스α",
   mhwilds_armor_guild_ace_mailα: "길드에이스메일α",
   mhwilds_armor_guild_ace_vambracesα: "길드에이스암α",
   mhwilds_armor_guild_ace_coilα: "길드에이스코일α",
   mhwilds_armor_guild_ace_bootsα: "길드에이스부츠α",
+
   mhwilds_armor_dragonking_eyepatchα: "용왕의 척안α",
+
   mhwilds_armor_mimiphytaα: "꽃성성이α",
+
   mhwilds_armor_expedition_headgearα: "조사대의 귀걸이α",
+
   mhwilds_armor_mizutsune_bracesα: "미츠네암α",
   mhwilds_armor_mizutsune_bracesβ: "미츠네암β",
   mhwilds_armor_mizutsune_coilα: "미츠네 코일α",
@@ -571,6 +663,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_mizutsune_helmβ: "미츠네 헬름β",
   mhwilds_armor_mizutsune_mailα: "미츠네 메일α",
   mhwilds_armor_mizutsune_mailβ: "미츠네 메일β",
+
   mhwilds_armor_numinous_crownα: "무구한 용관α",
   mhwilds_armor_numinous_shroudα: "무구한 용갑옷α",
   mhwilds_armor_numinous_vambracesα: "무구한 용갑α",
