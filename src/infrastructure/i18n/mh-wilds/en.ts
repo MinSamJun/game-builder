@@ -20,6 +20,8 @@ export const mhWildsCommonEn = {
   mhwilds_common_thunder: "Thunder",
   mhwilds_common_ice: "Ice",
   mhwilds_common_dragon: "Dragon",
+  mhwilds_common_next_page: "Next Page",
+  mhwilds_common_prev_page: "Previous Page",
 };
 
 export const mhWildsArmorEn = {

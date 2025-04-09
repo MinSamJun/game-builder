@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import mhWildsArmorData from "@/data/mh-wilds/mhwilds-armors-i18n.json";
 import { NoResults } from "@container/common/no-results";
@@ -21,9 +21,9 @@ interface Armor {
 }
 
 export function ArmorList({ searchTerm }: ArmorListProps) {
-  const [selectedPart, setSelectedPart] = useState<string | null>(null);
-  const [selectedRank, setSelectedRank] = useState<string | null>(null);
-  const [page, setPage] = useState(1);
+  const [selectedPart, setSelectedPart] = React.useState<string | null>(null);
+  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
+  const [page, setPage] = React.useState(1);
   const { getNamespaceData } = useI18n();
   const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor") ?? {};
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
@@ -192,12 +192,12 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
             {paginatedArmorList.map(
               ({ name, skills, slots, seriesSkill, groupSkill, def }) => (
                 <div key={name} className="border p-4 rounded shadow space-y-2">
-                  <div className="flex justify-between items-center">
+                  <div className="flex  items-center">
                     <div className="font-semibold">
                       {mhWildsArmorNamespace[name]}
                     </div>
                     <div className="text-sm text-gray-600  font-weight: font-bold">
-                      {mhWildsCommonNamespace?.mhwilds_common_slots} :
+                      　{mhWildsCommonNamespace?.mhwilds_common_slots} :
                       {slots?.join(" / ")}
                     </div>
                   </div>
@@ -272,7 +272,7 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
                       </strong>
                     ) : (
                       <div className="text-gray-400 italic">
-                        No defense data
+                        {mhWildsCommonNamespace?.mhwilds_common_noResults}
                       </div>
                     )}
                   </div>
@@ -285,13 +285,13 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
                   onClick={prevPage}
                   className="px-4 py-2 bg-blue-500 text-white rounded"
                 >
-                  이전페이지
+                  {mhWildsCommonNamespace?.mhwilds_common_prev_page}
                 </button>
                 <button
                   onClick={nextPage}
                   className="px-4 py-2 bg-blue-500 text-white rounded"
                 >
-                  다음페이지
+                  {mhWildsCommonNamespace?.mhwilds_common_next_page}
                 </button>
               </div>
             )}

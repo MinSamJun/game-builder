@@ -20,6 +20,8 @@ export const mhWildsCommonJa = {
   mhwilds_common_thunder: "雷",
   mhwilds_common_ice: "氷",
   mhwilds_common_dragon: "龍",
+  mhwilds_common_next_page: "次のページ",
+  mhwilds_common_prev_page: "前のページ",
 };
 
 export const mhWildsArmorJa = {

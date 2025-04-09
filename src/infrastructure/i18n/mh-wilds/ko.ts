@@ -25,6 +25,8 @@ export const mhWildsCommonKo = {
   mhwilds_common_thunder: "뇌",
   mhwilds_common_ice: "빙",
   mhwilds_common_dragon: "용",
+  mhwilds_common_next_page: "다음 페이지",
+  mhwilds_common_prev_page: "이전 페이지",
 };
 
 export const mhWildsArmorKo = {
