@@ -1,4 +1,4 @@
-import mhWildsArmorData from "./mhwilds-armor.json";
+import mhWildsArmorData from "./mhwilds-armors.json";
 import mhWildsCharmData from "./mhwilds-charm.json";
 import mhWildsArmorSkillData from "./mhwilds-armor-skills.json";
 import mhWildsSeriesSkillData from "./mhwilds-series-skill.json";

@@ -27,9 +27,9 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
   const mhWildsArmorSkillNamespace =
     getNamespaceData("mhWilds_armor_skill") ?? {};
   const mhWildsArmorSeriesSkillNamespace =
-    getNamespaceData("mhWilds_series_skill") ?? {};
+    getNamespaceData("mhWilds_series_name") ?? {};
   const mhWildsArmorGroupSkillNamespace =
-    getNamespaceData("mhWilds_group_skill") ?? {};
+    getNamespaceData("mhWilds_group_name") ?? {};
 
   const [selectedPart, setSelectedPart] = React.useState<string | null>(null);
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
