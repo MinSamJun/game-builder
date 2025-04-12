@@ -1,0 +1,1311 @@
+[
+  {
+    "Name": "hope_glaive_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 1,
+    "Attack": 90,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {},
+    "KinsectLevel": 1
+  },
+  {
+    "Name": "hope_glaive_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 1,
+    "Attack": 100,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_speed_sharpening": 1
+    },
+    "KinsectLevel": 1
+  },
+  {
+    "Name": "hope_glaive_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 3,
+    "Attack": 130,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_critical_eye": 1,
+      "mhwilds_speed_sharpening": 1
+    },
+    "KinsectLevel": 3
+  },
+  {
+    "Name": "hope_glaive_iv",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_speed_sharpening": 2,
+      "mhwilds_critical_eye": 1
+    },
+    "KinsectLevel": 5
+  },
+  {
+    "Name": "hope_glaive_v",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_speed_sharpening": 2,
+      "mhwilds_critical_eye": 1
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "bone_staff_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 1,
+    "Attack": 110,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 1
+  },
+  {
+    "Name": "bone_staff_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 2,
+    "Attack": 130,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_attack_boost": 1,
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 3
+  },
+  {
+    "Name": "bone_staff_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 4,
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 2,
+      "mhwilds_attack_boost": 1
+    },
+    "KinsectLevel": 5
+  },
+  {
+    "Name": "bone_staff_iv",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 3,
+      "mhwilds_attack_boost": 1
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "aerial_glaive",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 230,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 3,
+      "mhwilds_attack_boost": 1
+    },
+    "KinsectLevel": 10
+  },
+  {
+    "Name": "iron_gale_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 2,
+    "Attack": 120,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_critical_draw": 1
+    },
+    "KinsectLevel": 2
+  },
+  {
+    "Name": "iron_gale_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 4,
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      1,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_draw": 2
+    },
+    "KinsectLevel": 4
+  },
+  {
+    "Name": "iron_gale_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      2,
+      2
+    ],
+    "Skills": {
+      "mhwilds_critical_draw": 2
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "chrome_gale",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      3,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_draw": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "chata_glaive_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 1,
+    "Attack": 110,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 15,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_power_prolonger": 1
+    },
+    "KinsectLevel": 1
+  },
+  {
+    "Name": "chata_glaive_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 3,
+    "Attack": 150,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 15,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 3
+  },
+  {
+    "Name": "chata_glaive_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 15,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 5
+  },
+  {
+    "Name": "chata_glaive_iv",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 15,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "barina_perche_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 1,
+    "Attack": 100,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_critical_draw": 1
+    },
+    "KinsectLevel": 1
+  },
+  {
+    "Name": "barina_perche_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 3,
+    "Attack": 120,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_critical_draw": 1,
+      "mhwilds_critical_status": 1
+    },
+    "KinsectLevel": 4
+  },
+  {
+    "Name": "barina_perche_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 150,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_draw": 1,
+      "mhwilds_critical_status": 1
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "barina_perche_iv",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_critical_draw": 2,
+      "mhwilds_critical_status": 1
+    },
+    "KinsectLevel": 9
+  },
+  {
+    "Name": "lala_stromatopelm",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_draw": 2,
+      "mhwilds_critical_status": 1
+    },
+    "KinsectLevel": 10
+  },
+  {
+    "Name": "balahara_glaive_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 2,
+    "Attack": 110,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_power_prolonger": 1
+    },
+    "KinsectLevel": 2
+  },
+  {
+    "Name": "balahara_glaive_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 4,
+    "Attack": 150,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 4
+  },
+  {
+    "Name": "balahara_glaive_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 5
+  },
+  {
+    "Name": "balahara_glaive_iv",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "sandsea_uchaltiya",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "rey_halilintar_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 3,
+    "Attack": 140,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_charge_master": 1,
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 3
+  },
+  {
+    "Name": "rey_halilintar_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_charge_master": 1,
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 5
+  },
+  {
+    "Name": "rey_halilintar_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_focus": 2,
+      "mhwilds_charge_master": 1
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "halilintar_clairglaive",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 2,
+      "mhwilds_charge_master": 1
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "stealth_glaive_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 3,
+    "Attack": 120,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_charge_master": 1,
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 4
+  },
+  {
+    "Name": "stealth_glaive_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 150,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_charge_master": 1,
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "stealth_glaive_iii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_charge_master": 2,
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 9
+  },
+  {
+    "Name": "stealth_glaive_redux",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_charge_master": 2,
+      "mhwilds_focus": 1
+    },
+    "KinsectLevel": 10
+  },
+  {
+    "Name": "ajara_trident_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 3,
+    "Attack": 130,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 3
+  },
+  {
+    "Name": "ajara_trident_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "ajara_bhadra",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "guardian_rathmaul_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 4,
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_element": 1,
+      "mhwilds_master_s_touch": 1
+    },
+    "KinsectLevel": 4
+  },
+  {
+    "Name": "guardian_rathmaul_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_element": 1,
+      "mhwilds_master_s_touch": 1
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "alabaster_rathmaul",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_element": 1,
+      "mhwilds_master_s_touch": 1
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "jin_dhachhad",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "precipice_geumgel",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "chthonian_vajra_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 4,
+    "Attack": 140,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 2
+    },
+    "KinsectLevel": 4
+  },
+  {
+    "Name": "chthonian_vajra_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 3
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "bequeathed_testament",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "g_veldian_trudis_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 4,
+    "Attack": 170,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [
+      1,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 4
+  },
+  {
+    "Name": "g_veldian_trudis_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [
+      2,
+      2
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "g_enduring_tor",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 240,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [
+      3,
+      3,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "kut_ku_pike_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "kut_ku_pike_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 9
+  },
+  {
+    "Name": "toucan_pike",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 10
+  },
+  {
+    "Name": "princess_regalia_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 5,
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_status": 2,
+      "mhwilds_poison_duration_up": 1
+    },
+    "KinsectLevel": 5
+  },
+  {
+    "Name": "princess_regalia_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_critical_status": 3,
+      "mhwilds_poison_duration_up": 1
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "queen_regalia",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_status": 3,
+      "mhwilds_poison_duration_up": 1
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "rising_fulgur_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_element": 3
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "fulgurglaive_guardiana",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_element": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "blizzard_glaive_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 3
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "immaculate_blizzard",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 230,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_focus": 3
+    },
+    "KinsectLevel": 10
+  },
+  {
+    "Name": "graviafaren_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 220,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 30,
+    "Slots": [
+      2,
+      2
+    ],
+    "Skills": {
+      "mhwilds_punishing_draw": 3
+    },
+    "KinsectLevel": 5
+  },
+  {
+    "Name": "gravordius",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 250,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 30,
+    "Slots": [
+      3,
+      3,
+      1
+    ],
+    "Skills": {
+      "mhwilds_punishing_draw": 3
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "rathmaul_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_boost": 3
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "firedance_rathmaul",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_boost": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "leumundslist",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 20,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_critical_element": 3
+    },
+    "KinsectLevel": 9
+  },
+  {
+    "Name": "leumundsgift",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 20,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_element": 3
+    },
+    "KinsectLevel": 10
+  },
+  {
+    "Name": "veldian_trudis_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "artian_glaive_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [
+      2,
+      2,
+      2
+    ],
+    "Skills": {},
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "artian_glaive_ii",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [
+      2,
+      2,
+      2
+    ],
+    "Skills": {},
+    "KinsectLevel": 0
+  },
+  {
+    "Name": "diprielcha",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [
+      3,
+      3,
+      3
+    ],
+    "Skills": {},
+    "KinsectLevel": 0
+  },
+  {
+    "Name": "esperanza_glaive",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_critical_eye": 2,
+      "mhwilds_speed_sharpening": 2
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "shrouded_laphoka",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 230,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 15,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 8
+  },
+  {
+    "Name": "enduring_tor",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "KinsectLevel": 9
+  },
+  {
+    "Name": "fox_halberd_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 6,
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_slicked_blade": 2,
+      "mhwilds_critical_element": 1
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "curved_naganagi",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_slicked_blade": 3,
+      "mhwilds_critical_element": 1
+    },
+    "KinsectLevel": 7
+  },
+  {
+    "Name": "zoh_katir_i",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 7,
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2
+    ],
+    "Skills": {
+      "mhwilds_torrent": 1
+    },
+    "KinsectLevel": 6
+  },
+  {
+    "Name": "blazing_katir",
+    "Part": "mhwilds_insectglavies",
+    "Rarity": 8,
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [
+      3,
+      2,
+      1
+    ],
+    "Skills": {
+      "mhwilds_torrent": 1
+    },
+    "KinsectLevel": 8
+  }
+]
