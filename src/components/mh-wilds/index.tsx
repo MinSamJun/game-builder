@@ -8,6 +8,7 @@ import {
   ArmorSkillList,
   SeriesSkillList,
   GroupSkillList,
+  GreatswordList,
 } from "@/container/mh-wilds";
 
 type EquipmentNamespace =
@@ -15,7 +16,9 @@ type EquipmentNamespace =
   | "mhWilds_charm"
   | "mhWilds_armor_skill"
   | "mhWilds_series_skill"
-  | "mhWilds_group_skill";
+  | "mhWilds_group_skill"
+  | "mhWilds_weapon_skill"
+  | "mhWilds_greatswords";
 
 export function MHWildsContent() {
   const { lang, setLang, getNamespaceData } = useI18n();
@@ -111,6 +114,19 @@ export function MHWildsContent() {
         </button>
       </div>
 
+      <div className="mb-6 flex space-x-4">
+        <button
+          onClick={() => setEquipmentType("mhWilds_greatswords")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_greatswords"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhWildsCommonNamespace?.mhwilds_common_greatsword}
+        </button>
+      </div>
+
       <input
         type="text"
         placeholder={mhWildsCommonNamespace?.mhwilds_common_searchPlaceholder}
@@ -129,6 +145,8 @@ export function MHWildsContent() {
         <SeriesSkillList searchTerm={term} />
       ) : equipmentType === "mhWilds_group_skill" ? (
         <GroupSkillList searchTerm={term} />
+      ) : equipmentType === "mhWilds_greatswords" ? (
+        <GreatswordList searchTerm={term} />
       ) : (
         <div className="text-center py-8 text-gray-500">
           {mhWildsCommonNamespace?.mhwilds_common_noResults}

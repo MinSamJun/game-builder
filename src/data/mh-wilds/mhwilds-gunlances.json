@@ -618,7 +618,7 @@
     "Slots": [1],
     "Skills": {
       "mhwilds_critical_element": 1,
-      "mhwilds_master_s_touch": 1
+      "mhwilds_masters_touch": 1
     },
     "Shelling": {
       "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
@@ -636,7 +636,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_critical_element": 1,
-      "mhwilds_master_s_touch": 1
+      "mhwilds_masters_touch": 1
     },
     "Shelling": {
       "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
@@ -654,7 +654,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_critical_element": 1,
-      "mhwilds_master_s_touch": 1
+      "mhwilds_masters_touch": 1
     },
     "Shelling": {
       "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"

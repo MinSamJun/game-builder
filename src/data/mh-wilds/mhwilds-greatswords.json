@@ -1,1232 +1,1232 @@
 [
   {
-    "Name": "hope_blade_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 90,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {}
+    "name": "mhwilds_greatsword_hope_blade_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 90,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {}
   },
   {
-    "Name": "hope_blade_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_greatsword_hope_blade_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_blade_iii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_greatsword_hope_blade_iii",
+    "part": "mhwilds_greatswords",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_blade_iv",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_hope_blade_iv",
+    "part": "mhwilds_greatswords",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "hope_blade_v",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_greatsword_hope_blade_v",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "valkyrie_blade_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": {
-      "poison": 210
+    "name": "mhwilds_greatsword_valkyrie_blade_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": {
+      "mhwilds_common_poison": 210
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_status": 2,
       "mhwilds_weapon_skill_poison_duration_up": 1
     }
   },
   {
-    "Name": "valkyrie_blade_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
-      "poison": 270
+    "name": "mhwilds_greatsword_valkyrie_blade_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
+      "mhwilds_common_poison": 270
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     }
   },
   {
-    "Name": "sieglinde",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "poison": 300
+    "name": "mhwilds_greatsword_sieglinde",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_poison": 300
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     }
   },
   {
-    "Name": "chicken_decapitator_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "fire": 450
+    "name": "mhwilds_greatsword_chicken_decapitator_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_fire": 450
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_charge_master": 1,
       "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "chicken_decapitator_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "fire": 550
+    "name": "mhwilds_greatsword_chicken_decapitator_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_fire": 550
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_charge_master": 2,
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "rooster_decapitator",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
-      "fire": 600
+    "name": "mhwilds_greatsword_rooster_decapitator",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
+      "mhwilds_common_fire": 600
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_charge_master": 2,
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "nihil_great_sword_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": {
-      "water": 200
+    "name": "mhwilds_greatsword_nihil_great_sword_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": {
+      "mhwilds_common_water": 200
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2
     }
   },
   {
-    "Name": "nihil_great_sword_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
-      "water": 260
+    "name": "mhwilds_greatsword_nihil_great_sword_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
+      "mhwilds_common_water": 260
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2
     }
   },
   {
-    "Name": "prinvrilo_s_dissolution",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
-      "water": 300
+    "name": "mhwilds_greatsword_prinvrilo_s_dissolution",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
+      "mhwilds_common_water": 300
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 3
     }
   },
   {
-    "Name": "quematrice_espada_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": {
-      "fire": 140
+    "name": "mhwilds_greatsword_quematrice_espada_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": {
+      "mhwilds_common_fire": 140
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 1
     }
   },
   {
-    "Name": "quematrice_espada_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
-      "fire": 180
+    "name": "mhwilds_greatsword_quematrice_espada_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
+      "mhwilds_common_fire": 180
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 2
     }
   },
   {
-    "Name": "quematrice_espada_iii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
-      "fire": 230
+    "name": "mhwilds_greatsword_quematrice_espada_iii",
+    "part": "mhwilds_greatswords",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
+      "mhwilds_common_fire": 230
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 2
     }
   },
   {
-    "Name": "quematrice_espada_iv",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "fire": 270
+    "name": "mhwilds_greatsword_quematrice_espada_iv",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_fire": 270
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
-    "Name": "firetrail_blaisdell",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
-      "fire": 300
+    "name": "mhwilds_greatsword_firetrail_blaisdell",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
+      "mhwilds_common_fire": 300
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
-    "Name": "buster_sword_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_greatsword_buster_sword_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
-    "Name": "buster_sword_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_greatsword_buster_sword_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2
     }
   },
   {
-    "Name": "buster_sword_iii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_buster_sword_iii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 3
     }
   },
   {
-    "Name": "ravager_blade",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_ravager_blade",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 3
     }
   },
   {
-    "Name": "jin_dhavaar_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
-      "ice": 550
+    "name": "mhwilds_greatsword_jin_dhavaar_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
+      "mhwilds_common_ice": 550
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "precipice_metallam",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "ice": 600
+    "name": "mhwilds_greatsword_precipice_metallam",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_ice": 600
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "albirath_wing_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": {
-      "fire": 280
+    "name": "mhwilds_greatsword_albirath_wing_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": {
+      "mhwilds_common_fire": 280
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_master's_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "albirath_wing_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "fire": 340
+    "name": "mhwilds_greatsword_albirath_wing_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_fire": 340
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_master's_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "whitefire_rathguard",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "fire": 400
+    "name": "mhwilds_greatsword_whitefire_rathguard",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_fire": 400
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_master's_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "red_wing_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "fire": 440
+    "name": "mhwilds_greatsword_red_wing_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_fire": 440
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "rathalos_firesword",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
-      "fire": 500
+    "name": "mhwilds_greatsword_rathalos_firesword",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
+      "mhwilds_common_fire": 500
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "immane_blade_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": {
-      "sleep": 210
+    "name": "mhwilds_greatsword_immane_blade_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": {
+      "mhwilds_common_sleep": 210
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "immane_blade_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 150,
-    "Element": {
-      "sleep": 310
+    "name": "mhwilds_greatsword_immane_blade_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 150,
+    "element": {
+      "mhwilds_common_sleep": 310
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "immane_blade_iii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "sleep": 370
+    "name": "mhwilds_greatsword_immane_blade_iii",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_sleep": 370
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "immolator_blade",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
-      "sleep": 400
+    "name": "mhwilds_greatsword_immolator_blade",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
+      "mhwilds_common_sleep": 400
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "schattenstolz_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "dragon": 370
+    "name": "mhwilds_greatsword_schattenstolz_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_dragon": 370
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 2
     }
   },
   {
-    "Name": "dusterstolz",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "dragon": 400
+    "name": "mhwilds_greatsword_dusterstolz",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_dragon": 400
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "bone_blade_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_greatsword_bone_blade_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "bone_blade_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_greatsword_bone_blade_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "bone_blade_iii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_greatsword_bone_blade_iii",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "bone_blade_iv",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_bone_blade_iv",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "bone_slasher",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_bone_slasher",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "nu_krake_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": {
-      "fire": 270
+    "name": "mhwilds_greatsword_nu_krake_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": {
+      "mhwilds_common_fire": 270
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "nu_krake_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "fire": 370
+    "name": "mhwilds_greatsword_nu_krake_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_fire": 370
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "abaddonian_krake",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
-      "fire": 400
+    "name": "mhwilds_greatsword_abaddonian_krake",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
+      "mhwilds_common_fire": 400
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_protective_polish": 3,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "slaughter_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "poison": 410
+    "name": "mhwilds_greatsword_slaughter_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_poison": 410
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_punishing_draw": 1
     }
   },
   {
-    "Name": "slaughter_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
-      "poison": 440
+    "name": "mhwilds_greatsword_slaughter_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
+      "mhwilds_common_poison": 440
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_punishing_draw": 1
     }
   },
   {
-    "Name": "poison_king",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
-      "poison": 500
+    "name": "mhwilds_greatsword_poison_king",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
+      "mhwilds_common_poison": 500
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_punishing_draw": 2
     }
   },
   {
-    "Name": "dosha_fellslayer_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 20,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_greatsword_dosha_fellslayer_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": null,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 1
     }
   },
   {
-    "Name": "dosha_fellslayer_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 20,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_greatsword_dosha_fellslayer_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 2
     }
   },
   {
-    "Name": "dosha_fellslayer_iii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 20,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_dosha_fellslayer_iii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
-    "Name": "dosha_grimslayer_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -20,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_dosha_grimslayer_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "dosha_grimslayer_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": -20,
-    "Defense": 0,
-    "Slots": [2, 1, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_dosha_grimslayer_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [2, 1, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "grimslayer_urgeom",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 250,
-    "Element": null,
-    "Affinity": -20,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_grimslayer_urgeom",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 250,
+    "element": null,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "smiting_fulgur_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "thunder": 440
+    "name": "mhwilds_greatsword_smiting_fulgur_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_thunder": 440
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 2
     }
   },
   {
-    "Name": "fulgurcleaver_guardiana",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "thunder": 500
+    "name": "mhwilds_greatsword_fulgurcleaver_guardiana",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_thunder": 500
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "g_veldian_gladius_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": {
-      "dragon": 200
+    "name": "mhwilds_greatsword_g_veldian_gladius_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": {
+      "mhwilds_common_dragon": 200
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "g_veldian_gladius_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "dragon": 260
+    "name": "mhwilds_greatsword_g_veldian_gladius_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_dragon": 260
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "g_stalwart_lamorak",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
-      "dragon": 300
+    "name": "mhwilds_greatsword_g_stalwart_lamorak",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
+      "mhwilds_common_dragon": 300
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "veldian_gladius_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
-      "dragon": 470
+    "name": "mhwilds_greatsword_veldian_gladius_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
+      "mhwilds_common_dragon": 470
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "frozen_speartuna_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 150,
-    "Element": {
-      "ice": 500
+    "name": "mhwilds_greatsword_frozen_speartuna_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 150,
+    "element": {
+      "mhwilds_common_ice": 500
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
-    "Name": "frozen_speartuna_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "ice": 600
+    "name": "mhwilds_greatsword_frozen_speartuna_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_ice": 600
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3,
       "mhwilds_weapon_skill_slugger": 1
     }
   },
   {
-    "Name": "freezer_speartuna",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
-      "ice": 700
+    "name": "mhwilds_greatsword_freezer_speartuna",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
+      "mhwilds_common_ice": 700
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3,
       "mhwilds_weapon_skill_slugger": 2
     }
   },
   {
-    "Name": "paretic_blade_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 90,
-    "Element": {
-      "paralysis": 250
+    "name": "mhwilds_greatsword_paretic_blade_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 90,
+    "element": {
+      "mhwilds_common_paralysis": 250
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "paretic_blade_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": {
-      "paralysis": 310
+    "name": "mhwilds_greatsword_paretic_blade_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": {
+      "mhwilds_common_paralysis": 310
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "paretic_blade_iii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 150,
-    "Element": {
-      "paralysis": 410
+    "name": "mhwilds_greatsword_paretic_blade_iii",
+    "part": "mhwilds_greatswords",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 150,
+    "element": {
+      "mhwilds_common_paralysis": 410
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "paretic_blade_iv",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
-      "paralysis": 470
+    "name": "mhwilds_greatsword_paretic_blade_iv",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
+      "mhwilds_common_paralysis": 470
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "destructive_torpor",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
-      "paralysis": 500
+    "name": "mhwilds_greatsword_destructive_torpor",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
+      "mhwilds_common_paralysis": 500
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "artian_blade_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_greatsword_artian_blade_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "artian_blade_ii",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_greatsword_artian_blade_ii",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "varianza",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 3],
-    "Skills": {}
+    "name": "mhwilds_greatsword_varianza",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {}
   },
   {
-    "Name": "esperanza_blade",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_esperanza_blade",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "fellslayer_dangeom",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 20,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_fellslayer_dangeom",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": null,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
-    "Name": "stalwart_lamorak",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
-      "dragon": 500
+    "name": "mhwilds_greatsword_stalwart_lamorak",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
+      "mhwilds_common_dragon": 500
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "jawblade_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_jawblade_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "giant_jawblade",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_greatsword_giant_jawblade",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "zoh_veiah_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
-      "dragon": 250
+    "name": "mhwilds_greatsword_zoh_veiah_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
+      "mhwilds_common_dragon": 250
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   },
   {
-    "Name": "blazing_veiah",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
-      "dragon": 300
+    "name": "mhwilds_greatsword_blazing_veiah",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
+      "mhwilds_common_dragon": 300
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   },
   {
-    "Name": "hanayako_yohino_i",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": 350,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_weapon_skill_slicked_balde": 2,
+    "name": "mhwilds_greatsword_hanayako_yohino_i",
+    "part": "mhwilds_greatswords",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": 350,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "akanesasu",
-    "Part": "mhwilds_greatswords",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 225,
-    "Element": 450,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_weapon_skill_slicked_balde": 3,
+    "name": "mhwilds_greatsword_akanesasu",
+    "part": "mhwilds_greatswords",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 225,
+    "element": 450,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     }
   }

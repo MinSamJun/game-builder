@@ -536,7 +536,7 @@
     "Slots": [1],
     "Skills": {
       "critical_element": 1,
-      "master_s_touch": 1
+      "masters_touch": 1
     }
   },
   {
@@ -553,7 +553,7 @@
     "Slots": [2, 1],
     "Skills": {
       "critical_element": 1,
-      "master_s_touch": 1
+      "masters_touch": 1
     }
   },
   {
@@ -570,7 +570,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "critical_element": 1,
-      "master_s_touch": 1
+      "masters_touch": 1
     }
   },
   {

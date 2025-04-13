@@ -452,7 +452,7 @@
     "Slots": [1],
     "Skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_master_s_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
@@ -469,7 +469,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_master_s_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
@@ -486,7 +486,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_master_s_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
@@ -1196,7 +1196,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_slicked_balde": 2,
+      "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
@@ -1213,7 +1213,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_slicked_balde": 3,
+      "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     }
   }
