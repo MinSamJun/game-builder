@@ -2,10 +2,7 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import {
-  mhWildsGreatswordsData,
-  mhWildsWeaponSkillsData,
-} from "@/data/mh-wilds";
+import { mhWildsGreatswordsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
 interface GreatswordListProps {
@@ -31,7 +28,6 @@ export function GreatswordList({ searchTerm }: GreatswordListProps) {
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
-
   const filteredList = (mhWildsGreatswordsData as Greatsword[]).filter(
     ({ name }) =>
       (mhWildsGreatswordNamespace[name] ?? name)
