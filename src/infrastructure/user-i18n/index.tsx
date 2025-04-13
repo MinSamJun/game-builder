@@ -32,6 +32,7 @@ type Namespace =
   | "mhWilds_switchaxes"
   | "mhWilds_lances"
   | "mhWilds_weapon_skill"
+  | "mhWilds_coating"
   | "homePage_common"
   | "homePage_items";
 type TranslationSet = Record<Namespace, Record<string, string>>;
@@ -61,6 +62,7 @@ const resources: Record<Lang, TranslationSet> = {
     mhWilds_switchaxes: mhWildsEn.mhWilds_switchaxes || {},
     mhWilds_lances: mhWildsEn.mhWilds_lances || {},
     mhWilds_weapon_skill: mhWildsEn.mhWilds_weapon_skill || {},
+    mhWilds_coating: mhWildsEn.mhWilds_coating || {},
     homePage_common: homePageEn.homePage_common || {},
     homePage_items: homePageEn.homePage_items || {},
   },
@@ -88,6 +90,7 @@ const resources: Record<Lang, TranslationSet> = {
     mhWilds_switchaxes: mhWildsJa.mhWilds_switchaxes || {},
     mhWilds_lances: mhWildsJa.mhWilds_lances || {},
     mhWilds_weapon_skill: mhWildsJa.mhWilds_weapon_skill || {},
+    mhWilds_coating: mhWildsJa.mhWilds_coating || {},
     homePage_common: homePageJa.homePage_common || {},
     homePage_items: homePageJa.homePage_items || {},
   },
@@ -115,6 +118,7 @@ const resources: Record<Lang, TranslationSet> = {
     mhWilds_switchaxes: mhWildsKo.mhWilds_switchaxes || {},
     mhWilds_lances: mhWildsKo.mhWilds_lances || {},
     mhWilds_weapon_skill: mhWildsKo.mhWilds_weapon_skill || {},
+    mhWilds_coating: mhWildsKo.mhWilds_coating || {},
     homePage_common: homePageKo.homePage_common || {},
     homePage_items: homePageKo.homePage_items || {},
   },

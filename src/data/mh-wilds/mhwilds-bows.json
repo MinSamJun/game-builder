@@ -1,1548 +1,1227 @@
 [
   {
-    "Name": "hope_bow_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 1,
-    "Attack": 90,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {},
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "name": "hope_bow_i",
+    "part": "mhwilds_bow",
+    "rarity": 1,
+    "attack": 90,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {},
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_bow_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 1,
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_ballistics": 1
+    "name": "hope_bow_ii",
+    "part": "mhwilds_bow",
+    "rarity": 1,
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_bow_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 3,
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_ballistics": 1,
-      "mhwilds_critical_eye": 1
+    "name": "hope_bow_iii",
+    "part": "mhwilds_bow",
+    "rarity": 3,
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 1,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_bow_iv",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 2,
-      "mhwilds_critical_eye": 1
+    "name": "hope_bow_iv",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 2,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "hope_bow_v",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 3,
-      "mhwilds_critical_eye": 1
+    "name": "hope_bow_v",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "nihil_bow_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 4,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 2
+    "name": "nihil_bow_i",
+    "part": "mhwilds_bow",
+    "rarity": 4,
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "nihil_bow_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 3
+    "name": "nihil_bow_ii",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "bookwilthe_s_punisher",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 3
+    "name": "bookwilthe_s_punisher",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rey_perkonis_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 3,
-    "Attack": 140,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_focus": 1,
-      "mhwilds_special_ammo_boost": 1
+    "name": "rey_perkonis_i",
+    "part": "mhwilds_bow",
+    "rarity": 3,
+    "attack": 140,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 1,
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "rey_perkonis_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 1,
-      "mhwilds_special_ammo_boost": 1
+    "name": "rey_perkonis_ii",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 1,
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rey_perkonis_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_focus": 2,
-      "mhwilds_special_ammo_boost": 1
+    "name": "rey_perkonis_iii",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "perkonis_clairbow",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 1,
-      "mhwilds_special_ammo_boost": 1
+    "name": "perkonis_clairbow",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 1,
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "windbrace_bow_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 3,
-    "Attack": 140,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_focus": 2,
-      "mhwilds_airborne": 1
+    "name": "windbrace_bow_i",
+    "part": "mhwilds_bow",
+    "rarity": 3,
+    "attack": 140,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Coating": [
-      "mhwilds_power_coating"
-    ]
+    "coating": ["mhwilds_power_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "windbrace_bow_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 2,
-      "mhwilds_airborne": 1
+    "name": "windbrace_bow_ii",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Coating": [
-      "mhwilds_power_coating"
-    ]
+    "coating": ["mhwilds_power_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "windbrace_bow_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_focus": 3,
-      "mhwilds_airborne": 1
+    "name": "windbrace_bow_iii",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Coating": [
-      "mhwilds_power_coating"
-    ]
+    "coating": ["mhwilds_power_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "windbrace_ibami",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 3,
-      "mhwilds_airborne": 1
+    "name": "windbrace_ibami",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Coating": [
-      "mhwilds_power_coating"
-    ]
+    "coating": ["mhwilds_power_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "quematrice_arco_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 1,
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_focus": 1
+    "name": "quematrice_arco_i",
+    "part": "mhwilds_bow",
+    "rarity": 1,
+    "attack": 100,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 1
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "quematrice_arco_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 3,
-    "Attack": 140,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_focus": 2
+    "name": "quematrice_arco_ii",
+    "part": "mhwilds_bow",
+    "rarity": 3,
+    "attack": 140,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "quematrice_arco_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 2
+    "name": "quematrice_arco_iii",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "quematrice_arco_iv",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_focus": 3
+    "name": "quematrice_arco_iv",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 210,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "firetrail_leviora",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 3
+    "name": "firetrail_leviora",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "dragon_perforator_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 2,
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_tetrad_shot": 1
+    "name": "dragon_perforator_i",
+    "part": "mhwilds_bow",
+    "rarity": 2,
+    "attack": 120,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "dragon_perforator_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 4,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "dragon_perforator_ii",
+    "part": "mhwilds_bow",
+    "rarity": 4,
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "dragon_perforator_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "dragon_perforator_iii",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "true_dragon_perforator",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "true_dragon_perforator",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "albirath_bow_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 4,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 1,
-      "mhwilds_ballistics": 1
+    "name": "albirath_bow_i",
+    "part": "mhwilds_bow",
+    "rarity": 4,
+    "attack": 160,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "albirath_bow_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 2,
-      "mhwilds_ballistics": 1
+    "name": "albirath_bow_ii",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 2,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "solar_spicule",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 2,
-      "mhwilds_ballistics": 1
+    "name": "solar_spicule",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 2,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "prominence_bow_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_boost": 3
+    "name": "prominence_bow_i",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 180,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Coating": [
-      "mhwilds_power_coating"
-    ]
+    "coating": ["mhwilds_power_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "dark_filament",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_boost": 3
+    "name": "dark_filament",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 200,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Coating": [
-      "mhwilds_power_coating"
-    ]
+    "coating": ["mhwilds_power_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "queen_blaster_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2,
-      "mhwilds_poison_duration_up": 1
+    "name": "queen_blaster_i",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 160,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "queen_blaster_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_poison_duration_up": 1
+    "name": "queen_blaster_ii",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 190,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "queen_s_melody",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_poison_duration_up": 1
+    "name": "queen_s_melody",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "scylla_fist_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 3,
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_charge_master": 1,
-      "mhwilds_focus": 1
+    "name": "scylla_fist_i",
+    "part": "mhwilds_bow",
+    "rarity": 3,
+    "attack": 120,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 1,
+      "mhwilds_weapon_skill_focus": 1
     },
-    "Coating": [
+    "coating": [
       "mhwilds_pierce_coating",
       "mhwilds_poison_coating",
       "mhwilds_sleep_coating"
-    ]
+    ],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "scylla_fist_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 150,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_charge_master": 1,
-      "mhwilds_focus": 1
+    "name": "scylla_fist_ii",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 150,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 1,
+      "mhwilds_weapon_skill_focus": 1
     },
-    "Coating": [
+    "coating": [
       "mhwilds_pierce_coating",
       "mhwilds_poison_coating",
       "mhwilds_sleep_coating"
-    ]
+    ],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "scylla_fist_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_charge_master": 2,
-      "mhwilds_focus": 1
+    "name": "scylla_fist_iii",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 180,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 2,
+      "mhwilds_weapon_skill_focus": 1
     },
-    "Coating": [
+    "coating": [
       "mhwilds_pierce_coating",
       "mhwilds_poison_coating",
       "mhwilds_sleep_coating"
-    ]
+    ],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "nershock",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_charge_master": 2,
-      "mhwilds_focus": 1
+    "name": "nershock",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 2,
+      "mhwilds_weapon_skill_focus": 1
     },
-    "Coating": [
+    "coating": [
       "mhwilds_pierce_coating",
       "mhwilds_poison_coating",
       "mhwilds_sleep_coating"
-    ]
-  },
-  {
-    "Name": "dosha_fearbringer_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 2,
-    "Attack": 140,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_stamina_thief": 1
-    },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_exhaust_coating"
-    ]
-  },
-  {
-    "Name": "dosha_fearbringer_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 4,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [
-      1,
-      1
     ],
-    "Skills": {
-      "mhwilds_stamina_thief": 2
-    },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "dosha_fearbringer_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [
-      2,
-      2
-    ],
-    "Skills": {
-      "mhwilds_stamina_thief": 3
+    "name": "dosha_fearbringer_i",
+    "part": "mhwilds_bow",
+    "rarity": 2,
+    "attack": 140,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "dosha_griefbringer_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 4,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 1,
-      "mhwilds_special_ammo_boost": 1
+    "name": "dosha_fearbringer_ii",
+    "part": "mhwilds_bow",
+    "rarity": 4,
+    "attack": 180,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [1, 1],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 2
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "dosha_griefbringer_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      2
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 2,
-      "mhwilds_special_ammo_boost": 1
+    "name": "dosha_fearbringer_iii",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 210,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [2, 2],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 3
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "griefbringer_urstox",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 250,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      3,
-      1
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 2,
-      "mhwilds_special_ammo_boost": 1
+    "name": "dosha_griefbringer_i",
+    "part": "mhwilds_bow",
+    "rarity": 4,
+    "attack": 180,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 1,
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hunter_s_bow_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 1,
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_focus": 1
+    "name": "dosha_griefbringer_ii",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 220,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 2,
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_paralysis_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "hunter_s_bow_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 2,
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_attack_boost": 1,
-      "mhwilds_focus": 1
+    "name": "griefbringer_urstox",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 250,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 2,
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_paralysis_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "hunter_s_bow_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 4,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
-      "mhwilds_attack_boost": 1,
-      "mhwilds_focus": 2
+    "name": "hunter_s_bow_i",
+    "part": "mhwilds_bow",
+    "rarity": 1,
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 1
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_paralysis_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hunter_s_bow_iv",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_attack_boost": 1,
-      "mhwilds_focus": 3
+    "name": "hunter_s_bow_ii",
+    "part": "mhwilds_bow",
+    "rarity": 2,
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_focus": 1
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_paralysis_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hunter_s_stoutbow",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_attack_boost": 1,
-      "mhwilds_focus": 3
+    "name": "hunter_s_bow_iii",
+    "part": "mhwilds_bow",
+    "rarity": 4,
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_focus": 2
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_paralysis_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "blinding_fulgur_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "hunter_s_bow_iv",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_close_range_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "fulgurbow_guardiana",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "hunter_s_stoutbow",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_close_range_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "uth_khviluk_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 3,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": -20,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "blinding_fulgur_i",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "uth_khviluk_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": -20,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "fulgurbow_guardiana",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 200,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "uth_khviluk_iii",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": -20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "uth_khviluk_i",
+    "part": "mhwilds_bow",
+    "rarity": 3,
+    "attack": 160,
+    "element": null,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "khviluk_of_the_waves",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "uth_khviluk_ii",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 190,
+    "element": null,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "entbehrung_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "uth_khviluk_iii",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 220,
+    "element": null,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "verzweiflung",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "khviluk_of_the_waves",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 240,
+    "element": null,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_blast_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "wild_power_bow_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 2,
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 1
+    "name": "entbehrung_i",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 180,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Coating": [
+    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
+  },
+  {
+    "name": "verzweiflung",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
+    },
+    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "rank": "mhwilds_high_rank"
+  },
+  {
+    "name": "wild_power_bow_i",
+    "part": "mhwilds_bow",
+    "rarity": 2,
+    "attack": 120,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 1
+    },
+    "coating": [
       "mhwilds_power_coating",
       "mhwilds_poison_coating",
       "mhwilds_blast_coating"
-    ]
+    ],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "wild_power_bow_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 1,
-      "mhwilds_charge_master": 1
+    "name": "wild_power_bow_ii",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 1,
+      "mhwilds_weapon_skill_charge_master": 1
     },
-    "Coating": [
+    "coating": [
       "mhwilds_power_coating",
       "mhwilds_poison_coating",
       "mhwilds_paralysis_coating",
       "mhwilds_blast_coating"
-    ]
+    ],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "wildwood_kalifa",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      3,
-      1
-    ],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 2,
-      "mhwilds_charge_master": 1
+    "name": "wildwood_kalifa",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 2,
+      "mhwilds_weapon_skill_charge_master": 1
     },
-    "Coating": [
+    "coating": [
       "mhwilds_power_coating",
       "mhwilds_poison_coating",
       "mhwilds_paralysis_coating",
       "mhwilds_blast_coating"
-    ]
+    ],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "blan_sharanga_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "blan_sharanga_i",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 200,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "singha_sharanga",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 230,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "singha_sharanga",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 230,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "kut_ku_stave_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 5,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_charge_master": 2
+    "name": "kut_ku_stave_i",
+    "part": "mhwilds_bow",
+    "rarity": 5,
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 2
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "kut_ku_stave_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_charge_master": 3
+    "name": "kut_ku_stave_ii",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "strange_kut_ku_stave",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_charge_master": 3
+    "name": "strange_kut_ku_stave",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "g_veldian_arcum_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 4,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      1,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 2
+    "name": "g_veldian_arcum_i",
+    "part": "mhwilds_bow",
+    "rarity": 4,
+    "attack": 170,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "g_veldian_arcum_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      2,
-      2
-    ],
-    "Skills": {
-      "mhwilds_focus": 2
+    "name": "g_veldian_arcum_ii",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 210,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "g_renowned_tristram",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      3,
-      3,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 2
+    "name": "g_renowned_tristram",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 240,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     },
-    "Coating": [
-      "mhwilds_close_range_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "veldian_arcum_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_focus": 3
+    "name": "veldian_arcum_i",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "artian_sight_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      2,
-      2,
-      2
-    ],
-    "Skills": {},
-    "Coating": [
-      "mhwilds_close_range_coating"
-    ]
+    "name": "artian_sight_i",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
+    "coating": ["mhwilds_close_range_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "artian_sight_ii",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      2,
-      2,
-      2
-    ],
-    "Skills": {},
-    "Coating": [
-      "mhwilds_close_range_coating"
-    ]
+    "name": "artian_sight_ii",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 180,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
+    "coating": ["mhwilds_close_range_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "angelbein",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      3,
-      3
-    ],
-    "Skills": {},
-    "Coating": [
-      "mhwilds_close_range_coating"
-    ]
+    "name": "angelbein",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 190,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {},
+    "coating": ["mhwilds_close_range_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "esperanza_bow",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 3,
-      "mhwilds_critical_eye": 1
+    "name": "esperanza_bow",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "fearbringer_callistox",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [
-      3,
-      3,
-      1
-    ],
-    "Skills": {
-      "mhwilds_stamina_thief": 3
+    "name": "fearbringer_callistox",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 240,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 3
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "renowned_tristram",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_focus": 3
+    "name": "renowned_tristram",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     },
-    "Coating": [
-      "mhwilds_pierce_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "blessed_rain_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 6,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_slicked_blade": 2,
-      "mhwilds_critical_element": 1
+    "name": "blessed_rain_i",
+    "part": "mhwilds_bow",
+    "rarity": 6,
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 2,
+      "mhwilds_weapon_skill_critical_element": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "heaven_s_manna",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_slicked_blade": 3,
-      "mhwilds_critical_element": 1
+    "name": "heaven_s_manna",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 3,
+      "mhwilds_weapon_skill_critical_element": 1
     },
-    "Coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_exhaust_coating"
-    ]
+    "coating": ["mhwilds_pierce_coating", "mhwilds_exhaust_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "zoh_samira_i",
-    "Part": "mhwilds_bow",
-    "Rarity": 7,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_torrent": 1
+    "name": "zoh_samira_i",
+    "part": "mhwilds_bow",
+    "rarity": 7,
+    "attack": 210,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "blazing_samira",
-    "Part": "mhwilds_bow",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_torrent": 1
+    "name": "blazing_samira",
+    "part": "mhwilds_bow",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating"
-    ]
+    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "rank": "mhwilds_high_rank"
   }
 ]

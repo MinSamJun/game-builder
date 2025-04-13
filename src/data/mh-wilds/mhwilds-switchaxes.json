@@ -42,7 +42,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_critical_eye": 1,
+      "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_speed_sharpening": 1
     },
     "Phial": {
@@ -61,7 +61,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_speed_sharpening": 2,
-      "mhwilds_critical_eye": 1
+      "mhwilds_weapon_skill_critical_eye": 1
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -79,7 +79,7 @@
     "Slots": [3, 2],
     "Skills": {
       "mhwilds_speed_sharpening": 2,
-      "mhwilds_critical_eye": 1
+      "mhwilds_weapon_skill_critical_eye": 1
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -96,7 +96,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_focus": 1
+      "mhwilds_weapon_skill_focus": 1
     },
     "Phial": {
       "mhwilds_exhaust_phial": 150
@@ -113,8 +113,8 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_attack_boost": 1,
-      "mhwilds_focus": 1
+      "mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_focus": 1
     },
     "Phial": {
       "mhwilds_exhaust_phial": 150
@@ -131,8 +131,8 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_focus": 2,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_attack_boost": 1
     },
     "Phial": {
       "mhwilds_exhaust_phial": 200
@@ -149,8 +149,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_focus": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
     },
     "Phial": {
       "mhwilds_exhaust_phial": 230
@@ -167,8 +167,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_focus": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
     },
     "Phial": {
       "mhwilds_exhaust_phial": 250
@@ -515,8 +515,8 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_focus": 2,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_airborne": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -533,8 +533,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_focus": 2,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_airborne": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -551,8 +551,8 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_focus": 3,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_airborne": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -569,8 +569,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_focus": 3,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_airborne": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -638,7 +638,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_focus": 2
+      "mhwilds_weapon_skill_focus": 2
     },
     "Phial": {
       "mhwilds_dragon_phial": null
@@ -655,7 +655,7 @@
     "Defense": 0,
     "Slots": [2, 2],
     "Skills": {
-      "mhwilds_focus": 2
+      "mhwilds_weapon_skill_focus": 2
     },
     "Phial": {
       "mhwilds_dragon_phial": null
@@ -672,7 +672,7 @@
     "Defense": 0,
     "Slots": [3, 3, 1],
     "Skills": {
-      "mhwilds_focus": 2
+      "mhwilds_weapon_skill_focus": 2
     },
     "Phial": {
       "mhwilds_dragon_phial": null
@@ -689,7 +689,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_critical_element": 1,
+      "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_masters_touch": 1
     },
     "Phial": {
@@ -707,7 +707,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_critical_element": 1,
+      "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_masters_touch": 1
     },
     "Phial": {
@@ -725,7 +725,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_element": 1,
+      "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_masters_touch": 1
     },
     "Phial": {
@@ -794,7 +794,7 @@
     "Defense": 0,
     "Slots": [1, 1],
     "Skills": {
-      "mhwilds_focus": 2
+      "mhwilds_weapon_skill_focus": 2
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -811,7 +811,7 @@
     "Defense": 0,
     "Slots": [2, 2],
     "Skills": {
-      "mhwilds_focus": 2
+      "mhwilds_weapon_skill_focus": 2
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -828,7 +828,7 @@
     "Defense": 0,
     "Slots": [3, 3, 1],
     "Skills": {
-      "mhwilds_focus": 2
+      "mhwilds_weapon_skill_focus": 2
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -897,7 +897,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_critical_status": 2,
-      "mhwilds_poison_duration_up": 1
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -915,7 +915,7 @@
     "Slots": [3, 2],
     "Skills": {
       "mhwilds_critical_status": 3,
-      "mhwilds_poison_duration_up": 1
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -933,7 +933,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_critical_status": 3,
-      "mhwilds_poison_duration_up": 1
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -950,7 +950,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -967,7 +967,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -984,7 +984,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_critical_boost": 3
+      "mhwilds_weapon_skill_critical_boost": 3
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -1001,7 +1001,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_boost": 3
+      "mhwilds_weapon_skill_critical_boost": 3
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -1018,7 +1018,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -1035,7 +1035,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -1052,7 +1052,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_focus": 3
+      "mhwilds_weapon_skill_focus": 3
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -1114,7 +1114,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_eye": 2,
+      "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_speed_sharpening": 2
     },
     "Phial": {
@@ -1149,7 +1149,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_focus": 3
+      "mhwilds_weapon_skill_focus": 3
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -1167,7 +1167,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_blade": 2,
-      "mhwilds_critical_element": 1
+      "mhwilds_weapon_skill_critical_element": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -1185,7 +1185,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_blade": 3,
-      "mhwilds_critical_element": 1
+      "mhwilds_weapon_skill_critical_element": 1
     },
     "Phial": {
       "mhwilds_element_phial": null
@@ -1202,7 +1202,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_torrent": 1
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "Phial": {
       "mhwilds_power_phial": null
@@ -1219,7 +1219,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_torrent": 1
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "Phial": {
       "mhwilds_power_phial": null

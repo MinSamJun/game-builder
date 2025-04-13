@@ -1,1115 +1,1188 @@
 [
   {
-    "Name": "hope_rifle_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 1,
-    "Attack": 89,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {}
+    "name": "hope_rifle_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 1,
+    "attack": 89,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_rifle_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 1,
-    "Attack": 99,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_ballistics": 1
+    "name": "hope_rifle_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 1,
+    "attack": 99,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_rifle_iii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 3,
-    "Attack": 129,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_critical_eye": 1,
-      "mhwilds_ballistics": 1
+    "name": "hope_rifle_iii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 3,
+    "attack": 129,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_critical_eye": 1,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_rifle_iv",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 5,
-    "Attack": 159,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_ballistics": 2,
-      "mhwilds_critical_eye": 1
+    "name": "hope_rifle_iv",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 5,
+    "attack": 159,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 2,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "hope_rifle_v",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 189,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_ballistics": 3,
-      "mhwilds_critical_eye": 1
+    "name": "hope_rifle_v",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 189,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "kut_ku_anger_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 5,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_ballistics": 2
+    "name": "kut_ku_anger_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 5,
+    "attack": 179,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "kut_ku_anger_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_ballistics": 3
+    "name": "kut_ku_anger_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 209,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "kut_ku_counterattack",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 219,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_ballistics": 3
+    "name": "kut_ku_counterattack",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 219,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "faulnisschleuder_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "faulnisschleuder_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 179,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "wahnschleuder",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "wahnschleuder",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 199,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rey_szelatya_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 3,
-    "Attack": 139,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "rey_szelatya_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 3,
+    "attack": 139,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_opening_shot": 1,
       "mhwilds_slugger": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "rey_szelatya_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 5,
-    "Attack": 169,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "rey_szelatya_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 5,
+    "attack": 169,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_opening_shot": 1,
       "mhwilds_slugger": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rey_szelatya_iii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "rey_szelatya_iii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 199,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_opening_shot": 2,
       "mhwilds_slugger": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "szelatya_clairgun",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 219,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "szelatya_clairgun",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 219,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 2,
       "mhwilds_slugger": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "dosha_faithbreaker_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 2,
-    "Attack": 139,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [],
-    "Skills": {
+    "name": "dosha_faithbreaker_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 2,
+    "attack": 139,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "skills": {
       "mhwilds_opening_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "dosha_faithbreaker_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [1],
-    "Skills": {
+    "name": "dosha_faithbreaker_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 179,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [1],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "dosha_faithbreaker_iii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "dosha_faithbreaker_iii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 209,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "dosha_gigasbreaker_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 189,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
+    "name": "dosha_gigasbreaker_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 189,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_slugger": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "dosha_gigasbreaker_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 219,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
+    "name": "dosha_gigasbreaker_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 219,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_slugger": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "gigasbreaker_urbolkule",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 249,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "gigasbreaker_urbolkule",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 249,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_slugger": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "chain_blitz_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 2,
-    "Attack": 119,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_tetrad_shot": 1
+    "name": "chain_blitz_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 2,
+    "attack": 119,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "chain_blitz_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 159,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "chain_blitz_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 159,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "chain_blitz_iii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 189,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "chain_blitz_iii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 189,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "high_chain_blitz",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 219,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "high_chain_blitz",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 219,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "titan_launcher_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [2, 2],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 2
+    "name": "titan_launcher_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 209,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [2, 2],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "titan_panzer",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 239,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [3, 3, 1],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 2
+    "name": "titan_panzer",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 239,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "g_rathling_gun_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 159,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "mhwilds_critical_element": 1,
-      "mhwilds_ballistics": 1
+    "name": "g_rathling_gun_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 159,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "g_rathling_gun_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_critical_element": 2,
-      "mhwilds_ballistics": 1
+    "name": "g_rathling_gun_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 179,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 2,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "white_rathling_phoenix",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_critical_element": 2,
-      "mhwilds_ballistics": 1
+    "name": "white_rathling_phoenix",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 209,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 2,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rathling_gun_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_critical_boost": 3
+    "name": "rathling_gun_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 179,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rathling_phoenix",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_critical_boost": 3
+    "name": "rathling_phoenix",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 199,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "assault_conga_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 2,
-    "Attack": 119,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 1
+    "name": "assault_conga_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 2,
+    "attack": 119,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "assault_conga_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 5,
-    "Attack": 169,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 1, 1],
-    "Skills": {
+    "name": "assault_conga_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 5,
+    "attack": 169,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1, 1],
+    "skills": {
       "mhwilds_opening_shot": 1,
-      "mhwilds_special_ammo_boost": 1
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "combat_conga",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 219,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 2,
+    "name": "combat_conga",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 219,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 2,
       "mhwilds_opening_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "tail_string_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "tail_string_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 199,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "tail_catapult",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 229,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "tail_catapult",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 229,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "valkyrie_fire_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 5,
-    "Attack": 159,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2,
-      "mhwilds_poison_duration_up": 1
+    "name": "valkyrie_fire_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 5,
+    "attack": 159,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "valkyrie_fire_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 189,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_poison_duration_up": 1
+    "name": "valkyrie_fire_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 189,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "valkyrie_flame",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_poison_duration_up": 1
+    "name": "valkyrie_flame",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 209,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "hunter_s_rifle_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 1,
-    "Attack": 109,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "hunter_s_rifle_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 1,
+    "attack": 109,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_opening_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hunter_s_rifle_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 2,
-    "Attack": 129,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_attack_boost": 1,
+    "name": "hunter_s_rifle_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 2,
+    "attack": 129,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_opening_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hunter_s_rifle_iii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 169,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "hunter_s_rifle_iii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 169,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_opening_shot": 2,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hunter_s_rifle_iv",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "hunter_s_rifle_iv",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 199,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "power_rifle",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 229,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "power_rifle",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 229,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "felling_fulgur_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "felling_fulgur_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 179,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "fulgursnipe_guardiana",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "fulgursnipe_guardiana",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 209,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "chthonian_gunfire_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 139,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "chthonian_gunfire_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 139,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "chthonian_gunfire_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 169,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "chthonian_gunfire_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 169,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "bequeathed_animus",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "bequeathed_animus",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 209,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "ajara_shellgun_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 3,
-    "Attack": 129,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "ajara_shellgun_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 3,
+    "attack": 129,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_artillery": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "ajara_shellgun_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "ajara_shellgun_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 179,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_artillery": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "ajara_angaja",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "ajara_angaja",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 209,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_artillery": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "nu_chobotnice_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 169,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "nu_chobotnice_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 169,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "nu_chobotnice_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "nu_chobotnice_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 209,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "abaddonian_chobotnice",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 229,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "abaddonian_chobotnice",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 229,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "windshear_light_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 3,
-    "Attack": 139,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2,
-      "mhwilds_airborne": 1
+    "name": "windshear_light_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 3,
+    "attack": 139,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "windshear_light_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 5,
-    "Attack": 169,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2,
-      "mhwilds_airborne": 1
+    "name": "windshear_light_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 5,
+    "attack": 169,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "windshear_light_iii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_airborne": 1
+    "name": "windshear_light_iii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 199,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "windshear_uchibami",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 219,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_airborne": 1
+    "name": "windshear_uchibami",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 219,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_airborne": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "g_veldian_impetum_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 4,
-    "Attack": 159,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
+    "name": "g_veldian_impetum_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 4,
+    "attack": 159,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "g_veldian_impetum_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
+    "name": "g_veldian_impetum_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 199,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "g_expiating_caius",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 229,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "g_expiating_caius",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 229,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "veldian_impetum_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "veldian_impetum_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 179,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "artian_blaster_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 169,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {}
+    "name": "artian_blaster_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 169,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "artian_blaster_ii",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {}
+    "name": "artian_blaster_ii",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 179,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "animilater",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 189,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 3],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {}
+    "name": "animilater",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 189,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "esperanza_rifle",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_ballistics": 3,
-      "mhwilds_critical_eye": 1
+    "name": "esperanza_rifle",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 209,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "faithbreaker_leibolkule",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 239,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "faithbreaker_leibolkule",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 239,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "expiating_caius",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 199,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "expiating_caius",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 199,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "desolate_mist_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 6,
-    "Attack": 179,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_slicked_blade": 2,
-      "mhwilds_critical_element": 1
+    "name": "desolate_mist_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 6,
+    "attack": 179,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 2,
+      "mhwilds_weapon_skill_critical_element": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "nifl_mist",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "nifl_mist",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 209,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_blade": 3,
-      "mhwilds_critical_element": 1
+      "mhwilds_weapon_skill_critical_element": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "zoh_kaiah_i",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 7,
-    "Attack": 209,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_torrent": 1
+    "name": "zoh_kaiah_i",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 7,
+    "attack": 209,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "blazing_kaiah",
-    "Part": "mhwilds_lightbowgun",
-    "Rarity": 8,
-    "Attack": 219,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_torrent": 1
+    "name": "blazing_kaiah",
+    "part": "mhwilds_lightbowgun",
+    "rarity": 8,
+    "attack": 219,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Ammo": {},
-    "Custom Mods": {}
+    "ammo": {},
+    "custom mods": {},
+    "rank": "mhwilds_high_rank"
   }
 ]

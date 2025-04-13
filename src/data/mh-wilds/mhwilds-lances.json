@@ -36,7 +36,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_critical_eye": 1,
+      "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_speed_sharpening": 1
     }
   },
@@ -52,7 +52,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_speed_sharpening": 2,
-      "mhwilds_critical_eye": 1
+      "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
@@ -67,7 +67,7 @@
     "Slots": [3, 2],
     "Skills": {
       "mhwilds_speed_sharpening": 2,
-      "mhwilds_critical_eye": 1
+      "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
@@ -95,7 +95,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_attack_boost": 1,
+      "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_guard": 1
     }
   },
@@ -111,7 +111,7 @@
     "Slots": [1],
     "Skills": {
       "mhwilds_guard": 2,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
@@ -126,7 +126,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_guard": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
@@ -141,7 +141,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_guard": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
@@ -614,7 +614,7 @@
     "Slots": [],
     "Skills": {
       "mhwilds_guard": 2,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
@@ -631,7 +631,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_guard": 2,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
@@ -648,7 +648,7 @@
     "Slots": [3, 2],
     "Skills": {
       "mhwilds_guard": 3,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
@@ -665,7 +665,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_guard": 3,
-      "mhwilds_airborne": 1
+      "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
@@ -771,7 +771,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_critical_element": 1,
+      "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_masters_touch": 1
     }
   },
@@ -788,7 +788,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_critical_element": 1,
+      "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_masters_touch": 1
     }
   },
@@ -805,7 +805,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_element": 1,
+      "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_masters_touch": 1
     }
   },
@@ -946,7 +946,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_critical_boost": 3
+      "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
@@ -962,7 +962,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_boost": 3
+      "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
@@ -978,7 +978,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
@@ -994,7 +994,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
@@ -1060,7 +1060,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_eye": 2,
+      "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_speed_sharpening": 2
     }
   },
@@ -1135,8 +1135,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_slicked_blade": 2,
-      "mhwilds_critical_element": 1
+      "mhwilds_weapon_skill_slicked_blade": 2,
+      "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
@@ -1150,8 +1150,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_slicked_blade": 3,
-      "mhwilds_critical_element": 1
+      "mhwilds_weapon_skill_slicked_blade": 3,
+      "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
@@ -1167,7 +1167,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_torrent": 1
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   },
   {
@@ -1183,7 +1183,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_torrent": 1
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   }
 ]

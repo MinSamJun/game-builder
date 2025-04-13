@@ -1,1337 +1,1219 @@
 [
   {
-    "Name": "hope_cannon_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 1,
-    "Attack": 90,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "name": "hope_cannon_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 1,
+    "attack": 90,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_cannon_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 1,
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_ballistics": 1
+    "name": "hope_cannon_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 1,
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_cannon_iii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 3,
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_critical_eye": 1,
-      "mhwilds_ballistics": 1
+    "name": "hope_cannon_iii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 3,
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_critical_eye": 1,
+      "mhwilds_weapon_skill_ballistics": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "hope_cannon_iv",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 2,
-      "mhwilds_critical_eye": 1
+    "name": "hope_cannon_iv",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 2,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "hope_cannon_v",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 3,
-      "mhwilds_critical_eye": 1
+    "name": "hope_cannon_v",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "chata_sheller_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 1,
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [],
-    "Skills": {
+    "name": "chata_sheller_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 1,
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "skills": {
       "mhwilds_opening_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "chata_sheller_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 3,
-    "Attack": 150,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [],
-    "Skills": {
+    "name": "chata_sheller_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 3,
+    "attack": 150,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "chata_sheller_iii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "chata_sheller_iii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 180,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "chata_sheller_iv",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
+    "name": "chata_sheller_iv",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "power_stinger",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 2,
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 1
+    "name": "power_stinger",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 2,
+    "attack": 120,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "power_stinger_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "power_stinger_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_opening_shot": 1,
-      "mhwilds_special_ammo_boost": 1
+      "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "wild_stinger",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      3,
-      1
-    ],
-    "Skills": {
-      "mhwilds_special_ammo_boost": 2,
+    "name": "wild_stinger",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_special_ammo_boost": 2,
       "mhwilds_opening_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "uth_dalgap_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 3,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "uth_dalgap_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 3,
+    "attack": 160,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "uth_dalgap_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "uth_dalgap_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 190,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "uth_dalgap_iii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "uth_dalgap_iii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 220,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "dalgap_of_the_waves",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "dalgap_of_the_waves",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 240,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rompo_sniper_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 3,
-    "Attack": 140,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "rompo_sniper_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 3,
+    "attack": 140,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_guard_up": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "rompo_sniper_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "rompo_sniper_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_guard_up": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rompo_sniper_iii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
+    "name": "rompo_sniper_iii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_guard_up": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "rompo_latrotox",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "rompo_latrotox",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_guard_up": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "ner_bustergun_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 3,
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "ner_bustergun_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 3,
+    "attack": 120,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_offensive_guard": 1,
       "mhwilds_guard": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "ner_bustergun_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 150,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "ner_bustergun_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 150,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_offensive_guard": 1,
       "mhwilds_guard": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "ner_bustergun_iii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
+    "name": "ner_bustergun_iii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_offensive_guard": 2,
       "mhwilds_guard": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "buster_blaster",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "buster_blaster",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 200,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_offensive_guard": 2,
       "mhwilds_guard": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "nu_muneo_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 4,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
+    "name": "nu_muneo_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 4,
+    "attack": 170,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_opening_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "nu_muneo_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
+    "name": "nu_muneo_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 210,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "abaddonian_muneo",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 230,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "abaddonian_muneo",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 230,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "jin_dhaphal_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
+    "name": "jin_dhaphal_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_guard": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "precipice_malmiam",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "precipice_malmiam",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_guard": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "iron_assault_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 2,
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_tetrad_shot": 1
+    "name": "iron_assault_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 2,
+    "attack": 120,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "iron_assault_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 4,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "iron_assault_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 4,
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "iron_assault_iii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "iron_assault_iii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "steel_assault",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "steel_assault",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "bone_shooter_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 1,
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "bone_shooter_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 1,
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_guard": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "bone_shooter_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 2,
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_attack_boost": 1,
+    "name": "bone_shooter_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 2,
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_guard": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "bone_shooter_iii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 4,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      1
-    ],
-    "Skills": {
+    "name": "bone_shooter_iii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 4,
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_guard": 2,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "bone_shooter_iv",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "bone_shooter_iv",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_guard": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "heavy_shooter",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "heavy_shooter",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_guard": 3,
-      "mhwilds_attack_boost": 1
+      "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "yian_kut_ku_cannon_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "yian_kut_ku_cannon_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 180,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_slugger": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "yian_kut_ku_cannon_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
+    "name": "yian_kut_ku_cannon_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_slugger": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "super_kut_ku_cannon",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "super_kut_ku_cannon",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_slugger": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "tankmage_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "tankmage_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 180,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_guard": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "tankmage_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "tankmage_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_guard": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "tanksorcerer",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "tanksorcerer",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_guard": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "queen_s_longfire_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 5,
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2,
-      "mhwilds_poison_duration_up": 1
+    "name": "queen_s_longfire_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 5,
+    "attack": 160,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "queen_s_longfire_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_poison_duration_up": 1
+    "name": "queen_s_longfire_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 190,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "queen_s_farflier",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3,
-      "mhwilds_poison_duration_up": 1
+    "name": "queen_s_farflier",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "grounding_fulgur_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "grounding_fulgur_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "fulgurblast_guardiana",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "fulgurblast_guardiana",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "gravios_howl_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "gravios_howl_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 210,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_guard_up": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "gravios_gigahowl",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "gravios_gigahowl",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 240,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_guard_up": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "todlicher_abzug_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "todlicher_abzug_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 180,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "ableben_abzug",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_critical_element": 3
+    "name": "ableben_abzug",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 200,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "g_veldian_tormentum_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 4,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      1,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "g_veldian_tormentum_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 4,
+    "attack": 170,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_low_rank"
   },
   {
-    "Name": "g_veldian_tormentum_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      2,
-      2
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "g_veldian_tormentum_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 210,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "g_aeternal_palamedes",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [
-      3,
-      3,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 2
+    "name": "g_aeternal_palamedes",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 240,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "veldian_tormentum_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "veldian_tormentum_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "artian_sheller_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      2,
-      2,
-      2
-    ],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "name": "artian_sheller_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "artian_sheller_ii",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      2,
-      2,
-      2
-    ],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "name": "artian_sheller_ii",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 180,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "greifen",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      3,
-      3
-    ],
-    "Skills": {},
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "name": "greifen",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 190,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {},
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "esperanza_cannon",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_ballistics": 3,
-      "mhwilds_critical_eye": 1
+    "name": "esperanza_cannon",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_ballistics": 3,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "shrouded_muktana",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
+    "name": "shrouded_muktana",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_opening_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "aeternal_palamedes",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_tetrad_shot": 3
+    "name": "aeternal_palamedes",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "cirrus_blaster_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 6,
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_slicked_blade": 2,
-      "mhwilds_critical_element": 1
+    "name": "cirrus_blaster_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 6,
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 2,
+      "mhwilds_weapon_skill_critical_element": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "mountainous_roar",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_slicked_blade": 3,
-      "mhwilds_critical_element": 1
+    "name": "mountainous_roar",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 3,
+      "mhwilds_weapon_skill_critical_element": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "zoh_mitran_i",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 7,
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2
-    ],
-    "Skills": {
-      "mhwilds_torrent": 1
+    "name": "zoh_mitran_i",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 7,
+    "attack": 210,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   },
   {
-    "Name": "blazing_mitran",
-    "Part": "mhwilds_heavybowgun",
-    "Rarity": 8,
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [
-      3,
-      2,
-      1
-    ],
-    "Skills": {
-      "mhwilds_torrent": 1
+    "name": "blazing_mitran",
+    "part": "mhwilds_heavybowgun",
+    "rarity": 8,
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Ammo": {},
-    "Custom Mods": {},
-    "Ignition Gauge Recovery": {},
-    "Specialization Type": null
+    "ammo": {},
+    "custom mods": {},
+    "ignition gauge recovery": {},
+    "specialization type": null,
+    "rank": "mhwilds_high_rank"
   }
 ]

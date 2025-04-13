@@ -33,6 +33,7 @@ export const mhWildsCommonJa = {
   mhwilds_common_paralysis: "麻痺",
   mhwilds_common_blast: "爆破",
   mhwilds_common_stun: "気絶",
+  mhwilds_common_next_page: "次のページ",
   mhwilds_common_prev_page: "前のページ",
   mhwilds_common_weapon: "武器",
   mhwilds_common_attack: "基礎攻撃力",
@@ -50,9 +51,24 @@ export const mhWildsCommonJa = {
   mhwilds_common_chargeblade: "チャージアックス",
   mhwilds_common_insectglavie: "操虫棍",
   mhwilds_common_bow: "弓",
+  mhwilds_common_pierce_coating: "貫通ビン",
+  mhwilds_common_blast_coating: "爆破ビン",
+  mhwilds_common_sleep_coating: "睡眠ビン",
   mhwilds_common_lightbowgun: "ライトボウガン",
   mhwilds_common_heavybowgun: "ヘビィボウガン",
   mhwilds_common_weapon_skill: "武器スキル",
+};
+
+export const mhWildsCoatingJa = {
+  mhwilds_coating: "ビン",
+  mhwilds_power_coating: "強撃ビン",
+  mhwilds_poison_coating: "毒ビン",
+  mhwilds_exhaust_coating: "減気ビン",
+  mhwilds_pierce_coating: "貫通ビン",
+  mhwilds_blast_coating: "爆破ビン",
+  mhwilds_sleep_coating: "睡眠ビン",
+  mhwilds_close_range_coating: "接撃ビン",
+  mhwilds_paralysis_coating: "麻痺ビン",
 };
 
 export const mhWildsArmorJa = {

@@ -22,6 +22,7 @@ import {
   mhWildsSwitchaxesEn,
   mhWildsLancesEn,
   mhwildsWeaponSkillsEn,
+  mhWildsCoatingEn,
 } from "./en";
 import {
   mhWildsArmorJa,
@@ -47,6 +48,7 @@ import {
   mhWildsSwitchaxesJa,
   mhWildsLancesJa,
   mhWildsWeaponSkillsJa,
+  mhWildsCoatingJa,
 } from "./ja";
 import {
   mhWildsArmorKo,
@@ -72,6 +74,7 @@ import {
   mhWildsSwitchaxesKo,
   mhWildsLancesKo,
   mhWildsWeaponSkillsKo,
+  mhWildsCoatingKo,
 } from "./ko";
 
 export const mhWildsEn = {
@@ -98,6 +101,7 @@ export const mhWildsEn = {
   mhWilds_switchaxes: mhWildsSwitchaxesEn,
   mhWilds_lances: mhWildsLancesEn,
   mhWilds_weapon_skill: mhwildsWeaponSkillsEn,
+  mhWilds_coating: mhWildsCoatingEn,
 };
 
 export const mhWildsJa = {
@@ -124,6 +128,7 @@ export const mhWildsJa = {
   mhWilds_switchaxes: mhWildsSwitchaxesJa,
   mhWilds_lances: mhWildsLancesJa,
   mhWilds_weapon_skill: mhWildsWeaponSkillsJa,
+  mhWilds_coating: mhWildsCoatingJa,
 };
 
 export const mhWildsKo = {
@@ -150,4 +155,5 @@ export const mhWildsKo = {
   mhWilds_switchaxes: mhWildsSwitchaxesKo,
   mhWilds_lances: mhWildsLancesKo,
   mhWilds_weapon_skill: mhWildsWeaponSkillsKo,
+  mhWilds_coating: mhWildsCoatingKo,
 };
