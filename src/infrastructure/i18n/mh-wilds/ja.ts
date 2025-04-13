@@ -31,7 +31,7 @@ export const mhWildsCommonJa = {
   mhwilds_common_next_page: "次のページ",
   mhwilds_common_prev_page: "前のページ",
   mhwilds_common_weapon: "武器",
-  mhwilds_common_attack: "攻撃力",
+  mhwilds_common_attack: "基礎攻撃力",
   mhwilds_common_element: "属性",
   mhwilds_common_affinity: "会心率",
   mhwilds_common_greatsword: "大剣",
@@ -48,6 +48,7 @@ export const mhWildsCommonJa = {
   mhwilds_common_bow: "弓",
   mhwilds_common_lightbowgun: "ライトボウガン",
   mhwilds_common_heavybowgun: "ヘビィボウガン",
+  mhwilds_common_weapon_skill: "武器スキル",
 };
 
 export const mhWildsArmorJa = {
@@ -2049,4 +2050,340 @@ export const mhWildsHeavybowgunsJa = {
   mhwilds_heavybowgun_mountainous_roar: "あしひきの山砲の御車",
   mhwilds_heavybowgun_zoh_mitran_i: "ゾ・ミトランⅠ",
   mhwilds_heavybowgun_blazing_mitran: "熾光たるミトラン",
+};
+
+export const mhWildsWeaponSkillsJa = {
+  mhwilds_weapon_skill_attack_boost: "攻撃",
+  mhwilds_weapon_skill_attack_boost_: "基礎攻撃力を上げる",
+  mhwilds_weapon_skill_attack_boost_i: "基礎攻撃力 +３",
+  mhwilds_weapon_skill_attack_boost_ii: "基礎攻撃力 +５",
+  mhwilds_weapon_skill_attack_boost_iii: "基礎攻撃力 +７",
+  mhwilds_weapon_skill_attack_boost_iv: "基礎攻撃力 1.02倍 + 8",
+  mhwilds_weapon_skill_attack_boost_v: "基礎攻撃力 1.04倍 + 9",
+
+  mhwilds_weapon_skill_offensive_guard: "攻めの守勢",
+  mhwilds_weapon_skill_offensive_guard_:
+    "タイミング良くガードを成功させると, 基礎攻撃力を上げる (12秒)",
+  mhwilds_weapon_skill_offensive_guard_i: "基礎攻撃力 1.05倍",
+  mhwilds_weapon_skill_offensive_guard_ii: "基礎攻撃力 1.1倍",
+  mhwilds_weapon_skill_offensive_guard_iii: "基礎攻撃力 1.15倍",
+
+  mhwilds_weapon_skill_critical_eye: "見切り",
+  mhwilds_weapon_skill_critical_eye_: "会心率を上げる",
+  mhwilds_weapon_skill_critical_eye_i: "会心率 +4%",
+  mhwilds_weapon_skill_critical_eye_ii: "会心率 +8%",
+  mhwilds_weapon_skill_critical_eye_iii: "会心率 +12%",
+  mhwilds_weapon_skill_critical_eye_iv: "会心率 +16%",
+  mhwilds_weapon_skill_critical_eye_v: "会心率 +20%",
+
+  mhwilds_weapon_skill_critical_boost: "超会心",
+  mhwilds_weapon_skill_critical_boost_: "会心倍率(1.25)を上げる",
+  mhwilds_weapon_skill_critical_boost_i: "会心倍率を 1.28 に強化",
+  mhwilds_weapon_skill_critical_boost_ii: "会心倍率を 1.31 に強化",
+  mhwilds_weapon_skill_critical_boost_iii: "会心倍率を 1.34 に強化",
+  mhwilds_weapon_skill_critical_boost_iv: "会心倍率を 1.37 に強化",
+  mhwilds_weapon_skill_critical_boost_v: "会心倍率を 1.4 に強化",
+
+  mhwilds_weapon_skill_critical_draw: "抜刀術【技】",
+  mhwilds_weapon_skill_critical_draw_:
+    "武器を抜刀した後、3秒間会心率を上げる (騎乗中は発動しない)",
+  mhwilds_weapon_skill_critical_draw_i: "会心率 +50%",
+  mhwilds_weapon_skill_critical_draw_ii: "会心率 +75%",
+  mhwilds_weapon_skill_critical_draw_iii: "会心率 +100%",
+
+  mhwilds_weapon_skill_fire_attack: "火属性攻撃強化",
+  mhwilds_weapon_skill_fire_attack_: "火属性攻撃力を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_fire_attack_i: "火属性攻撃力 +40",
+  mhwilds_weapon_skill_fire_attack_ii: "火属性攻撃力 1.1倍 +50",
+  mhwilds_weapon_skill_fire_attack_iii: "火属性攻撃力 1.2倍 +60",
+
+  mhwilds_weapon_skill_water_attack: "水属性攻撃強化",
+  mhwilds_weapon_skill_water_attack_: "水属性攻撃力を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_water_attack_i: "水属性攻撃力 +40",
+  mhwilds_weapon_skill_water_attack_ii: "水属性攻撃力 1.1倍 +50",
+  mhwilds_weapon_skill_water_attack_iii: "水属性攻撃力 1.2倍 +60",
+
+  mhwilds_weapon_skill_ice_attack: "氷属性攻撃強化",
+  mhwilds_weapon_skill_ice_attack_: "氷属性攻撃力を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_ice_attack_i: "氷属性攻撃力 +40",
+  mhwilds_weapon_skill_ice_attack_ii: "氷属性攻撃力 1.1倍 +50",
+  mhwilds_weapon_skill_ice_attack_iii: "氷属性攻撃力 1.2倍 +60",
+
+  mhwilds_weapon_skill_thunder_attack: "雷属性攻撃強化",
+  mhwilds_weapon_skill_thunder_attack_: "雷属性攻撃力を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_thunder_attack_i: "雷属性攻撃力 +40",
+  mhwilds_weapon_skill_thunder_attack_ii: "雷属性攻撃力 1.1倍 +50",
+  mhwilds_weapon_skill_thunder_attack_iii: "雷属性攻撃力 1.2倍 +60",
+
+  mhwilds_weapon_skill_dragon_attack: "龍属性攻撃強化",
+  mhwilds_weapon_skill_dragon_attack_: "龍属性攻撃力を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_dragon_attack_i: "龍属性攻撃力 +40",
+  mhwilds_weapon_skill_dragon_attack_ii: "龍属性攻撃力 1.1倍 +50",
+  mhwilds_weapon_skill_dragon_attack_iii: "龍属性攻撃力 1.2倍 +60",
+
+  mhwilds_weapon_skill_poison_attack: "毒属性強化",
+  mhwilds_weapon_skill_poison_attack_: "毒属性蓄積値を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_poison_attack_i: "毒属性蓄積値 1.05倍 +10",
+  mhwilds_weapon_skill_poison_attack_ii: "毒属性蓄積値 1.10倍 +20",
+  mhwilds_weapon_skill_poison_attack_iii: "毒属性蓄積値 1.20倍 +50",
+
+  mhwilds_weapon_skill_paralysis_attack: "麻痺属性強化",
+  mhwilds_weapon_skill_paralysis_attack_: "麻痺属性蓄積値を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_paralysis_attack_i: "麻痺属性蓄積値 1.05倍 +10",
+  mhwilds_weapon_skill_paralysis_attack_ii: "麻痺属性蓄積値 1.10倍 +20",
+  mhwilds_weapon_skill_paralysis_attack_iii: "麻痺属性蓄積値 1.20倍 +50",
+
+  mhwilds_weapon_skill_sleep_attack: "睡眠属性強化",
+  mhwilds_weapon_skill_sleep_attack_: "睡眠属性蓄積値を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_sleep_attack_i: "睡眠属性蓄積値 1.05倍 +10",
+  mhwilds_weapon_skill_sleep_attack_ii: "睡眠属性蓄積値 1.10倍 +20",
+  mhwilds_weapon_skill_sleep_attack_iii: "睡眠属性蓄積値 1.20倍 +50",
+
+  mhwilds_weapon_skill_blast_attack: "爆破属性強化",
+  mhwilds_weapon_skill_blast_attack_: "爆破属性蓄積値を上げる (最大1.3倍)",
+  mhwilds_weapon_skill_blast_attack_i: "爆破属性蓄積値 1.05倍 +10",
+  mhwilds_weapon_skill_blast_attack_ii: "爆破属性蓄積値 1.10倍 +20",
+  mhwilds_weapon_skill_blast_attack_iii: "爆破属性蓄積値 1.20倍 +50",
+
+  mhwilds_weapon_skill_critical_element: "会心撃【属性】",
+  mhwilds_weapon_skill_critical_element_:
+    "会心発生時に属性ダメージを上げる\n武器1 : 大剣, ハンマー, 狩猟笛, ランス, スラッシュアクス, チャージアクス\n武器2 : 太刀, 片手剣, 双剣, ランス, 狩猟笛, ライトボウガン, ヘビーボウガン, 弓",
+  mhwilds_weapon_skill_critical_element_i: "武器1:1.07倍\n武器2:1.05倍",
+  mhwilds_weapon_skill_critical_element_ii: "武器1:1.13倍\n武器2:1.1倍",
+  mhwilds_weapon_skill_critical_element_iii: "武器1:1.2倍\n武器2:1.15倍",
+
+  mhwilds_weapon_skill_critical_status: "会心撃【特殊】",
+  mhwilds_weapon_skill_critical_status_:
+    "会心発生時に特殊状態異常蓄積値を上げる",
+  mhwilds_weapon_skill_critical_status_i: "少し上昇",
+  mhwilds_weapon_skill_critical_status_ii: "上昇",
+  mhwilds_weapon_skill_critical_status_iii: "大きく上昇",
+
+  mhwilds_weapon_skill_charge_master: "チャージマスター",
+  mhwilds_weapon_skill_charge_master_:
+    "溜め攻撃の属性値と状態異常蓄積値が上がる",
+  mhwilds_weapon_skill_charge_master_i: "剣士:1.15倍\nガンナー:1.05倍 ",
+  mhwilds_weapon_skill_charge_master_ii: "剣士:1.2倍\nガンナー:1.1倍",
+  mhwilds_weapon_skill_charge_master_iii: "剣士:1.25倍\nガンナー:1.15倍",
+
+  mhwilds_weapon_skill_handicraft: "匠",
+  mhwilds_weapon_skill_handicraft_:
+    "武器の斬れ味が上がる。上限値を超えては上がらない",
+  mhwilds_weapon_skill_handicraft_i: "斬れ味 +10",
+  mhwilds_weapon_skill_handicraft_ii: "斬れ味 +20",
+  mhwilds_weapon_skill_handicraft_iii: "斬れ味 +30",
+  mhwilds_weapon_skill_handicraft_iv: "斬れ味 +40",
+  mhwilds_weapon_skill_handicraft_v: "斬れ味 +50",
+
+  mhwilds_weapon_skill_razor_sharp: "業物",
+  mhwilds_weapon_skill_razor_sharp_: "確率的に斬れ味が減らない",
+  mhwilds_weapon_skill_razor_sharp_i: "10%",
+  mhwilds_weapon_skill_razor_sharp_ii: "25%",
+  mhwilds_weapon_skill_razor_sharp_iii: "50%",
+
+  mhwilds_weapon_skill_protective_polish: "剛刃研磨",
+  mhwilds_weapon_skill_protective_polish_:
+    "武器を研いだ後、一定時間斬れ味が失われなくなる",
+  mhwilds_weapon_skill_protective_polish_i: "30秒",
+  mhwilds_weapon_skill_protective_polish_ii: "60秒",
+  mhwilds_weapon_skill_protective_polish_iii: "90秒",
+
+  mhwilds_weapon_skill_minds_eye: "心眼",
+  mhwilds_weapon_skill_minds_eye_:
+    "肉質45未満の部位に攻撃しても弾かれず、ダメージが上昇する。",
+  mhwilds_weapon_skill_minds_eye_i: "ダメージ1.1倍、50%の確率で弾かれない。",
+  mhwilds_weapon_skill_minds_eye_ii: "ダメージ1.15倍、100%の確率で弾かれない。",
+  mhwilds_weapon_skill_minds_eye_iii: "ダメージ1.3倍、100%の確率で弾かれない。",
+
+  mhwilds_weapon_skill_bludgeoner: "鈍器使い",
+  mhwilds_weapon_skill_bludgeoner_: "斬れ味が悪いとき攻撃力が上がる",
+  mhwilds_weapon_skill_bludgeoner_i: "斬れ味が黄色以下のとき攻撃力1.05倍",
+  mhwilds_weapon_skill_bludgeoner_ii: "斬れ味が黄色以下のとき攻撃力1.1倍",
+  mhwilds_weapon_skill_bludgeoner_iii: "斬れ味が緑色以下のとき攻撃力1.1倍",
+
+  mhwilds_weapon_skill_masters_touch: "達人芸",
+  mhwilds_weapon_skill_masters_touch_: "会心発生時、斬れ味の消費を抑える",
+  mhwilds_weapon_skill_masters_touch_i:
+    "会心発生時、80%の確率で斬れ味の消費を抑える",
+
+  mhwilds_weapon_skill_normal_shots: "通常弾・通常矢強化",
+  mhwilds_weapon_skill_normal_shots_:
+    "通常弾, 通常射撃, 飛燕射ちの攻撃力が上がる",
+  mhwilds_weapon_skill_normal_shots_i: "5%",
+
+  mhwilds_weapon_skill_piercing_shots: "貫通弾・竜の矢強化",
+  mhwilds_weapon_skill_piercing_shots_:
+    "貫通弾, 竜の一矢, 竜の千々矢の攻撃力が上がる",
+  mhwilds_weapon_skill_piercing_shots_i: "5%",
+
+  mhwilds_weapon_skill_spread_power_shots: "散弾・剛射強化",
+  mhwilds_weapon_skill_spread_power_shots_:
+    "散弾, 剛射、クイックショットの攻撃力が上がる",
+  mhwilds_weapon_skill_spread_power_shots_i: "5%",
+
+  mhwilds_weapon_skill_ballistics: "弾導強化",
+  mhwilds_weapon_skill_ballistics_:
+    "弾と矢の適正距離が広くなる（上限と下限の両方が拡張される）。\nライトボウガンには一貫性がない。",
+  mhwilds_weapon_skill_ballistics_i: "ヘビーボウガン：約1.25倍\n弓：約1.15倍",
+  mhwilds_weapon_skill_ballistics_ii: "ヘビーボウガン：約1.4倍\n弓：約1.25倍",
+  mhwilds_weapon_skill_ballistics_iii: "ヘビーボウガン：約1.6倍\n弓：約1.4倍",
+
+  mhwilds_weapon_skill_rapid_fire_up: "速射強化",
+  mhwilds_weapon_skill_rapid_fire_up_:
+    "ライトボウガンの速射ダメージを強化する。",
+  mhwilds_weapon_skill_rapid_fire_up_i: "+5%",
+
+  mhwilds_weapon_skill_opening_shot: "ファーストショット",
+  mhwilds_weapon_skill_opening_shot_: "リロード速度と初弾威力が上昇する。",
+  mhwilds_weapon_skill_opening_shot_i: "速度1.1倍、威力1.025倍",
+  mhwilds_weapon_skill_opening_shot_ii: "速度1.15倍、威力1.05倍",
+  mhwilds_weapon_skill_opening_shot_iii: "速度1.2倍、威力1.075倍",
+
+  mhwilds_weapon_skill_tetrad_shot: "フォースショット",
+  mhwilds_weapon_skill_tetrad_shot_:
+    "4発目以降の会心率と、4・6発目の攻撃力が上昇する。",
+  mhwilds_weapon_skill_tetrad_shot_i: "会心率+8～9%、攻撃力 1.01倍",
+  mhwilds_weapon_skill_tetrad_shot_ii: "会心率+10%、攻撃力 1.02倍",
+  mhwilds_weapon_skill_tetrad_shot_iii: "会心率+12%、攻撃力 1.05倍",
+
+  mhwilds_weapon_skill_special_ammo_boost: "特殊射撃強化",
+  mhwilds_weapon_skill_special_ammo_boost_:
+    "ボウガンの特殊弾と弓の竜の一矢、竜の千々矢、導ノ矢の威力が上がる",
+  mhwilds_weapon_skill_special_ammo_boost_i: "10%",
+  mhwilds_weapon_skill_special_ammo_boost_ii: "20%",
+
+  mhwilds_weapon_skill_poison_functionality: "毒ビン追加",
+  mhwilds_weapon_skill_poison_functionality_:
+    "弓装備中、毒ビンの装填を可能にする。",
+  mhwilds_weapon_skill_poison_functionality_i: "毒ビンの装填が可能になる。",
+
+  mhwilds_weapon_skill_para_functionality: "麻痺ビン追加",
+  mhwilds_weapon_skill_para_functionality_:
+    "弓装備中、麻痺ビンの装填を可能にする。",
+  mhwilds_weapon_skill_para_functionality_i: "麻痺ビンの装填が可能になる。",
+
+  mhwilds_weapon_skill_sleep_functionality: "睡眠ビン追加",
+  mhwilds_weapon_skill_sleep_functionality_:
+    "弓装備中、睡眠ビンの装填を可能にする。",
+  mhwilds_weapon_skill_sleep_functionality_i: "睡眠ビンの装填が可能になる。",
+
+  mhwilds_weapon_skill_blast_functionality: "爆破ビン追加",
+  mhwilds_weapon_skill_blast_functionality_:
+    "弓装備中、爆破ビンの装填を可能にする。",
+  mhwilds_weapon_skill_blast_functionality_i: "爆破ビンの装填が可能になる。",
+
+  mhwilds_weapon_skill_exhaust_functionality: "減気ビン追加",
+  mhwilds_weapon_skill_exhaust_functionality_:
+    "弓装備中、減気ビンの装填を可能にする。",
+  mhwilds_weapon_skill_exhaust_functionality_i: "減気ビンの装填が可能になる。",
+
+  mhwilds_weapon_skill_focus: "集中",
+  mhwilds_weapon_skill_focus_:
+    "溜め攻撃・ゲージ回復速度が上昇する（太刀の居合抜刀斬りには無効）。",
+  mhwilds_weapon_skill_focus_i: "+5%",
+  mhwilds_weapon_skill_focus_ii: "+10%",
+  mhwilds_weapon_skill_focus_iii: "+15%",
+
+  mhwilds_weapon_skill_power_prolonger: "強化持続",
+  mhwilds_weapon_skill_power_prolonger_: "武器の強化効果の持続時間を延長する。",
+  mhwilds_weapon_skill_power_prolonger_i:
+    "太刀：1.08倍、スラアク：1.3倍、チャアク：剣1.1倍・盾1.15倍・斧1.108倍、操虫棍：1.1倍、双剣：1.3倍",
+  mhwilds_weapon_skill_power_prolonger_ii:
+    "太刀：1.18倍、スラアク：1.6倍、チャアク：剣1.2倍・盾1.25倍・斧1.2倍、操虫棍：1.2倍、双剣：1.5倍",
+  mhwilds_weapon_skill_power_prolonger_iii:
+    "太刀：1.36倍、スラアク：2倍、チャアク：剣1.4倍・盾1.458倍・斧1.4倍、操虫棍：1.4倍、双剣：1.8倍",
+
+  mhwilds_weapon_skill_punishing_draw: "抜刀術【力】",
+  mhwilds_weapon_skill_punishing_draw_:
+    "抜刀攻撃に気絶値と基礎攻撃力を付与する（搭乗中は無効、気絶効果のある攻撃のみ適用）。",
+  mhwilds_weapon_skill_punishing_draw_i: "気絶値少し追加、基礎攻撃力+3",
+  mhwilds_weapon_skill_punishing_draw_ii: "気絶値追加、基礎攻撃力+5",
+  mhwilds_weapon_skill_punishing_draw_iii: "気絶値大きく追加、基礎攻撃力+7",
+
+  mhwilds_weapon_skill_slugger: "ＫＯ術",
+  mhwilds_weapon_skill_slugger_: "気絶値が上昇する。",
+  mhwilds_weapon_skill_slugger_i: "1.2倍",
+  mhwilds_weapon_skill_slugger_ii: "1.3倍",
+  mhwilds_weapon_skill_slugger_iii: "1.4倍",
+
+  mhwilds_weapon_skill_stamina_thief: "スタミナ奪取",
+  mhwilds_weapon_skill_stamina_thief_: "モンスターを疲れさせる効果が上がる",
+  mhwilds_weapon_skill_stamina_thief_i: "1.2倍",
+  mhwilds_weapon_skill_stamina_thief_ii: "1.3倍",
+  mhwilds_weapon_skill_stamina_thief_iii: "1.4倍",
+
+  mhwilds_weapon_skill_artillery: "砲術",
+  mhwilds_weapon_skill_artillery_:
+    "ガンランスの砲撃、竜撃砲、盾斧のビン攻撃、徹甲榴弾など、爆発を伴う攻撃の威力が上昇する",
+  mhwilds_weapon_skill_artillery_i: "砲撃の威力 1.1倍、火属性攻撃値 +30",
+  mhwilds_weapon_skill_artillery_ii: "砲撃の威力 1.2倍、火属性攻撃値 +60",
+  mhwilds_weapon_skill_artillery_iii: "砲撃の威力 1.3倍、火属性攻撃値 +90",
+
+  mhwilds_weapon_skill_rapid_morph: "高速変形",
+  mhwilds_weapon_skill_rapid_morph_:
+    "スラッシュアックスとチャージアックスの変形アクションの速度と火力が上昇する",
+  mhwilds_weapon_skill_rapid_morph_i: "速度:1.1倍\n火力:1.0倍",
+  mhwilds_weapon_skill_rapid_morph_ii: "速度:1.2倍\n火力:1.1倍",
+  mhwilds_weapon_skill_rapid_morph_iii: "速度:1.3倍\n火力:1.2倍",
+
+  mhwilds_weapon_skill_horn_maestro: "笛吹き名人",
+  mhwilds_weapon_skill_horn_maestro_:
+    "狩猟笛の旋律効果時間が延長される。狩猟笛以外に持ち替えると無効。",
+  mhwilds_weapon_skill_horn_maestro_i: "効果時間+30～60秒",
+  mhwilds_weapon_skill_horn_maestro_ii: "効果時間+60～120秒",
+
+  mhwilds_weapon_skill_charge_up: "溜打強化",
+  mhwilds_weapon_skill_charge_up_: "ハンマーの溜め攻撃による気絶値が上昇する。",
+  mhwilds_weapon_skill_charge_up_i: "1.25～1.3倍",
+
+  mhwilds_weapon_skill_airborne: "飛燕",
+  mhwilds_weapon_skill_airborne_: "ジャンプ攻撃が強化される.",
+  mhwilds_weapon_skill_airborne_i: "1.1倍",
+
+  mhwilds_weapon_skill_poison_duration_up: "毒ダメージ強化",
+  mhwilds_weapon_skill_poison_duration_up_:
+    "モンスターに与える毒の効果時間を高める",
+  mhwilds_weapon_skill_poison_duration_up_i: "1.2倍",
+
+  mhwilds_weapon_skill_guard: "ガード性能",
+  mhwilds_weapon_skill_guard_:
+    "ガード時にのけぞりにくくなり、消費スタミナも軽減される。",
+  mhwilds_weapon_skill_guard_i: "スタミナ消費-15%、のけぞり軽減【小】",
+  mhwilds_weapon_skill_guard_ii: "スタミナ消費-30%、のけぞり軽減【中】",
+  mhwilds_weapon_skill_guard_iii: "スタミナ消費-45%、のけぞり軽減【大】",
+
+  mhwilds_weapon_skill_guard_up: "ガード強化",
+  mhwilds_weapon_skill_guard_up_:
+    "通常はガードできない攻撃もガード可能になり、その際のダメージを軽減する。",
+  mhwilds_weapon_skill_guard_up_i: "ダメージ30%軽減",
+  mhwilds_weapon_skill_guard_up_ii: "ダメージ50%軽減",
+  mhwilds_weapon_skill_guard_up_iii: "ダメージ80%軽減",
+
+  mhwilds_weapon_skill_load_shells: "砲弾装填",
+  mhwilds_weapon_skill_load_shells_:
+    "砲弾の装填がスムーズになり、ガンランスの装填数とチャージアックスのビン装填数が増加する。",
+  mhwilds_weapon_skill_load_shells_i: "装填速度が上昇する。",
+  mhwilds_weapon_skill_load_shells_ii:
+    "装填速度がさらに上昇。ガンランスの装填数+1、チャージアックスのビンの色が黄色でも5本装填できるようになる。",
+
+  mhwilds_weapon_skill_speed_sharpening: "砥石使用高速化",
+  mhwilds_weapon_skill_speed_sharpening_: "砥石の使用時間が短くなる",
+  mhwilds_weapon_skill_speed_sharpening_i: "研ぎ動作を１回省略",
+  mhwilds_weapon_skill_speed_sharpening_ii: "	研ぎ動作を２回省略",
+
+  mhwilds_weapon_skill_slicked_blade: "濡れ刃紋",
+  mhwilds_weapon_skill_slicked_blade_:
+    "水に濡れた時、または泡状態の時、一定時間、会心率が上昇する。（それぞれの条件で重複して効果が発動）",
+  mhwilds_weapon_skill_slicked_blade_i:
+    "濡れ : 会心率 +3%\n泡状態 : 会心率 +7%",
+  mhwilds_weapon_skill_slicked_blade_ii:
+    "濡れ : 会心率 +6%\n泡状態 : 会心率 +14%",
+  mhwilds_weapon_skill_slicked_blade_iii:
+    "濡れ : 会心率 +9%\n泡状態 : 会心率 +21%",
+
+  mhwilds_weapon_skill_whiteflame_torrent: "白熾の奔流",
+  mhwilds_weapon_skill_whiteflame_torrent_:
+    "攻撃がヒットした際、1～3撃目にそれぞれ33％／50％／100％の確率で追加ダメージを与える（発動後は確率がリセットされる）。灼熱化と併用すると、灼熱化の効果は発動せず、追加ダメージに変化する",
+  mhwilds_weapon_skill_whiteflame_torrent_i:
+    "灼熱化Lv0：固定50ダメージ\n灼熱化Lv1：固定60ダメージ＋火30\n灼熱化Lv2：固定80ダメージ＋火80",
 };

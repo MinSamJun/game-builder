@@ -48,6 +48,7 @@ export const mhWildsCommonKo = {
   mhwilds_common_bow: "활",
   mhwilds_common_lightbowgun: "라이트 보우건",
   mhwilds_common_heavybowgun: "헤비 보우건",
+  mhwilds_common_weapon_skill: "무기 스킬",
 };
 
 export const mhWildsArmorKo = {
@@ -2142,4 +2143,343 @@ export const mhWildsHeavybowgunsKo = {
   mhwilds_heavybowgun_mountainous_roar: "멧부리 산포의 어차",
   mhwilds_heavybowgun_zoh_mitran_i: "조 미트란Ⅰ",
   mhwilds_heavybowgun_blazing_mitran: "찬란한 미트란",
+};
+
+export const mhWildsWeaponSkillsKo = {
+  mhwilds_weapon_skill_attack_boost: "공격",
+  mhwilds_weapon_skill_attack_boost_: "기초공격력을 증가시킨다",
+  mhwilds_weapon_skill_attack_boost_i: "기초공 +3",
+  mhwilds_weapon_skill_attack_boost_ii: "기초공 +5",
+  mhwilds_weapon_skill_attack_boost_iii: "기초공 +7",
+  mhwilds_weapon_skill_attack_boost_iv: "기초공 1.02배 + 8",
+  mhwilds_weapon_skill_attack_boost_v: "기초공 1.04배 + 9",
+
+  mhwilds_weapon_skill_offensive_guard: "공격적인 방어",
+  mhwilds_weapon_skill_offensive_guard_:
+    "저스트 가드 성공시, 기초공격력 증가 (12초)",
+  mhwilds_weapon_skill_offensive_guard_i: "기초공 1.05배",
+  mhwilds_weapon_skill_offensive_guard_ii: "기초공 1.1배",
+  mhwilds_weapon_skill_offensive_guard_iii: "기초공 1.15배",
+
+  mhwilds_weapon_skill_critical_eye: "간파",
+  mhwilds_weapon_skill_critical_eye_: "회심률을 증가시킨다",
+  mhwilds_weapon_skill_critical_eye_i: "회심률 +4%",
+  mhwilds_weapon_skill_critical_eye_ii: "회심률 +8%",
+  mhwilds_weapon_skill_critical_eye_iii: "회심률 +12% ",
+  mhwilds_weapon_skill_critical_eye_iv: "회심률 +16%",
+  mhwilds_weapon_skill_critical_eye_v: "회심률 +20%",
+
+  mhwilds_weapon_skill_critical_boost: "슈퍼회심",
+  mhwilds_weapon_skill_critical_boost_: "회심배율(1.25)를 증가시킨다",
+  mhwilds_weapon_skill_critical_boost_i: "회심 배율 1.28로 강화",
+  mhwilds_weapon_skill_critical_boost_ii: "회심 배율 1.31로 강화",
+  mhwilds_weapon_skill_critical_boost_iii: "회심 배율 1.34로 강화",
+  mhwilds_weapon_skill_critical_boost_iv: "회심 배율 1.37로 강화",
+  mhwilds_weapon_skill_critical_boost_v: "회심 배율 1.4로 강화",
+
+  mhwilds_weapon_skill_critical_draw: "발도술【기】",
+  mhwilds_weapon_skill_critical_draw_:
+    "무기 발도후 3초간 회심률 증가 (탑승 중 미발동)",
+  mhwilds_weapon_skill_critical_draw_i: "회심률 +50%",
+  mhwilds_weapon_skill_critical_draw_ii: "회심률 +75%",
+  mhwilds_weapon_skill_critical_draw_iii: "회심률 +100%",
+
+  mhwilds_weapon_skill_fire_attack: "불속성 공격 강화",
+  mhwilds_weapon_skill_fire_attack_: "무기의 불속성 공격력 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_fire_attack_i: "불속성 공격력 +40",
+  mhwilds_weapon_skill_fire_attack_ii: "불속성 공격력 1.1배 +50",
+  mhwilds_weapon_skill_fire_attack_iii: "불속성 공격력 1.2배 +60",
+
+  mhwilds_weapon_skill_water_attack: "물속성 공격 강화",
+  mhwilds_weapon_skill_water_attack_: "무기의 물속성 공격력 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_water_attack_i: "물속성 공격력 +40",
+  mhwilds_weapon_skill_water_attack_ii: "물속성 공격력 1.1배 +50",
+  mhwilds_weapon_skill_water_attack_iii: "물속성 공격력 1.2배 +60",
+
+  mhwilds_weapon_skill_ice_attack: "얼음속성 공격 강화",
+  mhwilds_weapon_skill_ice_attack_: "무기의 얼음속성 공격력 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_ice_attack_i: "얼음속성 공격력 +40",
+  mhwilds_weapon_skill_ice_attack_ii: "얼음속성 공격력 1.1배 +50",
+  mhwilds_weapon_skill_ice_attack_iii: "얼음속성 공격력 1.2배 +60",
+
+  mhwilds_weapon_skill_thunder_attack: "번개속성 공격 강화",
+  mhwilds_weapon_skill_thunder_attack_:
+    "무기의 번개속성 공격력 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_thunder_attack_i: "번개속성 공격력 +40",
+  mhwilds_weapon_skill_thunder_attack_ii: "번개속성 공격력 1.1배 +50",
+  mhwilds_weapon_skill_thunder_attack_iii: "번개속성 공격력 1.2배 +60",
+
+  mhwilds_weapon_skill_dragon_attack: "용속성 공격 강화",
+  mhwilds_weapon_skill_dragon_attack_: "무기의 용속성 공격력 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_dragon_attack_i: "용속성 공격력 +40",
+  mhwilds_weapon_skill_dragon_attack_ii: "용속성 공격력 1.1배 +50",
+  mhwilds_weapon_skill_dragon_attack_iii: "용속성 공격력 1.2배 +60",
+
+  mhwilds_weapon_skill_poison_attack: "독속성 강화",
+  mhwilds_weapon_skill_poison_attack_: "무기의 독축적치 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_poison_attack_i: "독축적치 1.05배 +10",
+  mhwilds_weapon_skill_poison_attack_ii: "독축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_poison_attack_iii: "독축적치 1.2배 +50",
+
+  mhwilds_weapon_skill_paralysis_attack: "마비속성 강화",
+  mhwilds_weapon_skill_paralysis_attack_: "무기의 마비축적치 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_paralysis_attack_i: "마비축적치 1.05배 +10",
+  mhwilds_weapon_skill_paralysis_attack_ii: "마비축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_paralysis_attack_iii: "마비축적치 1.2배 +50",
+
+  mhwilds_weapon_skill_sleep_attack: "수면속성 강화",
+  mhwilds_weapon_skill_sleep_attack_: "무기의 수면축적치 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_sleep_attack_i: "수면축적치 1.05배 +10",
+  mhwilds_weapon_skill_sleep_attack_ii: "수면축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_sleep_attack_iii: "수면축적치 1.2배 +50",
+
+  mhwilds_weapon_skill_blast_attack: "폭파속성 강화",
+  mhwilds_weapon_skill_blast_attack_: "무기의 폭파축적치 강화 (최대 1.3배)",
+  mhwilds_weapon_skill_blast_attack_i: "폭파축적치 1.05배 +10",
+  mhwilds_weapon_skill_blast_attack_ii: "폭파축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_blast_attack_iii: "폭파축적치 1.2배 +50",
+
+  mhwilds_weapon_skill_critical_element: "회심격【속성】",
+  mhwilds_weapon_skill_critical_element_:
+    "회심 발생시 속성 피해량 증가\n무기1 : 대검, 해머, 수렵 피리, 건랜스, 슬래시 액스, 차지 액스\n무기2 : 태도, 한손검, 쌍검, 랜스, 조충곤, 라이트 보우건, 헤비 보우건, 활",
+  mhwilds_weapon_skill_critical_element_i: "무기1:1.07 배\n 무기2:1.05배배",
+  mhwilds_weapon_skill_critical_element_ii: "무기1:1.13 배\n 무기2:1.1배",
+  mhwilds_weapon_skill_critical_element_iii: "무기1:1.2 배\n 무기2:1.15배",
+
+  mhwilds_weapon_skill_critical_status: "회심격【특수】",
+  mhwilds_weapon_skill_critical_status_: "회심 발생시 상태이상 축적치 증가",
+  mhwilds_weapon_skill_critical_status_i: "조금 상승",
+  mhwilds_weapon_skill_critical_status_ii: "상승",
+  mhwilds_weapon_skill_critical_status_iii: "크게 상승",
+
+  mhwilds_weapon_skill_charge_master: "차지 마스터",
+  mhwilds_weapon_skill_charge_master_:
+    "모으기 공격의 속성 피해량, 상태이상 축적치 증가",
+  mhwilds_weapon_skill_charge_master_i: "근접:1.15배\n원거리:1.05배 ",
+  mhwilds_weapon_skill_charge_master_ii: "근접:1.2배\n원거리:1.1배",
+  mhwilds_weapon_skill_charge_master_iii: "근접:1.25배\n원거리:1.15배",
+
+  mhwilds_weapon_skill_handicraft: "장인",
+  mhwilds_weapon_skill_handicraft_:
+    "무기의 예리도가 늘어난다. 한계치 이상으로는 늘지 않는다",
+  mhwilds_weapon_skill_handicraft_i: "예리도 +10",
+  mhwilds_weapon_skill_handicraft_ii: "예리도 +20",
+  mhwilds_weapon_skill_handicraft_iii: "예리도 +30",
+  mhwilds_weapon_skill_handicraft_iv: "예리도 +40",
+  mhwilds_weapon_skill_handicraft_v: "예리도 +50",
+
+  mhwilds_weapon_skill_razor_sharp: "명검",
+  mhwilds_weapon_skill_razor_sharp_: "확률적으로 예리도가 소모되지 않는다",
+  mhwilds_weapon_skill_razor_sharp_i: "10%",
+  mhwilds_weapon_skill_razor_sharp_ii: "25%",
+  mhwilds_weapon_skill_razor_sharp_iii: "50%",
+
+  mhwilds_weapon_skill_protective_polish: "칼날 연마",
+  mhwilds_weapon_skill_protective_polish_:
+    "무기 연마 후 일정 시간동안 예리도가 소모되지 않는다",
+  mhwilds_weapon_skill_protective_polish_i: "30초",
+  mhwilds_weapon_skill_protective_polish_ii: "60초",
+  mhwilds_weapon_skill_protective_polish_iii: "90초",
+
+  mhwilds_weapon_skill_minds_eye: "심안",
+  mhwilds_weapon_skill_minds_eye_:
+    "육질 45미만인 부위에 대한 공격이 튕기지 않고, 피해량이 증가한다",
+  mhwilds_weapon_skill_minds_eye_i: "피해량 1.1배, 50% 확률로 튕기지 않는다.",
+  mhwilds_weapon_skill_minds_eye_ii:
+    "피해량 1.15배, 100% 확률로 튕기지 않는다.",
+  mhwilds_weapon_skill_minds_eye_iii:
+    "피해량 1.3배, 100% 확률로 튕기지 않는다.",
+
+  mhwilds_weapon_skill_bludgeoner: "둔기 사용",
+  mhwilds_weapon_skill_bludgeoner_: "예리도가 나쁠 때 피해량이 오른다",
+  mhwilds_weapon_skill_bludgeoner_i: "예리도가 황색 이하일 때 공격력 1.05 배",
+  mhwilds_weapon_skill_bludgeoner_ii: "예리도가 황색 이하일 때 공격력 1.1 배",
+  mhwilds_weapon_skill_bludgeoner_iii: "예리도가 녹색 이하일 때 공격력 1.1 배",
+
+  mhwilds_weapon_skill_masters_touch: "달인의 재주",
+  mhwilds_weapon_skill_masters_touch_: "회심시 예리도가 소모되지 않는다.",
+  mhwilds_weapon_skill_masters_touch_i:
+    "회심시 80 확률로 예리도가 소모되지 않는다.",
+
+  mhwilds_weapon_skill_normal_shots: "통상탄/통상화살 강화",
+  mhwilds_weapon_skill_normal_shots_: "통상탄, 통상화살, 비연쏘기 공격력 증가",
+  mhwilds_weapon_skill_normal_shots_i: "5%",
+
+  mhwilds_weapon_skill_piercing_shots: "관통탄/용화살 강화",
+  mhwilds_weapon_skill_piercing_shots_:
+    "관통탄, 용화살, 용의 천천시의 공격력 증가",
+  mhwilds_weapon_skill_piercing_shots_i: "5%",
+
+  mhwilds_weapon_skill_spread_power_shots: "산탄/강사 강화",
+  mhwilds_weapon_skill_spread_power_shots_: "산탄, 강사, 퀵샷의 공격력 증가",
+  mhwilds_weapon_skill_spread_power_shots_i: "5%",
+
+  mhwilds_weapon_skill_ballistics: "탄도 강화",
+  mhwilds_weapon_skill_ballistics_:
+    "탄, 화살의 적정 사거리가 증가한다. (상한, 하한 모두 증가한다)\n라이트 보우건은 규칙성이 없다",
+  mhwilds_weapon_skill_ballistics_i: "헤비 보우건 : 약 1.25배\n활 : 약 1.15배",
+  mhwilds_weapon_skill_ballistics_ii: "헤비 보우건 : 약 1.4배\n활 : 약 1.25배",
+  mhwilds_weapon_skill_ballistics_iii: "헤비 보우건 : 약 1.6배\n활 : 약 1.4배",
+
+  mhwilds_weapon_skill_rapid_fire_up: "속사 강화",
+  mhwilds_weapon_skill_rapid_fire_up_: "라이트 보우건의 속사 피해량 강화",
+  mhwilds_weapon_skill_rapid_fire_up_i: "5%",
+
+  mhwilds_weapon_skill_opening_shot: "퍼스트샷",
+  mhwilds_weapon_skill_opening_shot_:
+    "보우건 장전 속도 상승, 첫 탄의 위력 상승",
+  mhwilds_weapon_skill_opening_shot_i: "속도 : 1.1배\n위력 : 1.025배",
+  mhwilds_weapon_skill_opening_shot_ii: "속도 : 1.15배\n위력 : 1.05배",
+  mhwilds_weapon_skill_opening_shot_iii: "속도 : 1.2배\n위력 : 1.075배",
+
+  mhwilds_weapon_skill_tetrad_shot: "포스샷",
+  mhwilds_weapon_skill_tetrad_shot_:
+    "4발 이후의 탄,화살의 회심률 증가, 4발째 와 6발째의 공격력 증가",
+  mhwilds_weapon_skill_tetrad_shot_i: "회심률: 8~9%\n공격력 1.01배",
+  mhwilds_weapon_skill_tetrad_shot_ii: "회심률: 10%\n공격력 1.02배",
+  mhwilds_weapon_skill_tetrad_shot_iii: "회심률: 12%\n공격력 1.05배",
+
+  mhwilds_weapon_skill_special_ammo_boost: "특수 사격 강화",
+  mhwilds_weapon_skill_special_ammo_boost_:
+    "보우건의 특수탄과활의 용화살, 용의 천천시, 유도 화살의 위력이 오른다",
+  mhwilds_weapon_skill_special_ammo_boost_i: "10%",
+  mhwilds_weapon_skill_special_ammo_boost_ii: "20%",
+
+  mhwilds_weapon_skill_poison_functionality: "독병 추가",
+  mhwilds_weapon_skill_poison_functionality_:
+    "활 장비 중, 독병을 장착할 수 있게 한다.",
+  mhwilds_weapon_skill_poison_functionality_i: "독병을 장착할 수 있게 된다",
+
+  mhwilds_weapon_skill_para_functionality: "마비병 추가",
+  mhwilds_weapon_skill_para_functionality_:
+    "활 장비 중, 마비병을 장착할 수 있게 한다.",
+  mhwilds_weapon_skill_para_functionality_i: "마비병을 장착할 수 있게 된다",
+
+  mhwilds_weapon_skill_sleep_functionality: "수면병 추가",
+  mhwilds_weapon_skill_sleep_functionality_:
+    "활 장비 중, 수면병을 장착할 수 있게 한다.",
+  mhwilds_weapon_skill_sleep_functionality_i: "수면병을 장착할 수 있게 된다",
+
+  mhwilds_weapon_skill_blast_functionality: "폭파병 추가",
+  mhwilds_weapon_skill_blast_functionality_:
+    "활 장비 중, 폭파병을 장착할 수 있게 한다.",
+  mhwilds_weapon_skill_blast_functionality_i: "폭파병을 장착할 수 있게 된다",
+
+  mhwilds_weapon_skill_exhaust_functionality: "멸기병 추가",
+  mhwilds_weapon_skill_exhaust_functionality_:
+    "활 장비 중, 멸기병을 장착할 수 있게 한다.",
+  mhwilds_weapon_skill_exhaust_functionality_i: "멸기병을 장착할 수 있게 된다",
+
+  mhwilds_weapon_skill_focus: "집중",
+  mhwilds_weapon_skill_focus_:
+    "모으기 및 게이지 회복 속도 증가 (태도의 앉아 발도베기 자동상승에는 적용되지 않음)",
+  mhwilds_weapon_skill_focus_i: "5%",
+  mhwilds_weapon_skill_focus_ii: "10%",
+  mhwilds_weapon_skill_focus_iii: "15%",
+
+  mhwilds_weapon_skill_power_prolonger: "강화 지속",
+  mhwilds_weapon_skill_power_prolonger_: "무기의 강화 지속시간을 증가",
+  mhwilds_weapon_skill_power_prolonger_i:
+    "태도:1.08배\n슬래시 액스:1.3배\n차지액스: 검:1.1배 방패:1.15배 도끼:1.108배\n 조충곤:1.1배\n쌍검1.3배",
+  mhwilds_weapon_skill_power_prolonger_ii:
+    "태도:1.18배\n슬래시 액스:1.6배\n차지액스: 검:1.2배 방패:1.25배 도끼:1.2배\n 조충곤:1.2배\n쌍검1.5배",
+  mhwilds_weapon_skill_power_prolonger_iii:
+    "태도:1.36배\n슬래시 액스:2배\n차지액스: 검:1.4배 방패:1.458배 도끼:1.4배\n 조충곤:1.4배\n쌍검1.8배",
+
+  mhwilds_weapon_skill_punishing_draw: "발도술【힘】",
+  mhwilds_weapon_skill_punishing_draw_:
+    "무기의 발도 공격의 기절치 증가, 기초공격력 상승 (탑승 중 미발동, 원래 기절을 거는 공격에만 적용)",
+  mhwilds_weapon_skill_punishing_draw_i: "기절치 약간 추가, 기초공 +3",
+  mhwilds_weapon_skill_punishing_draw_ii: "기절치 추가, 기초공 +5",
+  mhwilds_weapon_skill_punishing_draw_iii: "기절치 크게게 추가, 기초공 +7",
+
+  mhwilds_weapon_skill_slugger: "KO술",
+  mhwilds_weapon_skill_slugger_: "기절 수치가 높아진다",
+  mhwilds_weapon_skill_slugger_i: "1.2배",
+  mhwilds_weapon_skill_slugger_ii: "1.3배",
+  mhwilds_weapon_skill_slugger_iii: "1.4배",
+
+  mhwilds_weapon_skill_stamina_thief: "스태미나 탈취",
+  mhwilds_weapon_skill_stamina_thief_: "스태미나 감소 위력 증가",
+  mhwilds_weapon_skill_stamina_thief_i: "1.2배",
+  mhwilds_weapon_skill_stamina_thief_ii: "1.3배",
+  mhwilds_weapon_skill_stamina_thief_iii: "1.4배",
+
+  mhwilds_weapon_skill_artillery: "포술",
+  mhwilds_weapon_skill_artillery_:
+    "건랜스 포격, 용격포와 차지액스병공격, 철갑유탄 등 폭발을일으키는 공격의 위력이 상승한다.",
+  mhwilds_weapon_skill_artillery_i: "포격위력 1.1배, 화염 공격력 +30",
+  mhwilds_weapon_skill_artillery_ii: "포격위력 1.2배, 화염 공격력 +60",
+  mhwilds_weapon_skill_artillery_iii: "포격위력 1.3배, 화염 공격력 +90",
+
+  mhwilds_weapon_skill_rapid_morph: "고속 변형",
+  mhwilds_weapon_skill_rapid_morph_:
+    "슬래시액스와 차지액스의변형 액션 속도와 화력이 상승",
+  mhwilds_weapon_skill_rapid_morph_i: "속도:1.1배\n화력:1.0배",
+  mhwilds_weapon_skill_rapid_morph_ii: "속도:1.2배\n화력:1.1배",
+  mhwilds_weapon_skill_rapid_morph_iii: "속도:1.3배\n화력:1.2배",
+
+  mhwilds_weapon_skill_horn_maestro: "피리 명인",
+  mhwilds_weapon_skill_horn_maestro_:
+    "수렵피리 선율 지속시간 증가. 수렵피리가 아닌 무기로 교체시 효과 소멸",
+  mhwilds_weapon_skill_horn_maestro_i: "지속시간 30~60초 증가",
+  mhwilds_weapon_skill_horn_maestro_ii: "지속시간  60~120초 증가",
+
+  mhwilds_weapon_skill_charge_up: "모으기 타격 강화",
+  mhwilds_weapon_skill_charge_up_: "해머의 모으기타격 기절치 증가",
+  mhwilds_weapon_skill_charge_up_i: "1.25~1.3배",
+
+  mhwilds_weapon_skill_airborne: "비연",
+  mhwilds_weapon_skill_airborne_: "점프 공격의 위력이 강화된다.",
+  mhwilds_weapon_skill_airborne_i: "1.1배",
+
+  mhwilds_weapon_skill_poison_duration_up: "독 대미지 강화",
+  mhwilds_weapon_skill_poison_duration_up_:
+    "몬스터에 부여하는독의 효과 시간을 늘린다",
+  mhwilds_weapon_skill_poison_duration_up_i: "1.2배",
+
+  mhwilds_weapon_skill_guard: "가드 성능",
+  mhwilds_weapon_skill_gurad_:
+    "가드 시 좀처럼 움츠리지 않게되고, 소비 스태미나도 줄어든다",
+  mhwilds_weapon_skill_guard_i:
+    "가드시 스태미나 소비량 15% 감소, 가드시 움츠림 약감 감소",
+  mhwilds_weapon_skill_guard_ii:
+    "가드시 스태미나 소비량 30% 감소, 가드시 움츠림 감소",
+  mhwilds_weapon_skill_guard_iii:
+    "가드시 스태미나 소비량 45% 감소, 가드시 움츠림 크게 감소",
+
+  mhwilds_weapon_skill_guard_up: "가드 강화",
+  mhwilds_weapon_skill_guard_up_:
+    "가드 불가능한 공격을 가드할 수 있게 되며, 그때의 피해량 감소",
+  mhwilds_weapon_skill_guard_up_i: "30% 감소",
+  mhwilds_weapon_skill_guard_up_ii: "50% 감소",
+  mhwilds_weapon_skill_guard_up_iii: "80% 감소",
+
+  mhwilds_weapon_skill_load_shells: "포탄 장전",
+  mhwilds_weapon_skill_load_shells_:
+    "탄과 병의 장전 속도가 빨라진다. 건랜스의 장전수, 차지액스의 충전수도 상승한다",
+  mhwilds_weapon_skill_load_shells_i: "탄과 병의 장전 속도가 빨라진다.",
+  mhwilds_weapon_skill_load_shells_ii:
+    "탄과 병의 장전 속도가 더 빨라진다. 건랜스 장전수+1. 차지액스 노란색 장전수 5로 증가",
+
+  mhwilds_weapon_skill_speed_sharpening: "숫돌 사용 고속화",
+  mhwilds_weapon_skill_speed_sharpening_: "숫돌 사용 시간이 짧아진다",
+  mhwilds_weapon_skill_speed_sharpening_i: "연마 동작 1회 생략",
+  mhwilds_weapon_skill_speed_sharpening_ii: "연마 동작 2회 생략",
+
+  mhwilds_weapon_skill_slicked_blade: "물에 젖은 명검",
+  mhwilds_weapon_skill_slicked_blade_:
+    "물에 젖었거나 거품 상태일 때일정 시간 동안 회심률이 상승한다.(각 조건에서 중복하여 효과 발동)",
+  mhwilds_weapon_skill_slicked_blade_i:
+    "물에 젖음 : 회심률 +3%\n거품 상태 : 회심률+7%",
+  mhwilds_weapon_skill_slicked_blade_ii:
+    "물에 젖음 : 회심률 +6%\n거품 상태 : 회심률+14%",
+  mhwilds_weapon_skill_slicked_blade_iii:
+    "물에 젖음 : 회심률 +9%\n거품 상태 : 회심률+21%",
+
+  mhwilds_weapon_skill_whiteflame_torrent: "백열의 격류",
+  mhwilds_weapon_skill_whiteflame_torrent_:
+    "1~3 번째 타격에 33%/50%/100% 확률로 추가 대미지를 준다. (효과가 발동되면 확률 초기화)\n작열화와 함께 사용시 작열화는 발동하지 않고 추가 대미지",
+  mhwilds_weapon_skill_whiteflame_torrent_i:
+    "작열화0레벨 : 50 고정피해\n작열화1레벨 60 고정피해 + 30 불피해\n작열화2레벨 80 고정피해 + 80 화염피해",
 };

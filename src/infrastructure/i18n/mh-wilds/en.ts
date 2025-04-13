@@ -48,6 +48,7 @@ export const mhWildsCommonEn = {
   mhwilds_common_bow: "Bow",
   mhwilds_common_lightbowgun: "Light Bowgun",
   mhwilds_common_heavybowgun: "Heavy Bowgun",
+  mhwilds_common_weapon_skill: "Weapon Skill",
 };
 
 export const mhWildsArmorEn = {
@@ -2047,4 +2048,368 @@ export const mhWildsHeavybowgunsEn = {
   mhwilds_heavybowgun_mountainous_roar: "Mountainous Roar",
   mhwilds_heavybowgun_zoh_mitran_i: "Zoh Mitran I",
   mhwilds_heavybowgun_blazing_mitran: "Blazing Mitran",
+};
+
+export const mhwildsWeaponSkillsEn = {
+  mhwilds_weapon_skill_attack_boost: "Attack Boost",
+  mhwilds_weapon_skill_attack_boost_: "Increase Base Attack",
+  mhwilds_weapon_skill_attack_boost_i: "Base Attack +3",
+  mhwilds_weapon_skill_attack_boost_ii: "Base Attack +5",
+  mhwilds_weapon_skill_attack_boost_iii: "Base Attack +7",
+  mhwilds_weapon_skill_attack_boost_iv: "Base Attack 1.02x + 8",
+  mhwilds_weapon_skill_attack_boost_v: "Base Attack 1.04x + 9",
+
+  mhwilds_weapon_skill_offensive_guard: "Offensive Guard",
+  mhwilds_weapon_skill_offensive_guard_:
+    "When perfectly-timed guard is successful, increase Base Attack (12 sec)",
+  mhwilds_weapon_skill_offensive_guard_i:
+    "When perfectly-timed guard is successful, Base Attack 1.05x (12 sec)",
+  mhwilds_weapon_skill_offensive_guard_ii:
+    "When perfectly-timed guard is successful, Base Attack 1.1x (12 sec)",
+  mhwilds_weapon_skill_offensive_guard_iii:
+    "When perfectly-timed guard is successful, Base Attack 1.15x (12 sec)",
+
+  mhwilds_weapon_skill_critical_boost: "Critical Boost",
+  mhwilds_weapon_skill_critical_boost_: "Increase Affinity Rate",
+  mhwilds_weapon_skill_critical_boost_i: "Affinity +4%",
+  mhwilds_weapon_skill_critical_boost_ii: "Affinity +8%",
+  mhwilds_weapon_skill_critical_boost_iii: "Affinity +12%",
+  mhwilds_weapon_skill_critical_boost_iv: "Affinity +16%",
+  mhwilds_weapon_skill_critical_boost_v: "Affinity +20%",
+
+  mhwilds_weapon_skill_critical_eye: "Critical Eye",
+  mhwilds_weapon_skill_critical_eye_: "Increase Critical Rate(1.25)",
+  mhwilds_weapon_skill_critical_eye_i: "Increase Critical Rate 1.28",
+  mhwilds_weapon_skill_critical_eye_ii: "Increase Critical Rate 1.31",
+  mhwilds_weapon_skill_critical_eye_iii: "Increase Critical Rate 1.34",
+  mhwilds_weapon_skill_critical_eye_iv: "Increase Critical Rate 1.37",
+  mhwilds_weapon_skill_critical_eye_v: "Increase Critical Rate 1.4",
+
+  mhwilds_weapon_skill_critical_draw: "Critical Draw",
+  mhwilds_weapon_skill_critical_draw_:
+    "When the weapon is drawn, increase Affinity (does not activate while mounted)",
+  mhwilds_weapon_skill_critical_draw_i: "Affinit +50%",
+  mhwilds_weapon_skill_critical_draw_ii: "Affinit +75%",
+  mhwilds_weapon_skill_critical_draw_iii: "Affinit +100%",
+
+  mhwilds_weapon_skill_fire_attack: "Fire Attack",
+  mhwilds_weapon_skill_fire_attack_:
+    "Increase Weapon Fire Attack (maximum 1.3x)",
+  mhwilds_weapon_skill_fire_attack_i: "Fire Attack +40",
+  mhwilds_weapon_skill_fire_attack_ii: "Fire Attack 1.1x +50",
+  mhwilds_weapon_skill_fire_attack_iii: "Fire Attack 1.2x +60",
+
+  mhwilds_weapon_skill_water_attack: "Water Attack",
+  mhwilds_weapon_skill_water_attack_:
+    "Increase Weapon Water Attack (maximum 1.3x)",
+  mhwilds_weapon_skill_water_attack_i: "Water Attack +40",
+  mhwilds_weapon_skill_water_attack_ii: "Water Attack 1.1x +50",
+  mhwilds_weapon_skill_water_attack_iii: "Water Attack 1.2x +60",
+
+  mhwilds_weapon_skill_ice_attack: "Ice Attack",
+  mhwilds_weapon_skill_ice_attack_: "Increase Weapon Ice Attack (maximum 1.3x)",
+  mhwilds_weapon_skill_ice_attack_i: "Ice Attack +40",
+  mhwilds_weapon_skill_ice_attack_ii: "Ice Attack 1.1x +50",
+  mhwilds_weapon_skill_ice_attack_iii: "Ice Attack 1.2x +60",
+
+  mhwilds_weapon_skill_thunder_attack: "Thunder Attack",
+  mhwilds_weapon_skill_thunder_attack_:
+    "Increase Weapon Thunder Attack (maximum 1.3x)",
+  mhwilds_weapon_skill_thunder_attack_i: "Thunder Attack +40",
+  mhwilds_weapon_skill_thunder_attack_ii: "Thunder Attack 1.1x +50",
+  mhwilds_weapon_skill_thunder_attack_iii: "Thunder Attack 1.2x +60",
+
+  mhwilds_weapon_skill_dragon_attack: "Dragon Attack",
+  mhwilds_weapon_skill_dragon_attack_:
+    "Increase Weapon Dragon Attack (maximum 1.3x)",
+  mhwilds_weapon_skill_dragon_attack_i: "Dragon Attack +40",
+  mhwilds_weapon_skill_dragon_attack_ii: "Dragon Attack 1.1x +50",
+  mhwilds_weapon_skill_dragon_attack_iii: "Dragon Attack 1.2x +60",
+
+  mhwilds_weapon_skill_poison_attack: "Poison Attack",
+  mhwilds_weapon_skill_poison_attack_:
+    "Increase Weapon Sleep Abnormal Status Effects (maximum 1.3x)",
+  mhwilds_weapon_skill_poison_attack_i: "Poison Attack 1.05x +10",
+  mhwilds_weapon_skill_poison_attack_ii: "Poison Attack 1.1x +20",
+  mhwilds_weapon_skill_poison_attack_iii: "Poison Attack 1.2x +50",
+
+  mhwilds_weapon_skill_paralysis_attack: "Paralysis Attack",
+  mhwilds_weapon_skill_paralysis_attack_:
+    "Increase Weapon Paralysis Abnormal Status Effects (maximum 1.3x)",
+  mhwilds_weapon_skill_paralysis_attack_i: "Paralysis Attack 1.05x +10",
+  mhwilds_weapon_skill_paralysis_attack_ii: "Paralysis Attack 1.1x +20",
+  mhwilds_weapon_skill_paralysis_attack_iii: "Paralysis Attack 1.2x +50",
+
+  mhwilds_weapon_skill_sleep_attack: "Sleep Attack",
+  mhwilds_weapon_skill_sleep_attack_:
+    "Increase Weapon Sleep Abnormal Status Effects (maximum 1.3x)",
+  mhwilds_weapon_skill_sleep_attack_i: "Sleep Attack 1.05x +10",
+  mhwilds_weapon_skill_sleep_attack_ii: "Sleep Attack 1.1x +20",
+  mhwilds_weapon_skill_sleep_attack_iii: "Sleep Attack 1.2x +50",
+
+  mhwilds_weapon_skill_blast_attack: "Blast Attack",
+  mhwilds_weapon_skill_blast_attack_:
+    "Increase Weapon Blast Abnormal Status Effects (maximum 1.3x)",
+  mhwilds_weapon_skill_blast_attack_i: "Blast Attack 1.05x +10",
+  mhwilds_weapon_skill_blast_attack_ii: "Blast Attack 1.1x +20",
+  mhwilds_weapon_skill_blast_attack_iii: "Blast Attack 1.2x +50",
+
+  mhwilds_weapon_skill_critical_element: "Critical Element",
+  mhwilds_weapon_skill_critical_element_:
+    "Increase Critical Damage when Critical is triggered\nWeapon1 : Great Sword, Hammer, Hunting Horn, Lance, Switch Axe, Charge Blade\nWeapon2 : Longsword, Sword and Shield, Dual Blades, Lance, Hunting Horn, Light Bowgun, Heavy Bowgun, Bow",
+  mhwilds_weapon_skill_critical_element_i: "Weapon1:1.07x\nWeapon2:1.05x",
+  mhwilds_weapon_skill_critical_element_ii: "Weapon1:1.13x\nWeapon2:1.1x",
+  mhwilds_weapon_skill_critical_element_iii: "Weapon1:1.2x\nWeapon2:1.15x",
+
+  mhwilds_weapon_skill_critical_status: "Critical Status",
+  mhwilds_weapon_skill_critical_status_:
+    "Increase  Abnormal Status Effects when Critical is triggered",
+  mhwilds_weapon_skill_critical_status_i: "Slight increase",
+  mhwilds_weapon_skill_critical_status_ii: "Increase",
+  mhwilds_weapon_skill_critical_status_iii: "Great increase",
+
+  mhwilds_weapon_skill_charge_master: "Charge Master",
+  mhwilds_weapon_skill_charge_master_:
+    "Increases element power and status buildup for charged attacks",
+  mhwilds_weapon_skill_charge_master_i: "Melee:1.15x\nRange:1.05x ",
+  mhwilds_weapon_skill_charge_master_ii: "Melee:1.2x\nRange:1.1x",
+  mhwilds_weapon_skill_charge_master_iii: "Melee:1.25x\nRange:1.15x",
+
+  mhwilds_weapon_skill_handicraft: "Handicraft",
+  mhwilds_weapon_skill_handicraft_:
+    "Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum.",
+  mhwilds_weapon_skill_handicraft_i: "Sharpness +10",
+  mhwilds_weapon_skill_handicraft_ii: "Sharpness +20",
+  mhwilds_weapon_skill_handicraft_iii: "Sharpness +30",
+  mhwilds_weapon_skill_handicraft_iv: "Sharpness +40",
+  mhwilds_weapon_skill_handicraft_v: "Sharpness +50",
+
+  mhwilds_weapon_skill_razor_sharp: "Razor Sharp",
+  mhwilds_weapon_skill_razor_sharp_: "Has a chance to prevent sharpness loss",
+  mhwilds_weapon_skill_razor_sharp_i: "10%",
+  mhwilds_weapon_skill_razor_sharp_ii: "25%",
+  mhwilds_weapon_skill_razor_sharp_iii: "50%",
+
+  mhwilds_weapon_skill_protective_polish: "Protective Polish",
+  mhwilds_weapon_skill_protective_polish_:
+    "After polishing weapon, sharpness does not decrease for a while.",
+  mhwilds_weapon_skill_protective_polish_i: "30 sec",
+  mhwilds_weapon_skill_protective_polish_ii: "60 sec",
+  mhwilds_weapon_skill_protective_polish_iii: "90 sec",
+
+  mhwilds_weapon_skill_minds_eye: "Mind's Eye",
+  mhwilds_weapon_skill_minds_eye_:
+    "Attacks do not bounce off hitzones below 45, and damage is increased.",
+  mhwilds_weapon_skill_minds_eye_i:
+    "Damage x1.1. 50% chance to prevent bouncing.",
+  mhwilds_weapon_skill_minds_eye_ii:
+    "Damage x1.15. 100% chance to prevent bouncing.",
+  mhwilds_weapon_skill_minds_eye_iii:
+    "Damage x1.3. 100% chance to prevent bouncing.",
+
+  mhwilds_weapon_skill_bludgeoner: "Bludgeoner",
+  mhwilds_weapon_skill_bludgeoner_:
+    "Increases attack power when your weapon sharpness is low",
+  mhwilds_weapon_skill_bludgeoner_i:
+    "+5% attack power when your sharpness gauge is yellow or lower.",
+  mhwilds_weapon_skill_bludgeoner_ii:
+    "+10% attack power when your sharpness gauge is yellow or lower.",
+  mhwilds_weapon_skill_bludgeoner_iii:
+    "+15% attack power when your sharpness gauge is green or lower.",
+
+  mhwilds_weapon_skill_masters_touch: "Master's Touch",
+  mhwilds_weapon_skill_masters_touch_:
+    "Prevents your weapon from losing sharpness during critical hits",
+  mhwilds_weapon_skill_masters_touch_i:
+    "80% chance to prevent sharpness loss during critical hits",
+
+  mhwilds_weapon_skill_normal_shots: "Normal Shots",
+  mhwilds_weapon_skill_normal_shots_:
+    "ncreases the attack power of Normal Ammo, normal arrows, and Flying Swallow Shot",
+  mhwilds_weapon_skill_normal_shots_i: "5%",
+
+  mhwilds_weapon_skill_piercing_shots: "Piercing Shots",
+  mhwilds_weapon_skill_piercing_shots_:
+    "Increases the attack of the bowgun's Pierce Ammo, and the bow's Dragon Piercer and Thousand Dragons.",
+  mhwilds_weapon_skill_piercing_shots_i: "5%",
+
+  mhwilds_weapon_skill_spread_power_shots: "Spread/Power Shots",
+  mhwilds_weapon_skill_spread_power_shots_:
+    "Increases the attack of the bowgun's Spread Ammo and the bow's Power Shots and Quick Shots.",
+  mhwilds_weapon_skill_spread_power_shots_i: "5%",
+
+  mhwilds_weapon_skill_ballistics: "Ballistics",
+  mhwilds_weapon_skill_ballistics_:
+    "Extends the effective range of shots and arrows (both upper and lower bounds). No consistent effect on Light Bowgun.",
+  mhwilds_weapon_skill_ballistics_i: "Heavy Bowgun: ~1.25×\nBow: ~1.15×",
+  mhwilds_weapon_skill_ballistics_ii: "Heavy Bowgun: ~1.4×\nBow: ~1.25×",
+  mhwilds_weapon_skill_ballistics_iii: "Heavy Bowgun: ~1.6×\nBow: ~1.4×",
+
+  mhwilds_weapon_skill_rapid_fire_up: "Rapid Fire Up",
+  mhwilds_weapon_skill_rapid_fire_up_: "Improves light bowgun rapid fire",
+  mhwilds_weapon_skill_rapid_fire_up_i: "+5%",
+
+  mhwilds_weapon_skill_opening_shot: "Opening Shot",
+  mhwilds_weapon_skill_opening_shot_:
+    "Increases reload speed and first shot power.",
+  mhwilds_weapon_skill_opening_shot_i: "Speed ×1.1, Power ×1.025",
+  mhwilds_weapon_skill_opening_shot_ii: "Speed ×1.15, Power ×1.05",
+  mhwilds_weapon_skill_opening_shot_iii: "Speed ×1.2, Power ×1.075",
+
+  mhwilds_weapon_skill_tetrad_shot: "Tetrad Shot",
+  mhwilds_weapon_skill_tetrad_shot_:
+    "Increases critical rate after the 4th shot. Boosts power on the 4th and 6th shots.",
+  mhwilds_weapon_skill_tetrad_shot_i: "Crit +8–9%, Power ×1.01",
+  mhwilds_weapon_skill_tetrad_shot_ii: "Crit +10%, Power ×1.02",
+  mhwilds_weapon_skill_tetrad_shot_iii: "Crit +12%, Power ×1.05",
+
+  mhwilds_weapon_skill_special_ammo_boost: "Special Ammo Boost",
+  mhwilds_weapon_skill_special_ammo_boost_:
+    "Increases the power of the bowgun's special ammo, and the bow's Dragon Piercer, Thousand Dragons, and Tracer",
+  mhwilds_weapon_skill_special_ammo_boost_i: "10%",
+  mhwilds_weapon_skill_special_ammo_boost_ii: "20%",
+
+  mhwilds_weapon_skill_poison_functionality: "Poison Functionality",
+  mhwilds_weapon_skill_poison_functionality_:
+    "Allows you to apply poison coatings.",
+  mhwilds_weapon_skill_poison_functionality_i: "Lets you use poison coatings.",
+
+  mhwilds_weapon_skill_para_functionality: "Para Functionality",
+  mhwilds_weapon_skill_para_functionality_:
+    "Allows you to apply paralysis coatings.",
+  mhwilds_weapon_skill_para_functionality_i: "Lets you use paralysis coatings.",
+
+  mhwilds_weapon_skill_sleep_functionality: "Sleep Functionality",
+  mhwilds_weapon_skill_sleep_functionality_:
+    "Allows you to apply sleep coatings.",
+  mhwilds_weapon_skill_sleep_functionality_i: "Lets you use sleep coatings.",
+
+  mhwilds_weapon_skill_blast_functionality: "Blast Functionality",
+  mhwilds_weapon_skill_blast_functionality_:
+    "Allows you to apply blast coatings.",
+  mhwilds_weapon_skill_blast_functionality_i: "Lets you use blast coatings.",
+
+  mhwilds_weapon_skill_exhaust_functionality: "Exhaust Functionality",
+  mhwilds_weapon_skill_exhaust_functionality_:
+    "Allows you to apply exhaust coatings.",
+  mhwilds_weapon_skill_exhaust_functionality_i:
+    "Lets you use exhaust coatings.",
+
+  mhwilds_weapon_skill_focus: "Focus",
+  mhwilds_weapon_skill_focus_:
+    "Increase speed of charge rate and gauge recovery (does not apply to auto-recovery of Longsword's Iai Slash)",
+  mhwilds_weapon_skill_focus_i: "+5%",
+  mhwilds_weapon_skill_focus_ii: "+10%",
+  mhwilds_weapon_skill_focus_iii: "+15%",
+
+  mhwilds_weapon_skill_power_prolonger: "Power Prolonger",
+  mhwilds_weapon_skill_power_prolonger_:
+    "Extends the duration of weapon power effects.",
+  mhwilds_weapon_skill_power_prolonger_i:
+    "Longsword: ×1.08, Switch Axe: ×1.3, Charge Blade - Sword: ×1.1, Shield: ×1.15, Axe: ×1.108, Insect Glaive: ×1.1, Dual Blades: ×1.3",
+  mhwilds_weapon_skill_power_prolonger_ii:
+    "Longsword: ×1.18, Switch Axe: ×1.6, Charge Blade - Sword: ×1.2, Shield: ×1.25, Axe: ×1.2, Insect Glaive: ×1.2, Dual Blades: ×1.5",
+  mhwilds_weapon_skill_power_prolonger_iii:
+    "Longsword: ×1.36, Switch Axe: ×2.0, Charge Blade - Sword: ×1.4, Shield: ×1.458, Axe: ×1.4, Insect Glaive: ×1.4, Dual Blades: ×1.8",
+
+  mhwilds_weapon_skill_punishing_draw: "Punishing Draw",
+  mhwilds_weapon_skill_punishing_draw_:
+    "Increases stun and base attack power on draw attacks (does not activate while mounting, only applies to stun-capable attacks).",
+  mhwilds_weapon_skill_punishing_draw_i: "Slight stun boost, Base Attack +3",
+  mhwilds_weapon_skill_punishing_draw_ii: "Stun boost, Base Attack +5",
+  mhwilds_weapon_skill_punishing_draw_iii: "Major stun boost, Base Attack +7",
+
+  mhwilds_weapon_skill_slugger: "Slugger",
+  mhwilds_weapon_skill_slugger_: "Increases stun value.",
+  mhwilds_weapon_skill_slugger_i: "×1.2",
+  mhwilds_weapon_skill_slugger_ii: "×1.3",
+  mhwilds_weapon_skill_slugger_iii: "×1.4",
+
+  mhwilds_weapon_skill_stamina_thief: "Stamina Thief",
+  mhwilds_weapon_skill_stamina_thief_: "Increases ability to exhaust monsters",
+  mhwilds_weapon_skill_stamina_thief_i: "×1.2",
+  mhwilds_weapon_skill_stamina_thief_ii: "×1.3",
+  mhwilds_weapon_skill_stamina_thief_iii: "×1.4",
+
+  mhwilds_weapon_skill_artillery: "Artillery",
+  mhwilds_weapon_skill_artillery_:
+    "Strengthens explosive attacks like shells, Wyvern's Fire, charge blade phial attacks, and Sticky Ammo.",
+  mhwilds_weapon_skill_artillery_i: "explosive attacks 1.1x, fire attack +30",
+  mhwilds_weapon_skill_artillery_ii: "explosive attacks 1.2x, fire attack +60",
+  mhwilds_weapon_skill_artillery_iii: "explosive attacks 1.3x, fire attack +90",
+
+  mhwilds_weapon_skill_rapid_morph: "Rapid Morph",
+  mhwilds_weapon_skill_rapid_morph_:
+    "Increases switch speed and power for switch axes and charge blades",
+  mhwilds_weapon_skill_rapid_morph_i: "Speed:1.1x\nPower:1.0x",
+  mhwilds_weapon_skill_rapid_morph_ii: "Speed:1.2x\nPower:1.1x",
+  mhwilds_weapon_skill_rapid_morph_iii: "Speed:1.3x\nPower:1.2x",
+
+  mhwilds_weapon_skill_horn_maestro: "Horn Maestro",
+  mhwilds_weapon_skill_horn_maestro_:
+    "Extends Hunting Horn melody duration. Ends when switching to a non-Horn weapon.",
+  mhwilds_weapon_skill_horn_maestro_i: "Duration +30–60 sec",
+  mhwilds_weapon_skill_horn_maestro_ii: "Duration +60–120 sec",
+
+  mhwilds_weapon_skill_charge_up: "Charge Up",
+  mhwilds_weapon_skill_charge_up_:
+    "Increases stun value of hammer charge attacks.",
+  mhwilds_weapon_skill_charge_up_i: "×1.25–1.3",
+
+  mhwilds_weapon_skill_airborne: "Airborne",
+  mhwilds_weapon_skill_airborne_:
+    "Increases the damage caused by jumping attacks",
+  mhwilds_weapon_skill_airborne_i: "1.1x",
+
+  mhwilds_weapon_skill_poison_duration_up: "Poison Duration Up",
+  mhwilds_weapon_skill_poison_duration_up_:
+    "Extends the duration of your poison's effect on monsters",
+  mhwilds_weapon_skill_poison_duration_up_i: "1.2x",
+
+  mhwilds_weapon_skill_guard: "Guard",
+  mhwilds_weapon_skill_guard_:
+    "Reduces knockbacks and stamina depletion when guarding.",
+  mhwilds_weapon_skill_guard_i:
+    "Slightly decreases stamina use and knockbacks.",
+  mhwilds_weapon_skill_guard_ii: "decreases stamina use and knockbacks.",
+  mhwilds_weapon_skill_guard_iii:
+    "Greatly decreases stamina use and knockbacks.",
+
+  mhwilds_weapon_skill_guard_up: "Guard Up",
+  mhwilds_weapon_skill_guard_up_:
+    "Allows guarding against normally unblockable attacks and reduces damage taken.",
+  mhwilds_weapon_skill_guard_up_i: "Damage taken reduced by 30%",
+  mhwilds_weapon_skill_guard_up_ii: "Damage taken reduced by 50%",
+  mhwilds_weapon_skill_guard_up_iii: "Damage taken reduced by 80%",
+
+  mhwilds_weapon_skill_load_shells: "Load Shells",
+  mhwilds_weapon_skill_load_shells_:
+    "Speeds up loading of shells and phials. Also increases Gunlance shell capacity and Charge Blade phial capacity.",
+  mhwilds_weapon_skill_load_shells_i: "Faster shell and phial loading.",
+  mhwilds_weapon_skill_load_shells_ii:
+    "Greatly faster loading. +1 Gunlance shell. Charge Blade yellow gauge: 5 phials.",
+
+  mhwilds_weapon_skill_speed_sharpening: "Speed Sharpening",
+  mhwilds_weapon_skill_speed_sharpening_:
+    "Speeds up weapon sharpening when using a whetstone",
+  mhwilds_weapon_skill_speed_sharpening_i:
+    "Removes one cycle from the sharpening process",
+  mhwilds_weapon_skill_speed_sharpening_ii:
+    "Removes two cycles from the sharpening process",
+
+  mhwilds_weapon_skill_slicked_blade: "Slicked Blade",
+  mhwilds_weapon_skill_slicked_blade_:
+    "Temporarily increases affinity when wet or when inflicted with bubbleblight. (Wet and bubbleblight effects stack.)",
+  mhwilds_weapon_skill_slicked_blade_i:
+    "Wet: +3% affinity\nBubbleblight: +7% affinity",
+  mhwilds_weapon_skill_slicked_blade_ii:
+    "Wet: +6% affinity\nBubbleblight: +14% affinity",
+  mhwilds_weapon_skill_slicked_blade_iii:
+    "Wet: +9% affinity\nBubbleblight: +21% affinity",
+
+  mhwilds_weapon_skill_whiteflame_torrent: "Whiteflame Torrent",
+  mhwilds_weapon_skill_whiteflame_torrent_:
+    "Chance to deal additional damage on the 1st, 2nd, and 3rd hit (33%/50%/100%). Chance resets when triggered.\nWhen used with Scorcher, Scorcher's effect is replaced by fixed fire damage.",
+  mhwilds_weapon_skill_whiteflame_torrent_i:
+    "Scorcher Lv0: 50 fixed damage\nScorcher Lv1: 60 fixed + 30 fire damage\nScorcher Lv2: 80 fixed + 80 fire damage",
 };
