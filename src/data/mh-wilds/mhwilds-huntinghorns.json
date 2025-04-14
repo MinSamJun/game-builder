@@ -1,0 +1,1367 @@
+[
+  {
+    "Name": "hope_horn_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 90,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {},
+    "Notes": [1, 3, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "hope_horn_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 100,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+    },
+    "Notes": [1, 3, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "hope_horn_iii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 130,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 1,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+    },
+    "Notes": [1, 3, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "hope_horn_iv",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 1
+    },
+    "Notes": [10, 3, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "hope_horn_v",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 1
+    },
+    "Notes": [10, 3, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "bone_horn_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 110,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 1
+    },
+    "Notes": [1, 3, 2],
+    "EchoBubbles": "mhwilds_defense_elemental_res_up"
+  },
+  {
+    "Name": "bone_horn_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 130,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 1
+    },
+    "Notes": [1, 3, 2],
+    "EchoBubbles": "mhwilds_defense_elemental_res_up"
+  },
+  {
+    "Name": "bone_horn_iii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1
+    },
+    "Notes": [1, 3, 2],
+    "EchoBubbles": "mhwilds_defense_elemental_res_up"
+  },
+  {
+    "Name": "bone_horn_iv",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1
+    },
+    "Notes": [10, 3, 2],
+    "EchoBubbles": "mhwilds_defense_elemental_res_up"
+  },
+  {
+    "Name": "hardened_bone_horn",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1
+    },
+    "Notes": [10, 3, 2],
+    "EchoBubbles": "mhwilds_defense_elemental_res_up"
+  },
+  {
+    "Name": "metal_bagpipe_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 120,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_draw": 1,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [1, 3, 7],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "metal_bagpipe_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_draw": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [1, 3, 7],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "metal_bagpipe_iii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 3, 7],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "great_bagpipe",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 3, 7],
+    "EchoBubbles": "mhwilds_evaasion_movement_speed_up"
+  },
+  {
+    "Name": "war_bongo_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 110,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [1, 6, 8],
+    "EchoBubbles": "mhwilds_attack_affinity_up"
+  },
+  {
+    "Name": "war_bongo_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [2, 1, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+    },
+    "Notes": [10, 6, 8],
+    "EchoBubbles": "mhwilds_attack_affinity_up"
+  },
+  {
+    "Name": "war_conga",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 3, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+    },
+    "Notes": [10, 6, 8],
+    "EchoBubbles": "mhwilds_attack_affinity_up"
+  },
+  {
+    "Name": "balahara_horn_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 110,
+    "Element": {
+      "water": 160
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 1
+    },
+    "Notes": [1, 4, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "balahara_horn_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 150,
+    "Element": {
+      "water": 200
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 2
+    },
+    "Notes": [1, 4, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "balahara_horn_iii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 160,
+    "Element": {
+      "water": 230
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 2
+    },
+    "Notes": [10, 4, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "balahara_horn_iv",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": {
+      "water": 270
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 3
+    },
+    "Notes": [10, 4, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "sandsea_ghantisil",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": {
+      "water": 300
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 3
+    },
+    "Notes": [1, 4, 5],
+    "EchoBubbles": "mhwilds_evaasion_movement_speed_up"
+  },
+  {
+    "Name": "dosha_farsounder_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 140,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 1
+    },
+    "Notes": [1, 6, 7],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "dosha_farsounder_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 1,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [1, 6, 7],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "dosha_farsounder_iii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 6, 7],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "rey_perun_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 140,
+    "Element": {
+      "thunder": 180
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [1, 3, 5],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "rey_perun_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 170,
+    "Element": {
+      "thunder": 230
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 3, 5],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "rey_perun_iii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "thunder": 270
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 3, 5],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "perun_clairhorn",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": {
+      "thunder": 300
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 3, 5],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "ajara_reverberator_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 130,
+    "Element": {
+      "blast": 140
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 2
+    },
+    "Notes": [1, 3, 7],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "ajara_reverberator_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": {
+      "blast": 190
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 3
+    },
+    "Notes": [10, 3, 7],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "ajara_jivaka",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": {
+      "blast": 250
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 3
+    },
+    "Notes": [10, 3, 7],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "dosha_grudgesounder_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [1, 4, 7],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "dosha_grudgesounder_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 4, 7],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "grudgesounder_urga",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 250,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 4, 7],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "albirath_feroce_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 160,
+    "Element": {
+      "fire": 210
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_mhwilds_masters_touch": 1
+    },
+    "Notes": [1, 3, 2],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "albirath_feroce_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 170,
+    "Element": {
+      "fire": 260
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_mhwilds_masters_touch": 1
+    },
+    "Notes": [10, 3, 2],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "g_rathalos_feroce",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "fire": 300
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_mhwilds_masters_touch": 1
+    },
+    "Notes": [10, 3, 2],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "jin_dhaang_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": {
+      "ice": 470
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 3
+    },
+    "Notes": [10, 4, 5],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "precipice_kovira",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": {
+      "ice": 500
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 3
+    },
+    "Notes": [10, 4, 5],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "nihil_chord_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 160,
+    "Element": {
+      "water": 160
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [1, 6, 8],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "nihil_chord_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": {
+      "water": 210
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 6, 8],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "kae_jin_s_lament",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": {
+      "water": 250
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 6, 8],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "g_veldian_sibilus_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 170,
+    "Element": {
+      "dragon": 160
+    },
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [1, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+    },
+    "Notes": [1, 3, 2],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "g_veldian_sibilus_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "dragon": 210
+    },
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [2, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+    },
+    "Notes": [10, 3, 2],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "g_resounding_galahad",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 230,
+    "Element": {
+      "dragon": 250
+    },
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [3, 3, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+    },
+    "Notes": [10, 3, 2],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "kut_ku_s_song_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": {
+      "fire": 410
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 15, 5],
+    "EchoBubbles": "mhwilds_health_regeneraation"
+  },
+  {
+    "Name": "kut_ku_s_song_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": {
+      "fire": 470
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 15, 5],
+    "EchoBubbles": "mhwilds_health_regeneraation"
+  },
+  {
+    "Name": "kut_ku_cantabile",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 230,
+    "Element": {
+      "fire": 500
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 15, 5],
+    "EchoBubbles": "mhwilds_health_regeneraation"
+  },
+  {
+    "Name": "poisoned_capri_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": {
+      "poison": 310
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_draw": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 15, 12],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "poisoned_capri_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "poison": 340
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 15, 12],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "crazed_melody",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 230,
+    "Element": {
+      "poison": 400
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 15, 12],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "valkyrie_chordmaker_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 150,
+    "Element": {
+      "poison": 190
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_status": 2,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_poison_duration_up": 1
+    },
+    "Notes": [10, 3, 8],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "valkyrie_chordmaker_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": {
+      "poison": 220
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_status": 3,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_poison_duration_up": 1
+    },
+    "Notes": [10, 3, 8],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "queen_chordmaker",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "poison": 250
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_critical_status": 3,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_poison_duration_up": 1
+    },
+    "Notes": [10, 3, 8],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "deafening_fulgur_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": {
+      "thunder": 340
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+    },
+    "Notes": [10, 15, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "fulgurhowl_guardiana",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": {
+      "thunder": 400
+    },
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+    },
+    "Notes": [10, 15, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "flame_feroce_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": {
+      "fire": 340
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_boost": 3
+    },
+    "Notes": [10, 6, 12],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "rathalos_feroce",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "fire": 400
+    },
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_boost": 3
+    },
+    "Notes": [10, 6, 12],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "kummerklang_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 170,
+    "Element": {
+      "dragon": 270
+    },
+    "Affinity": 20,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+    },
+    "Notes": [10, 4, 12],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "gramklang",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "dragon": 300
+    },
+    "Affinity": 20,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+    },
+    "Notes": [10, 4, 12],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "veldian_sibilus_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": {
+      "dragon": 370
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+    },
+    "Notes": [10, 3, 12],
+    "EchoBubbles": "mhwilds_defense_elemental_res_up"
+  },
+  {
+    "Name": "sonic_horn_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 90,
+    "Element": {
+      "paralysis": 150
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_protective_polish": 1
+    },
+    "Notes": [1, 6, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "sonic_horn_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 120,
+    "Element": {
+      "paralysis": 210
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_protective_polish": 2,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+    },
+    "Notes": [1, 6, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "sonic_horn_iii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 150,
+    "Element": {
+      "paralysis": 310
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_protective_polish": 2,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+    },
+    "Notes": [10, 6, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "sonic_horn_iv",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": {
+      "paralysis": 370
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_protective_polish": 3,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+    },
+    "Notes": [10, 6, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "glass_royale",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": {
+      "paralysis": 400
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_protective_polish": 3,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2
+    },
+    "Notes": [10, 6, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "artian_sounder_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [2, 2, 2],
+    "Skills": {},
+    "Notes": [10, 6, 12],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "artian_sounder_ii",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [2, 2, 2],
+    "Skills": {},
+    "Notes": [10, 6, 12],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "omiltika",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 3, 3],
+    "Skills": {},
+    "Notes": [10, 6, 12],
+    "EchoBubbles": "mhwilds_ailments_blights_negated"
+  },
+  {
+    "Name": "esperanza_horn",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 2,
+      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2
+    },
+    "Notes": [10, 3, 5],
+    "EchoBubbles": "mhwilds_evasion_movement_speed_up"
+  },
+  {
+    "Name": "farsounder_honga",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 240,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+    },
+    "Notes": [10, 6, 7],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "resounding_galahad",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": {
+      "dragon": 400
+    },
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_slugger": 2,
+      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+    },
+    "Notes": [10, 3, 12],
+    "EchoBubbles": "mhwilds_defense_elemental_res_up"
+  },
+  {
+    "Name": "poetic_bell",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_slicked_blade": 2,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1
+    },
+    "Notes": [10, 4, 12],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "summoning",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_slicked_blade": 3,
+      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1
+    },
+    "Notes": [10, 4, 12],
+    "EchoBubbles": "mhwilds_stamina_regeneration"
+  },
+  {
+    "Name": "zoh_gariel_i",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": {
+      "dragon": 200
+    },
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_whiteflame_torrent": 1
+    },
+    "Notes": [10, 6, 12],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  },
+  {
+    "Name": "blazing",
+    "Part": "mhwilds_hunting_horn",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": {
+      "dragon": 250
+    },
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_mhwilds_whiteflame_torrent": 1
+    },
+    "Notes": [10, 6, 12],
+    "EchoBubbles": "mhwilds_health_regeneration"
+  }
+]

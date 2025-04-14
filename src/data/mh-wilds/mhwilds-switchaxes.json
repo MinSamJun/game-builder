@@ -1,0 +1,1228 @@
+[
+  {
+    "Name": "hope_axe_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 90,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {},
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "hope_axe_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 100,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_speed_sharpening": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "hope_axe_iii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 130,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_eye": 1,
+      "mhwilds_speed_sharpening": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "hope_axe_iv",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_speed_sharpening": 2,
+      "mhwilds_weapon_skill_critical_eye": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "hope_axe_v",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_speed_sharpening": 2,
+      "mhwilds_weapon_skill_critical_eye": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "bone_axe_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 110,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 1
+    },
+    "Phial": {
+      "mhwilds_exhaust_phial": 150
+    }
+  },
+  {
+    "Name": "bone_axe_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 130,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_focus": 1
+    },
+    "Phial": {
+      "mhwilds_exhaust_phial": 150
+    }
+  },
+  {
+    "Name": "bone_axe_iii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_attack_boost": 1
+    },
+    "Phial": {
+      "mhwilds_exhaust_phial": 200
+    }
+  },
+  {
+    "Name": "bone_axe_iv",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
+    },
+    "Phial": {
+      "mhwilds_exhaust_phial": 230
+    }
+  },
+  {
+    "Name": "bone_smasher",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 230,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
+    },
+    "Phial": {
+      "mhwilds_exhaust_phial": 250
+    }
+  },
+  {
+    "Name": "iron_accelerator_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 120,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_rapid_morph": 1
+    },
+    "Phial": {
+      "mhwilds_poison_phial": 180
+    }
+  },
+  {
+    "Name": "iron_accelerator_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_rapid_morph": 2
+    },
+    "Phial": {
+      "mhwilds_poison_phial": 200
+    }
+  },
+  {
+    "Name": "iron_accelerator_iii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_rapid_morph": 3
+    },
+    "Phial": {
+      "mhwilds_poison_phial": 230
+    }
+  },
+  {
+    "Name": "chrome_accelerator",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_rapid_morph": 3
+    },
+    "Phial": {
+      "mhwilds_poison_phial": 250
+    }
+  },
+  {
+    "Name": "barina_hache_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 1,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 100,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_critical_draw": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "barina_hache_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 120,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_critical_draw": 1,
+      "mhwilds_critical_status": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "barina_hache_iii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 150,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_critical_draw": 1,
+      "mhwilds_critical_status": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "barina_hache_iv",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_critical_draw": 2,
+      "mhwilds_critical_status": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "lala_selenocosmi",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_critical_draw": 2,
+      "mhwilds_critical_status": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "golba_vandal_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 120,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_critical_draw": 1,
+      "mhwilds_punishing_draw": 1
+    },
+    "Phial": {
+      "mhwilds_paralyse_phial": null
+    }
+  },
+  {
+    "Name": "golba_vandal_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_punishing_draw": 2,
+      "mhwilds_critical_draw": 1
+    },
+    "Phial": {
+      "mhwilds_paralyse_phial": null
+    }
+  },
+  {
+    "Name": "gundava_vandal",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_critical_draw": 2,
+      "mhwilds_punishing_draw": 2
+    },
+    "Phial": {
+      "mhwilds_paralyse_phial": null
+    }
+  },
+  {
+    "Name": "dosha_fleshhacker_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 2,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 140,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_power_prolonger": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "dosha_fleshhacker_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "dosha_fleshhacker_iii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "uth_olacha_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "uth_olacha_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "uth_olacha_iii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "olacha_of_the_waves",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 240,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "windsunder_axe_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 3,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 140,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_airborne": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "windsunder_axe_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_airborne": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "windsunder_axe_iii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_airborne": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "windsunder_sakibami",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_airborne": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "nu_zhangyu_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_rapid_morph": 2
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "nu_zhangyu_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_rapid_morph": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "abaddonian_zhangyu",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_rapid_morph": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "dosha_gorehacker_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2
+    },
+    "Phial": {
+      "mhwilds_dragon_phial": null
+    }
+  },
+  {
+    "Name": "dosha_gorehacker_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [2, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2
+    },
+    "Phial": {
+      "mhwilds_dragon_phial": null
+    }
+  },
+  {
+    "Name": "gorehacker_urgahaac",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 250,
+    "Element": null,
+    "Affinity": -15,
+    "Defense": 0,
+    "Slots": [3, 3, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2
+    },
+    "Phial": {
+      "mhwilds_dragon_phial": null
+    }
+  },
+  {
+    "Name": "albirath_flamesplitter_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_masters_touch": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "albirath_flamesplitter_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_masters_touch": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "albirath_blaze_splitter",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_masters_touch": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "nihil_switch_axe_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [1],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "nihil_switch_axe_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "brutus_s_abolishment",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "g_veldian_securis_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 4,
+    "Rank": "mhwilds_low_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [1, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "g_veldian_securis_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [2, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "g_indomitable_perceval",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 230,
+    "Element": null,
+    "Affinity": -10,
+    "Defense": 0,
+    "Slots": [3, 3, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 2
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "beak_axe_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 2
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "beak_axe_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "sawbill_axe",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "dragonmaiden_axe_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 5,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 160,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_critical_status": 2,
+      "mhwilds_weapon_skill_poison_duration_up": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "dragonmaiden_axe_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_critical_status": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "grithor_s_landmaker",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_critical_status": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "morphing_fulgur_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_element": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "fulgurswitch_guardiana",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_element": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "rath_flamesplitter_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "rath_blaze_splitter",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 10,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "eisenleib_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 20,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_element": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "eisengeist",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 20,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_element": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "veldian_securis_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 200,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "artian_saw_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 170,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [2, 2, 2],
+    "Skills": {},
+    "Phial": {
+      "mhwilds_dragon_phial": null
+    }
+  },
+  {
+    "Name": "artian_saw_ii",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [2, 2, 2],
+    "Skills": {},
+    "Phial": {
+      "mhwilds_dragon_phial": null
+    }
+  },
+  {
+    "Name": "mundus_altus",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 190,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 3, 3],
+    "Skills": {},
+    "Phial": {
+      "mhwilds_dragon_phial": null
+    }
+  },
+  {
+    "Name": "esperanza_axe",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_critical_eye": 2,
+      "mhwilds_speed_sharpening": 2
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "fleshhacker_yaogahaac",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 230,
+    "Element": null,
+    "Affinity": -5,
+    "Defense": 20,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_power_prolonger": 3
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "indomitable_perceval",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 0,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_focus": 3
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "fond_farewell_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 6,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 180,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [2, 1],
+    "Skills": {
+      "mhwilds_blade": 2,
+      "mhwilds_weapon_skill_critical_element": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "parting_slice",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 15,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_blade": 3,
+      "mhwilds_weapon_skill_critical_element": 1
+    },
+    "Phial": {
+      "mhwilds_element_phial": null
+    }
+  },
+  {
+    "Name": "zoh_mahaiah_i",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 7,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 210,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 2],
+    "Skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  },
+  {
+    "Name": "blazing_mahaiah",
+    "Part": "mhwilds_switchaxe",
+    "Rarity": 8,
+    "Rank": "mhwilds_high_rank",
+    "Attack": 220,
+    "Element": null,
+    "Affinity": 5,
+    "Defense": 0,
+    "Slots": [3, 2, 1],
+    "Skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
+    },
+    "Phial": {
+      "mhwilds_power_phial": null
+    }
+  }
+]

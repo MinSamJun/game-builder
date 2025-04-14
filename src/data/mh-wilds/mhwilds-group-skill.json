@@ -1,0 +1,54 @@
+[
+  {
+    "name": "mhwilds_group_name_fortifying_pelt",
+    "skill": "mhwilds_group_skill_fortify"
+  },
+  {
+    "name": "mhwilds_group_name_scaling_prowess",
+    "skill": "mhwilds_group_skill_master_mounter"
+  },
+  {
+    "name": "mhwilds_group_name_flexible_leathercraft",
+    "skill": "mhwilds_group_skill_hunter_gatherer"
+  },
+  {
+    "name": "mhwilds_group_name_neopteron_alert",
+    "skill": "mhwilds_group_skill_honey_hunter"
+  },
+  {
+    "name": "mhwilds_group_name_neopteron_camouflage",
+    "skill": "mhwilds_group_skill_fleetfoot"
+  },
+  {
+    "name": "mhwilds_group_name_buttery_leathercraft",
+    "skill": "mhwilds_group_skill_affinity_sliding"
+  },
+  {
+    "name": "mhwilds_group_name_alluring_pelt",
+    "skill": "mhwilds_group_skill_diversion"
+  },
+  {
+    "name": "mhwilds_group_name_lord_s_favor",
+    "skill": "mhwilds_group_skill_inspiration"
+  },
+  {
+    "name": "mhwilds_group_name_lord_s_fury",
+    "skill": "mhwilds_group_skill_resuscitate"
+  },
+  {
+    "name": "mhwilds_group_name_guardian_s_pulse",
+    "skill": "mhwilds_group_skill_wylk_burst"
+  },
+  {
+    "name": "mhwilds_group_name_guardian_s_protection",
+    "skill": "mhwilds_group_skill_ward_of_wyveria"
+  },
+  {
+    "name": "mhwilds_group_name_imparted_wisdom",
+    "skill": "mhwilds_group_skill_foragers_luck"
+  },
+  {
+    "name": "mhwilds_group_name_glory_s_favor",
+    "skill": "mhwilds_group_skill_luck_"
+  }
+]

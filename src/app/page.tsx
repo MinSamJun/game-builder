@@ -1,34 +1,42 @@
-type PageBlockProps = {
-  title: string;
-  items: string[];
+"use client";
+
+import { PageBlock } from "@/infrastructure/page-block";
+import { useI18n } from "@infrastructure/user-i18n";
+import { LanguageSelector } from "@infrastructure/user-i18n/language-selector";
+
+const Home = () => {
+  const { lang, setLang, t } = useI18n();
+
+  return (
+    <main className="p-4">
+      <LanguageSelector lang={lang} onChange={setLang} />
+
+      <PageBlock
+        title={t("homePage_common", "implemented")}
+        items={[
+          { title: t("homePage_items", "page1"), href: "/" },
+          { title: t("homePage_items", "page2"), href: "/" },
+          { title: t("homePage_items", "page3"), href: "/" },
+        ]}
+      />
+      <PageBlock
+        title={t("homePage_common", "inProgress")}
+        items={[
+          { title: t("homePage_items", "mhWilds"), href: "/mh-wilds" },
+          { title: t("homePage_items", "page2"), href: "/" },
+          { title: t("homePage_items", "page3"), href: "/" },
+        ]}
+      />
+      <PageBlock
+        title={t("homePage_common", "planned")}
+        items={[
+          { title: t("homePage_items", "page1"), href: "/" },
+          { title: t("homePage_items", "page2"), href: "/" },
+          { title: t("homePage_items", "page3"), href: "/" },
+        ]}
+      />
+    </main>
+  );
 };
 
-function PageBlock({ title, items }: PageBlockProps) {
-  return (
-    <div className="bg-gray-100 text-black p-4 rounded-lg shadow-md mb-2">
-      <div className="font-bold mb-2">{title}</div>
-      {items.map((item, idx) => (
-        <div key={idx}>{item}</div>
-      ))}
-    </div>
-  );
-}
-
-export default function Home() {
-  return (
-    <>
-      <PageBlock
-        title="구현된 페이지"
-        items={["구현된 페이지 1", "구현된 페이지 2", "구현된 페이지 3"]}
-      />
-      <PageBlock
-        title="구현중인 페이지"
-        items={["구현중인 페이지 1", "구현중인 페이지 2", "구현중인 페이지 3"]}
-      />
-      <PageBlock
-        title="구현할 페이지"
-        items={["구현할 페이지 1", "구현할 페이지 2", "구현할 페이지 3"]}
-      />
-    </>
-  );
-}
+export default Home;

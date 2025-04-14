@@ -1,0 +1,240 @@
+[
+  {
+    "name": "mhwilds_weapon_skill_attack_boost",
+    "skills": {
+      "1": "mhwilds_weapon_skill_attack_boost_i",
+      "2": "mhwilds_weapon_skill_attack_boost_ii",
+      "3": "mhwilds_weapon_skill_attack_boost_iii",
+      "4": "mhwilds_weapon_skill_attack_boost_iv",
+      "5": "mhwilds_weapon_skill_attack_boost_v"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_offensive_guard",
+    "skills": {
+      "1": "mhwilds_weapon_skill_offensive_guard_i",
+      "2": "mhwilds_weapon_skill_offensive_guard_ii",
+      "3": "mhwilds_weapon_skill_offensive_guard_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_critical_boost",
+    "skills": {
+      "1": "mhwilds_weapon_skill_critical_boost_i",
+      "2": "mhwilds_weapon_skill_critical_boost_ii",
+      "3": "mhwilds_weapon_skill_critical_boost_iii",
+      "4": "mhwilds_weapon_skill_critical_boost_iv",
+      "5": "mhwilds_weapon_skill_critical_boost_v"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_critical_eye",
+    "skills": {
+      "1": "mhwilds_weapon_skill_critical_eye_i",
+      "2": "mhwilds_weapon_skill_critical_eye_ii",
+      "3": "mhwilds_weapon_skill_critical_eye_iii",
+      "4": "mhwilds_weapon_skill_critical_eye_iv",
+      "5": "mhwilds_weapon_skill_critical_eye_v"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_critical_draw",
+    "skills": {
+      "1": "mhwilds_weapon_skill_critical_draw_i",
+      "2": "mhwilds_weapon_skill_critical_draw_ii",
+      "3": "mhwilds_weapon_skill_critical_draw_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_critical_element",
+    "skills": {
+      "1": "mhwilds_weapon_skill_critical_element_i",
+      "2": "mhwilds_weapon_skill_critical_element_ii",
+      "3": "mhwilds_weapon_skill_critical_element_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_critical_status",
+    "skills": {
+      "1": "mhwilds_weapon_skill_critical_status_i",
+      "2": "mhwilds_weapon_skill_critical_status_ii",
+      "3": "mhwilds_weapon_skill_critical_status_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_charge_master",
+    "skills": {
+      "1": "mhwilds_weapon_skill_charge_master_i",
+      "2": "mhwilds_weapon_skill_charge_master_ii",
+      "3": "mhwilds_weapon_skill_charge_master_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_protective_polish",
+    "skills": {
+      "1": "mhwilds_weapon_skill_protective_polish_i",
+      "2": "mhwilds_weapon_skill_protective_polish_ii",
+      "3": "mhwilds_weapon_skill_protective_polish_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_masters_touch",
+    "skills": {
+      "1": "mhwilds_weapon_skill_masters_touch_i"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_ballistics",
+    "skills": {
+      "1": "mhwilds_weapon_skill_ballistics_i",
+      "2": "mhwilds_weapon_skill_ballistics_ii",
+      "3": "mhwilds_weapon_skill_ballistics_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_special_ammo_boost",
+    "skills": {
+      "1": "mhwilds_weapon_skill_special_ammo_boost_i",
+      "2": "mhwilds_weapon_skill_special_ammo_boost_ii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_opening_shot",
+    "skills": {
+      "1": "mhwilds_weapon_skill_opening_shot_i"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_tetrad_shot",
+    "skills": {
+      "1": "mhwilds_weapon_skill_tetrad_shot_i",
+      "2": "mhwilds_weapon_skill_tetrad_shot_ii",
+      "3": "mhwilds_weapon_skill_tetrad_shot_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_focus",
+    "skills": {
+      "1": "mhwilds_weapon_skill_focus_i",
+      "2": "mhwilds_weapon_skill_focus_ii",
+      "3": "mhwilds_weapon_skill_focus_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_power_prolonger",
+    "skills": {
+      "1": "mhwilds_weapon_skill_power_prolonger_i",
+      "2": "mhwilds_weapon_skill_power_prolonger_ii",
+      "3": "mhwilds_weapon_skill_power_prolonger_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_punishing_draw",
+    "skills": {
+      "1": "mhwilds_weapon_skill_punishing_draw_i",
+      "2": "mhwilds_weapon_skill_punishing_draw_ii",
+      "3": "mhwilds_weapon_skill_punishing_draw_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_slugger",
+    "skills": {
+      "1": "mhwilds_weapon_skill_slugger_i",
+      "2": "mhwilds_weapon_skill_slugger_ii",
+      "3": "mhwilds_weapon_skill_slugger_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_stamina_thief",
+    "skills": {
+      "1": "mhwilds_weapon_skill_stamina_thief_i",
+      "2": "mhwilds_weapon_skill_stamina_thief_ii",
+      "3": "mhwilds_weapon_skill_stamina_thief_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_artillery",
+    "skills": {
+      "1": "mhwilds_weapon_skill_artillery_i",
+      "2": "mhwilds_weapon_skill_artillery_ii",
+      "3": "mhwilds_weapon_skill_artillery_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_rapid_morph",
+    "skills": {
+      "1": "mhwilds_weapon_skill_rapid_morph_i",
+      "2": "mhwilds_weapon_skill_rapid_morph_ii",
+      "3": "mhwilds_weapon_skill_rapid_morph_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_horn_maestro",
+    "skills": {
+      "1": "mhwilds_weapon_skill_horn_maestro_i",
+      "2": "mhwilds_weapon_skill_horn_maestro_ii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_charge_up",
+    "skills": {
+      "1": "mhwilds_weapon_skill_charge_up_i"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_airborne",
+    "skills": {
+      "1": "mhwilds_weapon_skill_airborne_i"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_poison_duration_up",
+    "skills": {
+      "1": "mhwilds_weapon_skill_poison_duration_up_i"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_guard",
+    "skills": {
+      "1": "mhwilds_weapon_skill_guard_i",
+      "2": "mhwilds_weapon_skill_guard_ii",
+      "3": "mhwilds_weapon_skill_guard_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_guard_up",
+    "skills": {
+      "1": "mhwilds_weapon_skill_guard_up_i",
+      "2": "mhwilds_weapon_skill_guard_up_ii",
+      "3": "mhwilds_weapon_skill_guard_up_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_load_shells",
+    "skills": {
+      "1": "mhwilds_weapon_skill_load_shells_i",
+      "2": "mhwilds_weapon_skill_load_shells_ii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_speed_sharpening",
+    "skills": {
+      "1": "mhwilds_weapon_skill_speed_sharpening_i",
+      "2": "mhwilds_weapon_skill_speed_sharpening_ii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_slicked_blade",
+    "skills": {
+      "1": "mhwilds_weapon_skill_slicked_blade_i",
+      "2": "mhwilds_weapon_skill_slicked_blade_ii",
+      "3": "mhwilds_weapon_skill_slicked_blade_iii"
+    }
+  },
+  {
+    "name": "mhwilds_weapon_skill_whiteflame_torrent",
+    "skills": {
+      "1": "mhwilds_weapon_skill_whiteflame_torrent_i"
+    }
+  }
+]
