@@ -11,6 +11,7 @@ interface ArmorSkillListProps {
 
 interface ArmorSkill {
   name: string;
+  skills: Record<number, string>;
 }
 
 export function ArmorSkillList({ searchTerm }: ArmorSkillListProps) {
@@ -32,13 +33,18 @@ export function ArmorSkillList({ searchTerm }: ArmorSkillListProps) {
       ) : (
         <>
           <div className=" gap-4 text-sm">
-            {filteredArmorSkillList.map(({ name }) => (
+            {filteredArmorSkillList.map(({ name, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="font-semibold text-base">
                   {mhWildsArmorSkillNamespace[name]}
                 </div>
                 <div className="bg-gray-800 text-white rounded p-4">
-                  todo: 스킬내용 추가해야함
+                  {mhWildsArmorSkillNamespace[`${name}_`]}
+                  {Object.entries(skills).map(([skillLevel, skill]) => (
+                    <div key={skillLevel}>
+                      {`Lv ${skillLevel}: ${mhWildsArmorSkillNamespace[skill]}`}
+                    </div>
+                  ))}
                 </div>
               </div>
             ))}

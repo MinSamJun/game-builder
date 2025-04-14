@@ -886,78 +886,522 @@ export const mhWildsCharmKo = {
 };
 
 export const mhWildsArmorSkillKo = {
-  mhwilds_armor_skill_stamina_surge: "스태미나 급속 회복",
-  mhwilds_armor_skill_jump_master: "점프 철인",
-  mhwilds_armor_skill_marathon_runner: "런너",
-  mhwilds_armor_skill_constitution: "체술",
-  mhwilds_armor_skill_geologist: "지질학",
-  mhwilds_armor_skill_botanist: "식생학",
-  mhwilds_armor_skill_hunger_resistance: "배고픔 내성",
-  mhwilds_armor_skill_leap_of_faith: "뛰어들기",
-  mhwilds_armor_skill_survival_expert: "환경 이용 지식",
-  mhwilds_armor_skill_intimidator: "위협",
-  mhwilds_armor_skill_cliffhanger: "클라이머",
-  mhwilds_armor_skill_entomologist: "곤충박사",
-  mhwilds_armor_skill_outdoorsman: "헌터 생활",
-  mhwilds_armor_skill_bombardier: "보머",
-  mhwilds_armor_skill_speed_eating: "빨리 먹기",
-  mhwilds_armor_skill_free_meal: "만족감",
-  mhwilds_armor_skill_recovery_up: "체력 회복량 UP",
-  mhwilds_armor_skill_item_prolonger: "아이템 사용 강화",
-  mhwilds_armor_skill_mushroomancer: "버섯 애호가",
-  mhwilds_armor_skill_widerange: "광역화",
-  mhwilds_armor_skill_tool_specialist: "정비",
-  mhwilds_armor_skill_blindsider: "섬광 강화",
-  mhwilds_armor_skill_divine_blessing: "정령의 가호",
-  mhwilds_armor_skill_recovery_speed: "회복 속도",
-  mhwilds_armor_skill_evade_window: "회피 성능",
-  mhwilds_armor_skill_evade_extender: "회피 거리 UP",
-  mhwilds_armor_skill_quick_sheathe: "납도술",
-  mhwilds_armor_skill_flinch_free: "움찔 감소",
-  mhwilds_armor_skill_shock_absorber: "완충",
-  mhwilds_armor_skill_stun_resistance: "기절 내성",
-  mhwilds_armor_skill_earplugs: "귀마개",
-  mhwilds_armor_skill_windproof: "풍압 내성",
-  mhwilds_armor_skill_tremor_resistance: "내진",
-  mhwilds_armor_skill_paralysis_resistance: "마비 내성",
-  mhwilds_armor_skill_poison_resistance: "독 내성",
-  mhwilds_armor_skill_sleep_resistance: "수면 내성",
-  mhwilds_armor_skill_blast_resistance: "폭파 피해 내성",
-  mhwilds_armor_skill_blight_resistance: "속성 피해 내성",
-  mhwilds_armor_skill_iron_skin: "방어력 DOWN 내성",
-  mhwilds_armor_skill_bleeding_resistance: "열상 내성",
-  mhwilds_armor_skill_bind_resistance: "속박 내성",
-  mhwilds_armor_skill_stench_resistance: "악취 내성",
-  mhwilds_armor_skill_adaptability: "환경 적응",
-  mhwilds_armor_skill_antivirus: "무아지경",
-  mhwilds_armor_skill_aquaticoilsilt_mobility: "물가/기름 진흙 적응",
-  mhwilds_armor_skill_defense_boost: "방어",
-  mhwilds_armor_skill_fire_resistance: "불 내성",
-  mhwilds_armor_skill_water_resistance: "물 내성",
-  mhwilds_armor_skill_ice_resistance: "얼음 내성",
-  mhwilds_armor_skill_thunder_resistance: "번개 내성",
-  mhwilds_armor_skill_dragon_resistance: "용 내성",
-  mhwilds_armor_skill_palico_rally: "동반자 지휘",
-  mhwilds_armor_skill_selfimprovement: "연찬",
-  mhwilds_armor_skill_partbreaker: "파괴왕",
-  mhwilds_armor_skill_convert_element: "속성 변환",
-  mhwilds_armor_skill_flayer: "쇄인자격",
-  mhwilds_armor_skill_coalescence: "전화 위복",
-  mhwilds_armor_skill_elemental_absorption: "속성 흡수",
-  mhwilds_armor_skill_weakness_exploit: "약점 특효",
-  mhwilds_armor_skill_maximum_might: "혼신",
-  mhwilds_armor_skill_heroics: "재난 대처 능력력",
-  mhwilds_armor_skill_peak_performance: "완전 충전",
-  mhwilds_armor_skill_latent_power: "힘의 해방",
-  mhwilds_armor_skill_agitator: "도전자자",
-  mhwilds_armor_skill_foray: "공세",
-  mhwilds_armor_skill_burst: "연격",
   mhwilds_armor_skill_resentment: "앙심",
+  mhwilds_armor_skill_resentment_:
+    "체력 게이지에 빨간 부분이 있는 동안 기초공격력이 오른다.",
+  mhwilds_armor_skill_resentment_i: "+5",
+  mhwilds_armor_skill_resentment_ii: "+10",
+  mhwilds_armor_skill_resentment_iii: "+15",
+  mhwilds_armor_skill_resentment_iv: "+20",
+  mhwilds_armor_skill_resentment_v: "+25",
+
   mhwilds_armor_skill_adrenaline_rush: "교격",
+  mhwilds_armor_skill_adrenaline_rush_:
+    "회피 타이밍과 몬스터의 공격이겹치면, 30초 동안 기초공격력이상승한다 (쿨타임 30초)",
+  mhwilds_armor_skill_adrenaline_rush_i: "+10",
+  mhwilds_armor_skill_adrenaline_rush_ii: "+15",
+  mhwilds_armor_skill_adrenaline_rush_iii: "+20",
+  mhwilds_armor_skill_adrenaline_rush_iv: "+25",
+  mhwilds_armor_skill_adrenaline_rush_v: "+30",
+
+  mhwilds_armor_skill_peak_performance: "완전 충전",
+  mhwilds_armor_skill_peak_performance_:
+    "체력이 최대일 때 기초 공격력이 오른다",
+  mhwilds_armor_skill_peak_performance_i: "+3",
+  mhwilds_armor_skill_peak_performance_ii: "+6",
+  mhwilds_armor_skill_peak_performance_iii: "+9",
+  mhwilds_armor_skill_peak_performance_iv: "+15",
+  mhwilds_armor_skill_peak_performance_v: "+20",
+
   mhwilds_armor_skill_counterstrike: "역습",
+  mhwilds_armor_skill_counterstrike_:
+    "날려버리는 공격에 맞은 이후 기초 공격력 증가",
+  mhwilds_armor_skill_counterstrike_i: "30초간 기초공격력 +10",
+  mhwilds_armor_skill_counterstrike_ii: "35초간 기초공격력 +15",
+  mhwilds_armor_skill_counterstrike_iii: "45초간 기초공격력 +25",
+
+  mhwilds_armor_skill_weakness_exploit: "약점 특효",
+  mhwilds_armor_skill_weakness_exploit_:
+    "약점(육질 45이상인 곳)을 공중시 회심률 상승, 그곳에 상처가 난 경우 추가로 증가가",
+  mhwilds_armor_skill_weakness_exploit_i: "약점 : +5%, 약점+상처 : +3%",
+  mhwilds_armor_skill_weakness_exploit_ii: "약점 : +10%, 약점+상처 : +5%",
+  mhwilds_armor_skill_weakness_exploit_iii: "약점 : +15%, 약점+상처 : +10%",
+  mhwilds_armor_skill_weakness_exploit_iv: "약점 : +20%, 약점+상처 : +15%",
+  mhwilds_armor_skill_weakness_exploit_v: "약점 : +30%, 약점+상처 : +20%",
+
+  mhwilds_armor_skill_maximum_might: "혼신",
+  mhwilds_armor_skill_maximum_might_:
+    "스태미너가 가득 찬 상태를 3초 지속하면 회심률 증가, 스태미나가 가득찬 상태가 1초이상 지속되면 해제",
+  mhwilds_armor_skill_maximum_might_i: "+10%",
+  mhwilds_armor_skill_maximum_might_ii: "+20%",
+  mhwilds_armor_skill_maximum_might_iii: "+30%",
+
+  mhwilds_armor_skill_convert_element: "속성 변환",
+  mhwilds_armor_skill_convert_element_:
+    "일정 수치의 속성 피해를 입히면 추가 피해를 입히고 120초간 용속성 공격력이 증가한다. (쿨타임 90초)",
+  mhwilds_armor_skill_convert_element_i:
+    "용속성 공격력 : +80\n고정 피해량 : 150\n용속성 피해량 : 60",
+  mhwilds_armor_skill_convert_element_ii:
+    "용속성 공격력 : +120\n고정 피해량 : 200\n용속성 피해량 : 80",
+  mhwilds_armor_skill_convert_element_iii:
+    "용속성 공격력 : +180\n고정 피해량 : 280\n용속성 피해량 : 100",
+
+  mhwilds_armor_skill_defense_boost: "방어",
+  mhwilds_armor_skill_defense_boost_:
+    "플레이어의 방어력을 올린다.레벨이 오르면 속성 내성치에도영향을 준다.",
+  mhwilds_armor_skill_defense_boost_i: "방어력 +5",
+  mhwilds_armor_skill_defense_boost_ii: "방어력 +10",
+  mhwilds_armor_skill_defense_boost_iii: "방어력 1.05배 +10",
+  mhwilds_armor_skill_defense_boost_iv:
+    "방어력 1.08배 +20, 모든 속성 내성치 +3",
+  mhwilds_armor_skill_defense_boost_v: "방어력 1.08배 +35, 모든 속성 내성치 +3",
+  mhwilds_armor_skill_defense_boost_vi: "방어력 1.2배 +20, 모든 속성 내성치 +5",
+  mhwilds_armor_skill_defense_boost_vii:
+    "방어력 1.1배 +35, 모든 속성 내성치 +5",
+
+  mhwilds_armor_skill_divine_blessing: "정령의 가호",
+  mhwilds_armor_skill_divine_blessing_: "25%의 확률로 받는 피해를 감소",
+  mhwilds_armor_skill_divine_blessing_i: "15%",
+  mhwilds_armor_skill_divine_blessing_ii: "30%",
+  mhwilds_armor_skill_divine_blessing_iii: "50%",
+
+  mhwilds_armor_skill_fire_resistance: "불 내성",
+  mhwilds_armor_skill_fire_resistance_:
+    "플레이어의 불 내성을 올린다. 레벨이 오르면 방어력에도 영향을 준다.",
+  mhwilds_armor_skill_fire_resistance_i: "불 내성 +6",
+  mhwilds_armor_skill_fire_resistance_ii: "불 내성 +12",
+  mhwilds_armor_skill_fire_resistance_iii: "불 내성 +20, 방어력 +10",
+
+  mhwilds_armor_skill_water_resistance: "물 내성",
+  mhwilds_armor_skill_water_resistance_:
+    "플레이어의 물 내성을 올린다. 레벨이 오르면 방어력에도 영향을 준다.",
+  mhwilds_armor_skill_water_resistance_i: "물 내성 +6",
+  mhwilds_armor_skill_water_resistance_ii: "물 내성 +12",
+  mhwilds_armor_skill_water_resistance_iii: "물 내성 +20, 방어력 +10",
+
+  mhwilds_armor_skill_thunder_resistance: "번개 내성",
+  mhwilds_armor_skill_thunder_resistance_:
+    "플레이어의 번개 내성을 올린다. 레벨이 오르면 방어력에도 영향을 준다.",
+  mhwilds_armor_skill_thunder_resistance_i: "번개 내성 +6",
+  mhwilds_armor_skill_thunder_resistance_ii: "번개 내성 +12",
+  mhwilds_armor_skill_thunder_resistance_iii: "번개 내성 +20, 방어력 +10",
+
+  mhwilds_armor_skill_ice_resistance: "얼음 내성",
+  mhwilds_armor_skill_ice_resistance_:
+    "플레이어의 얼음 내성을 올린다. 레벨이 오르면 방어력에도 영향을 준다.",
+  mhwilds_armor_skill_ice_resistance_i: "얼음 내성 +6",
+  mhwilds_armor_skill_ice_resistance_ii: "얼음 내성 +12",
+  mhwilds_armor_skill_ice_resistance_iii: "얼음 내성 +20, 방어력 +10",
+
+  mhwilds_armor_skill_dragon_resistance: "용 내성",
+  mhwilds_armor_skill_dragon_resistance_:
+    "플레이어의 용 내성을 올린다. 레벨이 오르면 방어력에도 영향을 준다.",
+  mhwilds_armor_skill_dragon_resistance_i: "용 내성 +6",
+  mhwilds_armor_skill_dragon_resistance_ii: "용 내성 +12",
+  mhwilds_armor_skill_dragon_resistance_iii: "용 내성 +20, 방어력 +10",
+
+  mhwilds_armor_skill_poison_resistance: "독 내성",
+  mhwilds_armor_skill_poison_resistance_:
+    "독 대미지를 받는 빈도가 줄어든다. (기본 : 1.5초 마다)",
+  mhwilds_armor_skill_poison_resistance_i: "2.25초 마다 독 피해를 받는다",
+  mhwilds_armor_skill_poison_resistance_ii: "4.5초 마다 독 피해를 받는다",
+  mhwilds_armor_skill_poison_resistance_iii: "독 상태가 되지 않는다.",
+
+  mhwilds_armor_skill_paralysis_resistance: "마비 내성",
+  mhwilds_armor_skill_paralysis_resistance_: "마비 상태의 시간을 단축한다.",
+  mhwilds_armor_skill_paralysis_resistance_i: "30% 줄인다",
+  mhwilds_armor_skill_paralysis_resistance_ii: "60% 줄인다",
+  mhwilds_armor_skill_paralysis_resistance_iii: "마비 상태가 되지 않는다",
+
+  mhwilds_armor_skill_sleep_resistance: "수면 내성",
+  mhwilds_armor_skill_sleep_resistance_: "수면 상태의 시간을 단축한다.",
+  mhwilds_armor_skill_sleep_resistance_i: "30% 줄인다",
+  mhwilds_armor_skill_sleep_resistance_ii: "60% 줄인다",
+  mhwilds_armor_skill_sleep_resistance_iii: "수면 상태가 되지 않는다",
+
+  mhwilds_armor_skill_iron_skin: "방어력 DOWN 내성",
+  mhwilds_armor_skill_iron_skin_: "방어력 DOWN에 대한내성을 얻는다.",
+  mhwilds_armor_skill_iron_skin_i: "50% 줄인다",
+  mhwilds_armor_skill_iron_skin_ii: "75% 줄인다",
+  mhwilds_armor_skill_iron_skin_iii: "방어력 DOWN상태가 되지 않는다",
+
+  mhwilds_armor_skill_blight_resistance: "속성 피해 내성",
+  mhwilds_armor_skill_blight_resistance_:
+    "모든 속성 피해 상태에 대한내성을 얻는다.",
+  mhwilds_armor_skill_blight_resistance_i: "50% 줄인다",
+  mhwilds_armor_skill_blight_resistance_ii: "75% 줄인다",
+  mhwilds_armor_skill_blight_resistance_iii: "속성 피해 상태가 되지 않는다",
+
+  mhwilds_armor_skill_stun_resistance: "기절 내성",
+  mhwilds_armor_skill_stun_resistance_: "기절 상태의 시간을 단축한다.",
+  mhwilds_armor_skill_stun_resistance_i: "30% 줄인다",
+  mhwilds_armor_skill_stun_resistance_ii: "60% 줄인다",
+  mhwilds_armor_skill_stun_resistance_iii: "기절 상태가 되지 않는다",
+
+  mhwilds_armor_skill_bleeding_resistance: "열상 내성",
+  mhwilds_armor_skill_bleeding_resistance_: "열상 상태에 대한 내성을 얻는다.",
+  mhwilds_armor_skill_bleeding_resistance_i: "50% 줄인다",
+  mhwilds_armor_skill_bleeding_resistance_ii: "75% 줄인다",
+  mhwilds_armor_skill_bleeding_resistance_iii: "열상 상태가 되지 않는다",
+
+  mhwilds_armor_skill_bind_resistance: "속박 내성",
+  mhwilds_armor_skill_bind_resistance_:
+    "실 속박 상태와 동결 상태에서빠르게 복귀할 수 있게 된다",
+  mhwilds_armor_skill_bind_resistance_i: "30% 빠르게 복귀",
+  mhwilds_armor_skill_bind_resistance_ii: "60% 빠르게 복귀",
+  mhwilds_armor_skill_bind_resistance_iii: "속박과 동결에 면역",
+
+  mhwilds_armor_skill_blast_resistance: "폭파 피해 내성",
+  mhwilds_armor_skill_blast_resistance_:
+    "폭파까지의 시간이 연장되고,폭파 대미지가 줄어든다",
+  mhwilds_armor_skill_blast_resistance_i: "25% 시간 연장, 34% 피해 경감",
+  mhwilds_armor_skill_blast_resistance_ii: "50% 시간 연장, 50% 피해 경감",
+  mhwilds_armor_skill_blast_resistance_iii: "폭파 상태가 되지 않는다",
+
+  mhwilds_armor_skill_stench_resistance: "악취 내성",
+  mhwilds_armor_skill_stench_resistance_: "악취 상태의 시간을 단축한다",
+  mhwilds_armor_skill_stench_resistance_i: "50% 감소",
+  mhwilds_armor_skill_stench_resistance_ii: "악취 상태가 되지 않는다",
+
+  mhwilds_armor_skill_adaptability: "환경 적응",
+  mhwilds_armor_skill_adaptability_:
+    "더위나 추위, 대미지를 받는지형에 대한 내성을 얻는다.",
+  mhwilds_armor_skill_adaptability_i: "더위, 추위의 영향을 무효화한다",
+  mhwilds_armor_skill_adaptability_ii: "지형에 의한 대미지를 무효화한다",
+
+  mhwilds_armor_skill_recovery_up: "체력 회복량 UP",
+  mhwilds_armor_skill_recovery_up_: "체력 회복이 발생했을 때회복량이 오른다.",
+  mhwilds_armor_skill_recovery_up_i: "+10%",
+  mhwilds_armor_skill_recovery_up_ii: "+20%",
+  mhwilds_armor_skill_recovery_up_iii: "+30%",
+
+  mhwilds_armor_skill_recovery_speed: "회복 속도",
+  mhwilds_armor_skill_recovery_speed_:
+    "대미지를 받았을 때붉은 게이지 부분의회복 속도가 상승한다.",
+  mhwilds_armor_skill_recovery_speed_i: "붉은 게이지의자동 회복 속도 2배",
+  mhwilds_armor_skill_recovery_speed_ii: "붉은 게이지의자동 회복 속도 3배",
+  mhwilds_armor_skill_recovery_speed_iii: "붉은 게이지의자동 회복 속도 4배",
+
+  mhwilds_armor_skill_survival_expert: "환경 이용 지식",
+  mhwilds_armor_skill_survival_expert_:
+    "임의로 발동할 수 있는환경 이용 시, 체력을 추가로회복할 수 있게 된다.\n회복 꿀벌레, 대회복 꿀벌레, 정화 꿀벌레, 회복 껍질벌레, 서늘 껍질벌레, 따끈 껍질벌레, 스태미나 유충, 면 포자풀",
+  mhwilds_armor_skill_survival_expert_i: "체력 50 회복",
+  mhwilds_armor_skill_survival_expert_ii: "체력 80 회복",
+  mhwilds_armor_skill_survival_expert_iii: "체력 100 회복",
+
+  mhwilds_armor_skill_constitution: "체술",
+  mhwilds_armor_skill_constitution_:
+    "회피 등 고정적으로 스태미나를소비하는 행동의 스태미나소비량이 감소한다.",
+  mhwilds_armor_skill_constitution_i: "10% 감소",
+  mhwilds_armor_skill_constitution_ii: "20% 감소",
+  mhwilds_armor_skill_constitution_iii: "30% 감소",
+  mhwilds_armor_skill_constitution_iv: "40% 감소",
+  mhwilds_armor_skill_constitution_v: "50% 감소",
+
+  mhwilds_armor_skill_stamina_surge: "스태미나 급속 회복",
+  mhwilds_armor_skill_stamina_surge_: "스태미나의 회복 속도가 빨라진다.",
+  mhwilds_armor_skill_stamina_surge_i: "회복 속도 1.1배",
+  mhwilds_armor_skill_stamina_surge_ii: "회복 속도 1.3배",
+  mhwilds_armor_skill_stamina_surge_iii: "회복 속도 1.5배",
+
+  mhwilds_armor_skill_marathon_runner: "런너",
+  mhwilds_armor_skill_marathon_runner_:
+    "대시 등 서서히 스태미나를소비하는 행동의 스태미나소비량이 감소한다.",
+  mhwilds_armor_skill_marathon_runner_i: "15% 감소",
+  mhwilds_armor_skill_marathon_runner_ii: "30% 감소",
+  mhwilds_armor_skill_marathon_runner_iii: "45% 감소",
+
+  mhwilds_armor_skill_hunger_resistance: "배고픔 내성",
+  mhwilds_armor_skill_hunger_resistance_:
+    "시간 경과에 따른 스태미나 게이지의최대치 감소를 억제한다.(기본 900초)",
+  mhwilds_armor_skill_hunger_resistance_i: "감소까지의 시간을50% 연장",
+  mhwilds_armor_skill_hunger_resistance_ii: "감소까지의 시간을 100% 연장",
+  mhwilds_armor_skill_hunger_resistance_iii: "스태미나 최대치의 감소를무효화",
+
+  mhwilds_armor_skill_agitator: "도전자",
+  mhwilds_armor_skill_agitator_:
+    "전투 중에 대형 몬스터가분노하면 기초 공격력과 회심률이상승한다.",
+  mhwilds_armor_skill_agitator_i: "기초 공격력 : +4, 회심률 : +3%",
+  mhwilds_armor_skill_agitator_ii: "기초 공격력 : +8, 회심률 : +5%",
+  mhwilds_armor_skill_agitator_iii: "기초 공격력 : +12, 회심률 : +7%",
+  mhwilds_armor_skill_agitator_iv: "기초 공격력 : +16, 회심률 : +10%",
+  mhwilds_armor_skill_agitator_v: "기초 공격력 : +20, 회심률 : +15%",
+
+  mhwilds_armor_skill_latent_power: "힘의 해방",
+  mhwilds_armor_skill_latent_power_:
+    "130의 피해를 입거나 대형 몬스터 조우 후 120초 경과시 회심률 증가, 고정 스테미너 소모 감소 (쿨타임:120초)",
+  mhwilds_armor_skill_latent_power_i:
+    "회심률 : +10%, 스태미나 소비량 : 30% 감소",
+  mhwilds_armor_skill_latent_power_ii:
+    "회심률 : +20%, 스태미나 소비량 : 30% 감소",
+  mhwilds_armor_skill_latent_power_iii:
+    "회심률 : +30%, 스태미나 소비량 : 50% 감소",
+  mhwilds_armor_skill_latent_power_iv:
+    "스킬  발동 중, 회심률+40%스태미나 소비량 50% 감소",
+  mhwilds_armor_skill_latent_power_v:
+    "회심률 : +50%, 스태미나 소비량 : 50% 감소",
+
+  mhwilds_armor_skill_burst: "연격",
+  mhwilds_armor_skill_burst_:
+    "공격을 한번이라도 맞추면 기초공 +5 속성치 증가가, 이후 5회 타격시 기초공과 속성공격력 증가",
+  mhwilds_armor_skill_burst_i: "연격 Lv 1",
+  mhwilds_armor_skill_burst_ii: "연격 Lv 2",
+  mhwilds_armor_skill_burst_iii: "연격 Lv 3",
+  mhwilds_armor_skill_burst_iv: "연격 Lv 4",
+  mhwilds_armor_skill_burst_v: "연격 Lv 5",
+
+  mhwilds_armor_skill_flayer: "쇄인자격",
+  mhwilds_armor_skill_flayer_:
+    "상처를 입히기 쉬워지며,공격으로 대미지를 축적하면추가로 무속성 대미지가 발생한다.",
+  mhwilds_armor_skill_flayer_i:
+    "상처를 입히기 약간 쉬워지며추가로 140 무속성 대미지가 발생한다",
+  mhwilds_armor_skill_flayer_ii:
+    "상처를 입히기 조금 쉬워지며추가로 160 무속성 대미지가 발생한다",
+  mhwilds_armor_skill_flayer_iii:
+    "상처를 입히기 더더 쉬워지며추가로 190 무속성 대미지가 발생한다",
+  mhwilds_armor_skill_flayer_iv:
+    "상처를 입히기 많이이 쉬워지며추가로 230 무속성 대미지가 발생한다",
+  mhwilds_armor_skill_flayer_v:
+    "상처를 입히기 매우 쉬워지며추가로 280 무속성 대미지가 발생한다",
+
+  mhwilds_armor_skill_palico_rally: "동반자 지휘",
+  mhwilds_armor_skill_palico_rally_: "동반자의 공격력과 방어력이강화된다.",
+  mhwilds_armor_skill_palico_rally_i: "동반자의 공격력과 방어력이1.05배",
+  mhwilds_armor_skill_palico_rally_ii: "동반자의 공격력과 방어력이1.1배",
+  mhwilds_armor_skill_palico_rally_iii: "동반자의 공격력과 방어력이1.15배",
+  mhwilds_armor_skill_palico_rally_iv: "동반자의 공격력과 방어력이1.2배",
+  mhwilds_armor_skill_palico_rally_v: "동반자의 공격력과 방어력이1.25배",
+
+  mhwilds_armor_skill_heroics: "재난 대처 능력력",
+  mhwilds_armor_skill_heroics_:
+    "체력이 최대치의 35% 이하일 때공격력과 방어력이 오른다.",
+  mhwilds_armor_skill_heroics_i: "방어력+50",
+  mhwilds_armor_skill_heroics_ii: " 공격력 1.05배, 방어력 +50",
+  mhwilds_armor_skill_heroics_iii: "공격력 1.05배, 방어력 +100",
+  mhwilds_armor_skill_heroics_iv: " 공격력 1.1배, 방어력 +100",
+  mhwilds_armor_skill_heroics_v: "공격력 1.3배, 방어력 +0",
+
+  mhwilds_armor_skill_partbreaker: "파괴왕",
+  mhwilds_armor_skill_partbreaker_:
+    "대형 몬스터의 부위를 파괴하기쉬워지며, 집중 약점 공격으로 상처 파괴 시 대미지가 상승한다.",
+  mhwilds_armor_skill_partbreaker_i:
+    "부위 파괴 축적치 : 1.1배, 상처 파괴 대미지 : 1.1배",
+  mhwilds_armor_skill_partbreaker_ii:
+    "부위 파괴 축적치 : 1.2배, 상처 파괴 대미지 : 1.2배",
+  mhwilds_armor_skill_partbreaker_iii:
+    "부위 파괴 축적치 : 1.3배, 상처 파괴 대미지 : 1.3배",
+
+  mhwilds_armor_skill_foray: "공세",
+  mhwilds_armor_skill_foray_:
+    "독, 마비 상태인대형 몬스터에 대한공격력과 회심률이 상승한다.",
+  mhwilds_armor_skill_foray_i: "기초 공격력 +6, 회심률 +0%",
+  mhwilds_armor_skill_foray_ii: "기초 공격력 +8, 회심률 +5%",
+  mhwilds_armor_skill_foray_iii: "기초 공격력 +10, 회심률 +10%",
+  mhwilds_armor_skill_foray_iv: "기초 공격력 +12, 회심률 +15%",
+  mhwilds_armor_skill_foray_v: "기초 공격력 +15, 회심률 +20%",
+
+  mhwilds_armor_skill_coalescence: "전화 위복",
+  mhwilds_armor_skill_coalescence_:
+    "상태이상, 속성 피해를 해제하면 30초간 상태이상 축적치가 1.15배 증가, 속성 공격력도도증가한다\n무기1 : 대검, 해머, 수렵 피리, 건랜스, 슬래시 액스, 차지 액스\n무기2 : 태도, 한손검, 쌍검, 랜스, 조충곤, 라이트 보우건, 헤비 보우건, 활",
+  mhwilds_armor_skill_coalescence_i: "무기1 : 1.1배, 무기2 : 1.05배",
+  mhwilds_armor_skill_coalescence_ii: "무기1 : 1.2배, 무기2 : 1.1배",
+  mhwilds_armor_skill_coalescence_iii: "무기1 : 1.3배, 무기2 : 1.15배",
+
   mhwilds_armor_skill_ambush: "급습",
-  mhwilds_common_lance: "랜스",
-  mhwilds_common_gunlance: "건랜스",
+  mhwilds_armor_skill_ambush_:
+    "대형 몬스터를 향한 기습 공격에 성공하면, 일정 시간 동안공격력이 상승한다.",
+  mhwilds_armor_skill_ambush_i: "공격력 1.05배",
+  mhwilds_armor_skill_ambush_ii: "공격력 1.1배",
+  mhwilds_armor_skill_ambush_iii: "공격력 1.15배",
+
+  mhwilds_armor_skill_antivirus: "무아지경",
+  mhwilds_armor_skill_antivirus_:
+    "광룡 바이러스 감염 시광룡증을 극복하기 쉬워지며,극복 상태의 회심률이 증가한다.",
+  mhwilds_armor_skill_antivirus_i: "10% 쉬워지며 회심률 +3%",
+  mhwilds_armor_skill_antivirus_ii: "20% 쉬워지며 회심률 +6%",
+  mhwilds_armor_skill_antivirus_iii: "30% 쉬워지며 회심률 +10%",
+
+  mhwilds_armor_skill_elemental_absorption: "속성 흡수",
+  mhwilds_armor_skill_elemental_absorption_:
+    "속성 공격을 받으면 발동하고, 120초 동안 속성 계열 효과를 얻는다. (쿨타임: 90초)",
+  mhwilds_armor_skill_elemental_absorption_i:
+    "받은 속성의 내성치: +4\n대검: 속성 공격력 +50\n활, 쌍검: 속성 공격력 +30\n기타 무기: 속성 공격력 +40",
+  mhwilds_armor_skill_elemental_absorption_ii:
+    "받은 속성의 내성치: +6\n대검: 속성 공격력 +80\n활, 쌍검: 속성 공격력 +40\n기타 무기: 속성 공격력 +50",
+  mhwilds_armor_skill_elemental_absorption_iii:
+    "받은 속성의 내성치: +8\n대검: 속성 공격력 +100\n활, 쌍검: 속성 공격력 +50\n기타 무기: 속성 공격력 +60",
+
+  mhwilds_armor_skill_self_improvement: "연찬",
+  mhwilds_armor_skill_self_improvement_:
+    "5분마다 공격력과 방어력 상승, 최대 6회",
+  mhwilds_armor_skill_self_improvement_i:
+    "처음 5분 : 방어력 +5, 그후 5분마다 공격력 +4, 방어력 +5",
+
+  mhwilds_armor_skill_evade_window: "회피 성능",
+  mhwilds_armor_skill_evade_window_:
+    "회피 시 무적 시간이 늘어난다. (30 프레임 기준 기본 프레임 9)",
+  mhwilds_armor_skill_evade_window_i: "10 frame",
+  mhwilds_armor_skill_evade_window_ii: "11 frame",
+  mhwilds_armor_skill_evade_window_iii: "12 frame",
+  mhwilds_armor_skill_evade_window_iv: "13 frame",
+  mhwilds_armor_skill_evade_window_v: "15 frame",
+
+  mhwilds_armor_skill_evade_extender: "회피 거리 UP",
+  mhwilds_armor_skill_evade_extender_: "회피 시 이동 거리가 길어진다.",
+  mhwilds_armor_skill_evade_extender_i: "회피 거리가 약간 연장",
+  mhwilds_armor_skill_evade_extender_ii: "회회피 거리가 연장",
+  mhwilds_armor_skill_evade_extender_iii: "회피 거리가 크게 연장",
+
+  mhwilds_armor_skill_earplugs: "귀마개",
+  mhwilds_armor_skill_earplugs_: "대형 몬스터의 포효에 대한내성을 얻는다.",
+  mhwilds_armor_skill_earplugs_i: "포효【소】를 80% 무효화한다",
+  mhwilds_armor_skill_earplugs_ii:
+    "포효【소】를 무효화한다, 포효【대】를 90% 무효화한다",
+  mhwilds_armor_skill_earplugs_iii: "모든 포효를 무효화한다",
+
+  mhwilds_armor_skill_quick_sheathe: "납도술",
+  mhwilds_armor_skill_quick_sheathe_: "무기를 집어넣는 속도가 빨라진다.",
+  mhwilds_armor_skill_quick_sheathe_i: "10%",
+  mhwilds_armor_skill_quick_sheathe_ii: "20%",
+  mhwilds_armor_skill_quick_sheathe_iii: "30%",
+
+  mhwilds_armor_skill_windproof: "풍압 내성",
+  mhwilds_armor_skill_windproof_: "풍압에 대한 내성을 얻는다.",
+  mhwilds_armor_skill_windproof_i: "풍압【소】: 무효화, 풍압【대】: 50% 무효화",
+  mhwilds_armor_skill_windproof_ii: "풍압【소】,【대】: 무효화, 용풍압 반감",
+  mhwilds_armor_skill_windproof_iii: "모든 풍압 무효화",
+
+  mhwilds_armor_skill_tremor_resistance: "내진",
+  mhwilds_armor_skill_tremor_resistance_: "지면 진동에 대한 내성을 얻는다.",
+  mhwilds_armor_skill_tremor_resistance_i:
+    "【극소】: 무효화, 【소】: 50% 무효화",
+  mhwilds_armor_skill_tremor_resistance_ii:
+    "【극소】,【소】: 무효화, 【대】: 80% 무효화화",
+  mhwilds_armor_skill_tremor_resistance_iii: "모든 진동 피해 무효화",
+
+  mhwilds_armor_skill_flinch_free: "움찔 감소",
+  mhwilds_armor_skill_flinch_free_: "피해 리액션을 줄인다.",
+  mhwilds_armor_skill_flinch_free_i: "움츠리기를 무효화",
+  mhwilds_armor_skill_flinch_free_ii:
+    "움츠리지 않음. 엉덩방아를움츠림으로 감소시킨다",
+  mhwilds_armor_skill_flinch_free_iii: "움츠림, 엉덩방아를 무효화",
+
+  mhwilds_armor_skill_intimidator: "위협",
+  mhwilds_armor_skill_intimidator_:
+    "소형 몬스터에게 들켜도전투 상태가 될 확률이 낮아진다.\n갑충종 등 일부에겐 효과 없음, 먼저 공격할 시 효과 없음, 소형몬스터를 거느리는 대형 몬스터와 전투시 효과 없음",
+  mhwilds_armor_skill_intimidator_i: "들켜도 전투 상태가 될확률이 낮다",
+  mhwilds_armor_skill_intimidator_ii: "들켜도 전투 상태가 될확률이 매우 낮다",
+  mhwilds_armor_skill_intimidator_iii: "들켜도 전투 상태가 되지 않는다",
+
+  mhwilds_armor_skill_speed_eating: "빨리 먹기",
+  mhwilds_armor_skill_speed_eating_: "고기나 아이템을 먹는 속도가빨라진다.",
+  mhwilds_armor_skill_speed_eating_i: "먹는 속도가 조금 빨라진다",
+  mhwilds_armor_skill_speed_eating_ii: "먹는 속도가 빨라진다",
+  mhwilds_armor_skill_speed_eating_iii: "먹는 속도가 많이 빨라진다",
+
+  mhwilds_armor_skill_aquatic_oilsilt_mobility: "물가/기름 진흙 적응",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_:
+    "물가나 기름 진흙의 행동 제한,물의 흐름으로 받는 행동 제한에대한 내성을 얻는다.",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_i:
+    "물가/기름 진흙의 이동 제한과탁류의 영향을 무효화한다",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_ii:
+    "추가로 파도에 의한 영향을무효화한다",
+
+  mhwilds_armor_skill_shock_absorber: "완충",
+  mhwilds_armor_skill_shock_absorber_:
+    "동행한 동료에게 공격을 맞히거나동료의 공격에 맞았을 때대미지 리액션을 무효화한다.",
+  mhwilds_armor_skill_shock_absorber_i: "스킬 효과 발동",
+
+  mhwilds_armor_skill_leap_of_faith: "뛰어들기",
+  mhwilds_armor_skill_leap_of_faith_:
+    "대형 몬스터를 향해 점프 회피가 가능해진다.또한 비거리도 늘어난다.",
+  mhwilds_armor_skill_leap_of_faith_i: "스킬 발동 가능",
+
+  mhwilds_armor_skill_jump_master: "점프 철인",
+  mhwilds_armor_skill_jump_master_:
+    "점프 중에 공격을 받아도움츠리지 않게 된다.",
+  mhwilds_armor_skill_jump_master_i: "점프 중에는움츠리지 않게 된다",
+
+  mhwilds_armor_skill_cliffhanger: "클라이머",
+  mhwilds_armor_skill_cliffhanger_:
+    "넝쿨에 매달린 상태에서 행동할 때소비되는 스태미나양이 감소한다.",
+  mhwilds_armor_skill_cliffhanger_i: "스태미나 소비량 50％ 감소",
+
+  mhwilds_armor_skill_wide_range: "광역화",
+  mhwilds_armor_skill_wide_range_:
+    "일부 아이템 효과가 일정 범위 내동료에게 작용한다. 레벨이 오르면범위와 작용 효과가 커진다. (아이템 사용 강화 스킬은 개개인에게 적용)",
+  mhwilds_armor_skill_wide_range_i: "효과의 1/3을 주위동료에게도 준다",
+  mhwilds_armor_skill_wide_range_ii: "효과의 1/3을 넓은 범위의동료에게도 준다",
+  mhwilds_armor_skill_wide_range_iii: "효과의 2/3를 넓은 범위의동료에게도 준다",
+  mhwilds_armor_skill_wide_range_iv:
+    "효과의 2/3를 꽤 넓은범위의 동료에게도 준다",
+  mhwilds_armor_skill_wide_range_v:
+    "동일한 효과를 꽤 넓은범위의 동료에게도 준다",
+
+  mhwilds_armor_skill_tool_specialist: "정비",
+  mhwilds_armor_skill_tool_specialist_:
+    "특수 장비를 다시 사용할 수 있게되기까지의 시간이 단축된다.",
+  mhwilds_armor_skill_tool_specialist_i: "10% 단축",
+  mhwilds_armor_skill_tool_specialist_ii: "20% 단축",
+  mhwilds_armor_skill_tool_specialist_iii: "30% 단축",
+  mhwilds_armor_skill_tool_specialist_iv: "40% 단축",
+  mhwilds_armor_skill_tool_specialist_v: "50% 단축",
+
+  mhwilds_armor_skill_bombardier: "보머",
+  mhwilds_armor_skill_bombardier_: "폭탄 계열 아이템의대미지가 상승한다.",
+  mhwilds_armor_skill_bombardier_i: "1.1배",
+  mhwilds_armor_skill_bombardier_ii: "1.2배",
+  mhwilds_armor_skill_bombardier_iii: "1.3배",
+
+  mhwilds_armor_skill_mushroomancer: "버섯 애호가",
+  mhwilds_armor_skill_mushroomancer_:
+    "평소에는 먹을 수 없는 버섯을먹을 수 있게 되어좋은 효과를 얻을 수 있다.",
+  mhwilds_armor_skill_mushroomancer_i:
+    "푸른버섯(회복약)과 독광대버섯(활력제)을먹을 수 있게 된다",
+  mhwilds_armor_skill_mushroomancer_ii:
+    "추가로 니트로버섯(귀인약)과 마비버섯(경화제)을 먹을 수 있게 된다",
+  mhwilds_armor_skill_mushroomancer_iii:
+    "추가로 만드라고라(비약),도깨비 니트로버섯(강주약), 두근두근버섯(위의 효과 중에서 랜덤)을먹을 수 있게 된다",
+
+  mhwilds_armor_skill_item_prolonger: "아이템 사용 강화",
+  mhwilds_armor_skill_item_prolonger_: "일부 아이템의 효과 시간이늘어난다",
+  mhwilds_armor_skill_item_prolonger_i: "1.1 배",
+  mhwilds_armor_skill_item_prolonger_ii: "1.25 배",
+  mhwilds_armor_skill_item_prolonger_iii: "1.5 배",
+
+  mhwilds_armor_skill_free_meal: "만족감",
+  mhwilds_armor_skill_free_meal_:
+    "먹거나 마시는 아이템을 일정 확률로한 번 더 사용할 수 있게 된다.",
+  mhwilds_armor_skill_free_meal_i: "10%",
+  mhwilds_armor_skill_free_meal_ii: "25%",
+  mhwilds_armor_skill_free_meal_iii: "45%",
+
+  mhwilds_armor_skill_blindsider: "섬광 강화",
+  mhwilds_armor_skill_blindsider_: "섬광탄의 사거리 증가",
+  mhwilds_armor_skill_blindsider_i: "섬광탄의 사거리 100% 증가",
+
+  mhwilds_armor_skill_botanist: "식생학",
+  mhwilds_armor_skill_botanist_: "약초 등, 소비 아이템의취득 수가 증가한다.",
+  mhwilds_armor_skill_botanist_i: "풀 계열소비 아이템의 취득 수+1",
+  mhwilds_armor_skill_botanist_ii:
+    "추가로 열매, 씨앗 계열소비 아이템의 취득 수+1",
+  mhwilds_armor_skill_botanist_iii: "추가로 곤충 소비 아이템의취득 수+1",
+  mhwilds_armor_skill_botanist_iv: "추가로 버섯 소비 아이템의취득 수+1",
+
+  mhwilds_armor_skill_geologist: "지질학",
+  mhwilds_armor_skill_geologist_: "채취 포인트의아이템 획득 수가 증가한다.",
+  mhwilds_armor_skill_geologist_i: "뼈 채취 포인트의 취득 수+1",
+  mhwilds_armor_skill_geologist_ii: "추가로 특산품 채취 포인트의취득 수+1",
+  mhwilds_armor_skill_geologist_iii: "추가로 광석 채굴 포인트의취득 수+1",
+
+  mhwilds_armor_skill_entomologist: "곤충박사",
+  mhwilds_armor_skill_entomologist_:
+    "곤충형 소형 몬스터를공격해서 토벌할 시, 반드시갈무리할 수 있는 상태로 남는다.",
+  mhwilds_armor_skill_entomologist_i: "스킬 효과 발동",
+
+  mhwilds_armor_skill_outdoorsman: "헌터 생활",
+  mhwilds_armor_skill_outdoorsman_: "낚시, 고기굽기,운반 기술이 향상된다.",
+  mhwilds_armor_skill_outdoorsman_i: "스킬 효과 발동",
 };
 
 export const mhWildsSlotKo = {
