@@ -938,13 +938,13 @@ export const mhWildsArmorSkillKo = {
 
   mhwilds_armor_skill_convert_element: "속성 변환",
   mhwilds_armor_skill_convert_element_:
-    "일정 수치의 속성 피해를 입히면 추가 피해를 입히고 120초간 용속성 공격력이 증가한다. (쿨타임 90초)",
+    "일정 수치의 속성 피해를 입히면 추가 피해를 입히고 무기에 용속성이 있다면 120초간 용속성 공격력이 증가한다. (쿨타임 90초)",
   mhwilds_armor_skill_convert_element_i:
-    "용속성 공격력 : +80\n고정 피해량 : 150\n용속성 피해량 : 60",
+    "용속성 공격력 : +80, 고정 피해량 : 150, 속성 피해량 : 60",
   mhwilds_armor_skill_convert_element_ii:
-    "용속성 공격력 : +120\n고정 피해량 : 200\n용속성 피해량 : 80",
+    "용속성 공격력 : +120, 고정 피해량 : 200, 속성 피해량 : 80",
   mhwilds_armor_skill_convert_element_iii:
-    "용속성 공격력 : +180\n고정 피해량 : 280\n용속성 피해량 : 100",
+    "용속성 공격력 : +180, 고정 피해량 : 280, 속성 피해량 : 100",
 
   mhwilds_armor_skill_defense_boost: "방어",
   mhwilds_armor_skill_defense_boost_:
@@ -1329,7 +1329,7 @@ export const mhWildsArmorSkillKo = {
 
   mhwilds_armor_skill_wide_range: "광역화",
   mhwilds_armor_skill_wide_range_:
-    "일부 아이템 효과가 일정 범위 내동료에게 작용한다. 레벨이 오르면범위와 작용 효과가 커진다. (아이템 사용 강화 스킬은 개개인에게 적용)",
+    "일부 아이템 효과가 일정 범위 내동료에게 작용한다. 레벨이 오르면범위와 작용 효과가 커진다.\n체력 회복량 UP 스킬은 시전자의 것으로 적용. 아이템 사용 강화 스킬은 개개인에게 적용",
   mhwilds_armor_skill_wide_range_i: "효과의 1/3을 주위동료에게도 준다",
   mhwilds_armor_skill_wide_range_ii: "효과의 1/3을 넓은 범위의동료에게도 준다",
   mhwilds_armor_skill_wide_range_iii: "효과의 2/3를 넓은 범위의동료에게도 준다",
@@ -1361,7 +1361,7 @@ export const mhWildsArmorSkillKo = {
   mhwilds_armor_skill_mushroomancer_ii:
     "추가로 니트로버섯(귀인약)과 마비버섯(경화제)을 먹을 수 있게 된다",
   mhwilds_armor_skill_mushroomancer_iii:
-    "추가로 만드라고라(비약),도깨비 니트로버섯(강주약), 두근두근버섯(위의 효과 중에서 랜덤)을먹을 수 있게 된다",
+    "추가로 만드라고라(비약),도깨비 니트로버섯(강주약), 두근두근버섯(위의 효과 중에서 랜덤)을 먹을 수 있게 된다",
 
   mhwilds_armor_skill_item_prolonger: "아이템 사용 강화",
   mhwilds_armor_skill_item_prolonger_: "일부 아이템의 효과 시간이늘어난다",
@@ -2626,7 +2626,7 @@ export const mhWildsWeaponSkillsKo = {
   mhwilds_weapon_skill_critical_eye_: "회심률을 증가시킨다",
   mhwilds_weapon_skill_critical_eye_i: "회심률 +4%",
   mhwilds_weapon_skill_critical_eye_ii: "회심률 +8%",
-  mhwilds_weapon_skill_critical_eye_iii: "회심률 +12% ",
+  mhwilds_weapon_skill_critical_eye_iii: "회심률 +12%",
   mhwilds_weapon_skill_critical_eye_iv: "회심률 +16%",
   mhwilds_weapon_skill_critical_eye_v: "회심률 +20%",
 
@@ -2679,25 +2679,25 @@ export const mhWildsWeaponSkillsKo = {
   mhwilds_weapon_skill_poison_attack: "독속성 강화",
   mhwilds_weapon_skill_poison_attack_: "무기의 독축적치 강화 (최대 1.3배)",
   mhwilds_weapon_skill_poison_attack_i: "독축적치 1.05배 +10",
-  mhwilds_weapon_skill_poison_attack_ii: "독축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_poison_attack_ii: "독축적치 1.1배 +20",
   mhwilds_weapon_skill_poison_attack_iii: "독축적치 1.2배 +50",
 
   mhwilds_weapon_skill_paralysis_attack: "마비속성 강화",
   mhwilds_weapon_skill_paralysis_attack_: "무기의 마비축적치 강화 (최대 1.3배)",
   mhwilds_weapon_skill_paralysis_attack_i: "마비축적치 1.05배 +10",
-  mhwilds_weapon_skill_paralysis_attack_ii: "마비축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_paralysis_attack_ii: "마비축적치 1.1배 +20",
   mhwilds_weapon_skill_paralysis_attack_iii: "마비축적치 1.2배 +50",
 
   mhwilds_weapon_skill_sleep_attack: "수면속성 강화",
   mhwilds_weapon_skill_sleep_attack_: "무기의 수면축적치 강화 (최대 1.3배)",
   mhwilds_weapon_skill_sleep_attack_i: "수면축적치 1.05배 +10",
-  mhwilds_weapon_skill_sleep_attack_ii: "수면축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_sleep_attack_ii: "수면축적치 1.1배 +20",
   mhwilds_weapon_skill_sleep_attack_iii: "수면축적치 1.2배 +50",
 
   mhwilds_weapon_skill_blast_attack: "폭파속성 강화",
   mhwilds_weapon_skill_blast_attack_: "무기의 폭파축적치 강화 (최대 1.3배)",
   mhwilds_weapon_skill_blast_attack_i: "폭파축적치 1.05배 +10",
-  mhwilds_weapon_skill_blast_attack_ii: "폭파축적치 1.1배 +20 ",
+  mhwilds_weapon_skill_blast_attack_ii: "폭파축적치 1.1배 +20",
   mhwilds_weapon_skill_blast_attack_iii: "폭파축적치 1.2배 +50",
 
   mhwilds_weapon_skill_critical_element: "회심격【속성】",
@@ -2716,7 +2716,7 @@ export const mhWildsWeaponSkillsKo = {
   mhwilds_weapon_skill_charge_master: "차지 마스터",
   mhwilds_weapon_skill_charge_master_:
     "모으기 공격의 속성 피해량, 상태이상 축적치 증가",
-  mhwilds_weapon_skill_charge_master_i: "근접:1.15배\n원거리:1.05배 ",
+  mhwilds_weapon_skill_charge_master_i: "근접:1.15배\n원거리:1.05배",
   mhwilds_weapon_skill_charge_master_ii: "근접:1.2배\n원거리:1.1배",
   mhwilds_weapon_skill_charge_master_iii: "근접:1.25배\n원거리:1.15배",
 

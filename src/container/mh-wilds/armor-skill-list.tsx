@@ -38,10 +38,10 @@ export function ArmorSkillList({ searchTerm }: ArmorSkillListProps) {
                 <div className="font-semibold text-base">
                   {mhWildsArmorSkillNamespace[name]}
                 </div>
-                <div className="bg-gray-800 text-white rounded p-4">
+                <div className="bg-gray-800 text-white rounded p-4 whitespace-pre-wrap">
                   {mhWildsArmorSkillNamespace[`${name}_`]}
                   {Object.entries(skills).map(([skillLevel, skill]) => (
-                    <div key={skillLevel}>
+                    <div className="mt-[10px]" key={skillLevel}>
                       {`Lv ${skillLevel}: ${mhWildsArmorSkillNamespace[skill]}`}
                     </div>
                   ))}
