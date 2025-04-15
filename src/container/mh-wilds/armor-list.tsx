@@ -5,22 +5,7 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsArmorData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
-interface ArmorListProps {
-  searchTerm: string;
-}
-
-interface Armor {
-  name: string;
-  part: string;
-  rank: string;
-  skills?: Record<string, number | undefined>;
-  slots?: number[];
-  seriesSkill?: Record<string, number | undefined>;
-  groupSkill?: Record<string, number | undefined>;
-  def?: number[];
-}
-
-export function ArmorList({ searchTerm }: ArmorListProps) {
+export function ArmorList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor") ?? {};
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
@@ -33,7 +18,8 @@ export function ArmorList({ searchTerm }: ArmorListProps) {
 
   const [selectedPart, setSelectedPart] = React.useState<string | null>(null);
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
-  const filteredArmorList = (mhWildsArmorData as Armor[]).filter(
+
+  const filteredArmorList = mhWildsArmorData.filter(
     ({ name, part, rank }) =>
       (!selectedPart || part === selectedPart) &&
       (!selectedRank || rank === selectedRank) &&

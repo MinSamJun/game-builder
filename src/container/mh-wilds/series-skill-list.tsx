@@ -5,26 +5,14 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsSeriesSkillData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
-interface SeriesSkillListProps {
-  searchTerm: string;
-}
-
-interface SeriesSkill {
-  name: string;
-  skill2: string;
-  skill4: string;
-}
-
-export function SeriesSkillList({ searchTerm }: SeriesSkillListProps) {
+export function SeriesSkillList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhWildsSeriesNameNamespace = getNamespaceData("mhWilds_series_name");
   const mhWildsSeriesSkillNamespace = getNamespaceData("mhWilds_series_skill");
 
   const lowerSearchTerm = searchTerm.toLowerCase();
 
-  const filteredSeriesSkillList = (
-    mhWildsSeriesSkillData as SeriesSkill[]
-  ).filter(
+  const filteredSeriesSkillList = mhWildsSeriesSkillData.filter(
     ({ name, skill2 }) =>
       (mhWildsSeriesNameNamespace[name] ?? name)
         .toLowerCase()

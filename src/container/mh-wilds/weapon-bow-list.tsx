@@ -5,24 +5,7 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsBowsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
-interface BowListProps {
-  searchTerm: string;
-}
-
-interface Bow {
-  name: string;
-  part: string;
-  rank: string;
-  attack: number;
-  element: number | null;
-  affinity: number;
-  defense: number;
-  slots: number[];
-  skills?: Record<string, number | undefined>;
-  coating: string[];
-}
-
-export function BowList({ searchTerm }: BowListProps) {
+export function BowList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhWildsBowNamespace = getNamespaceData("mhWilds_bows") ?? {};
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
@@ -30,7 +13,7 @@ export function BowList({ searchTerm }: BowListProps) {
     getNamespaceData("mhWilds_weapon_skill") ?? {};
   const mhWildsCoatingNamespace = getNamespaceData("mhWilds_coating") ?? {};
 
-  const filteredList = (mhWildsBowsData as Bow[]).filter(({ name }) =>
+  const filteredList = mhWildsBowsData.filter(({ name }) =>
     (mhWildsBowNamespace[name] ?? name)
       .toLowerCase()
       .includes(searchTerm.toLowerCase())

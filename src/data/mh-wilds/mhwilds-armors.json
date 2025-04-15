@@ -1020,7 +1020,7 @@
     "rank": "mhwilds_low_rank",
     "part": "mhwilds_head",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": ["-", "-", "-"],
     "seriesSkill": {},
@@ -1035,7 +1035,7 @@
     "rank": "mhwilds_low_rank",
     "part": "mhwilds_chest",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": ["-", "-", "-"],
     "seriesSkill": {},
@@ -1050,7 +1050,7 @@
     "rank": "mhwilds_low_rank",
     "part": "mhwilds_arms",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1,
+      "mhwilds_armor_skill_wide_range": 1,
       "mhwilds_armor_skill_poison_resistance": 1
     },
     "slots": ["-", "-", "-"],
@@ -1066,7 +1066,7 @@
     "rank": "mhwilds_low_rank",
     "part": "mhwilds_waist",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1,
+      "mhwilds_armor_skill_wide_range": 1,
       "mhwilds_armor_skill_poison_resistance": 1
     },
     "slots": ["-", "-", "-"],
@@ -1082,7 +1082,7 @@
     "rank": "mhwilds_low_rank",
     "part": "mhwilds_legs",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": ["-", "-", "-"],
     "seriesSkill": {},
@@ -2217,7 +2217,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_head",
     "skills": {
-      "mhwilds_armor_skill_widerange": 2,
+      "mhwilds_armor_skill_wide_range": 2,
       "mhwilds_armor_skill_counterstrike": 1
     },
     "slots": [1, 1, "-"],
@@ -2235,7 +2235,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_head",
     "skills": {
-      "mhwilds_armor_skill_widerange": 2
+      "mhwilds_armor_skill_wide_range": 2
     },
     "slots": [2, 1, 1],
     "seriesSkill": {
@@ -2666,7 +2666,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_head",
     "skills": {
-      "mhwilds_armor_skill_widerange": 2,
+      "mhwilds_armor_skill_wide_range": 2,
       "mhwilds_armor_skill_palico_rally": 1
     },
     "slots": [2, "-", "-"],
@@ -2743,7 +2743,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_head",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1,
+      "mhwilds_armor_skill_wide_range": 1,
       "mhwilds_armor_skill_speed_eating": 1
     },
     "slots": [1, "-", "-"],
@@ -2881,7 +2881,7 @@
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 2,
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": [3, 1, "-"],
     "seriesSkill": {},
@@ -3227,7 +3227,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_head",
     "skills": {
-      "mhwilds_armor_skill_widerange": 2
+      "mhwilds_armor_skill_wide_range": 2
     },
     "slots": [1, 1, "-"],
     "seriesSkill": {},
@@ -3242,7 +3242,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_head",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": [2, 1, "-"],
     "seriesSkill": {},
@@ -4263,7 +4263,7 @@
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 2,
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": [2, 2, "-"],
     "seriesSkill": {},
@@ -4565,7 +4565,7 @@
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 2,
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": [1, "-", "-"],
     "seriesSkill": {},
@@ -4595,7 +4595,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_chest",
     "skills": {
-      "mhwilds_armor_skill_widerange": 4
+      "mhwilds_armor_skill_wide_range": 4
     },
     "slots": [2, "-", "-"],
     "seriesSkill": {},
@@ -5416,7 +5416,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_arms",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1,
+      "mhwilds_armor_skill_wide_range": 1,
       "mhwilds_armor_skill_item_prolonger": 1
     },
     "slots": [1, "-", "-"],
@@ -5525,7 +5525,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_arms",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1,
+      "mhwilds_armor_skill_wide_range": 1,
       "mhwilds_armor_skill_divine_blessing": 1
     },
     "slots": [3, 1, "-"],
@@ -6228,7 +6228,7 @@
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_agitator": 2,
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": [1, "-", "-"],
     "seriesSkill": {
@@ -6826,7 +6826,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_waist",
     "skills": {
-      "mhwilds_armor_skill_widerange": 1,
+      "mhwilds_armor_skill_wide_range": 1,
       "mhwilds_armor_skill_recovery_up": 1
     },
     "slots": [3, 2, "-"],
@@ -7165,7 +7165,7 @@
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": ["-", "-", "-"],
     "seriesSkill": {},
@@ -7997,7 +7997,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_legs",
     "skills": {
-      "mhwilds_armor_skill_widerange": 2,
+      "mhwilds_armor_skill_wide_range": 2,
       "mhwilds_armor_skill_palico_rally": 1
     },
     "slots": [2, "-", "-"],
@@ -8165,7 +8165,7 @@
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_item_prolonger": 2,
-      "mhwilds_armor_skill_widerange": 1
+      "mhwilds_armor_skill_wide_range": 1
     },
     "slots": [3, "-", "-"],
     "seriesSkill": {},
@@ -8519,7 +8519,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_legs",
     "skills": {
-      "mhwilds_armor_skill_widerange": 2,
+      "mhwilds_armor_skill_wide_range": 2,
       "mhwilds_armor_skill_earplugs": 1
     },
     "slots": ["-", "-", "-"],
@@ -8535,7 +8535,7 @@
     "rank": "mhwilds_high_rank",
     "part": "mhwilds_legs",
     "skills": {
-      "mhwilds_armor_skill_widerange": 2
+      "mhwilds_armor_skill_wide_range": 2
     },
     "slots": [2, "-", "-"],
     "seriesSkill": {},
