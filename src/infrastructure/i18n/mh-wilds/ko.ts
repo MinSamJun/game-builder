@@ -922,7 +922,7 @@ export const mhWildsArmorSkillKo = {
 
   mhwilds_armor_skill_weakness_exploit: "약점 특효",
   mhwilds_armor_skill_weakness_exploit_:
-    "약점(육질 45이상인 곳)을 공중시 회심률 상승, 그곳에 상처가 난 경우 추가로 증가가",
+    "약점(육질 45이상인 곳)을 공중시 회심률 상승, 그곳에 상처가 난 경우 추가로 증가",
   mhwilds_armor_skill_weakness_exploit_i: "약점 : +5%, 약점+상처 : +3%",
   mhwilds_armor_skill_weakness_exploit_ii: "약점 : +10%, 약점+상처 : +5%",
   mhwilds_armor_skill_weakness_exploit_iii: "약점 : +15%, 약점+상처 : +10%",
@@ -1143,7 +1143,7 @@ export const mhWildsArmorSkillKo = {
 
   mhwilds_armor_skill_burst: "연격",
   mhwilds_armor_skill_burst_:
-    "공격을 한번이라도 맞추면 기초공 +5 속성치 증가가, 이후 5회 타격시 기초공과 속성공격력 증가",
+    "공격을 한번이라도 맞추면 기초공 +5 속성치 증가, 이후 5회 타격시 기초공과 속성공격력 증가",
   mhwilds_armor_skill_burst_i: "연격 Lv 1",
   mhwilds_armor_skill_burst_ii: "연격 Lv 2",
   mhwilds_armor_skill_burst_iii: "연격 Lv 3",

@@ -5,25 +5,32 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsArmorSkillData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
-interface ArmorSkillListProps {
-  searchTerm: string;
-}
-
-interface ArmorSkill {
-  name: string;
-  skills: Record<number, string>;
-}
-
-export function ArmorSkillList({ searchTerm }: ArmorSkillListProps) {
+export function ArmorSkillList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
-  const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor");
   const mhWildsArmorSkillNamespace = getNamespaceData("mhWilds_armor_skill");
 
-  const filteredArmorSkillList = (mhWildsArmorSkillData as ArmorSkill[]).filter(
-    ({ name }) =>
-      (mhWildsArmorNamespace[name] ?? name)
-        .toLowerCase()
-        .includes(searchTerm.toLowerCase())
+  const lowerSearchTerm = searchTerm.toLowerCase();
+
+  const filteredArmorSkillList = mhWildsArmorSkillData.filter(
+    ({ name, skills }) => {
+      const armorSkillName =
+        mhWildsArmorSkillNamespace[name]?.toLowerCase() ?? name.toLowerCase();
+      const armorSkillDescription =
+        mhWildsArmorSkillNamespace[`${name}_`]?.toLowerCase() ?? "";
+      const fullLevelText = Object.entries(skills)
+        .map(([level, skillKey]) => {
+          const skillDesc = mhWildsArmorSkillNamespace[skillKey] ?? "";
+          return `Lv ${level}: ${skillDesc}`;
+        })
+        .join(" ")
+        .toLowerCase();
+
+      return (
+        armorSkillName.includes(lowerSearchTerm) ||
+        armorSkillDescription.includes(lowerSearchTerm) ||
+        fullLevelText.includes(lowerSearchTerm)
+      );
+    }
   );
 
   return (
