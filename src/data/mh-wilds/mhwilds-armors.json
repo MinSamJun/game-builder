@@ -3376,9 +3376,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -3391,9 +3389,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -3406,9 +3402,7 @@
     "seriesSkill": {
       "mhwilds_series_name_zoh_shia_s_pulse": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
@@ -3421,9 +3415,7 @@
     "seriesSkill": {
       "mhwilds_series_name_zoh_shia_s_pulse": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
@@ -4710,9 +4702,7 @@
     "seriesSkill": {
       "mhwilds_series_name_zoh_shia_s_pulse": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
@@ -4723,9 +4713,7 @@
     "skills": {},
     "slots": [3, "-", "-"],
     "seriesSkill": {},
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 2, -4]
   },
   {
@@ -4738,9 +4726,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -4753,9 +4739,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -5999,9 +5983,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -6014,9 +5996,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -6027,9 +6007,7 @@
     "skills": {},
     "slots": ["-", "-", "-"],
     "seriesSkill": {},
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
@@ -6042,9 +6020,7 @@
     "seriesSkill": {
       "mhwilds_series_name_zoh_shia_s_pulse": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -1]
   },
   {
@@ -7312,9 +7288,7 @@
     "seriesSkill": {
       "mhwilds_series_name_zoh_shia_s_pulse": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
@@ -7325,9 +7299,7 @@
     "skills": {},
     "slots": [2, "-", "-"],
     "seriesSkill": {},
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
@@ -7340,9 +7312,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -7355,9 +7325,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -8656,9 +8624,7 @@
     "seriesSkill": {
       "mhwilds_series_name_mizutsune_s_prowess": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -8669,9 +8635,7 @@
     "skills": {},
     "slots": [3, "-", "-"],
     "seriesSkill": {},
-    "groupSkill": {
-      "mhwilds_group_name_mizutsune_s_prowess": 1
-    },
+    "groupSkill": {},
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
@@ -8684,9 +8648,7 @@
     "seriesSkill": {
       "mhwilds_series_name_zoh_shia_s_pulse": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
@@ -8699,9 +8661,7 @@
     "seriesSkill": {
       "mhwilds_series_name_zoh_shia_s_pulse": 1
     },
-    "groupSkill": {
-      "mhwilds_group_name_zoh_shia_s_pulse": 1
-    },
+    "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
   }
 ]
