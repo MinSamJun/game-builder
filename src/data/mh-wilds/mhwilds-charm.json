@@ -1425,7 +1425,7 @@
     "rarity": null,
     "part": "charm",
     "skills": {
-      "mhwilds_armor_skill_selfimprovement": "1",
+      "mhwilds_armor_skill_self_improvement": "1",
       "mhwilds_armor_skill_hunger_resistance": "1"
     }
   },
