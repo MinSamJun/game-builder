@@ -796,78 +796,513 @@ export const mhWildsCharmJa = {
 };
 
 export const mhWildsArmorSkillJa = {
-  mhwilds_armor_skill_stamina_surge: "スタミナ急速回復",
-  mhwilds_armor_skill_jump_master: "ジャンプ鉄人",
-  mhwilds_armor_skill_marathon_runner: "ランナー",
-  mhwilds_armor_skill_constitution: "体術",
-  mhwilds_armor_skill_geologist: "地質学",
-  mhwilds_armor_skill_botanist: "植生学",
-  mhwilds_armor_skill_hunger_resistance: "腹減り耐性",
-  mhwilds_armor_skill_leap_of_faith: "飛び込み",
-  mhwilds_armor_skill_survival_expert: "環境利用の知識",
-  mhwilds_armor_skill_intimidator: "威嚇",
-  mhwilds_armor_skill_cliffhanger: "クライマー",
-  mhwilds_armor_skill_entomologist: "昆虫標本の達人",
-  mhwilds_armor_skill_outdoorsman: "ハンター生活",
-  mhwilds_armor_skill_bombardier: "ボマー",
-  mhwilds_armor_skill_speed_eating: "早食い",
-  mhwilds_armor_skill_free_meal: "満足感",
-  mhwilds_armor_skill_recovery_up: "体力回復量ＵＰ",
-  mhwilds_armor_skill_item_prolonger: "アイテム使用強化",
-  mhwilds_armor_skill_mushroomancer: "キノコ大好き",
-  mhwilds_armor_skill_widerange: "広域化",
-  mhwilds_armor_skill_tool_specialist: "整備",
-  mhwilds_armor_skill_blindsider: "閃光強化",
-  mhwilds_armor_skill_divine_blessing: "精霊の加護",
-  mhwilds_armor_skill_recovery_speed: "回復速度",
-  mhwilds_armor_skill_evade_window: "回避性能",
-  mhwilds_armor_skill_evade_extender: "回避距離ＵＰ",
-  mhwilds_armor_skill_quick_sheathe: "納刀術",
-  mhwilds_armor_skill_flinch_free: "ひるみ軽減",
-  mhwilds_armor_skill_shock_absorber: "緩衝",
-  mhwilds_armor_skill_stun_resistance: "気絶耐性",
-  mhwilds_armor_skill_earplugs: "耳栓",
-  mhwilds_armor_skill_windproof: "風圧耐性",
-  mhwilds_armor_skill_tremor_resistance: "耐震",
-  mhwilds_armor_skill_paralysis_resistance: "麻痺耐性",
-  mhwilds_armor_skill_poison_resistance: "毒耐性",
-  mhwilds_armor_skill_sleep_resistance: "睡眠耐性",
-  mhwilds_armor_skill_blast_resistance: "爆破やられ耐性",
-  mhwilds_armor_skill_blight_resistance: "属性やられ耐性",
-  mhwilds_armor_skill_iron_skin: "防御力ＤＯＷＮ耐性",
-  mhwilds_armor_skill_bleeding_resistance: "裂傷耐性",
-  mhwilds_armor_skill_bind_resistance: "拘束耐性",
-  mhwilds_armor_skill_stench_resistance: "悪臭耐性",
-  mhwilds_armor_skill_adaptability: "環境適応",
-  mhwilds_armor_skill_antivirus: "無我の境地",
-  mhwilds_armor_skill_aquaticoilsilt_mobility: "水場・油泥適応",
-  mhwilds_armor_skill_defense_boost: "防御",
-  mhwilds_armor_skill_fire_resistance: "火耐性",
-  mhwilds_armor_skill_water_resistance: "水耐性",
-  mhwilds_armor_skill_ice_resistance: "氷耐性",
-  mhwilds_armor_skill_thunder_resistance: "雷耐性",
-  mhwilds_armor_skill_dragon_resistance: "龍耐性",
-  mhwilds_armor_skill_palico_rally: "オトモへの采配",
-  mhwilds_armor_skill_selfimprovement: "研鑽",
-  mhwilds_armor_skill_partbreaker: "破壊王",
-  mhwilds_armor_skill_convert_element: "属性変換",
-  mhwilds_armor_skill_flayer: "鎖刃刺撃",
-  mhwilds_armor_skill_coalescence: "災禍転福",
-  mhwilds_armor_skill_elemental_absorption: "属性吸収",
-  mhwilds_armor_skill_weakness_exploit: "弱点特効",
-  mhwilds_armor_skill_maximum_might: "渾身",
-  mhwilds_armor_skill_heroics: "火事場力",
-  mhwilds_armor_skill_peak_performance: "フルチャージ",
-  mhwilds_armor_skill_latent_power: "力の解放",
-  mhwilds_armor_skill_agitator: "挑戦者",
-  mhwilds_armor_skill_foray: "攻勢",
-  mhwilds_armor_skill_burst: "連撃",
   mhwilds_armor_skill_resentment: "逆恨み",
+  mhwilds_armor_skill_resentment_:
+    "体力ゲージに赤い部分がある間、基礎攻撃力が上昇する。",
+  mhwilds_armor_skill_resentment_i: "+5",
+  mhwilds_armor_skill_resentment_ii: "+10",
+  mhwilds_armor_skill_resentment_iii: "+15",
+  mhwilds_armor_skill_resentment_iv: "+20",
+  mhwilds_armor_skill_resentment_v: "+25",
+
   mhwilds_armor_skill_adrenaline_rush: "巧撃",
+  mhwilds_armor_skill_adrenaline_rush_:
+    "モンスターの攻撃と回避のタイミングが重なると、30秒間基礎攻撃力が上昇する。（クールタイム 30秒）",
+  mhwilds_armor_skill_adrenaline_rush_i: "+10",
+  mhwilds_armor_skill_adrenaline_rush_ii: "+15",
+  mhwilds_armor_skill_adrenaline_rush_iii: "+20",
+  mhwilds_armor_skill_adrenaline_rush_iv: "+25",
+  mhwilds_armor_skill_adrenaline_rush_v: "+30",
+
+  mhwilds_armor_skill_peak_performance: "フルチャージ",
+  mhwilds_armor_skill_peak_performance_:
+    "体力が最大の時、基礎攻撃力が上昇する。",
+  mhwilds_armor_skill_peak_performance_i: "+3",
+  mhwilds_armor_skill_peak_performance_ii: "+6",
+  mhwilds_armor_skill_peak_performance_iii: "+9",
+  mhwilds_armor_skill_peak_performance_iv: "+15",
+  mhwilds_armor_skill_peak_performance_v: "+20",
+
   mhwilds_armor_skill_counterstrike: "逆襲",
+  mhwilds_armor_skill_counterstrike_:
+    "吹き飛ばされる攻撃を受けた後、攻撃力が上昇する。",
+  mhwilds_armor_skill_counterstrike_i: "30秒間+10",
+  mhwilds_armor_skill_counterstrike_ii: "35秒間+15",
+  mhwilds_armor_skill_counterstrike_iii: "45秒間+25",
+
+  mhwilds_armor_skill_weakness_exploit: "弱点特効",
+  mhwilds_armor_skill_weakness_exploit_:
+    "弱点（肉質45以上）を攻撃した際、会心率が上昇する。さらに、その部位に傷口があると効果が上昇する。",
+  mhwilds_armor_skill_weakness_exploit_i: "弱点：+5%、傷口あり：+3%",
+  mhwilds_armor_skill_weakness_exploit_ii: "弱点：+10%、傷口あり：+5%",
+  mhwilds_armor_skill_weakness_exploit_iii: "弱点：+15%、傷口あり：+10%",
+  mhwilds_armor_skill_weakness_exploit_iv: "弱点：+20%、傷口あり：+15%",
+  mhwilds_armor_skill_weakness_exploit_v: "弱点：+30%、傷口あり：+20%",
+
+  mhwilds_armor_skill_maximum_might: "渾身",
+  mhwilds_armor_skill_maximum_might_:
+    "スタミナが満タンの状態を3秒維持すると会心率が上昇し、1秒以上満タンでないと効果が解除される。",
+  mhwilds_armor_skill_maximum_might_i: "+10%",
+  mhwilds_armor_skill_maximum_might_ii: "+20%",
+  mhwilds_armor_skill_maximum_might_iii: "+30%",
+
+  mhwilds_armor_skill_convert_element: "属性変換",
+  mhwilds_armor_skill_convert_element_:
+    "一定量の属性ダメージを与えると追加ダメージが発生し、武器に龍属性がある場合は120秒間龍属性攻撃力が上昇する（クールタイム90秒）。",
+  mhwilds_armor_skill_convert_element_i:
+    "龍属性+80, 固定ダメージ：150, 龍属性ダメージ：60",
+  mhwilds_armor_skill_convert_element_ii:
+    "龍属性+120, 固定ダメージ：200, 龍属性ダメージ：80",
+  mhwilds_armor_skill_convert_element_iii:
+    "龍属性+180, 固定ダメージ：280, 龍属性ダメージ：100",
+
+  mhwilds_armor_skill_defense_boost: "防御",
+  mhwilds_armor_skill_defense_boost_:
+    "プレイヤーの防御力を上げる。レベルが上がると耐性値にも影響がある。",
+  mhwilds_armor_skill_defense_boost_i: "防御力+5",
+  mhwilds_armor_skill_defense_boost_ii: "防御力+10",
+  mhwilds_armor_skill_defense_boost_iii: "防御力×1.05＋10",
+  mhwilds_armor_skill_defense_boost_iv: "防御力×1.08＋20、全属性耐性+3",
+  mhwilds_armor_skill_defense_boost_v: "防御力×1.08＋35、全属性耐性+3",
+  mhwilds_armor_skill_defense_boost_vi: "防御力×1.2＋20、全属性耐性+5",
+  mhwilds_armor_skill_defense_boost_vii: "防御力×1.1＋35、全属性耐性+5",
+
+  mhwilds_armor_skill_divine_blessing: "精霊の加護",
+  mhwilds_armor_skill_divine_blessing_:
+    "25％の確率で受けるダメージを軽減する。",
+  mhwilds_armor_skill_divine_blessing_i: "+15%",
+  mhwilds_armor_skill_divine_blessing_ii: "+30%",
+  mhwilds_armor_skill_divine_blessing_iii: "+50%",
+
+  mhwilds_armor_skill_fire_resistance: "火耐性",
+  mhwilds_armor_skill_fire_resistance_:
+    "プレイヤーの火耐性を上げる。レベルが上がると防御力にも影響がある。",
+  mhwilds_armor_skill_fire_resistance_i: "火耐性 +6",
+  mhwilds_armor_skill_fire_resistance_ii: "火耐性 +12",
+  mhwilds_armor_skill_fire_resistance_iii: "火耐性 +20, 防御力 +10",
+
+  mhwilds_armor_skill_water_resistance: "水耐性",
+  mhwilds_armor_skill_water_resistance_:
+    "プレイヤーの水耐性を上げる。レベルが上がると防御力にも影響がある。",
+  mhwilds_armor_skill_water_resistance_i: "水耐性 +6",
+  mhwilds_armor_skill_water_resistance_ii: "水耐性 +12",
+  mhwilds_armor_skill_water_resistance_iii: "水耐性 +20, 防御力 +10",
+
+  mhwilds_armor_skill_thunder_resistance: "雷耐性",
+  mhwilds_armor_skill_thunder_resistance_:
+    "プレイヤーの雷耐性を上げる。レベルが上がると防御力にも影響がある。",
+  mhwilds_armor_skill_thunder_resistance_i: "雷耐性 +6",
+  mhwilds_armor_skill_thunder_resistance_ii: "雷耐性 +12",
+  mhwilds_armor_skill_thunder_resistance_iii: "雷耐性 +20, 防御力 +10",
+
+  mhwilds_armor_skill_ice_resistance: "氷耐性",
+  mhwilds_armor_skill_ice_resistance_:
+    "プレイヤーの氷耐性を上げる。レベルが上がると防御力にも影響がある。",
+  mhwilds_armor_skill_ice_resistance_i: "氷耐性 +6",
+  mhwilds_armor_skill_ice_resistance_ii: "氷耐性 +12",
+  mhwilds_armor_skill_ice_resistance_iii: "氷耐性 +20, 防御力 +10",
+
+  mhwilds_armor_skill_dragon_resistance: "龍耐性",
+  mhwilds_armor_skill_dragon_resistance_:
+    "プレイヤーの龍耐性を上げる。レベルが上がると防御力にも影響がある。",
+  mhwilds_armor_skill_dragon_resistance_i: "龍耐性 +6",
+  mhwilds_armor_skill_dragon_resistance_ii: "龍耐性 +12",
+  mhwilds_armor_skill_dragon_resistance_iii: "龍耐性 +20, 防御力 +10",
+
+  mhwilds_armor_skill_poison_resistance: "毒耐性",
+  mhwilds_armor_skill_poison_resistance_:
+    "毒のダメージを受ける頻度が減少する（基本：1.5秒ごと）。",
+  mhwilds_armor_skill_poison_resistance_i: "2.25秒ごとに毒ダメージを受ける",
+  mhwilds_armor_skill_poison_resistance_ii: "4.5秒ごとに毒ダメージを受ける",
+  mhwilds_armor_skill_poison_resistance_iii: "毒状態にならない",
+
+  mhwilds_armor_skill_paralysis_resistance: "麻痺耐性",
+  mhwilds_armor_skill_paralysis_resistance_: "麻痺状態の時間を短くする。",
+  mhwilds_armor_skill_paralysis_resistance_i: "30％短縮",
+  mhwilds_armor_skill_paralysis_resistance_ii: "60％短縮",
+  mhwilds_armor_skill_paralysis_resistance_iii: "麻痺状態にならない",
+
+  mhwilds_armor_skill_sleep_resistance: "睡眠耐性",
+  mhwilds_armor_skill_sleep_resistance_: "睡眠状態の時間を短くする。",
+  mhwilds_armor_skill_sleep_resistance_i: "30％短縮",
+  mhwilds_armor_skill_sleep_resistance_ii: "60％短縮",
+  mhwilds_armor_skill_sleep_resistance_iii: "睡眠状態にならない",
+
+  mhwilds_armor_skill_iron_skin: "防御力ＤＯＷＮ耐性",
+  mhwilds_armor_skill_iron_skin_: "防御力DOWNに対する耐性を得る。",
+  mhwilds_armor_skill_iron_skin_i: "50% 減少",
+  mhwilds_armor_skill_iron_skin_ii: "75% 減少",
+  mhwilds_armor_skill_iron_skin_iii: "防御力DOWN状態がない",
+
+  mhwilds_armor_skill_blight_resistance: "属性やられ耐性",
+  mhwilds_armor_skill_blight_resistance_:
+    "全ての属性やられ状態に対する耐性を得る。",
+  mhwilds_armor_skill_blight_resistance_i: "50% 減少",
+  mhwilds_armor_skill_blight_resistance_ii: "75% 減少",
+  mhwilds_armor_skill_blight_resistance_iii: "属性やられ状態がない",
+
+  mhwilds_armor_skill_stun_resistance: "気絶耐性",
+  mhwilds_armor_skill_stun_resistance_: "気絶状態の時間を短くする。",
+  mhwilds_armor_skill_stun_resistance_i: "30% 短くする",
+  mhwilds_armor_skill_stun_resistance_ii: "60% 短くする",
+  mhwilds_armor_skill_stun_resistance_iii: "気絶状態がない",
+
+  mhwilds_armor_skill_bleeding_resistance: "裂傷耐性",
+  mhwilds_armor_skill_bleeding_resistance_: "裂傷状態に対する耐性を持つ。",
+  mhwilds_armor_skill_bleeding_resistance_i: "50% 減少",
+  mhwilds_armor_skill_bleeding_resistance_ii: "75% 減少",
+  mhwilds_armor_skill_bleeding_resistance_iii: "裂傷状態がない",
+
+  mhwilds_armor_skill_bind_resistance: "拘束耐性",
+  mhwilds_armor_skill_bind_resistance_:
+    "糸拘束状態と凍結状態から早く復帰できるようになる",
+  mhwilds_armor_skill_bind_resistance_i: "30% 早く復帰",
+  mhwilds_armor_skill_bind_resistance_ii: "60% 早く復帰",
+  mhwilds_armor_skill_bind_resistance_iii: "糸拘束状態と凍結状態に対する耐性",
+
+  mhwilds_armor_skill_blast_resistance: "爆破やられ耐性",
+  mhwilds_armor_skill_blast_resistance_:
+    "爆破までの時間が延長され、爆破ダメージを軽減する",
+  mhwilds_armor_skill_blast_resistance_i: "25% 時間延長, 34% ダメージ軽減",
+  mhwilds_armor_skill_blast_resistance_ii: "50% 時間延長, 50% ダメージ軽減",
+  mhwilds_armor_skill_blast_resistance_iii: "爆破状態がない",
+
+  mhwilds_armor_skill_stench_resistance: "悪臭耐性",
+  mhwilds_armor_skill_stench_resistance_: "悪臭耐態の時間を短くする",
+  mhwilds_armor_skill_stench_resistance_i: "50% 減少",
+  mhwilds_armor_skill_stench_resistance_ii: "悪臭耐態がない",
+
+  mhwilds_armor_skill_adaptability: "環境適応",
+  mhwilds_armor_skill_adaptability_:
+    "暑さや寒さ、ダメージを受ける地形に対する耐性を得る。",
+  mhwilds_armor_skill_adaptability_i: "暑さ、寒さの影響を無効化する",
+  mhwilds_armor_skill_adaptability_ii: "地形によるダメージを無効化する",
+
+  mhwilds_armor_skill_recovery_up: "体力回復量ＵＰ",
+  mhwilds_armor_skill_recovery_up_:
+    "体力回復がおこなわれたときに回復量が上がる。",
+  mhwilds_armor_skill_recovery_up_i: "+10%",
+  mhwilds_armor_skill_recovery_up_ii: "+20%",
+  mhwilds_armor_skill_recovery_up_iii: "+30%",
+
+  mhwilds_armor_skill_recovery_speed: "回復速度",
+  mhwilds_armor_skill_recovery_speed_:
+    "ダメージを受けた際の赤ゲージ部分の回復速度が上がる。",
+  mhwilds_armor_skill_recovery_speed_i: "赤ゲージの自動回復速度２倍",
+  mhwilds_armor_skill_recovery_speed_ii: "赤ゲージの自動回復速度３倍",
+  mhwilds_armor_skill_recovery_speed_iii: "赤ゲージの自動回復速度４倍",
+
+  mhwilds_armor_skill_survival_expert: "環境利用の知識",
+  mhwilds_armor_skill_survival_expert_:
+    "任意発動できる環境利用時に、体力が追加で回復できるようになる。\n回復ミツムシ,大回復ミツムシ,浄化ミツムシ,カイフクコロモムシ,ヒンヤリコロモムシ,ホカホカコロモムシ,スタミナライチュウ,綿胞子草",
+  mhwilds_armor_skill_survival_expert_i: "体力が５０回復",
+  mhwilds_armor_skill_survival_expert_ii: "	体力が８０回復",
+  mhwilds_armor_skill_survival_expert_iii: "体力が１００回復",
+
+  mhwilds_armor_skill_constitution: "体術",
+  mhwilds_armor_skill_constitution_:
+    "回避などの固定でスタミナを消費する行動のスタミナ消費量が軽減される。",
+  mhwilds_armor_skill_constitution_i: "10% 軽減",
+  mhwilds_armor_skill_constitution_ii: "20% 軽減",
+  mhwilds_armor_skill_constitution_iii: "30% 軽減",
+  mhwilds_armor_skill_constitution_iv: "40% 軽減",
+  mhwilds_armor_skill_constitution_v: "50% 軽減",
+
+  mhwilds_armor_skill_stamina_surge: "スタミナ急速回復",
+  mhwilds_armor_skill_stamina_surge_: "スタミナの回復速度が速くなる。",
+  mhwilds_armor_skill_stamina_surge_i: "回復速度１．１倍",
+  mhwilds_armor_skill_stamina_surge_ii: "回復速度１．３倍",
+  mhwilds_armor_skill_stamina_surge_iii: "回復速度１．５倍",
+
+  mhwilds_armor_skill_marathon_runner: "ランナー",
+  mhwilds_armor_skill_marathon_runner_:
+    "ダッシュなどの徐々にスタミナを消費する行動のスタミナ消費量が減少する。",
+  mhwilds_armor_skill_marathon_runner_i: "15% 軽減",
+  mhwilds_armor_skill_marathon_runner_ii: "30% 軽減",
+  mhwilds_armor_skill_marathon_runner_iii: "45% 軽減",
+
+  mhwilds_armor_skill_hunger_resistance: "腹減り耐性",
+  mhwilds_armor_skill_hunger_resistance_:
+    "時間経過による、スタミナゲージの最大値の減少を抑える。(基本：900秒)",
+  mhwilds_armor_skill_hunger_resistance_i: "50% 時間延長",
+  mhwilds_armor_skill_hunger_resistance_ii: "100% 時間延長",
+  mhwilds_armor_skill_hunger_resistance_iii: "スタミナ減少を無効化",
+
+  mhwilds_armor_skill_agitator: "挑戦者",
+  mhwilds_armor_skill_agitator_:
+    "戦闘中の大型モンスターが怒ると、基礎攻撃力と会心率が上昇する。",
+  mhwilds_armor_skill_agitator_i: "基礎攻撃力+4、会心率+3%",
+  mhwilds_armor_skill_agitator_ii: "基礎攻撃力+8、会心率+5%",
+  mhwilds_armor_skill_agitator_iii: "基礎攻撃力+12、会心率+7%",
+  mhwilds_armor_skill_agitator_iv: "基礎攻撃力+16、会心率+10%",
+  mhwilds_armor_skill_agitator_v: "基礎攻撃力+20、会心率+15%",
+
+  mhwilds_armor_skill_latent_power: "力の解放",
+  mhwilds_armor_skill_latent_power_:
+    "特定の条件を満たすと、一定時間会心率が上昇し、スタミナを固定で消費する行動の消費量が軽減される。",
+  mhwilds_armor_skill_latent_power_i: "会心率+10%、スタミナ消費-30%",
+  mhwilds_armor_skill_latent_power_ii: "会心率+20%、スタミナ消費-30%",
+  mhwilds_armor_skill_latent_power_iii: "会心率+30%、スタミナ消費-50%",
+  mhwilds_armor_skill_latent_power_iv: "会心率+40%、スタミナ消費-50%",
+  mhwilds_armor_skill_latent_power_v: "会心率+50%、スタミナ消費-50%",
+
+  mhwilds_armor_skill_burst: "連撃",
+  mhwilds_armor_skill_burst_:
+    "攻撃を一度でも当てると攻撃力+5と属性値が上昇し、その後5回攻撃を当てると攻撃力と属性攻撃力がさらに上昇する。",
+  mhwilds_armor_skill_burst_i: "連撃 Lv 1",
+  mhwilds_armor_skill_burst_ii: "連撃 Lv 2",
+  mhwilds_armor_skill_burst_iii: "連撃 Lv 3",
+  mhwilds_armor_skill_burst_iv: "連撃 Lv 4",
+  mhwilds_armor_skill_burst_v: "連撃 Lv 5",
+
+  mhwilds_armor_skill_flayer: "鎖刃刺撃",
+  mhwilds_armor_skill_flayer_:
+    "傷をつけやすくなる。攻撃でダメージを蓄積させると、追加で無属性ダメージが発生する。",
+  mhwilds_armor_skill_flayer_i:
+    "わずかに傷をつけやすくなる追加で140 無属性ダメージが発生する。",
+  mhwilds_armor_skill_flayer_ii:
+    "少し傷をつけやすくなる。追加で160 無属性ダメージが発生する。",
+  mhwilds_armor_skill_flayer_iii:
+    "傷をつけやすくなる。追加で190 無属性ダメージが発生する。",
+  mhwilds_armor_skill_flayer_iv:
+    "かなり傷をつけやすくなる。追加で230 無属性ダメージが発生する。",
+  mhwilds_armor_skill_flayer_v:
+    "とても傷をつけやすくなる。追加で280 無属性ダメージが発生する。",
+
+  mhwilds_armor_skill_palico_rally: "オトモへの采配",
+  mhwilds_armor_skill_palico_rally_: "オトモの攻撃力と防御力が強化される。",
+  mhwilds_armor_skill_palico_rally_i: "オトモの攻撃力と防御力が１．０５倍",
+  mhwilds_armor_skill_palico_rally_ii: "オトモの攻撃力と防御力が１．１倍",
+  mhwilds_armor_skill_palico_rally_iii: "オトモの攻撃力と防御力が１．１５倍",
+  mhwilds_armor_skill_palico_rally_iv: "オトモの攻撃力と防御力が１．２倍",
+  mhwilds_armor_skill_palico_rally_v: "オトモの攻撃力と防御力が１．２５倍",
+
+  mhwilds_armor_skill_heroics: "火事場力",
+  mhwilds_armor_skill_heroics_:
+    "体力が最大値の３５％以下の時に攻撃力と防御力が上がる。",
+  mhwilds_armor_skill_heroics_i: "防御力+50",
+  mhwilds_armor_skill_heroics_ii: "攻撃力1.05倍、防御力+50",
+  mhwilds_armor_skill_heroics_iii: "攻撃力1.05倍、防御力+100",
+  mhwilds_armor_skill_heroics_iv: "攻撃力1.1倍、防御力+100",
+  mhwilds_armor_skill_heroics_v: "攻撃力1.3倍、防御力+0",
+
+  mhwilds_armor_skill_partbreaker: "破壊王",
+  mhwilds_armor_skill_partbreaker_:
+    "大型モンスターの部位に対する蓄積ダメージが増加し、集中攻撃で傷口を破壊した際のダメージも上昇する。",
+  mhwilds_armor_skill_partbreaker_i: "蓄積ダメージ×1.1、傷口破壊ダメージ×1.1",
+  mhwilds_armor_skill_partbreaker_ii: "蓄積ダメージ×1.2、傷口破壊ダメージ×1.2",
+  mhwilds_armor_skill_partbreaker_iii: "蓄積ダメージ×1.3、傷口破壊ダメージ×1.3",
+
+  mhwilds_armor_skill_foray: "攻勢",
+  mhwilds_armor_skill_foray_:
+    "毒、麻痺状態の大型モンスターに対して攻撃力と会心率が上がる。",
+  mhwilds_armor_skill_foray_i: "基礎攻撃力 +6, 会心率 +0%",
+  mhwilds_armor_skill_foray_ii: "基礎攻撃力 +8, 会心率 +5%",
+  mhwilds_armor_skill_foray_iii: "基礎攻撃力 +10, 会心率 +10%",
+  mhwilds_armor_skill_foray_iv: "基礎攻撃力 +12, 会心率 +15%",
+  mhwilds_armor_skill_foray_v: "基礎攻撃力 +15, 会心率 +20%",
+
+  mhwilds_armor_skill_coalescence: "災禍転福",
+  mhwilds_armor_skill_coalescence_:
+    "状態異常や属性やられを解除すると、30秒間状態異常の蓄積値と属性攻撃力が上昇する。\n【武器1】大剣、ハンマー、狩猟笛、ガンランス、スラッシュアックス、チャージアックス\n【武器2】太刀、片手剣、双剣、ランス、操虫棍、ライトボウガン、ヘビーボウガン、弓",
+  mhwilds_armor_skill_coalescence_i: "武器1：×1.1、武器2：×1.05",
+  mhwilds_armor_skill_coalescence_ii: "武器1：×1.2、武器2：×1.1",
+  mhwilds_armor_skill_coalescence_iii: "武器1：×1.3、武器2：×1.15",
+
   mhwilds_armor_skill_ambush: "急襲",
-  mhwilds_common_lance: "ランス",
-  mhwilds_common_gunlance: "ガンランス",
+  mhwilds_armor_skill_ambush_:
+    "大型モンスターへの奇襲攻撃が成功すると一定時間、攻撃が上昇する。",
+  mhwilds_armor_skill_ambush_i: "攻撃力１．０５倍",
+  mhwilds_armor_skill_ambush_ii: "攻撃力１．１倍",
+  mhwilds_armor_skill_ambush_iii: "攻撃力１．１５倍",
+
+  mhwilds_armor_skill_antivirus: "無我の境地",
+  mhwilds_armor_skill_antivirus_:
+    "狂竜ウイルスに感染した時、狂竜症を克服しやすくなり、克服状態の会心率が増加する。",
+  mhwilds_armor_skill_antivirus_i: "克服効率+10%、会心率+3%",
+  mhwilds_armor_skill_antivirus_ii: "克服効率+20%、会心率+6%",
+  mhwilds_armor_skill_antivirus_iii: "克服効率+30%、会心率+10%",
+
+  mhwilds_armor_skill_elemental_absorption: "属性吸収",
+  mhwilds_armor_skill_elemental_absorption_:
+    "属性攻撃を受けると発動し、120秒間属性に関する効果を得る（クールタイム：90秒）。",
+  mhwilds_armor_skill_elemental_absorption_i:
+    "受けた属性の耐性+4\n大剣：属性攻撃+50\n弓・双剣：属性攻撃+30\nその他：属性攻撃+40",
+  mhwilds_armor_skill_elemental_absorption_ii:
+    "受けた属性の耐性+6\n大剣：属性攻撃+80\n弓・双剣：属性攻撃+40\nその他：属性攻撃+50",
+  mhwilds_armor_skill_elemental_absorption_iii:
+    "受けた属性の耐性+8\n大剣：属性攻撃+100\n弓・双剣：属性攻撃+50\nその他：属性攻撃+60",
+
+  mhwilds_armor_skill_self_improvement: "研鑽",
+  mhwilds_armor_skill_self_improvement_:
+    "5分ごとに攻撃力と防御力が上昇する（最大6回）。",
+  mhwilds_armor_skill_self_improvement_i:
+    "最初の5分：防御力+5、その後5分ごとに攻撃力+4、防御力+5",
+
+  mhwilds_armor_skill_evade_window: "回避性能",
+  mhwilds_armor_skill_evade_window_:
+    "回避時の無敵時間が長くなる。(30 フレーム 基準 基本フレーム 9)",
+  mhwilds_armor_skill_evade_window_i: "10 frame",
+  mhwilds_armor_skill_evade_window_ii: "11 frame",
+  mhwilds_armor_skill_evade_window_iii: "12 frame",
+  mhwilds_armor_skill_evade_window_iv: "13 frame",
+  mhwilds_armor_skill_evade_window_v: "15 frame",
+
+  mhwilds_armor_skill_evade_extender: "回避距離ＵＰ",
+  mhwilds_armor_skill_evade_extender_: "回避時の移動距離が長くなる。",
+  mhwilds_armor_skill_evade_extender_i: "回避距離がわずかに延長",
+  mhwilds_armor_skill_evade_extender_ii: "回避距離が延長",
+  mhwilds_armor_skill_evade_extender_iii: "回避距離が大きく延長",
+
+  mhwilds_armor_skill_earplugs: "耳栓",
+  mhwilds_armor_skill_earplugs_: "大型モンスターの咆哮に対する耐性を持つ。",
+  mhwilds_armor_skill_earplugs_i: "咆哮【小】を80%無効化",
+  mhwilds_armor_skill_earplugs_ii: "咆哮【小】を無効化、咆哮【大】を90%無効化",
+  mhwilds_armor_skill_earplugs_iii: "すべての咆哮を無効化",
+
+  mhwilds_armor_skill_quick_sheathe: "納刀術",
+  mhwilds_armor_skill_quick_sheathe_: "武器をしまう速度が速くなる。",
+  mhwilds_armor_skill_quick_sheathe_i: "10%",
+  mhwilds_armor_skill_quick_sheathe_ii: "20%",
+  mhwilds_armor_skill_quick_sheathe_iii: "30%",
+
+  mhwilds_armor_skill_windproof: "風圧耐性",
+  mhwilds_armor_skill_windproof_: "風圧に対する耐性を持つ。",
+  mhwilds_armor_skill_windproof_i: "風圧【小】を無効化、風圧【大】を50％軽減",
+  mhwilds_armor_skill_windproof_ii: "風圧【小】【大】を無効化、龍風圧を半減",
+  mhwilds_armor_skill_windproof_iii: "全ての風圧を無効化",
+
+  mhwilds_armor_skill_tremor_resistance: "耐震",
+  mhwilds_armor_skill_tremor_resistance_: "地面振動に対する耐性を持つ。",
+  mhwilds_armor_skill_tremor_resistance_i:
+    "振動やられ【極小】を無効化、【小】を50％軽減",
+  mhwilds_armor_skill_tremor_resistance_ii:
+    "【極小】【小】を無効化、【大】を80％軽減",
+  mhwilds_armor_skill_tremor_resistance_iii: "全ての振動を無効化",
+
+  mhwilds_armor_skill_flinch_free: "ひるみ軽減",
+  mhwilds_armor_skill_flinch_free_: "被ダメージ時のリアクションを軽減する。",
+  mhwilds_armor_skill_flinch_free_i: "のけぞりを無効化",
+  mhwilds_armor_skill_flinch_free_ii:
+    "のけぞりを無効化しりもちをのけぞりに軽減する",
+  mhwilds_armor_skill_flinch_free_iii: "のけぞり、しりもちを無効化",
+
+  mhwilds_armor_skill_intimidator: "威嚇",
+  mhwilds_armor_skill_intimidator_:
+    "小型モンスターに発見されても戦闘状態になりにくくなる。\n※甲虫種など一部のモンスターには無効／先制攻撃時は無効／小型を従える大型との戦闘中は無効",
+  mhwilds_armor_skill_intimidator_i: "発見されても戦闘状態になりにくい",
+  mhwilds_armor_skill_intimidator_ii:
+    "発見されても戦闘状態になりにくくなる確率が非常に高い",
+  mhwilds_armor_skill_intimidator_iii: "発見されても戦闘状態にならない",
+
+  mhwilds_armor_skill_speed_eating: "早食い",
+  mhwilds_armor_skill_speed_eating_: "肉やアイテムを食べる速度が速くなる。",
+  mhwilds_armor_skill_speed_eating_i: "食べる速度が少し速くなる",
+  mhwilds_armor_skill_speed_eating_ii: "食べる速度が速くなる",
+  mhwilds_armor_skill_speed_eating_iii: "食べる速度がかなり速くなる",
+
+  mhwilds_armor_skill_aquatic_oilsilt_mobility: "水場・油泥適応",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_:
+    "水場や油泥での行動制限や、水の流れによる行動制限に対する耐性を持つ。",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_i:
+    "水場・油泥の移動制限と濁流の影響を無効化する",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_ii:
+    "さらに波による影響を無効化する",
+
+  mhwilds_armor_skill_shock_absorber: "緩衝",
+  mhwilds_armor_skill_shock_absorber_:
+    "同行する仲間に攻撃を当てた際、または仲間からの攻撃が当たった際それぞれのダメージリアクションを無効化する。",
+  mhwilds_armor_skill_shock_absorber_i: "スキル効果発動",
+
+  mhwilds_armor_skill_leap_of_faith: "飛び込み",
+  mhwilds_armor_skill_leap_of_faith_:
+    "大型モンスターに向かってジャンプ回避ができるようになる。また、飛距離も延びる。",
+  mhwilds_armor_skill_leap_of_faith_i: "スキル発動可能",
+
+  mhwilds_armor_skill_jump_master: "ジャンプ鉄人",
+  mhwilds_armor_skill_jump_master_:
+    "ジャンプ中に攻撃を受けても、のけぞらなくなる。",
+  mhwilds_armor_skill_jump_master_i: "ジャンプ中、のけぞり無効",
+
+  mhwilds_armor_skill_cliffhanger: "クライマー",
+  mhwilds_armor_skill_cliffhanger_:
+    "ツタにつかまり中の行動で消費するスタミナ量が減る。",
+  mhwilds_armor_skill_cliffhanger_i: "スタミナ消費量５０％減少",
+
+  mhwilds_armor_skill_wide_range: "広域化",
+  mhwilds_armor_skill_wide_range_:
+    "一部のアイテムの効果が一定範囲内の仲間にも作用する。レベルが上がると範囲と作用する効果が大きくなる。\n体力回復量UPスキルは広域化使用者効果が適用されます、アイテム使用強化スキルは各自に適用される。",
+  mhwilds_armor_skill_wide_range_i: "効果の１／３を周囲の仲間にも与える",
+  mhwilds_armor_skill_wide_range_ii: "効果の１／３を広い範囲の仲間にも与える",
+  mhwilds_armor_skill_wide_range_iii: "効果の２／３を広い範囲の仲間にも与える",
+  mhwilds_armor_skill_wide_range_iv:
+    "効果の２／３をかなり広い範囲の仲間にも与える",
+  mhwilds_armor_skill_wide_range_v:
+    "そのままの効果をかなり広い範囲の仲間にも与える",
+
+  mhwilds_armor_skill_tool_specialist: "整備",
+  mhwilds_armor_skill_tool_specialist_:
+    "特殊装具が再び使用時間になるまでの時間を短縮する。",
+  mhwilds_armor_skill_tool_specialist_i: "10% 短縮",
+  mhwilds_armor_skill_tool_specialist_ii: "20% 短縮",
+  mhwilds_armor_skill_tool_specialist_iii: "30% 短縮",
+  mhwilds_armor_skill_tool_specialist_iv: "40% 短縮",
+  mhwilds_armor_skill_tool_specialist_v: "50% 短縮",
+
+  mhwilds_armor_skill_bombardier: "ボマー",
+  mhwilds_armor_skill_bombardier_: "爆弾系アイテムのダメージが上がる。",
+  mhwilds_armor_skill_bombardier_i: "1.1倍",
+  mhwilds_armor_skill_bombardier_ii: "1.2倍",
+  mhwilds_armor_skill_bombardier_iii: "1.3倍",
+
+  mhwilds_armor_skill_mushroomancer: "キノコ大好き",
+  mhwilds_armor_skill_mushroomancer_:
+    "普段は食べられないキノコが食べられるようになり、有効な効果を得られるようになる。",
+  mhwilds_armor_skill_mushroomancer_i:
+    "アオキノコ（回復薬）、毒テングダケ（活力剤）を食べられるようになる",
+  mhwilds_armor_skill_mushroomancer_ii:
+    "さらにニトロダケ（鬼人薬）、マヒダケ（硬化薬）を食べられるようになる",
+  mhwilds_armor_skill_mushroomancer_iii:
+    "さらにマンドラゴラ（秘薬）、鬼ニトロダケ（強走薬）、ドキドキノコ（上記の中からランダム）を食べられるようになる",
+
+  mhwilds_armor_skill_item_prolonger: "アイテム使用強化",
+  mhwilds_armor_skill_item_prolonger_: "一部のアイテムの効果時間が長くなる。",
+  mhwilds_armor_skill_item_prolonger_i: "1.1倍",
+  mhwilds_armor_skill_item_prolonger_ii: "1.25倍",
+  mhwilds_armor_skill_item_prolonger_iii: "1.5倍",
+
+  mhwilds_armor_skill_free_meal: "満足感",
+  mhwilds_armor_skill_free_meal_:
+    "食べたり飲んだりするアイテムが一定の確率で、もう一度使える。",
+  mhwilds_armor_skill_free_meal_i: "10%",
+  mhwilds_armor_skill_free_meal_ii: "25%",
+  mhwilds_armor_skill_free_meal_iii: "45%",
+
+  mhwilds_armor_skill_blindsider: "閃光強化",
+  mhwilds_armor_skill_blindsider_: "閃光弾の射程が延びる。",
+  mhwilds_armor_skill_blindsider_i: "閃光弾の射程が100%延びる",
+
+  mhwilds_armor_skill_botanist: "植生学",
+  mhwilds_armor_skill_botanist_: "薬草など、消費アイテムの取得数が増える。",
+  mhwilds_armor_skill_botanist_i: "草系消費アイテムの取得数＋１",
+  mhwilds_armor_skill_botanist_ii: "更に実、種系消費アイテムの取得数＋１",
+  mhwilds_armor_skill_botanist_iii: "更に虫系消費アイテムの取得数＋１",
+  mhwilds_armor_skill_botanist_iv: "更にキノコ系消費アイテムの取得数＋１",
+
+  mhwilds_armor_skill_geologist: "地質学",
+  mhwilds_armor_skill_geologist_: "採取ポイントでのアイテム取得数が増える。",
+  mhwilds_armor_skill_geologist_i: "骨採取ポイントの取得数＋１",
+  mhwilds_armor_skill_geologist_ii: "更に特産品採取ポイントの取得数＋１",
+  mhwilds_armor_skill_geologist_iii: "更に鉱石採掘ポイントの取得数＋１",
+
+  mhwilds_armor_skill_entomologist: "昆虫標本の達人",
+  mhwilds_armor_skill_entomologist_:
+    "昆虫型の小型モンスターを攻撃で討伐した時、必ずはぎ取れる状態で残るようになる。",
+  mhwilds_armor_skill_entomologist_i: "スキル効果発動",
+
+  mhwilds_armor_skill_outdoorsman: "ハンター生活",
+  mhwilds_armor_skill_outdoorsman_: "釣り、肉焼き、運搬の技術が向上する。",
+  mhwilds_armor_skill_outdoorsman_i: "スキル効果発動",
 };
 
 export const mhWildsSlotJa = {
@@ -2182,7 +2617,7 @@ export const mhWildsWeaponSkillsJa = {
   mhwilds_weapon_skill_charge_master: "チャージマスター",
   mhwilds_weapon_skill_charge_master_:
     "溜め攻撃の属性値と状態異常蓄積値が上がる",
-  mhwilds_weapon_skill_charge_master_i: "剣士:1.15倍\nガンナー:1.05倍 ",
+  mhwilds_weapon_skill_charge_master_i: "剣士:1.15倍\nガンナー:1.05倍",
   mhwilds_weapon_skill_charge_master_ii: "剣士:1.2倍\nガンナー:1.1倍",
   mhwilds_weapon_skill_charge_master_iii: "剣士:1.25倍\nガンナー:1.15倍",
 

@@ -5,26 +5,14 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsCharmData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
-interface CharmListProps {
-  searchTerm: string;
-}
-
-interface Charm {
-  name: string;
-  part: string;
-  rank: string;
-  skills?: Record<string, number | undefined>;
-  slots?: number[];
-}
-
-export function CharmList({ searchTerm }: CharmListProps) {
+export function CharmList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhWildsCharmNamespace = getNamespaceData("mhWilds_charm");
   const mhWildsCharmSkillNamespace = getNamespaceData("mhWilds_armor_skill");
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common");
 
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
-  const filteredCharmList = (mhWildsCharmData as Charm[]).filter(
+  const filteredCharmList = mhWildsCharmData.filter(
     ({ name, rank }) =>
       (!selectedRank || rank === selectedRank) &&
       (mhWildsCharmNamespace[name] ?? name)

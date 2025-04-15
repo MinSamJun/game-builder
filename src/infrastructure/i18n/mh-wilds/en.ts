@@ -793,76 +793,546 @@ export const mhWildsCharmEn = {
 };
 
 export const mhWildsArmorSkillEn = {
-  mhwilds_armor_skill_stamina_surge: "Stamina Surge ",
-  mhwilds_armor_skill_jump_master: "Jump Master ",
-  mhwilds_armor_skill_marathon_runner: "Marathon Runner ",
-  mhwilds_armor_skill_constitution: "Constitution ",
-  mhwilds_armor_skill_geologist: "Geologist ",
-  mhwilds_armor_skill_botanist: "Botanist ",
-  mhwilds_armor_skill_hunger_resistance: "Hunger Resistance ",
-  mhwilds_armor_skill_leap_of_faith: "Leap of Faith ",
-  mhwilds_armor_skill_survival_expert: "Survival Expert ",
-  mhwilds_armor_skill_intimidator: "Intimidator ",
-  mhwilds_armor_skill_cliffhanger: "Cliffhanger ",
-  mhwilds_armor_skill_entomologist: "Entomologist ",
-  mhwilds_armor_skill_outdoorsman: "Outdoorsman ",
-  mhwilds_armor_skill_bombardier: "Bombardier ",
-  mhwilds_armor_skill_speed_eating: "Speed Eating ",
-  mhwilds_armor_skill_free_meal: "Free Meal ",
-  mhwilds_armor_skill_recovery_up: "Recovery Up ",
-  mhwilds_armor_skill_item_prolonger: "Item Prolonger ",
-  mhwilds_armor_skill_mushroomancer: "Mushroomancer ",
-  mhwilds_armor_skill_widerange: "Wide-Range ",
-  mhwilds_armor_skill_tool_specialist: "Tool Specialist ",
-  mhwilds_armor_skill_blindsider: "Blindsider ",
-  mhwilds_armor_skill_divine_blessing: "Divine Blessing ",
-  mhwilds_armor_skill_recovery_speed: "Recovery Speed ",
-  mhwilds_armor_skill_evade_window: "Evade Window ",
-  mhwilds_armor_skill_evade_extender: "Evade Extender ",
-  mhwilds_armor_skill_quick_sheathe: "Quick Sheathe ",
-  mhwilds_armor_skill_flinch_free: "Flinch Free ",
-  mhwilds_armor_skill_shock_absorber: "Shock Absorber ",
-  mhwilds_armor_skill_stun_resistance: "Stun Resistance ",
-  mhwilds_armor_skill_earplugs: "Earplugs ",
-  mhwilds_armor_skill_windproof: "Windproof ",
-  mhwilds_armor_skill_tremor_resistance: "Tremor Resistance ",
-  mhwilds_armor_skill_paralysis_resistance: "Paralysis Resistance ",
-  mhwilds_armor_skill_poison_resistance: "Poison Resistance ",
-  mhwilds_armor_skill_sleep_resistance: "Sleep Resistance ",
-  mhwilds_armor_skill_blast_resistance: "Blast Resistance ",
-  mhwilds_armor_skill_blight_resistance: "Blight Resistance ",
-  mhwilds_armor_skill_iron_skin: "Iron Skin ",
-  mhwilds_armor_skill_bleeding_resistance: "Bleeding Resistance ",
-  mhwilds_armor_skill_bind_resistance: "Bind Resistance ",
-  mhwilds_armor_skill_stench_resistance: "Stench Resistance ",
-  mhwilds_armor_skill_adaptability: "Adaptability ",
-  mhwilds_armor_skill_antivirus: "Antivirus ",
-  mhwilds_armor_skill_aquaticoilsilt_mobility: "Aquatic/Oilsilt Mobility ",
-  mhwilds_armor_skill_defense_boost: "Defense Boost ",
-  mhwilds_armor_skill_fire_resistance: "Fire Resistance ",
-  mhwilds_armor_skill_water_resistance: "Water Resistance ",
-  mhwilds_armor_skill_ice_resistance: "Ice Resistance ",
-  mhwilds_armor_skill_thunder_resistance: "Thunder Resistance ",
-  mhwilds_armor_skill_dragon_resistance: "Dragon Resistance ",
-  mhwilds_armor_skill_palico_rally: "Palico Rally ",
-  mhwilds_armor_skill_selfimprovement: "Self-Improvement ",
-  mhwilds_armor_skill_partbreaker: "Partbreaker ",
-  mhwilds_armor_skill_convert_element: "Convert Element ",
-  mhwilds_armor_skill_flayer: "Flayer ",
-  mhwilds_armor_skill_coalescence: "Coalescence ",
-  mhwilds_armor_skill_elemental_absorption: "Elemental Absorption ",
-  mhwilds_armor_skill_weakness_exploit: "Weakness Exploit ",
-  mhwilds_armor_skill_maximum_might: "Maximum Might ",
-  mhwilds_armor_skill_heroics: "Heroics ",
-  mhwilds_armor_skill_peak_performance: "Peak Performance ",
-  mhwilds_armor_skill_latent_power: "Latent Power ",
-  mhwilds_armor_skill_agitator: "Agitator ",
-  mhwilds_armor_skill_foray: "Foray ",
-  mhwilds_armor_skill_burst: "Burst ",
-  mhwilds_armor_skill_resentment: "Resentment ",
-  mhwilds_armor_skill_adrenaline_rush: "Adrenaline Rush ",
-  mhwilds_armor_skill_counterstrike: "Counterstrike ",
-  mhwilds_armor_skill_ambush: "Ambush ",
+  mhwilds_armor_skill_resentment: "Resentment",
+  mhwilds_armor_skill_resentment_:
+    "Increases base attack while red health is present.",
+  mhwilds_armor_skill_resentment_i: "+5",
+  mhwilds_armor_skill_resentment_ii: "+10",
+  mhwilds_armor_skill_resentment_iii: "+15",
+  mhwilds_armor_skill_resentment_iv: "+20",
+  mhwilds_armor_skill_resentment_v: "+25",
+
+  mhwilds_armor_skill_adrenaline_rush: "Adrenaline Rush",
+  mhwilds_armor_skill_adrenaline_rush_:
+    "Grants increased base attack for 30 sec when you dodge at the same time as a monster's attack.",
+  mhwilds_armor_skill_adrenaline_rush_i: "+10",
+  mhwilds_armor_skill_adrenaline_rush_ii: "+15",
+  mhwilds_armor_skill_adrenaline_rush_iii: "+20",
+  mhwilds_armor_skill_adrenaline_rush_iv: "+25",
+  mhwilds_armor_skill_adrenaline_rush_v: "+30",
+
+  mhwilds_armor_skill_peak_performance: "Peak Performance",
+  mhwilds_armor_skill_peak_performance_:
+    "Increases attack when health is full.",
+  mhwilds_armor_skill_peak_performance_i: "+3",
+  mhwilds_armor_skill_peak_performance_ii: "+6",
+  mhwilds_armor_skill_peak_performance_iii: "+9",
+  mhwilds_armor_skill_peak_performance_iv: "+15",
+  mhwilds_armor_skill_peak_performance_v: "+20",
+
+  mhwilds_armor_skill_counterstrike: "Counterstrike",
+  mhwilds_armor_skill_counterstrike_:
+    "Increases attack after being hit by a knockback-inducing attack. (Cooldown: 30 sec)",
+  mhwilds_armor_skill_counterstrike_i: "+10 for 30 sec",
+  mhwilds_armor_skill_counterstrike_ii: "+15 for 35 sec",
+  mhwilds_armor_skill_counterstrike_iii: "+25 for 45 sec",
+
+  mhwilds_armor_skill_weakness_exploit: "Weakness Exploit",
+  mhwilds_armor_skill_weakness_exploit_:
+    "Increases affinity when attacking a Weakness (hitzone ≥ 45). Further increases affinity if the Weakness is wounded.",
+  mhwilds_armor_skill_weakness_exploit_i: "Weakness: +5%, with wounds: +3%",
+  mhwilds_armor_skill_weakness_exploit_ii: "Weakness: +10%, with wounds: +5%",
+  mhwilds_armor_skill_weakness_exploit_iii: "Weakness: +15%, with wounds: +10%",
+  mhwilds_armor_skill_weakness_exploit_iv: "Weakness: +20%, with wounds: +15%",
+  mhwilds_armor_skill_weakness_exploit_v: "Weakness: +30%, with wounds: +20%",
+
+  mhwilds_armor_skill_maximum_might: "Maximum Might",
+  mhwilds_armor_skill_maximum_might_:
+    "Increases affinity if stamina remains full for 3 seconds, and deactivates if not full for over 1 second.",
+  mhwilds_armor_skill_maximum_might_i: "+10%",
+  mhwilds_armor_skill_maximum_might_ii: "+20%",
+  mhwilds_armor_skill_maximum_might_iii: "+30%",
+
+  mhwilds_armor_skill_convert_element: "Convert Element",
+  mhwilds_armor_skill_convert_element_:
+    "After dealing a certain amount of elemental damage, triggers bonus damage and boosts dragon element attack for 120 sec if the weapon has dragon element. (Cooldown: 90 sec)",
+  mhwilds_armor_skill_convert_element_i:
+    "Dragon +80, Fixed Damage: 150, Dragon Damage: 60",
+  mhwilds_armor_skill_convert_element_ii:
+    "Dragon +120, Fixed Damage: 200, Dragon Damage: 80",
+  mhwilds_armor_skill_convert_element_iii:
+    "Dragon +180, Fixed Damage: 280, Dragon Damage: 100",
+
+  mhwilds_armor_skill_defense_boost: "Defense Boost",
+  mhwilds_armor_skill_defense_boost_:
+    "Increases the player's defense. At higher levels, also improves elemental resistances.",
+  mhwilds_armor_skill_defense_boost_i: "Defense +5",
+  mhwilds_armor_skill_defense_boost_ii: "Defense +10",
+  mhwilds_armor_skill_defense_boost_iii: "Defense ×1.05 +10",
+  mhwilds_armor_skill_defense_boost_iv:
+    "Defense ×1.08 +20, All Elemental Res +3",
+  mhwilds_armor_skill_defense_boost_v:
+    "Defense ×1.08 +35, All Elemental Res +3",
+  mhwilds_armor_skill_defense_boost_vi:
+    "Defense ×1.2 +20, All Elemental Res +5",
+  mhwilds_armor_skill_defense_boost_vii:
+    "Defense ×1.1 +35, All Elemental Res +5",
+
+  mhwilds_armor_skill_divine_blessing: "Divine Blessing",
+  mhwilds_armor_skill_divine_blessing_: "25% chance to reduce damage taken.",
+  mhwilds_armor_skill_divine_blessing_i: "15%",
+  mhwilds_armor_skill_divine_blessing_ii: "30%",
+  mhwilds_armor_skill_divine_blessing_iii: "50%",
+
+  mhwilds_armor_skill_fire_resistance: "Fire Resistance",
+  mhwilds_armor_skill_fire_resistance_:
+    "Increases fire resistance. Also improves defense at higher levels.",
+  mhwilds_armor_skill_fire_resistance_i: "Fire Res +6",
+  mhwilds_armor_skill_fire_resistance_ii: "Fire Res +12",
+  mhwilds_armor_skill_fire_resistance_iii: "Fire Res +20, Defense +10",
+
+  mhwilds_armor_skill_water_resistance: "Water Resistance",
+  mhwilds_armor_skill_water_resistance_:
+    "Increases water resistance. Also improves defense at higher levels.",
+  mhwilds_armor_skill_water_resistance_i: "Water Res +6",
+  mhwilds_armor_skill_water_resistance_ii: "Water Res +12",
+  mhwilds_armor_skill_water_resistance_iii: "Water Res +20, Defense +10",
+
+  mhwilds_armor_skill_thunder_resistance: "Thunder Resistance",
+  mhwilds_armor_skill_thunder_resistance_:
+    "Increases thunder resistance. Also improves defense at higher levels.",
+  mhwilds_armor_skill_thunder_resistance_i: "Thunder Res +6",
+  mhwilds_armor_skill_thunder_resistance_ii: "Thunder Res +12",
+  mhwilds_armor_skill_thunder_resistance_iii: "Thunder Res +20, Defense +10",
+
+  mhwilds_armor_skill_ice_resistance: "Ice Resistance",
+  mhwilds_armor_skill_ice_resistance_:
+    "Increases ice resistance. Also improves defense at higher levels.",
+  mhwilds_armor_skill_ice_resistance_i: "Ice Res +6",
+  mhwilds_armor_skill_ice_resistance_ii: "Ice Res +12",
+  mhwilds_armor_skill_ice_resistance_iii: "Ice Res +20, Defense +10",
+
+  mhwilds_armor_skill_dragon_resistance: "Dragon Resistance",
+  mhwilds_armor_skill_dragon_resistance_:
+    "Increases dragon resistance. Also improves defense at higher levels.",
+  mhwilds_armor_skill_dragon_resistance_i: "Dragon Res +6",
+  mhwilds_armor_skill_dragon_resistance_ii: "Dragon Res +12",
+  mhwilds_armor_skill_dragon_resistance_iii: "Dragon Res +20, Defense +10",
+
+  mhwilds_armor_skill_poison_resistance: "Poison Resistance",
+  mhwilds_armor_skill_poison_resistance_:
+    "Reduces the frequency of poison damage taken. (Base: every 1.5 sec)",
+  mhwilds_armor_skill_poison_resistance_i: "Take poison damage every 2.25 sec",
+  mhwilds_armor_skill_poison_resistance_ii: "Take poison damage every 4.5 sec",
+  mhwilds_armor_skill_poison_resistance_iii: "Immune to poison",
+
+  mhwilds_armor_skill_paralysis_resistance: "Paralysis Resistance",
+  mhwilds_armor_skill_paralysis_resistance_:
+    "Reduces the duration of paralysis.",
+  mhwilds_armor_skill_paralysis_resistance_i: "-30% duration",
+  mhwilds_armor_skill_paralysis_resistance_ii: "-60% duration",
+  mhwilds_armor_skill_paralysis_resistance_iii: "Immune to paralysis",
+
+  mhwilds_armor_skill_sleep_resistance: "Sleep Resistance",
+  mhwilds_armor_skill_sleep_resistance_: "Reduces the duration of sleep.",
+  mhwilds_armor_skill_sleep_resistance_i: "-30% duration",
+  mhwilds_armor_skill_sleep_resistance_ii: "-60% duration",
+  mhwilds_armor_skill_sleep_resistance_iii: "Immune to sleep",
+
+  mhwilds_armor_skill_iron_skin: "Iron Skin",
+  mhwilds_armor_skill_iron_skin_: "Grants protection against defense down.",
+  mhwilds_armor_skill_iron_skin_i: "50% reduction",
+  mhwilds_armor_skill_iron_skin_ii: "75% reduction",
+  mhwilds_armor_skill_iron_skin_iii: "Immune to defense down",
+
+  mhwilds_armor_skill_blight_resistance:
+    "Grants protection against all elemental blights.",
+  mhwilds_armor_skill_blight_resistance_i: "50% reduction",
+  mhwilds_armor_skill_blight_resistance_ii: "75% reduction",
+  mhwilds_armor_skill_blight_resistance_iii: "Immune to blights",
+
+  mhwilds_armor_skill_stun_resistance: "Stun Resistance",
+  mhwilds_armor_skill_stun_resistance_: "Reduces the duration of stun.",
+  mhwilds_armor_skill_stun_resistance_i: "-30% duration",
+  mhwilds_armor_skill_stun_resistance_ii: "-60% duration",
+  mhwilds_armor_skill_stun_resistance_iii: "Immune to stun",
+
+  mhwilds_armor_skill_bleeding_resistance: "Bleeding Resistance",
+  mhwilds_armor_skill_bleeding_resistance_:
+    "Grants protection against bleeding.",
+  mhwilds_armor_skill_bleeding_resistance_i: "50% reduction",
+  mhwilds_armor_skill_bleeding_resistance_ii: "75% reduction",
+  mhwilds_armor_skill_bleeding_resistance_iii: "Immune to bleeding",
+
+  mhwilds_armor_skill_bind_resistance: "Bind Resistance",
+  mhwilds_armor_skill_bind_resistance_:
+    "Allows you to quickly recover from webbed status or frostblight.",
+  mhwilds_armor_skill_bind_resistance_i: "30% faster recovery",
+  mhwilds_armor_skill_bind_resistance_ii: "60% faster recovery",
+  mhwilds_armor_skill_bind_resistance_iii: "Immune to webbed and frostblight",
+
+  mhwilds_armor_skill_blast_resistance: "Blast Resistance",
+  mhwilds_armor_skill_blast_resistance_:
+    "Delays blastblight and reduces blast damage",
+  mhwilds_armor_skill_blast_resistance_i:
+    "25% time extension, 34% damage reduction",
+  mhwilds_armor_skill_blast_resistance_ii:
+    "50% time extension, 50% damage reduction",
+  mhwilds_armor_skill_blast_resistance_iii: "Immune to blastblight",
+
+  mhwilds_armor_skill_stench_resistance: "Stench Resistance",
+  mhwilds_armor_skill_stench_resistance_: "Reduces the duration of stench.",
+  mhwilds_armor_skill_stench_resistance_i: "50% reduction",
+  mhwilds_armor_skill_stench_resistance_ii: "Immune to stench",
+
+  mhwilds_armor_skill_adaptability: "Adaptability",
+  mhwilds_armor_skill_adaptability_:
+    "Grants protection against environmental damage, such as from heat or cold.",
+  mhwilds_armor_skill_adaptability_i: "Negates the effects of heat and cold.",
+  mhwilds_armor_skill_adaptability_ii: "Negates environmental damage.",
+
+  mhwilds_armor_skill_recovery_up: "Recovery Up",
+  mhwilds_armor_skill_recovery_up_:
+    "Increases the amount recovered when restoring health.",
+  mhwilds_armor_skill_recovery_up_i: "+10%",
+  mhwilds_armor_skill_recovery_up_ii: "+20%",
+  mhwilds_armor_skill_recovery_up_iii: "+30%",
+
+  mhwilds_armor_skill_recovery_speed: "Recovery Speed",
+  mhwilds_armor_skill_recovery_speed_:
+    "Speeds healing of recoverable damage (the red portion of the Health Gauge).",
+  mhwilds_armor_skill_recovery_speed_i: "Red Gauge auto-recovery speed 2x",
+  mhwilds_armor_skill_recovery_speed_ii: "Red Gauge auto-recovery speed 3x",
+  mhwilds_armor_skill_recovery_speed_iii: "Red Gauge auto-recovery speed 4x",
+
+  mhwilds_armor_skill_survival_expert: "Survival Expert",
+  mhwilds_armor_skill_survival_expert_:
+    "Extra health is recovered from environmental interactables.\nVigorwasp,Giant Vigorwasp,Purewasp, Vigormantle Bug,Chillmantle Bug,Heatmantle Bug,Wiggly Litchi,Sporepuff",
+  mhwilds_armor_skill_survival_expert_i: "Restores 50 health",
+  mhwilds_armor_skill_survival_expert_ii: "Restores 80 health",
+  mhwilds_armor_skill_survival_expert_iii: "Restores 100 health",
+
+  mhwilds_armor_skill_constitution: "Constitution",
+  mhwilds_armor_skill_constitution_:
+    "Reduces stamina depletion when evading, blocking, or doing certain other actions.",
+  mhwilds_armor_skill_constitution_i: "10% reduction",
+  mhwilds_armor_skill_constitution_ii: "20% reduction",
+  mhwilds_armor_skill_constitution_iii: "30% reduction",
+  mhwilds_armor_skill_constitution_iv: "40% reduction",
+  mhwilds_armor_skill_constitution_v: "50% reduction",
+
+  mhwilds_armor_skill_stamina_surge: "Stamina Surge",
+  mhwilds_armor_skill_stamina_surge_: "Speeds up stamina recovery.",
+  mhwilds_armor_skill_stamina_surge_i: "Recovery speed 1.1x",
+  mhwilds_armor_skill_stamina_surge_ii: "Recovery speed 1.3x",
+  mhwilds_armor_skill_stamina_surge_iii: "Recovery speed 1.5x",
+
+  mhwilds_armor_skill_marathon_runner: "Marathon Runner",
+  mhwilds_armor_skill_marathon_runner_:
+    "Slows down stamina depletion for actions that continuously drain stamina (such as dashing).",
+  mhwilds_armor_skill_marathon_runner_i: "15% reduction",
+  mhwilds_armor_skill_marathon_runner_ii: "30% reduction",
+  mhwilds_armor_skill_marathon_runner_iii: "45% reduction",
+
+  mhwilds_armor_skill_hunger_resistance: "Hunger Resistance",
+  mhwilds_armor_skill_hunger_resistance_:
+    "Reduces maximum stamina depletion over time. (Base: 900 sec)",
+  mhwilds_armor_skill_hunger_resistance_i: "50% time extension",
+  mhwilds_armor_skill_hunger_resistance_ii: "100% time extension",
+  mhwilds_armor_skill_hunger_resistance_iii: "Nullifies stamina depletion",
+
+  mhwilds_armor_skill_agitator: "Agitator",
+  mhwilds_armor_skill_agitator_:
+    "Increases base attack and affinity when large monsters become enraged.",
+  mhwilds_armor_skill_agitator_i: "Base attack +4, affinity +3%",
+  mhwilds_armor_skill_agitator_ii: "Base attack +8, affinity +5%",
+  mhwilds_armor_skill_agitator_iii: "Base attack +12, affinity +7%",
+  mhwilds_armor_skill_agitator_iv: "Base attack +16, affinity +10%",
+  mhwilds_armor_skill_agitator_v: "Base attack +20, affinity +15%",
+
+  mhwilds_armor_skill_latent_power: "Latent Power",
+  mhwilds_armor_skill_latent_power_:
+    "Temporarily increases affinity and reduces fixed stamina depletion when certain conditions are met.",
+  mhwilds_armor_skill_latent_power_i: "Affinity +10%, Stamina use -30%",
+  mhwilds_armor_skill_latent_power_ii: "Affinity +20%, Stamina use -30%",
+  mhwilds_armor_skill_latent_power_iii: "Affinity +30%, Stamina use -50%",
+  mhwilds_armor_skill_latent_power_iv: "Affinity +40%, Stamina use -50%",
+  mhwilds_armor_skill_latent_power_v: "Affinity +50%, Stamina use -50%",
+
+  mhwilds_armor_skill_burst: "Burst",
+  mhwilds_armor_skill_burst_:
+    "Landing a hit grants +5 attack and increased elemental damage. After 5 consecutive hits, both attack and elemental power increase further.",
+  mhwilds_armor_skill_burst_i: "Burst Lv 1",
+  mhwilds_armor_skill_burst_ii: "Burst Lv 2",
+  mhwilds_armor_skill_burst_iii: "Burst Lv 3",
+  mhwilds_armor_skill_burst_iv: "Burst Lv 4",
+  mhwilds_armor_skill_burst_v: "Burst Lv 5",
+
+  mhwilds_armor_skill_flayer: "Flayer",
+  mhwilds_armor_skill_flayer_:
+    "Makes it easier to inflict wounds. Upon inflicting enough damage, also deals additional non-elemental damage.",
+  mhwilds_armor_skill_flayer_i:
+    "Makes it ever so slightly easier to inflict wounds. 140 non-elemental damage",
+  mhwilds_armor_skill_flayer_ii:
+    "Makes it moderately easier to inflict wounds. 160 non-elemental damage",
+  mhwilds_armor_skill_flayer_iii:
+    "Makes it easier to inflict wounds.190 non-elemental damage",
+  mhwilds_armor_skill_flayer_iv:
+    "Makes it much easier to inflict wounds. 230 non-elemental damage",
+  mhwilds_armor_skill_flayer_v:
+    "Makes it significantly easier to inflict wounds. 280 non-elemental damage",
+
+  mhwilds_armor_skill_palico_rally: "Palico Rally",
+  mhwilds_armor_skill_palico_rally_: "Powers up Palicoes.",
+  mhwilds_armor_skill_palico_rally_i:
+    "Increases Palico attack power and defense by 5%.",
+  mhwilds_armor_skill_palico_rally_ii:
+    "Increases Palico attack power and defense by 10%.",
+  mhwilds_armor_skill_palico_rally_iii:
+    "Increases Palico attack power and defense by 15%.",
+  mhwilds_armor_skill_palico_rally_iv:
+    "Increases Palico attack power and defense by 20%.",
+  mhwilds_armor_skill_palico_rally_v:
+    "Increases Palico attack power and defense by 25%.",
+
+  mhwilds_armor_skill_heroics: "Heroics",
+  mhwilds_armor_skill_heroics_:
+    "Increases attack power and defense when health drops to 35% or lower.",
+  mhwilds_armor_skill_heroics_i: "Defense +50",
+  mhwilds_armor_skill_heroics_ii: "Attack power 1.05x, defense +50",
+  mhwilds_armor_skill_heroics_iii: "Attack power 1.05x, defense +100",
+  mhwilds_armor_skill_heroics_iv: "Attack power 1.1x, defense +100",
+  mhwilds_armor_skill_heroics_v: "Attack power 1.3x, defense +0",
+
+  mhwilds_armor_skill_partbreaker: "Partbreaker",
+  mhwilds_armor_skill_partbreaker_:
+    "Increases part damage against large monsters and boosts damage dealt when destroying wounds with Focus Strikes.",
+  mhwilds_armor_skill_partbreaker_i:
+    "Part damage ×1.1, Wound break damage ×1.1",
+  mhwilds_armor_skill_partbreaker_ii:
+    "Part damage ×1.2, Wound break damage ×1.2",
+  mhwilds_armor_skill_partbreaker_iii:
+    "Part damage ×1.3, Wound break damage ×1.3",
+
+  mhwilds_armor_skill_foray: "Foray",
+  mhwilds_armor_skill_foray_:
+    "Increases attack power and affinity against large monsters affected by poison or paralysis.",
+  mhwilds_armor_skill_foray_i: "Base attack +6, affinity +0%",
+  mhwilds_armor_skill_foray_ii: "Base attack +8, affinity +5%",
+  mhwilds_armor_skill_foray_iii: "Base attack +10, affinity +10%",
+  mhwilds_armor_skill_foray_iv: "Base attack +12, affinity +15%",
+  mhwilds_armor_skill_foray_v: "Base attack +15, affinity +20%",
+
+  mhwilds_armor_skill_coalescence: "Coalescence",
+  mhwilds_armor_skill_coalescence_:
+    "After recovering from a status ailment or elemental blight, increases abnormal status buildup and elemental damage for 30 seconds.\nWeapons Affected:\nMelee Type 1: Great Sword, Hammer, Hunting Horn, Gunlance, Switch Axe, Charge Blade\nMelee Type 2: Long Sword, Sword & Shield, Dual Blades, Lance, Insect Glaive, Light Bowgun, Heavy Bowgun, Bow",
+  mhwilds_armor_skill_coalescence_i: "Type 1: ×1.1, Type 2: ×1.05",
+  mhwilds_armor_skill_coalescence_ii: "Type 1: ×1.2, Type 2: ×1.1",
+  mhwilds_armor_skill_coalescence_iii: "Type 1: ×1.3, Type 2: ×1.15",
+
+  mhwilds_armor_skill_ambush: "Ambush",
+  mhwilds_armor_skill_ambush_:
+    "Temporarily increases damage to large monsters with a successful Sneak Attack.",
+  mhwilds_armor_skill_ambush_i: "Attack +5%",
+  mhwilds_armor_skill_ambush_ii: "Attack +10%",
+  mhwilds_armor_skill_ambush_iii: "Attack +15%",
+
+  mhwilds_armor_skill_antivirus: "Antivirus",
+  mhwilds_armor_skill_antivirus_:
+    "Once infected, makes it easier to overcome the Frenzy and increases affinity when cured.",
+  mhwilds_armor_skill_antivirus_i: "Overcome efficiency +10%, Affinity +3%",
+  mhwilds_armor_skill_antivirus_ii: "Overcome efficiency +20%, Affinity +6%",
+  mhwilds_armor_skill_antivirus_iii: "Overcome efficiency +30%, Affinity +10%",
+
+  mhwilds_armor_skill_elemental_absorption: "Elemental Absorption",
+  mhwilds_armor_skill_elemental_absorption_:
+    "Activates upon taking elemental damage and grants elemental effects for 120 seconds. (Cooldown: 90 sec)",
+  mhwilds_armor_skill_elemental_absorption_i:
+    "Elemental resistance +4\nGreat Sword: Element +50\nBow, Dual Blades: Element +30\nOthers: Element +40",
+  mhwilds_armor_skill_elemental_absorption_ii:
+    "Elemental resistance +6\nGreat Sword: Element +80\nBow, Dual Blades: Element +40\nOthers: Element +50",
+  mhwilds_armor_skill_elemental_absorption_iii:
+    "Elemental resistance +8\nGreat Sword: Element +100\nBow, Dual Blades: Element +50\nOthers: Element +60",
+
+  mhwilds_armor_skill_self_improvement: "Self-Improvement",
+  mhwilds_armor_skill_self_improvement_:
+    "Increases attack and defense every 5 minutes, up to 6 times.",
+  mhwilds_armor_skill_self_improvement_i:
+    "First 5 min: Defense +5, then every 5 min: Attack +4, Defense +5",
+
+  mhwilds_armor_skill_evade_window: "Evade Window",
+  mhwilds_armor_skill_evade_window_:
+    "Increases invincibility time when evading. (30 frame base, default frame 9)",
+  mhwilds_armor_skill_evade_window_i: "10 frame",
+  mhwilds_armor_skill_evade_window_ii: "11 frame",
+  mhwilds_armor_skill_evade_window_iii: "12 frame",
+  mhwilds_armor_skill_evade_window_iv: "13 frame",
+  mhwilds_armor_skill_evade_window_v: "15 frame",
+
+  mhwilds_armor_skill_evade_extender: "Evade Extender",
+  mhwilds_armor_skill_evade_extender_: "Increases evade distance.",
+  mhwilds_armor_skill_evade_extender_i: "Slightly extends evasion distance.",
+  mhwilds_armor_skill_evade_extender_ii: "Extends evasion distance.",
+  mhwilds_armor_skill_evade_extender_iii: "Greatly extends evasion distance.",
+
+  mhwilds_armor_skill_earplugs: "Earplugs",
+  mhwilds_armor_skill_earplugs_:
+    "Grants resistance to roars from large monsters.",
+  mhwilds_armor_skill_earplugs_i: "Negates 80% of minor roars",
+  mhwilds_armor_skill_earplugs_ii:
+    "Negates minor roars, 90% resistance to major roars",
+  mhwilds_armor_skill_earplugs_iii: "Negates all roars",
+
+  mhwilds_armor_skill_quick_sheathe: "Quick Sheathe",
+  mhwilds_armor_skill_quick_sheathe_: "Speeds up weapon sheathing.",
+  mhwilds_armor_skill_quick_sheathe_i: "10%",
+  mhwilds_armor_skill_quick_sheathe_ii: "20%",
+  mhwilds_armor_skill_quick_sheathe_iii: "30%",
+
+  mhwilds_armor_skill_windproof: "Windproof",
+  mhwilds_armor_skill_windproof_: "Grants protection against wind pressure.",
+  mhwilds_armor_skill_windproof_i:
+    "Negates minor wind pressure, 50% resistance to major wind pressure",
+  mhwilds_armor_skill_windproof_ii:
+    "Negates minor and major wind pressure, halves dragon wind pressure",
+  mhwilds_armor_skill_windproof_iii: "Negates all wind pressure",
+
+  mhwilds_armor_skill_tremor_resistance: "Tremor Resistance",
+  mhwilds_armor_skill_tremor_resistance_:
+    "Grants protection against ground tremors.",
+  mhwilds_armor_skill_tremor_resistance_i:
+    "Negates very minor tremors, 50% resistance to minor tremors",
+  mhwilds_armor_skill_tremor_resistance_ii:
+    "Negates up to minor tremors, 80% resistance to major tremors",
+  mhwilds_armor_skill_tremor_resistance_iii: "Negates all tremors",
+
+  mhwilds_armor_skill_flinch_free: "Flinch Free",
+  mhwilds_armor_skill_flinch_free_: "Reduces reactions when taking damage.",
+  mhwilds_armor_skill_flinch_free_i: "Prevents knockbacks.",
+  mhwilds_armor_skill_flinch_free_ii:
+    "Prevents knockbacks. Tripping is reduced to a knockback instead.",
+  mhwilds_armor_skill_flinch_free_iii: "Prevents knockbacks and tripping.",
+
+  mhwilds_armor_skill_intimidator: "Intimidator",
+  mhwilds_armor_skill_intimidator_:
+    "Reduces the chance small monsters will engage you even if you've been spotted.\nHas no effect on certain monsters (e.g., Neopterons), when initiating combat, or during battles with large monsters that command small ones.",
+  mhwilds_armor_skill_intimidator_i: "Less likely to be attacked when spotted",
+  mhwilds_armor_skill_intimidator_ii: "Rarely attacked when spotted",
+  mhwilds_armor_skill_intimidator_iii: "Prevents combat even when spotted",
+
+  mhwilds_armor_skill_speed_eating: "Speed Eating",
+  mhwilds_armor_skill_speed_eating_:
+    "Increases meat-eating and item-consumption speed.",
+  mhwilds_armor_skill_speed_eating_i: "Moderately increases eating speed.",
+  mhwilds_armor_skill_speed_eating_ii: "Increases eating speed.",
+  mhwilds_armor_skill_speed_eating_iii: "Greatly increases eating speed.",
+
+  mhwilds_armor_skill_aquatic_oilsilt_mobility: "quatic/Oilsilt Mobility",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_:
+    "Grants resistance against impairments to mobility while in water, oilsilt, or streams.",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_i:
+    "Negates the effects of muddy streams, and prevents you from being slowed down in water or oilsilt.",
+  mhwilds_armor_skill_aquatic_oilsilt_mobility_ii:
+    "Also negates the effects of waves.",
+
+  mhwilds_armor_skill_shock_absorber: "Shock Absorber",
+  mhwilds_armor_skill_shock_absorber_:
+    "Disables damage reactions when you hit a friend or when a friend hits you.",
+  mhwilds_armor_skill_shock_absorber_i: "Activates skill effect.",
+
+  mhwilds_armor_skill_leap_of_faith: "Leap of Faith",
+  mhwilds_armor_skill_leap_of_faith_:
+    "Allows you to do a dive-evade when facing towards large monsters and extends the dive-evade distance.",
+  mhwilds_armor_skill_leap_of_faith_i: "Enables skill use.",
+
+  mhwilds_armor_skill_jump_master: "Jump Master",
+  mhwilds_armor_skill_jump_master_:
+    "Prevents attacks from knocking you back during a jump.",
+  mhwilds_armor_skill_jump_master_i: "Negates knockback during jumps.",
+
+  mhwilds_armor_skill_cliffhanger: "Cliffhanger",
+  mhwilds_armor_skill_cliffhanger_:
+    "Decreases stamina depletion when climbing on vines.",
+  mhwilds_armor_skill_cliffhanger_i:
+    "Reduces stamina depletion while climbing by 50%.",
+
+  mhwilds_armor_skill_wide_range: "Wide-Range",
+  mhwilds_armor_skill_wide_range_:
+    "Allows the effects of certain items to also affect nearby allies.\nRecovery Up applies based on the wide-range user’s effect. Item Prolonger only applies to each individual.",
+  mhwilds_armor_skill_wide_range_i:
+    "Items affect nearby allies with 33% of their efficacy.",
+  mhwilds_armor_skill_wide_range_ii:
+    "Items affect nearby allies in a wider radius with 33% of their efficacy.",
+  mhwilds_armor_skill_wide_range_iii:
+    "Items affect nearby allies in a wider radius with 66% of their efficacy.",
+  mhwilds_armor_skill_wide_range_iv:
+    "Items affect nearby allies in a much wider radius with 66% of their efficacy.",
+  mhwilds_armor_skill_wide_range_v:
+    "Items affect nearby allies in a much wider radius with full efficacy.",
+
+  mhwilds_armor_skill_tool_specialist: "Tool Specialist",
+  mhwilds_armor_skill_tool_specialist_:
+    "Reduces the recharge time for specialized tools.",
+  mhwilds_armor_skill_tool_specialist_i: "10% reduction",
+  mhwilds_armor_skill_tool_specialist_ii: "20% reduction",
+  mhwilds_armor_skill_tool_specialist_iii: "30% reduction",
+  mhwilds_armor_skill_tool_specialist_iv: "40% reduction",
+  mhwilds_armor_skill_tool_specialist_v: "50% reduction",
+
+  mhwilds_armor_skill_bombardier: "Bombardier",
+  mhwilds_armor_skill_bombardier_: "Increases the damage of explosive items.",
+  mhwilds_armor_skill_bombardier_i: "1.1x",
+  mhwilds_armor_skill_bombardier_ii: "1.2x",
+  mhwilds_armor_skill_bombardier_iii: "1.3x",
+
+  mhwilds_armor_skill_mushroomancer: "Mushroomancer",
+  mhwilds_armor_skill_mushroomancer_:
+    "Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.",
+  mhwilds_armor_skill_mushroomancer_i:
+    "Lets you digest blue mushrooms(potion) and toadstools(energy drink).",
+  mhwilds_armor_skill_mushroomancer_ii:
+    "Additionally lets you digest nitroshrooms(demondrug) and parashrooms(armorskin).",
+  mhwilds_armor_skill_mushroomancer_iii:
+    "Additionally lets you digest mandragoras(max potion), devil's blight(strong potion), and exciteshrooms(random from the above).",
+
+  mhwilds_armor_skill_item_prolonger: "Item Prolonger",
+  mhwilds_armor_skill_item_prolonger_:
+    "Extends the duration of some item effects.",
+  mhwilds_armor_skill_item_prolonger_i: "1.1x",
+  mhwilds_armor_skill_item_prolonger_ii: "1.25x",
+  mhwilds_armor_skill_item_prolonger_iii: "1.5x",
+
+  mhwilds_armor_skill_free_meal: "Free Meal",
+  mhwilds_armor_skill_free_meal_:
+    "Gives you a predetermined chance of consuming a food or drink item for free.",
+  mhwilds_armor_skill_free_meal_i: "10%",
+  mhwilds_armor_skill_free_meal_ii: "25%",
+  mhwilds_armor_skill_free_meal_iii: "45%",
+
+  mhwilds_armor_skill_blindsider: "Blindsider",
+  mhwilds_armor_skill_blindsider_: "Increases the range of flashbombs.",
+  mhwilds_armor_skill_blindsider_i: "100% increase in the range of flashbombs",
+
+  mhwilds_armor_skill_botanist: "Botanist",
+  mhwilds_armor_skill_botanist_:
+    "Increases the quantity of herbs and other consumable items you gather.",
+  mhwilds_armor_skill_botanist_i: "One extra consumable herb item per gather.",
+  mhwilds_armor_skill_botanist_ii:
+    "Additionally adds one extra consumable fruit, nut, or seed item per gather.",
+  mhwilds_armor_skill_botanist_iii:
+    "Additionally adds one extra consumable insect item per gather.",
+  mhwilds_armor_skill_botanist_iv:
+    "Additionally adds one extra consumable mushroom item per gather.",
+
+  mhwilds_armor_skill_geologist: "Geologist",
+  mhwilds_armor_skill_geologist_:
+    "Increases the number of items you gain at gathering points.",
+  mhwilds_armor_skill_geologist_i:
+    "One extra item when gathering from bonepiles.",
+  mhwilds_armor_skill_geologist_ii:
+    "Additionally adds one extra item when gathering special items.",
+  mhwilds_armor_skill_geologist_iii:
+    "Additionally adds one extra item when gathering from mining outcrops.",
+
+  mhwilds_armor_skill_entomologist: "Entomologist",
+  mhwilds_armor_skill_entomologist_:
+    "The bodies of small insect monsters won't be destroyed, allowing them to be carved.",
+  mhwilds_armor_skill_entomologist_i: "Activates skill effect.",
+
+  mhwilds_armor_skill_outdoorsman: "Outdoorsman",
+  mhwilds_armor_skill_outdoorsman_:
+    "Improves fishing, grilling, and transporting abilities.",
+  mhwilds_armor_skill_outdoorsman_i: "Activates skill effect.",
 };
 
 export const mhWildsSlotEn = {
@@ -2188,7 +2658,7 @@ export const mhwildsWeaponSkillsEn = {
   mhwilds_weapon_skill_charge_master: "Charge Master",
   mhwilds_weapon_skill_charge_master_:
     "Increases element power and status buildup for charged attacks",
-  mhwilds_weapon_skill_charge_master_i: "Melee:1.15x\nRange:1.05x ",
+  mhwilds_weapon_skill_charge_master_i: "Melee:1.15x\nRange:1.05x",
   mhwilds_weapon_skill_charge_master_ii: "Melee:1.2x\nRange:1.1x",
   mhwilds_weapon_skill_charge_master_iii: "Melee:1.25x\nRange:1.15x",
 

@@ -949,7 +949,7 @@
     "rank": "mhwilds_low_rank",
     "part": "charm",
     "skills": {
-      "mhwilds_armor_skill_widerange": "2"
+      "mhwilds_armor_skill_wide_range": "2"
     }
   },
   {
@@ -958,7 +958,7 @@
     "rank": "mhwilds_low_rank",
     "part": "charm",
     "skills": {
-      "mhwilds_armor_skill_widerange": "3"
+      "mhwilds_armor_skill_wide_range": "3"
     }
   },
   {
@@ -967,7 +967,7 @@
     "rank": "mhwilds_high_rank",
     "part": "charm",
     "skills": {
-      "mhwilds_armor_skill_widerange": "4"
+      "mhwilds_armor_skill_wide_range": "4"
     }
   },
   {

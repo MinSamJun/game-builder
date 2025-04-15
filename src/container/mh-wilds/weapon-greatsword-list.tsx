@@ -5,34 +5,17 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsGreatswordsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
-interface GreatswordListProps {
-  searchTerm: string;
-}
-
-interface Greatsword {
-  name: string;
-  part: string;
-  rank: string;
-  attack: number;
-  element: number | null;
-  affinity: number;
-  defense: number;
-  slots: number[];
-  skills?: Record<string, number | undefined>;
-}
-
-export function GreatswordList({ searchTerm }: GreatswordListProps) {
+export function GreatswordList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhWildsGreatswordNamespace =
     getNamespaceData("mhWilds_greatswords") ?? {};
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
-  const filteredList = (mhWildsGreatswordsData as Greatsword[]).filter(
-    ({ name }) =>
-      (mhWildsGreatswordNamespace[name] ?? name)
-        .toLowerCase()
-        .includes(searchTerm.toLowerCase())
+  const filteredList = mhWildsGreatswordsData.filter(({ name }) =>
+    (mhWildsGreatswordNamespace[name] ?? name)
+      .toLowerCase()
+      .includes(searchTerm.toLowerCase())
   );
 
   const [page, setPage] = React.useState(1);

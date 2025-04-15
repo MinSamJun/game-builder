@@ -5,23 +5,14 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsGroupSkillData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 
-interface GroupSkillListProps {
-  searchTerm: string;
-}
-
-interface GroupSkill {
-  name: string;
-  skill: string;
-}
-
-export function GroupSkillList({ searchTerm }: GroupSkillListProps) {
+export function GroupSkillList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhWildsGroupNameNamespace = getNamespaceData("mhWilds_group_name");
   const mhWildsGroupSkillNamespace = getNamespaceData("mhWilds_group_skill");
 
   const lowerSearchTerm = searchTerm.toLowerCase();
 
-  const filteredGroupSkillList = (mhWildsGroupSkillData as GroupSkill[]).filter(
+  const filteredGroupSkillList = mhWildsGroupSkillData.filter(
     ({ name, skill }) =>
       (mhWildsGroupNameNamespace[name] ?? name)
         .toLowerCase()
