@@ -33,8 +33,6 @@ export const mhWildsCommonEn = {
   mhwilds_common_paralysis: "Paralysis",
   mhwilds_common_blast: "Blast",
   mhwilds_common_stun: "Stun",
-  mhwilds_common_next_page: "Next Page",
-  mhwilds_common_prev_page: "Previous Page",
   mhwilds_common_weapon: "Weapon",
   mhwilds_common_attack: "Base Attack",
   mhwilds_common_element: "Element",

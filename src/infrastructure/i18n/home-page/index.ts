@@ -1,18 +1,18 @@
-import { enBlocks, enItems } from "./en";
-import { jaBlocks, jaItems } from "./ja";
-import { koBlocks, koItems } from "./ko";
+import { blocksEn, itemsEn } from "./en";
+import { blocksJa, itemsJa } from "./ja";
+import { blocksKo, itemsKo } from "./ko";
 
 export const homePageEn = {
-  homePage_common: enBlocks,
-  homePage_items: enItems,
+  homePage_common: blocksEn,
+  homePage_items: itemsEn,
 };
 
 export const homePageJa = {
-  homePage_common: jaBlocks,
-  homePage_items: jaItems,
+  homePage_common: blocksJa,
+  homePage_items: itemsJa,
 };
 
 export const homePageKo = {
-  homePage_common: koBlocks,
-  homePage_items: koItems,
+  homePage_common: blocksKo,
+  homePage_items: itemsKo,
 };

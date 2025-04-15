@@ -5,34 +5,36 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { LanguageSelector } from "@infrastructure/user-i18n/language-selector";
 
 const Home = () => {
-  const { lang, setLang, t } = useI18n();
+  const { lang, setLang, getNamespaceData } = useI18n();
+  const homePagecommonNamespace = getNamespaceData("homePage_common");
+  const homePageItemsNamespace = getNamespaceData("homePage_items");
 
   return (
     <main className="p-4">
       <LanguageSelector lang={lang} onChange={setLang} />
 
       <PageBlock
-        title={t("homePage_common", "implemented")}
+        title={homePagecommonNamespace?.implemented}
         items={[
-          { title: t("homePage_items", "page1"), href: "/" },
-          { title: t("homePage_items", "page2"), href: "/" },
-          { title: t("homePage_items", "page3"), href: "/" },
+          { title: homePageItemsNamespace?.page1, href: "/" },
+          { title: homePageItemsNamespace?.page2, href: "/" },
+          { title: homePageItemsNamespace?.page3, href: "/" },
         ]}
       />
       <PageBlock
-        title={t("homePage_common", "inProgress")}
+        title={homePagecommonNamespace?.inProgress}
         items={[
-          { title: t("homePage_items", "mhWilds"), href: "/mh-wilds" },
-          { title: t("homePage_items", "page2"), href: "/" },
-          { title: t("homePage_items", "page3"), href: "/" },
+          { title: homePageItemsNamespace?.mhWilds, href: "/mh-wilds" },
+          { title: homePageItemsNamespace?.page2, href: "/" },
+          { title: homePageItemsNamespace?.page3, href: "/" },
         ]}
       />
       <PageBlock
-        title={t("homePage_common", "planned")}
+        title={homePagecommonNamespace?.planned}
         items={[
-          { title: t("homePage_items", "page1"), href: "/" },
-          { title: t("homePage_items", "page2"), href: "/" },
-          { title: t("homePage_items", "page3"), href: "/" },
+          { title: homePageItemsNamespace?.page1, href: "/" },
+          { title: homePageItemsNamespace?.page2, href: "/" },
+          { title: homePageItemsNamespace?.page3, href: "/" },
         ]}
       />
     </main>

@@ -33,8 +33,6 @@ export const mhWildsCommonJa = {
   mhwilds_common_paralysis: "麻痺",
   mhwilds_common_blast: "爆破",
   mhwilds_common_stun: "気絶",
-  mhwilds_common_next_page: "次のページ",
-  mhwilds_common_prev_page: "前のページ",
   mhwilds_common_weapon: "武器",
   mhwilds_common_attack: "基礎攻撃力",
   mhwilds_common_element: "属性",
