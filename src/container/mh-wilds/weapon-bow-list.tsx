@@ -4,6 +4,7 @@ import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsBowsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
+import { Pagination } from "@infrastructure/common/pagenation";
 
 export function BowList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
@@ -142,20 +143,13 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
           )}
 
           {filteredList.length > paginatedList.length && (
-            <div className="flex justify-center mt-4 gap-4">
-              <button
-                onClick={prevPage}
-                className="px-4 py-2 bg-blue-500 text-white rounded"
-              >
-                {mhWildsCommonNamespace?.mhwilds_common_prev_page}
-              </button>
-              <button
-                onClick={nextPage}
-                className="px-4 py-2 bg-blue-500 text-white rounded"
-              >
-                {mhWildsCommonNamespace?.mhwilds_common_next_page}
-              </button>
-            </div>
+            <Pagination
+              currentPage={page}
+              totalItems={filteredList.length}
+              itemsPerPage={itemsPerPage}
+              onPrev={prevPage}
+              onNext={nextPage}
+            />
           )}
         </div>
       )}

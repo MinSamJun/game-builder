@@ -33,8 +33,6 @@ export const mhWildsCommonKo = {
   mhwilds_common_paralysis: "마비",
   mhwilds_common_blast: "폭발",
   mhwilds_common_stun: "기절",
-  mhwilds_common_next_page: "다음 페이지",
-  mhwilds_common_prev_page: "이전 페이지",
   mhwilds_common_weapon: "무기",
   mhwilds_common_attack: "기초 공격력",
   mhwilds_common_element: "속성",

@@ -1,10 +1,10 @@
-export const enBlocks = {
+export const blocksEn = {
   implemented: "Implemented Pages",
   inProgress: "In Progress",
   planned: "Planned Pages",
 };
 
-export const enItems = {
+export const itemsEn = {
   mhWilds: "Monster Hunter Wilds",
   page1: "Page 1",
   page2: "Page 2",
