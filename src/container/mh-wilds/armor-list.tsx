@@ -4,6 +4,7 @@ import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsArmorData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
+import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
 
 export function ArmorList({ searchTerm }: { searchTerm: string }) {
@@ -29,29 +30,16 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
         .includes(searchTerm.toLowerCase())
   );
 
-  const [page, setPage] = React.useState(1);
   const itemsPerPage = 10;
-
-  const paginatedArmorList = filteredArmorList.slice(
-    (page - 1) * itemsPerPage,
-    page * itemsPerPage
+  const { page, paginatedData, nextPage, prevPage } = usePagination(
+    filteredArmorList,
+    itemsPerPage,
+    searchTerm
   );
-
-  const nextPage = () => {
-    if (page < Math.ceil(filteredArmorList.length / itemsPerPage)) {
-      setPage(page + 1);
-    }
-  };
-
-  const prevPage = () => {
-    if (page > 1) {
-      setPage(page - 1);
-    }
-  };
 
   return (
     <>
-      {filteredArmorList.length === 0 ? (
+      {paginatedData.length === 0 ? (
         <NoResults />
       ) : (
         <>
@@ -176,7 +164,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
               </button>
             </div>
 
-            {paginatedArmorList.map(
+            {paginatedData.map(
               ({ name, skills, slots, seriesSkill, groupSkill, def }) => (
                 <div key={name} className="border p-4 rounded shadow space-y-2">
                   <div className="flex  items-center">
@@ -260,7 +248,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                 </div>
               )
             )}
-            {filteredArmorList.length > paginatedArmorList.length && (
+            {filteredArmorList.length > paginatedData.length && (
               <Pagination
                 currentPage={page}
                 totalItems={filteredArmorList.length}
