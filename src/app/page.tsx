@@ -6,7 +6,7 @@ import { LanguageSelector } from "@infrastructure/user-i18n/language-selector";
 
 const Home = () => {
   const { lang, setLang, getNamespaceData } = useI18n();
-  const homePagecommonNamespace = getNamespaceData("homePage_common");
+  const homePagemhCommonNamespace = getNamespaceData("homePage_common");
   const homePageItemsNamespace = getNamespaceData("homePage_items");
 
   return (
@@ -14,7 +14,7 @@ const Home = () => {
       <LanguageSelector lang={lang} onChange={setLang} />
 
       <PageBlock
-        title={homePagecommonNamespace?.implemented}
+        title={homePagemhCommonNamespace?.implemented}
         items={[
           { title: homePageItemsNamespace?.page1, href: "/" },
           { title: homePageItemsNamespace?.page2, href: "/" },
@@ -22,7 +22,7 @@ const Home = () => {
         ]}
       />
       <PageBlock
-        title={homePagecommonNamespace?.inProgress}
+        title={homePagemhCommonNamespace?.inProgress}
         items={[
           { title: homePageItemsNamespace?.mhWilds, href: "/mh-wilds" },
           { title: homePageItemsNamespace?.page2, href: "/" },
@@ -30,7 +30,7 @@ const Home = () => {
         ]}
       />
       <PageBlock
-        title={homePagecommonNamespace?.planned}
+        title={homePagemhCommonNamespace?.planned}
         items={[
           { title: homePageItemsNamespace?.page1, href: "/" },
           { title: homePageItemsNamespace?.page2, href: "/" },

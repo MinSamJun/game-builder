@@ -28,12 +28,13 @@ export function MHWildsContent() {
     useState<EquipmentNamespace>("mhWilds_armor");
   const [term, setTerm] = useState("");
 
-  const mhWildsCommonNamespace = getNamespaceData("mhWilds_common");
+  const mhCommonNamespace = getNamespaceData("mh_common");
+  const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common");
 
   return (
     <div className="container mx-auto p-4">
       <div className="text-2xl font-bold mb-6">
-        {mhWildsCommonNamespace?.mhWilds_planner}
+        {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
 
       <div className="mb-6 flex space-x-4">
@@ -72,7 +73,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhWilds_common_armor}
+          {mhCommonNamespace?.mh_common_armor}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_charm")}
@@ -82,7 +83,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhWilds_common_charm}
+          {mhCommonNamespace?.mh_common_charm}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_armor_skill")}
@@ -92,7 +93,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhWilds_common_armor_skill}
+          {mhWildsmhCommonNamespace?.mhWilds_common_armor_skill}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_series_skill")}
@@ -102,7 +103,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhwilds_common_series_skill}
+          {mhWildsmhCommonNamespace?.mhwilds_common_series_skill}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_group_skill")}
@@ -112,7 +113,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhwilds_common_group_skill}
+          {mhWildsmhCommonNamespace?.mhwilds_common_group_skill}
         </button>
       </div>
 
@@ -125,7 +126,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhwilds_common_greatsword}
+          {mhWildsmhCommonNamespace?.mhwilds_common_greatsword}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_bows")}
@@ -135,13 +136,13 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsCommonNamespace?.mhwilds_common_bow}
+          {mhWildsmhCommonNamespace?.mhwilds_common_bow}
         </button>
       </div>
 
       <input
         type="text"
-        placeholder={mhWildsCommonNamespace?.mhwilds_common_searchPlaceholder}
+        placeholder={mhWildsmhCommonNamespace?.mhwilds_common_searchPlaceholder}
         className="mb-6 px-4 py-2 border rounded w-full"
         value={term}
         onChange={(e) => setTerm(e.target.value)}
@@ -163,7 +164,7 @@ export function MHWildsContent() {
         <BowList searchTerm={term} />
       ) : (
         <div className="text-center py-8 text-gray-500">
-          {mhWildsCommonNamespace?.mhwilds_common_noResults}
+          {mhWildsmhCommonNamespace?.mhwilds_common_noResults}
         </div>
       )}
     </div>

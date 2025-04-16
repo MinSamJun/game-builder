@@ -9,8 +9,9 @@ import { Pagination } from "@infrastructure/common/pagenation";
 
 export function BowList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
+  const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsBowNamespace = getNamespaceData("mhWilds_bows") ?? {};
-  const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
+  const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
   const mhWildsCoatingNamespace = getNamespaceData("mhWilds_coating") ?? {};
@@ -51,7 +52,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                     {mhWildsBowNamespace[name]}
                   </div>
                   <div className="text-sm text-gray-600 font-weight: font-bold">
-                    　{mhWildsCommonNamespace?.mhwilds_common_slots} :{" "}
+                    　{mhWildsmhCommonNamespace?.mhwilds_common_slots} :{" "}
                     {slots.join(" / ")}
                   </div>
                 </div>
@@ -59,20 +60,22 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                 <div className="grid grid-cols-3 gap-4 text-sm">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
-                      {mhWildsCommonNamespace?.mhwilds_common_attack}:
+                      {mhWildsmhCommonNamespace?.mhwilds_common_attack}:
                     </strong>{" "}
                     {attack}
                   </div>
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
-                      {mhWildsCommonNamespace?.mhwilds_common_element}:
+                      {mhWildsmhCommonNamespace?.mhwilds_common_element}:
                     </strong>{" "}
                     {element
                       ? typeof element === "object"
                         ? Object.entries(element)
                             .map(
                               ([key, value]) =>
-                                `${mhWildsCommonNamespace[`${key}`]}: ${value}`
+                                `${
+                                  mhWildsmhCommonNamespace[`${key}`]
+                                }: ${value}`
                             )
                             .join(", ")
                         : element
@@ -81,7 +84,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
 
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
-                      {mhWildsCommonNamespace?.mhwilds_common_affinity}:
+                      {mhWildsmhCommonNamespace?.mhwilds_common_affinity}:
                     </strong>{" "}
                     {affinity}%
                   </div>
@@ -90,14 +93,14 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                 <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
-                      {mhWildsCommonNamespace?.mhwilds_common_defense}:
+                      {mhWildsmhCommonNamespace?.mhwilds_common_defense}:
                     </strong>{" "}
                     {defense}
                   </div>
 
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
-                      {mhWildsCommonNamespace?.mhwilds_common_skills}:
+                      {mhWildsmhCommonNamespace?.mhwilds_common_skills}:
                     </strong>
                     {skills && Object.entries(skills).length > 0 ? (
                       Object.entries(skills).map(([key, level]) => {
@@ -110,7 +113,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                         );
                       })
                     ) : (
-                      <div>{mhWildsCommonNamespace?.mhwilds_common_none}</div>
+                      <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}
                   </div>
                 </div>
@@ -123,7 +126,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                       </div>
                     ))
                   ) : (
-                    <div>{mhWildsCommonNamespace?.mhwilds_common_none}</div>
+                    <div>{mhCommonNamespace?.mh_common_none}</div>
                   )}
                 </div>
               </div>

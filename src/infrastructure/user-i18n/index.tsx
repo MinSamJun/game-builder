@@ -8,25 +8,25 @@ import {
   homePageJa,
 } from "@infrastructure/i18n/home-page";
 import {
-  commonNamespaceEn,
-  commonNamespaceJa,
-  commonNamespaceKo,
-} from "@infrastructure/i18n/common";
+  mhCommonNamespaceEn,
+  mhCommonNamespaceJa,
+  mhCommonNamespaceKo,
+} from "@/infrastructure/i18n/mh-common";
 const resources = {
   en: {
     ...mhWildsEn,
     ...homePageEn,
-    ...commonNamespaceEn,
+    ...mhCommonNamespaceEn,
   },
   ja: {
     ...mhWildsJa,
     ...homePageJa,
-    ...commonNamespaceJa,
+    ...mhCommonNamespaceJa,
   },
   ko: {
     ...mhWildsKo,
     ...homePageKo,
-    ...commonNamespaceKo,
+    ...mhCommonNamespaceKo,
   },
 };
 

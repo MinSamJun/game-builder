@@ -7,9 +7,10 @@ import { NoResults } from "@container/common/no-results";
 
 export function CharmList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
+
+  const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsCharmNamespace = getNamespaceData("mhWilds_charm");
   const mhWildsCharmSkillNamespace = getNamespaceData("mhWilds_armor_skill");
-  const mhWildsCommonNamespace = getNamespaceData("mhWilds_common");
 
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
   const filteredCharmList = mhWildsCharmData.filter(
@@ -42,7 +43,7 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
                   : "bg-white text-gray-700"
               }`}
             >
-              {mhWildsCommonNamespace?.mhwilds_common_low_rank}
+              {mhCommonNamespace?.mh_common_low_rank}
             </button>
             <button
               key={"mhwilds_high_rank"}
@@ -59,7 +60,7 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
                   : "bg-white text-gray-700"
               }`}
             >
-              {mhWildsCommonNamespace?.mhwilds_common_high_rank}
+              {mhCommonNamespace?.mh_common_high_rank}
             </button>
           </div>
           <div className=" gap-4 text-sm">
@@ -78,7 +79,7 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
                       </div>
                     ))
                   ) : (
-                    <div>{mhWildsCommonNamespace?.mhwilds_common_none}</div>
+                    <div>{mhCommonNamespace?.mh_common_none}</div>
                   )}
                 </div>
               </div>

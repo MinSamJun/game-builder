@@ -77,7 +77,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 160,
     "element": {
-      "mhwilds_common_poison": 210
+      "mh_common_poison": 210
     },
     "affinity": 15,
     "defense": 0,
@@ -94,7 +94,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 190,
     "element": {
-      "mhwilds_common_poison": 270
+      "mh_common_poison": 270
     },
     "affinity": 15,
     "defense": 0,
@@ -111,7 +111,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_poison": 300
+      "mh_common_poison": 300
     },
     "affinity": 15,
     "defense": 0,
@@ -128,7 +128,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_fire": 450
+      "mh_common_fire": 450
     },
     "affinity": 0,
     "defense": 0,
@@ -145,7 +145,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_fire": 550
+      "mh_common_fire": 550
     },
     "affinity": 0,
     "defense": 0,
@@ -162,7 +162,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 220,
     "element": {
-      "mhwilds_common_fire": 600
+      "mh_common_fire": 600
     },
     "affinity": 0,
     "defense": 0,
@@ -179,7 +179,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 160,
     "element": {
-      "mhwilds_common_water": 200
+      "mh_common_water": 200
     },
     "affinity": 0,
     "defense": 0,
@@ -195,7 +195,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 190,
     "element": {
-      "mhwilds_common_water": 260
+      "mh_common_water": 260
     },
     "affinity": 0,
     "defense": 0,
@@ -211,7 +211,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 220,
     "element": {
-      "mhwilds_common_water": 300
+      "mh_common_water": 300
     },
     "affinity": 0,
     "defense": 0,
@@ -227,7 +227,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 100,
     "element": {
-      "mhwilds_common_fire": 140
+      "mh_common_fire": 140
     },
     "affinity": 5,
     "defense": 0,
@@ -243,7 +243,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 140,
     "element": {
-      "mhwilds_common_fire": 180
+      "mh_common_fire": 180
     },
     "affinity": 5,
     "defense": 0,
@@ -259,7 +259,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 170,
     "element": {
-      "mhwilds_common_fire": 230
+      "mh_common_fire": 230
     },
     "affinity": 5,
     "defense": 0,
@@ -275,7 +275,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_fire": 270
+      "mh_common_fire": 270
     },
     "affinity": 5,
     "defense": 0,
@@ -291,7 +291,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 240,
     "element": {
-      "mhwilds_common_fire": 300
+      "mh_common_fire": 300
     },
     "affinity": 5,
     "defense": 0,
@@ -363,7 +363,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 190,
     "element": {
-      "mhwilds_common_ice": 550
+      "mh_common_ice": 550
     },
     "affinity": 0,
     "defense": 0,
@@ -379,7 +379,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_ice": 600
+      "mh_common_ice": 600
     },
     "affinity": 0,
     "defense": 0,
@@ -395,7 +395,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 160,
     "element": {
-      "mhwilds_common_fire": 280
+      "mh_common_fire": 280
     },
     "affinity": 15,
     "defense": 0,
@@ -412,7 +412,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_fire": 340
+      "mh_common_fire": 340
     },
     "affinity": 15,
     "defense": 0,
@@ -429,7 +429,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_fire": 400
+      "mh_common_fire": 400
     },
     "affinity": 15,
     "defense": 0,
@@ -446,7 +446,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_fire": 440
+      "mh_common_fire": 440
     },
     "affinity": 10,
     "defense": 0,
@@ -462,7 +462,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 200,
     "element": {
-      "mhwilds_common_fire": 500
+      "mh_common_fire": 500
     },
     "affinity": 10,
     "defense": 0,
@@ -478,7 +478,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 120,
     "element": {
-      "mhwilds_common_sleep": 210
+      "mh_common_sleep": 210
     },
     "affinity": 10,
     "defense": 0,
@@ -495,7 +495,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 150,
     "element": {
-      "mhwilds_common_sleep": 310
+      "mh_common_sleep": 310
     },
     "affinity": 15,
     "defense": 0,
@@ -512,7 +512,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_sleep": 370
+      "mh_common_sleep": 370
     },
     "affinity": 15,
     "defense": 0,
@@ -529,7 +529,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 200,
     "element": {
-      "mhwilds_common_sleep": 400
+      "mh_common_sleep": 400
     },
     "affinity": 15,
     "defense": 0,
@@ -546,7 +546,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_dragon": 370
+      "mh_common_dragon": 370
     },
     "affinity": 20,
     "defense": 0,
@@ -562,7 +562,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_dragon": 400
+      "mh_common_dragon": 400
     },
     "affinity": 20,
     "defense": 0,
@@ -652,7 +652,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 170,
     "element": {
-      "mhwilds_common_fire": 270
+      "mh_common_fire": 270
     },
     "affinity": -15,
     "defense": 0,
@@ -669,7 +669,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_fire": 370
+      "mh_common_fire": 370
     },
     "affinity": -15,
     "defense": 0,
@@ -686,7 +686,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 230,
     "element": {
-      "mhwilds_common_fire": 400
+      "mh_common_fire": 400
     },
     "affinity": -15,
     "defense": 0,
@@ -703,7 +703,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_poison": 410
+      "mh_common_poison": 410
     },
     "affinity": 0,
     "defense": 0,
@@ -720,7 +720,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 200,
     "element": {
-      "mhwilds_common_poison": 440
+      "mh_common_poison": 440
     },
     "affinity": 0,
     "defense": 0,
@@ -737,7 +737,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 230,
     "element": {
-      "mhwilds_common_poison": 500
+      "mh_common_poison": 500
     },
     "affinity": 0,
     "defense": 0,
@@ -838,7 +838,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_thunder": 440
+      "mhwilds_mh_common_thunder": 440
     },
     "affinity": 15,
     "defense": 0,
@@ -854,7 +854,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_thunder": 500
+      "mhwilds_mh_common_thunder": 500
     },
     "affinity": 15,
     "defense": 0,
@@ -870,7 +870,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 170,
     "element": {
-      "mhwilds_common_dragon": 200
+      "mh_common_dragon": 200
     },
     "affinity": -10,
     "defense": 0,
@@ -886,7 +886,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_dragon": 260
+      "mh_common_dragon": 260
     },
     "affinity": -10,
     "defense": 0,
@@ -902,7 +902,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 240,
     "element": {
-      "mhwilds_common_dragon": 300
+      "mh_common_dragon": 300
     },
     "affinity": -10,
     "defense": 0,
@@ -918,7 +918,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 200,
     "element": {
-      "mhwilds_common_dragon": 470
+      "mh_common_dragon": 470
     },
     "affinity": 0,
     "defense": 0,
@@ -934,7 +934,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 150,
     "element": {
-      "mhwilds_common_ice": 500
+      "mh_common_ice": 500
     },
     "affinity": 0,
     "defense": 0,
@@ -950,7 +950,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_ice": 600
+      "mh_common_ice": 600
     },
     "affinity": 0,
     "defense": 0,
@@ -967,7 +967,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 220,
     "element": {
-      "mhwilds_common_ice": 700
+      "mh_common_ice": 700
     },
     "affinity": 0,
     "defense": 0,
@@ -984,7 +984,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 90,
     "element": {
-      "mhwilds_common_paralysis": 250
+      "mh_common_paralysis": 250
     },
     "affinity": 0,
     "defense": 0,
@@ -1000,7 +1000,7 @@
     "rank": "mhwilds_low_rank",
     "attack": 120,
     "element": {
-      "mhwilds_common_paralysis": 310
+      "mh_common_paralysis": 310
     },
     "affinity": 0,
     "defense": 0,
@@ -1016,7 +1016,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 150,
     "element": {
-      "mhwilds_common_paralysis": 410
+      "mh_common_paralysis": 410
     },
     "affinity": 0,
     "defense": 0,
@@ -1032,7 +1032,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_common_paralysis": 470
+      "mh_common_paralysis": 470
     },
     "affinity": 0,
     "defense": 0,
@@ -1048,7 +1048,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 200,
     "element": {
-      "mhwilds_common_paralysis": 500
+      "mh_common_paralysis": 500
     },
     "affinity": 0,
     "defense": 0,
@@ -1129,7 +1129,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 220,
     "element": {
-      "mhwilds_common_dragon": 500
+      "mh_common_dragon": 500
     },
     "affinity": 0,
     "defense": 0,
@@ -1175,7 +1175,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_common_dragon": 250
+      "mh_common_dragon": 250
     },
     "affinity": 5,
     "defense": 0,
@@ -1191,7 +1191,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 220,
     "element": {
-      "mhwilds_common_dragon": 300
+      "mh_common_dragon": 300
     },
     "affinity": 5,
     "defense": 0,
@@ -1206,7 +1206,7 @@
     "rarity": 6,
     "rank": "mhwilds_high_rank",
     "attack": 180,
-    "element": 350,
+    "element": { "mh_common_water": 350 },
     "affinity": 15,
     "defense": 0,
     "slots": [2, 1],
@@ -1221,7 +1221,7 @@
     "rarity": 8,
     "rank": "mhwilds_high_rank",
     "attack": 225,
-    "element": 450,
+    "element": { "mh_common_water": 450 },
     "affinity": 15,
     "defense": 0,
     "slots": [3, 2, 1],

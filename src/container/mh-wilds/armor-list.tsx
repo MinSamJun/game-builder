@@ -9,8 +9,10 @@ import { Pagination } from "@infrastructure/common/pagenation";
 
 export function ArmorList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
+
+  const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor") ?? {};
-  const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
+  const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsArmorSkillNamespace =
     getNamespaceData("mhWilds_armor_skill") ?? {};
   const mhWildsArmorSeriesSkillNamespace =
@@ -58,7 +60,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                     : "bg-white text-gray-700"
                 }`}
               >
-                {mhWildsCommonNamespace?.mhwilds_common_head}
+                {mhCommonNamespace?.mh_common_head}
               </button>
 
               <button
@@ -74,7 +76,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                     : "bg-white text-gray-700"
                 }`}
               >
-                {mhWildsCommonNamespace?.mhwilds_common_chest}
+                {mhCommonNamespace?.mh_common_chest}
               </button>
 
               <button
@@ -90,7 +92,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                     : "bg-white text-gray-700"
                 }`}
               >
-                {mhWildsCommonNamespace?.mhwilds_common_arms}
+                {mhCommonNamespace?.mh_common_arms}
               </button>
 
               <button
@@ -106,7 +108,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                     : "bg-white text-gray-700"
                 }`}
               >
-                {mhWildsCommonNamespace?.mhwilds_common_waist}
+                {mhCommonNamespace?.mh_common_waist}
               </button>
 
               <button
@@ -122,7 +124,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                     : "bg-white text-gray-700"
                 }`}
               >
-                {mhWildsCommonNamespace?.mhwilds_common_legs}
+                {mhCommonNamespace?.mh_common_legs}
               </button>
             </div>
 
@@ -142,7 +144,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                     : "bg-white text-gray-700"
                 }`}
               >
-                {mhWildsCommonNamespace?.mhwilds_common_low_rank}
+                {mhCommonNamespace?.mh_common_low_rank}
               </button>
 
               <button
@@ -160,7 +162,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                     : "bg-white text-gray-700"
                 }`}
               >
-                {mhWildsCommonNamespace?.mhwilds_common_high_rank}
+                {mhCommonNamespace?.mh_common_high_rank}
               </button>
             </div>
 
@@ -172,7 +174,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                       {mhWildsArmorNamespace[name]}
                     </div>
                     <div className="text-sm text-gray-600  font-weight: font-bold">
-                      　{mhWildsCommonNamespace?.mhwilds_common_slots} :
+                      　{mhWildsmhCommonNamespace?.mhwilds_common_slots} :
                       {slots?.join(" / ")}
                     </div>
                   </div>
@@ -180,7 +182,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                   <div className="grid grid-cols-3 gap-4 text-sm">
                     <div className="bg-gray-800 text-white rounded p-4">
                       <strong>
-                        {mhWildsCommonNamespace?.mhwilds_common_skills} :
+                        {mhWildsmhCommonNamespace?.mhwilds_common_skills} :
                       </strong>
                       {skills && Object.keys(skills).length ? (
                         Object.entries(skills).map(([skill, level]) => (
@@ -190,13 +192,14 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                           </div>
                         ))
                       ) : (
-                        <div>{mhWildsCommonNamespace?.mhwilds_common_none}</div>
+                        <div>{mhCommonNamespace?.mh_common_none}</div>
                       )}
                     </div>
 
                     <div className="bg-gray-800 text-white rounded p-4">
                       <strong>
-                        {mhWildsCommonNamespace?.mhwilds_common_series_skill} :
+                        {mhWildsmhCommonNamespace?.mhwilds_common_series_skill}{" "}
+                        :
                       </strong>
                       {seriesSkill && Object.keys(seriesSkill).length ? (
                         Object.entries(seriesSkill).map(([skill]) => (
@@ -205,13 +208,13 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                           </div>
                         ))
                       ) : (
-                        <div>{mhWildsCommonNamespace?.mhwilds_common_none}</div>
+                        <div>{mhCommonNamespace?.mh_common_none}</div>
                       )}
                     </div>
 
                     <div className="bg-gray-800 text-white rounded p-4">
                       <strong>
-                        {mhWildsCommonNamespace?.mhwilds_common_group_skill} :
+                        {mhWildsmhCommonNamespace?.mhwilds_common_group_skill} :
                       </strong>
                       {groupSkill && Object.keys(groupSkill).length ? (
                         Object.entries(groupSkill).map(([skill]) => (
@@ -220,7 +223,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                           </div>
                         ))
                       ) : (
-                        <div>{mhWildsCommonNamespace?.mhwilds_common_none}</div>
+                        <div>{mhCommonNamespace?.mh_common_none}</div>
                       )}
                     </div>
                   </div>
@@ -228,20 +231,16 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                   <div className="text-sm bg-gray-700 text-white rounded p-2">
                     {def?.length === 7 ? (
                       <strong>
-                        {mhWildsCommonNamespace?.mhwilds_common_defense}{" "}
-                        {def[0]} →{def[1]}　
-                        {mhWildsCommonNamespace?.mhwilds_common_fire} :{def[2]}
-                        　{mhWildsCommonNamespace?.mhwilds_common_water} :
-                        {def[3]}　
-                        {mhWildsCommonNamespace?.mhwilds_common_thunder} :
-                        {def[4]}　{mhWildsCommonNamespace?.mhwilds_common_ice} :
-                        {def[5]}　
-                        {mhWildsCommonNamespace?.mhwilds_common_dragon} :
-                        {def[6]}
+                        {mhCommonNamespace?.mh_common_defense} {def[0]} →
+                        {def[1]}　{mhCommonNamespace?.mh_common_fire} :{def[2]}
+                        　{mhCommonNamespace?.mh_common_water} :{def[3]}　
+                        {mhCommonNamespace?.mh_common_thunder} :{def[4]}　
+                        {mhCommonNamespace?.mh_common_ice} :{def[5]}　
+                        {mhCommonNamespace?.mh_common_dragon} :{def[6]}
                       </strong>
                     ) : (
                       <div className="text-gray-400 italic">
-                        {mhWildsCommonNamespace?.mhwilds_common_none}
+                        {mhCommonNamespace?.mh_common_none}
                       </div>
                     )}
                   </div>

@@ -17,7 +17,7 @@ export function Pagination({
   onNext: () => void;
 }) {
   const { getNamespaceData } = useI18n();
-  const commonNamespace = getNamespaceData("common");
+  const mhCommonNamespace = getNamespaceData("mh_common");
 
   const totalPages = Math.ceil(totalItems / itemsPerPage);
   if (totalPages <= 1) return null;
@@ -36,14 +36,14 @@ export function Pagination({
         className={buttonClass(currentPage === 1)}
         disabled={currentPage === 1}
       >
-        {commonNamespace?.common_prev_page}
+        {mhCommonNamespace?.mh_common_prev_page}
       </button>
       <button
         onClick={onNext}
         className={buttonClass(currentPage === totalPages)}
         disabled={currentPage === totalPages}
       >
-        {commonNamespace?.common_next_page}
+        {mhCommonNamespace?.mh_common_next_page}
       </button>
     </div>
   );
