@@ -174,7 +174,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                       {mhWildsArmorNamespace[name]}
                     </div>
                     <div className="text-sm text-gray-600  font-weight: font-bold">
-                      　{mhWildsmhCommonNamespace?.mhwilds_common_slots} :
+                      　{mhCommonNamespace?.mh_common_slots} :
                       {slots?.join(" / ")}
                     </div>
                   </div>

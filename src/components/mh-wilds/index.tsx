@@ -126,7 +126,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsmhCommonNamespace?.mhwilds_common_greatsword}
+          {mhCommonNamespace?.mh_common_greatsword}
         </button>
         <button
           onClick={() => setEquipmentType("mhWilds_bows")}
@@ -136,7 +136,7 @@ export function MHWildsContent() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhWildsmhCommonNamespace?.mhwilds_common_bow}
+          {mhCommonNamespace?.mh_common_bow}
         </button>
       </div>
 

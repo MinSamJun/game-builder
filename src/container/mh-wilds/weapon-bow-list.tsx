@@ -52,22 +52,17 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                     {mhWildsBowNamespace[name]}
                   </div>
                   <div className="text-sm text-gray-600 font-weight: font-bold">
-                    　{mhWildsmhCommonNamespace?.mhwilds_common_slots} :{" "}
-                    {slots.join(" / ")}
+                    　{mhCommonNamespace?.mh_common_slots} : {slots.join(" / ")}
                   </div>
                 </div>
 
                 <div className="grid grid-cols-3 gap-4 text-sm">
                   <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>
-                      {mhWildsmhCommonNamespace?.mhwilds_common_attack}:
-                    </strong>{" "}
+                    <strong>{mhCommonNamespace?.mh_common_attack}:</strong>{" "}
                     {attack}
                   </div>
                   <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>
-                      {mhWildsmhCommonNamespace?.mhwilds_common_element}:
-                    </strong>{" "}
+                    <strong>{mhCommonNamespace?.mh_common_element}:</strong>{" "}
                     {element
                       ? typeof element === "object"
                         ? Object.entries(element)
@@ -83,18 +78,14 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                   </div>
 
                   <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>
-                      {mhWildsmhCommonNamespace?.mhwilds_common_affinity}:
-                    </strong>{" "}
+                    <strong>{mhCommonNamespace?.mh_common_affinity}:</strong>{" "}
                     {affinity}%
                   </div>
                 </div>
 
                 <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>
-                      {mhWildsmhCommonNamespace?.mhwilds_common_defense}:
-                    </strong>{" "}
+                    <strong>{mhCommonNamespace?.mh_common_defense}:</strong>{" "}
                     {defense}
                   </div>
 
