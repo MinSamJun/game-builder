@@ -1,5 +1,5 @@
-import { MHWildsContent } from "@/components/mh-wilds";
+import { MhWildsArmorNCharm } from "@/components/mh-wilds/armor-charm";
 
-export default function MhwildsArmorNCharm() {
-  return <MHWildsContent />;
+export default function MhWildsArmorNCharmPage() {
+  return <MhWildsArmorNCharm />;
 }
