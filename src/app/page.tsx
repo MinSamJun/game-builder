@@ -16,25 +16,25 @@ const Home = () => {
       <PageBlock
         title={homePagemhCommonNamespace?.implemented}
         items={[
-          { title: homePageItemsNamespace?.page1, href: "/" },
-          { title: homePageItemsNamespace?.page2, href: "/" },
-          { title: homePageItemsNamespace?.page3, href: "/" },
+          { pageTitle: homePageItemsNamespace?.page1, pageHref: "/" },
+          { pageTitle: homePageItemsNamespace?.page2, pageHref: "/" },
+          { pageTitle: homePageItemsNamespace?.page3, pageHref: "/" },
         ]}
       />
       <PageBlock
         title={homePagemhCommonNamespace?.inProgress}
         items={[
-          { title: homePageItemsNamespace?.mhWilds, href: "/mh-wilds" },
-          { title: homePageItemsNamespace?.page2, href: "/" },
-          { title: homePageItemsNamespace?.page3, href: "/" },
+          { pageTitle: homePageItemsNamespace?.mhWilds, pageHref: "/mh-wilds" },
+          { pageTitle: homePageItemsNamespace?.page2, pageHref: "/" },
+          { pageTitle: homePageItemsNamespace?.page3, pageHref: "/" },
         ]}
       />
       <PageBlock
         title={homePagemhCommonNamespace?.planned}
         items={[
-          { title: homePageItemsNamespace?.page1, href: "/" },
-          { title: homePageItemsNamespace?.page2, href: "/" },
-          { title: homePageItemsNamespace?.page3, href: "/" },
+          { pageTitle: homePageItemsNamespace?.page1, pageHref: "/" },
+          { pageTitle: homePageItemsNamespace?.page2, pageHref: "/" },
+          { pageTitle: homePageItemsNamespace?.page3, pageHref: "/" },
         ]}
       />
     </main>
