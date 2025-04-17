@@ -8,7 +8,9 @@ import { NoResults } from "@container/common/no-results";
 export function SeriesSkillList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhWildsSeriesNameNamespace = getNamespaceData("mhWilds_series_name");
-  const mhWildsSeriesSkillNamespace = getNamespaceData("mhWilds_series_skill");
+  const mhWildsSeriesSkillNamespace = getNamespaceData(
+    "mhWilds_armor_series_skill"
+  );
 
   const lowerSearchTerm = searchTerm.toLowerCase();
 
