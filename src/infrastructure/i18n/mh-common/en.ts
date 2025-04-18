@@ -7,6 +7,7 @@ export const commonEn = {
   mh_common_low_rank: "Low Rank",
   mh_common_high_rank: "High Rank",
   mh_common_master_rank: "Master Rank",
+  mh_common_final_only: "Final Only",
   mh_common_slots: "Slots",
   mh_common_armor: "Armor",
   mh_common_head: "Head",

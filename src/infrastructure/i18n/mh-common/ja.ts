@@ -7,6 +7,7 @@ export const commonJa = {
   mh_common_low_rank: "下位",
   mh_common_high_rank: "上位",
   mh_common_master_rank: "マスター",
+  mh_common_final_only: "最終のみ表示",
   mh_common_slots: "スロット",
   mh_common_armor: "防具",
   mh_common_head: "頭",

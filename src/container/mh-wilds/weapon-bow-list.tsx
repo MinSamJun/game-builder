@@ -16,10 +16,16 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
     getNamespaceData("mhWilds_weapon_skill") ?? {};
   const mhWildsCoatingNamespace = getNamespaceData("mhWilds_coating") ?? {};
 
-  const filteredList = mhWildsBowsData.filter(({ name }) =>
-    (mhWildsBowNamespace[name] ?? name)
-      .toLowerCase()
-      .includes(searchTerm.toLowerCase())
+  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
+  const [isFinalOnly, setIsFinalOnly] = React.useState(false);
+
+  const filteredList = mhWildsBowsData.filter(
+    ({ name, rank, rarity }) =>
+      (!selectedRank || rank === selectedRank) &&
+      (!isFinalOnly || rarity === 4 || rarity === 8) &&
+      (mhWildsBowNamespace[name] ?? name)
+        .toLowerCase()
+        .includes(searchTerm.toLowerCase())
   );
 
   const itemsPerPage = 10;
@@ -31,6 +37,47 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
 
   return (
     <>
+      <div className="flex flex-wrap gap-2 mb-4">
+        <button
+          onClick={() =>
+            setSelectedRank(
+              selectedRank === "mhwilds_low_rank" ? null : "mhwilds_low_rank"
+            )
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedRank === "mhwilds_low_rank"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_low_rank ?? "Low Rank"}
+        </button>
+
+        <button
+          onClick={() =>
+            setSelectedRank(
+              selectedRank === "mhwilds_high_rank" ? null : "mhwilds_high_rank"
+            )
+          }
+          className={`px-3 py-1 rounded border ${
+            selectedRank === "mhwilds_high_rank"
+              ? "bg-blue-500 text-white"
+              : "bg-white text-gray-700"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_high_rank ?? "High Rank"}
+        </button>
+
+        <label className="flex items-center gap-2 ml-4 text-sm">
+          <input
+            type="checkbox"
+            checked={isFinalOnly}
+            onChange={() => setIsFinalOnly(!isFinalOnly)}
+          />
+          {mhCommonNamespace?.mh_common_final_only}
+        </label>
+      </div>
+
       {filteredList.length === 0 ? (
         <NoResults />
       ) : (
@@ -72,7 +119,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                             .map(
                               ([key, value]) =>
                                 `${
-                                  mhWildsmhCommonNamespace[`${key}`]
+                                  mhWildsmhCommonNamespace[key] ?? key
                                 }: ${value}`
                             )
                             .join(", ")

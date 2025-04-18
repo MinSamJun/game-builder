@@ -1,6 +1,6 @@
 [
   {
-    "name": "hope_bow_i",
+    "name": "mhwilds_bow_hope_bow_i",
     "part": "mhwilds_bow",
     "rarity": 1,
     "attack": 90,
@@ -13,7 +13,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_bow_ii",
+    "name": "mhwilds_bow_hope_bow_ii",
     "part": "mhwilds_bow",
     "rarity": 1,
     "attack": 100,
@@ -28,7 +28,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_bow_iii",
+    "name": "mhwilds_bow_hope_bow_iii",
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 130,
@@ -44,7 +44,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_bow_iv",
+    "name": "mhwilds_bow_hope_bow_iv",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 160,
@@ -60,7 +60,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "hope_bow_v",
+    "name": "mhwilds_bow_hope_bow_v",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 190,
@@ -76,7 +76,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "nihil_bow_i",
+    "name": "mhwilds_bow_nihil_bow_i",
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 160,
@@ -91,7 +91,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "nihil_bow_ii",
+    "name": "mhwilds_bow_nihil_bow_ii",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 190,
@@ -106,7 +106,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "bookwilthe_s_punisher",
+    "name": "mhwilds_bow_bookwilthe_s_punisher",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 230,
@@ -121,7 +121,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rey_perkonis_i",
+    "name": "mhwilds_bow_rey_perkonis_i",
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 140,
@@ -137,7 +137,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "rey_perkonis_ii",
+    "name": "mhwilds_bow_rey_perkonis_ii",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
@@ -153,7 +153,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rey_perkonis_iii",
+    "name": "mhwilds_bow_rey_perkonis_iii",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 200,
@@ -169,7 +169,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "perkonis_clairbow",
+    "name": "mhwilds_bow_perkonis_clairbow",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
@@ -185,7 +185,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "windbrace_bow_i",
+    "name": "mhwilds_bow_windbrace_bow_i",
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 140,
@@ -201,7 +201,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "windbrace_bow_ii",
+    "name": "mhwilds_bow_windbrace_bow_ii",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
@@ -217,7 +217,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "windbrace_bow_iii",
+    "name": "mhwilds_bow_windbrace_bow_iii",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 200,
@@ -233,7 +233,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "windbrace_ibami",
+    "name": "mhwilds_bow_windbrace_ibami",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
@@ -249,7 +249,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "quematrice_arco_i",
+    "name": "mhwilds_bow_quematrice_arco_i",
     "part": "mhwilds_bow",
     "rarity": 1,
     "attack": 100,
@@ -264,7 +264,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "quematrice_arco_ii",
+    "name": "mhwilds_bow_quematrice_arco_ii",
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 140,
@@ -279,7 +279,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "quematrice_arco_iii",
+    "name": "mhwilds_bow_quematrice_arco_iii",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
@@ -294,7 +294,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "quematrice_arco_iv",
+    "name": "mhwilds_bow_quematrice_arco_iv",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 210,
@@ -309,7 +309,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "firetrail_leviora",
+    "name": "mhwilds_bow_firetrail_leviora",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
@@ -324,7 +324,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "dragon_perforator_i",
+    "name": "mhwilds_bow_dragon_perforator_i",
     "part": "mhwilds_bow",
     "rarity": 2,
     "attack": 120,
@@ -339,7 +339,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dragon_perforator_ii",
+    "name": "mhwilds_bow_dragon_perforator_ii",
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 160,
@@ -354,7 +354,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dragon_perforator_iii",
+    "name": "mhwilds_bow_dragon_perforator_iii",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 190,
@@ -369,7 +369,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "true_dragon_perforator",
+    "name": "mhwilds_bow_true_dragon_perforator",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
@@ -384,7 +384,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "albirath_bow_i",
+    "name": "mhwilds_bow_albirath_bow_i",
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 160,
@@ -400,7 +400,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "albirath_bow_ii",
+    "name": "mhwilds_bow_albirath_bow_ii",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
@@ -416,7 +416,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "solar_spicule",
+    "name": "mhwilds_bow_solar_spicule",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
@@ -432,7 +432,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "prominence_bow_i",
+    "name": "mhwilds_bow_prominence_bow_i",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
@@ -447,7 +447,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "dark_filament",
+    "name": "mhwilds_bow_dark_filament",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 200,
@@ -462,7 +462,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "queen_blaster_i",
+    "name": "mhwilds_bow_queen_blaster_i",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 160,
@@ -478,7 +478,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "queen_blaster_ii",
+    "name": "mhwilds_bow_queen_blaster_ii",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 190,
@@ -494,7 +494,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "queen_s_melody",
+    "name": "mhwilds_bow_queen_s_melody",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
@@ -510,7 +510,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "scylla_fist_i",
+    "name": "mhwilds_bow_scylla_fist_i",
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 120,
@@ -530,7 +530,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "scylla_fist_ii",
+    "name": "mhwilds_bow_scylla_fist_ii",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 150,
@@ -550,7 +550,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "scylla_fist_iii",
+    "name": "mhwilds_bow_scylla_fist_iii",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 180,
@@ -570,7 +570,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "nershock",
+    "name": "mhwilds_bow_nershock",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
@@ -590,7 +590,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "dosha_fearbringer_i",
+    "name": "mhwilds_bow_dosha_fearbringer_i",
     "part": "mhwilds_bow",
     "rarity": 2,
     "attack": 140,
@@ -605,7 +605,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dosha_fearbringer_ii",
+    "name": "mhwilds_bow_dosha_fearbringer_ii",
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 180,
@@ -620,7 +620,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dosha_fearbringer_iii",
+    "name": "mhwilds_bow_dosha_fearbringer_iii",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 210,
@@ -635,7 +635,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "dosha_griefbringer_i",
+    "name": "mhwilds_bow_dosha_griefbringer_i",
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 180,
@@ -651,7 +651,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dosha_griefbringer_ii",
+    "name": "mhwilds_bow_dosha_griefbringer_ii",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 220,
@@ -667,7 +667,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "griefbringer_urstox",
+    "name": "mhwilds_bow_griefbringer_urstox",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 250,
@@ -683,7 +683,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "hunter_s_bow_i",
+    "name": "mhwilds_bow_hunter_s_bow_i",
     "part": "mhwilds_bow",
     "rarity": 1,
     "attack": 110,
@@ -698,7 +698,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hunter_s_bow_ii",
+    "name": "mhwilds_bow_hunter_s_bow_ii",
     "part": "mhwilds_bow",
     "rarity": 2,
     "attack": 130,
@@ -714,7 +714,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hunter_s_bow_iii",
+    "name": "mhwilds_bow_hunter_s_bow_iii",
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 170,
@@ -730,7 +730,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hunter_s_bow_iv",
+    "name": "mhwilds_bow_hunter_s_bow_iv",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 200,
@@ -746,7 +746,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "hunter_s_stoutbow",
+    "name": "mhwilds_bow_hunter_s_stoutbow",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 230,
@@ -762,7 +762,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blinding_fulgur_i",
+    "name": "mhwilds_bow_blinding_fulgur_i",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
@@ -777,7 +777,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "fulgurbow_guardiana",
+    "name": "mhwilds_bow_fulgurbow_guardiana",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 200,
@@ -792,7 +792,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "uth_khviluk_i",
+    "name": "mhwilds_bow_uth_khviluk_i",
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 160,
@@ -807,7 +807,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "uth_khviluk_ii",
+    "name": "mhwilds_bow_uth_khviluk_ii",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 190,
@@ -822,7 +822,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "uth_khviluk_iii",
+    "name": "mhwilds_bow_uth_khviluk_iii",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 220,
@@ -837,7 +837,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "khviluk_of_the_waves",
+    "name": "mhwilds_bow_khviluk_of_the_waves",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 240,
@@ -852,7 +852,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "entbehrung_i",
+    "name": "mhwilds_bow_entbehrung_i",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 180,
@@ -867,7 +867,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "verzweiflung",
+    "name": "mhwilds_bow_verzweiflung",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
@@ -882,7 +882,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "wild_power_bow_i",
+    "name": "mhwilds_bow_wild_power_bow_i",
     "part": "mhwilds_bow",
     "rarity": 2,
     "attack": 120,
@@ -901,7 +901,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "wild_power_bow_ii",
+    "name": "mhwilds_bow_wild_power_bow_ii",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
@@ -922,7 +922,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "wildwood_kalifa",
+    "name": "mhwilds_bow_wildwood_kalifa",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
@@ -943,7 +943,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blan_sharanga_i",
+    "name": "mhwilds_bow_blan_sharanga_i",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 200,
@@ -958,7 +958,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "singha_sharanga",
+    "name": "mhwilds_bow_singha_sharanga",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 230,
@@ -973,7 +973,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "kut_ku_stave_i",
+    "name": "mhwilds_bow_kut_ku_stave_i",
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
@@ -988,7 +988,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "kut_ku_stave_ii",
+    "name": "mhwilds_bow_kut_ku_stave_ii",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 190,
@@ -1003,7 +1003,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "strange_kut_ku_stave",
+    "name": "mhwilds_bow_strange_kut_ku_stave",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 200,
@@ -1018,7 +1018,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_veldian_arcum_i",
+    "name": "mhwilds_bow_g_veldian_arcum_i",
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 170,
@@ -1033,7 +1033,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "g_veldian_arcum_ii",
+    "name": "mhwilds_bow_g_veldian_arcum_ii",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 210,
@@ -1048,7 +1048,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_renowned_tristram",
+    "name": "mhwilds_bow_g_renowned_tristram",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 240,
@@ -1063,7 +1063,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "veldian_arcum_i",
+    "name": "mhwilds_bow_veldian_arcum_i",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 200,
@@ -1078,7 +1078,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_sight_i",
+    "name": "mhwilds_bow_artian_sight_i",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 170,
@@ -1091,7 +1091,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_sight_ii",
+    "name": "mhwilds_bow_artian_sight_ii",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 180,
@@ -1104,7 +1104,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "angelbein",
+    "name": "mhwilds_bow_angelbein",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 190,
@@ -1117,7 +1117,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "esperanza_bow",
+    "name": "mhwilds_bow_esperanza_bow",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
@@ -1133,7 +1133,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "fearbringer_callistox",
+    "name": "mhwilds_bow_fearbringer_callistox",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 240,
@@ -1148,7 +1148,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "renowned_tristram",
+    "name": "mhwilds_bow_renowned_tristram",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
@@ -1163,7 +1163,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blessed_rain_i",
+    "name": "mhwilds_bow_blessed_rain_i",
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
@@ -1179,7 +1179,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "heaven_s_manna",
+    "name": "mhwilds_bow_heaven_s_manna",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
@@ -1195,7 +1195,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "zoh_samira_i",
+    "name": "mhwilds_bow_zoh_samira_i",
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 210,
@@ -1210,7 +1210,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blazing_samira",
+    "name": "mhwilds_bow_blazing_samira",
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,

@@ -70,7 +70,7 @@ export function MhWildsWeapon() {
               : "bg-gray-200 text-black"
           }`}
         >
-          {mhCommonNamespace?.mh_common_chargblade}
+          {mhCommonNamespace?.mh_common_chargeblade}
         </button>
       </div>
       {/* 태도, 한손검, 쌍검, 랜스, 조충곤 */}
