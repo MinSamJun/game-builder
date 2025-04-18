@@ -54,12 +54,15 @@ export function GreatswordList({ searchTerm }: { searchTerm: string }) {
                   <div className="font-semibold">
                     {mhWildsGreatswordNamespace[name]}
                   </div>
-                  <div className="text-sm text-gray-600 font-weight: font-bold">
-                    　{mhCommonNamespace?.mh_common_slots} : {slots.join(" / ")}
-                  </div>
+                  {slots.length > 0 && (
+                    <div className="text-sm text-gray-600 font-weight: font-bold">
+                      　{mhCommonNamespace?.mh_common_slots} :{" "}
+                      {slots.join(" / ")}
+                    </div>
+                  )}
                 </div>
 
-                <div className="grid grid-cols-3 gap-4 text-sm">
+                <div className="grid grid-cols-4 gap-4 text-sm">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_attack}:</strong>{" "}
                     {attack}
@@ -82,14 +85,14 @@ export function GreatswordList({ searchTerm }: { searchTerm: string }) {
                     <strong>{mhCommonNamespace?.mh_common_affinity}:</strong>{" "}
                     {affinity}%
                   </div>
-                </div>
 
-                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_defense}:</strong>{" "}
                     {defense}
                   </div>
+                </div>
 
+                <div className="gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
                       {mhWildsmhCommonNamespace?.mhwilds_common_skills}:

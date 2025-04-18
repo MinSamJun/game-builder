@@ -22,7 +22,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
@@ -37,7 +37,7 @@
     "Slots": [],
     "Skills": {
       "critical_eye": 1,
-      "speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
@@ -51,7 +51,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "speed_sharpening": 2,
+      "mhwilds_weapon_skill_speed_sharpening": 2,
       "critical_eye": 1
     }
   },
@@ -66,7 +66,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "speed_sharpening": 2,
+      "mhwilds_weapon_skill_speed_sharpening": 2,
       "critical_eye": 1
     }
   },
@@ -1188,7 +1188,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "critical_eye": 2,
-      "speed_sharpening": 2
+      "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {

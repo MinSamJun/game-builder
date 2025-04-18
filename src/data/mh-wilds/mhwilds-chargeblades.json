@@ -1,1096 +1,1096 @@
 [
   {
-    "Name": "hope_strongarm_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 92,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {}
+    "name": "mhwilds_chargeblades_hope_strongarm_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 92,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {}
   },
   {
-    "Name": "hope_strongarm_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 102,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_speed_sharpening": 1
+    "name": "mhwilds_chargeblades_hope_strongarm_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 102,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_strongarm_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 133,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_chargeblades_hope_strongarm_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 133,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 1,
-      "mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_strongarm_iv",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 164,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_speed_sharpening": 2,
+    "name": "mhwilds_chargeblades_hope_strongarm_iv",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 164,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "hope_strongarm_v",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 195,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_speed_sharpening": 2,
+    "name": "mhwilds_chargeblades_hope_strongarm_v",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 195,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "bone_strongarm_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 113,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_load_shells": 1
+    "name": "mhwilds_chargeblades_bone_strongarm_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 113,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_load_shells": 1
     }
   },
   {
-    "Name": "bone_strongarm_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 133,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_chargeblades_bone_strongarm_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 133,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_attack_boost": 1,
-      "mhwilds_load_shells": 1
+      "mhwilds_weapon_skill_load_shells": 1
     }
   },
   {
-    "Name": "bone_strongarm_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "mhwilds_load_shells": 2,
+    "name": "mhwilds_chargeblades_bone_strongarm_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_load_shells": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "bone_strongarm_iv",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_load_shells": 2,
+    "name": "mhwilds_chargeblades_bone_strongarm_iv",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_load_shells": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "hard_bone_strongarm",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 236,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_hard_bone_strongarm",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 236,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_attack_boost": 2,
-      "mhwilds_load_shells": 2
+      "mhwilds_weapon_skill_load_shells": 2
     }
   },
   {
-    "Name": "hyperguard_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 123,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_rapid_morph": 1
+    "name": "mhwilds_chargeblades_hyperguard_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 123,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_rapid_morph": 1
     }
   },
   {
-    "Name": "hyperguard_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 164,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "mhwilds_rapid_morph": 2
+    "name": "mhwilds_chargeblades_hyperguard_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 164,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_rapid_morph": 2
     }
   },
   {
-    "Name": "hyperguard_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 195,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_rapid_morph": 3
+    "name": "mhwilds_chargeblades_hyperguard_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 195,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_rapid_morph": 3
     }
   },
   {
-    "Name": "regas_hyper",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_rapid_morph": 3
+    "name": "mhwilds_chargeblades_regas_hyper",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_rapid_morph": 3
     }
   },
   {
-    "Name": "chata_strongarm_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 113,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_guard": 1
+    "name": "mhwilds_chargeblades_chata_strongarm_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 113,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "chata_strongarm_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 154,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_artillery": 1,
-      "mhwilds_guard": 1
+    "name": "mhwilds_chargeblades_chata_strongarm_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 154,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_artillery": 1,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "chata_strongarm_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_guard": 2,
-      "mhwilds_artillery": 1
+    "name": "mhwilds_chargeblades_chata_strongarm_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 2,
+      "mhwilds_weapon_skill_artillery": 1
     }
   },
   {
-    "Name": "chata_strongarm_iv",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_guard": 2,
-      "mhwilds_artillery": 1
+    "name": "mhwilds_chargeblades_chata_strongarm_iv",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 2,
+      "mhwilds_weapon_skill_artillery": 1
     }
   },
   {
-    "Name": "barina_bouclier_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 102,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_critical_draw": 1
+    "name": "mhwilds_chargeblades_barina_bouclier_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 102,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
-    "Name": "barina_bouclier_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 123,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_critical_draw": 1,
-      "mhwilds_critical_status": 1
+    "name": "mhwilds_chargeblades_barina_bouclier_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 123,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 1,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "barina_bouclier_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 154,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_critical_draw": 1,
-      "mhwilds_critical_status": 1
+    "name": "mhwilds_chargeblades_barina_bouclier_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 154,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 1,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "barina_bouclier_iv",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_critical_draw": 2,
-      "mhwilds_critical_status": 1
+    "name": "mhwilds_chargeblades_barina_bouclier_iv",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 2,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "lala_eumenophor",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_critical_draw": 2,
-      "mhwilds_critical_status": 1
+    "name": "mhwilds_chargeblades_lala_eumenophor",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 2,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "uth_valeroje_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 164,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_power_prolonger": 2
+    "name": "mhwilds_chargeblades_uth_valeroje_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 164,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "uth_valeroje_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 195,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_power_prolonger": 3
+    "name": "mhwilds_chargeblades_uth_valeroje_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 195,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "uth_valeroje_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_power_prolonger": 2
+    "name": "mhwilds_chargeblades_uth_valeroje_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "valeroje_of_the_waves",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 246,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_power_prolonger": 3
+    "name": "mhwilds_chargeblades_valeroje_of_the_waves",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 246,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "rompo_shielder_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 144,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_guard_up": 2
+    "name": "mhwilds_chargeblades_rompo_shielder_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 144,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
-    "Name": "rompo_shielder_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_guard_up": 2
+    "name": "mhwilds_chargeblades_rompo_shielder_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
-    "Name": "rompo_shielder_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_guard_up": 3
+    "name": "mhwilds_chargeblades_rompo_shielder_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
-    "Name": "rompo_dendrotox",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_guard_up": 3
+    "name": "mhwilds_chargeblades_rompo_dendrotox",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
-    "Name": "rey_astrapi_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 144,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_chargeblades_rey_astrapi_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 144,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_focus": 1,
-      "mhwilds_load_shells": 1
+      "mhwilds_weapon_skill_load_shells": 1
     }
   },
   {
-    "Name": "rey_astrapi_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_rey_astrapi_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 1,
-      "mhwilds_load_shells": 1
+      "mhwilds_weapon_skill_load_shells": 1
     }
   },
   {
-    "Name": "rey_astrapi_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_chargeblades_rey_astrapi_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2,
-      "mhwilds_load_shells": 1
+      "mhwilds_weapon_skill_load_shells": 1
     }
   },
   {
-    "Name": "astrapi_clairaxe",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_astrapi_clairaxe",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2,
-      "mhwilds_load_shells": 1
+      "mhwilds_weapon_skill_load_shells": 1
     }
   },
   {
-    "Name": "arachnoscale_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 123,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "mhwilds_offensive_guard": 1,
-      "mhwilds_guard": 1
+    "name": "mhwilds_chargeblades_arachnoscale_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 123,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_offensive_guard": 1,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "arachnoscale_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 154,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_offensive_guard": 1,
-      "mhwilds_guard": 1
+    "name": "mhwilds_chargeblades_arachnoscale_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 154,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_offensive_guard": 1,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "arachnoscale_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_offensive_guard": 2,
-      "mhwilds_guard": 1
+    "name": "mhwilds_chargeblades_arachnoscale_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_offensive_guard": 2,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "arachnoscythe",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_offensive_guard": 2,
-      "mhwilds_guard": 1
+    "name": "mhwilds_chargeblades_arachnoscythe",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_offensive_guard": 2,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "windthrash_charger_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 144,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_chargeblades_windthrash_charger_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 144,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "windthrash_charger_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_windthrash_charger_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "windthrash_charger_iii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_chargeblades_windthrash_charger_iii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "windthrash_tamebami",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_windthrash_tamebami",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "nu_pweza_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "mhwilds_rapid_morph": 2
+    "name": "mhwilds_chargeblades_nu_pweza_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_rapid_morph": 2
     }
   },
   {
-    "Name": "nu_pweza_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_rapid_morph": 3
+    "name": "mhwilds_chargeblades_nu_pweza_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_rapid_morph": 3
     }
   },
   {
-    "Name": "abaddonian_pweza",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 236,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_rapid_morph": 3
+    "name": "mhwilds_chargeblades_abaddonian_pweza",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 236,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_rapid_morph": 3
     }
   },
   {
-    "Name": "albirath_blade_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 164,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_albirath_blade_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 164,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "albirath_blade_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_albirath_blade_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "guardian_albathos",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_guardian_albathos",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "chthonian_flame_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 144,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "mhwilds_offensive_guard": 2
+    "name": "mhwilds_chargeblades_chthonian_flame_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 144,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
-    "Name": "chthonian_flame_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_offensive_guard": 3
+    "name": "mhwilds_chargeblades_chthonian_flame_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "bequeathed_enmity",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_offensive_guard": 3
+    "name": "mhwilds_chargeblades_bequeathed_enmity",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "g_veldian_labrys_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
-      "mhwilds_guard": 2
+    "name": "mhwilds_chargeblades_g_veldian_labrys_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "g_veldian_labrys_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
-      "mhwilds_guard": 2
+    "name": "mhwilds_chargeblades_g_veldian_labrys_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "g_abiding_gawain",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 246,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
-      "mhwilds_guard": 2
+    "name": "mhwilds_chargeblades_g_abiding_gawain",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 246,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "poison_blade_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_punishing_draw": 2,
-      "mhwilds_critical_draw": 1
+    "name": "mhwilds_chargeblades_poison_blade_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_punishing_draw": 2,
+      "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
-    "Name": "poison_blade_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_critical_draw": 2,
-      "mhwilds_punishing_draw": 2
+    "name": "mhwilds_chargeblades_poison_blade_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 2,
+      "mhwilds_weapon_skill_punishing_draw": 2
     }
   },
   {
-    "Name": "venom_s_kiss",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 236,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_punishing_draw": 3,
-      "mhwilds_critical_draw": 2
+    "name": "mhwilds_chargeblades_venom_s_kiss",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 236,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_punishing_draw": 3,
+      "mhwilds_weapon_skill_critical_draw": 2
     }
   },
   {
-    "Name": "dear_lutemis_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 164,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_critical_status": 2,
+    "name": "mhwilds_chargeblades_dear_lutemis_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 164,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_status": 2,
       "mhwilds_weapon_skill_poison_duration_up": 1
     }
   },
   {
-    "Name": "dear_lutemis_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 195,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_critical_status": 3,
+    "name": "mhwilds_chargeblades_dear_lutemis_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 195,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     }
   },
   {
-    "Name": "dear_lutemia",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_critical_status": 3,
+    "name": "mhwilds_chargeblades_dear_lutemia",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     }
   },
   {
-    "Name": "axelion_blade_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 195,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_axelion_blade_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 195,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "bardichion_blade",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_bardichion_blade",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "elendskraft_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_chargeblades_elendskraft_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "leidenskraft",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_leidenskraft",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "veldian_labrys_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 205,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "mhwilds_guard": 3
+    "name": "mhwilds_chargeblades_veldian_labrys_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 205,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 3
     }
   },
   {
-    "Name": "artian_defender_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 174,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_chargeblades_artian_defender_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 174,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "artian_defender_ii",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_chargeblades_artian_defender_ii",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "chrono_gear",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 195,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 3],
-    "Skills": {}
+    "name": "mhwilds_chargeblades_chrono_gear",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 195,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {}
   },
   {
-    "Name": "esperanza_strongarm",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_esperanza_strongarm",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 2,
-      "mhwilds_speed_sharpening": 2
+      "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "shrouded_kutharja",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_guard": 3,
-      "mhwilds_artillery": 1
+    "name": "mhwilds_chargeblades_shrouded_kutharja",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 3,
+      "mhwilds_weapon_skill_artillery": 1
     }
   },
   {
-    "Name": "abiding_gawain",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_guard": 3
+    "name": "mhwilds_chargeblades_abiding_gawain",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_guard": 3
     }
   },
   {
-    "Name": "mizuniya_drill_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 185,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "mhwilds_blade": 2,
+    "name": "mhwilds_chargeblades_mizuniya_drill_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 185,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "final_fieldblade",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "mhwilds_blade": 3,
+    "name": "mhwilds_chargeblades_final_fieldblade",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "zoh_yirmiya_i",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 216,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_chargeblades_zoh_yirmiya_i",
+    "part": "mhwilds_chargeblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 216,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   },
   {
-    "Name": "blazing_yirmiya",
-    "Part": "mhwilds_chargeblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 226,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_chargeblades_blazing_yirmiya",
+    "part": "mhwilds_chargeblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 226,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   }

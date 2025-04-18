@@ -24,7 +24,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Notes": [1, 3, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -40,8 +40,8 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 1,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_critical_eye": 1,
+      "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Notes": [1, 3, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -57,8 +57,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 1
+      "mhwilds_weapon_skill_speed_sharpening": 2,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
     "Notes": [10, 3, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -74,8 +74,8 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 1
+      "mhwilds_weapon_skill_speed_sharpening": 2,
+      "mhwilds_weapon_skill_critical_eye": 1
     },
     "Notes": [10, 3, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -91,7 +91,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 1
+      "mhwilds_weapon_skill_stamina_thief": 1
     },
     "Notes": [1, 3, 2],
     "EchoBubbles": "mhwilds_defense_elemental_res_up"
@@ -107,8 +107,8 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 1
+      "mhwilds_weapon_skill_attack_boost": 1,
+      "mhwilds_weapon_skill_stamina_thief": 1
     },
     "Notes": [1, 3, 2],
     "EchoBubbles": "mhwilds_defense_elemental_res_up"
@@ -124,8 +124,8 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1
+      "mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_attack_boost": 1
     },
     "Notes": [1, 3, 2],
     "EchoBubbles": "mhwilds_defense_elemental_res_up"
@@ -141,8 +141,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1
+      "mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
     },
     "Notes": [10, 3, 2],
     "EchoBubbles": "mhwilds_defense_elemental_res_up"
@@ -158,8 +158,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_attack_boost": 1
+      "mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
     },
     "Notes": [10, 3, 2],
     "EchoBubbles": "mhwilds_defense_elemental_res_up"
@@ -175,7 +175,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_draw": 1,
+      "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [1, 3, 7],
@@ -192,7 +192,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_draw": 2,
+      "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [1, 3, 7],
@@ -209,7 +209,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_critical_draw": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 3, 7],
@@ -226,7 +226,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_critical_draw": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 3, 7],
@@ -260,7 +260,7 @@
     "Slots": [2, 1, 1],
     "Skills": {
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Notes": [10, 6, 8],
     "EchoBubbles": "mhwilds_attack_affinity_up"
@@ -277,7 +277,7 @@
     "Slots": [3, 3, 1],
     "Skills": {
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 2,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Notes": [10, 6, 8],
     "EchoBubbles": "mhwilds_attack_affinity_up"
@@ -435,7 +435,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_stamina_thief": 2,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [1, 3, 5],
@@ -454,7 +454,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_stamina_thief": 2,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 3, 5],
@@ -473,7 +473,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 3, 5],
@@ -492,7 +492,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 3, 5],
@@ -563,7 +563,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_stamina_thief": 2,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [1, 4, 7],
@@ -580,7 +580,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 4, 7],
@@ -597,7 +597,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 4, 7],
@@ -616,8 +616,8 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_masters_touch": 1
     },
     "Notes": [1, 3, 2],
     "EchoBubbles": "mhwilds_stamina_regeneration"
@@ -635,8 +635,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_masters_touch": 1
     },
     "Notes": [10, 3, 2],
     "EchoBubbles": "mhwilds_stamina_regeneration"
@@ -654,8 +654,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_weapon_skill_mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_masters_touch": 1
     },
     "Notes": [10, 3, 2],
     "EchoBubbles": "mhwilds_stamina_regeneration"
@@ -709,7 +709,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_stamina_thief": 2,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [1, 6, 8],
@@ -728,7 +728,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 6, 8],
@@ -747,7 +747,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 6, 8],
@@ -820,7 +820,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_stamina_thief": 2,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 15, 5],
@@ -839,7 +839,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 15, 5],
@@ -858,7 +858,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_stamina_thief": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 15, 5],
@@ -877,7 +877,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_draw": 2,
+      "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 15, 12],
@@ -896,7 +896,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_critical_draw": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 15, 12],
@@ -915,7 +915,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_draw": 3,
+      "mhwilds_weapon_skill_critical_draw": 3,
       "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
     },
     "Notes": [10, 15, 12],
@@ -934,8 +934,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_status": 2,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_poison_duration_up": 1
+      "mhwilds_weapon_skill_critical_status": 2,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Notes": [10, 3, 8],
     "EchoBubbles": "mhwilds_health_regeneration"
@@ -953,8 +953,8 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_status": 3,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_poison_duration_up": 1
+      "mhwilds_weapon_skill_critical_status": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Notes": [10, 3, 8],
     "EchoBubbles": "mhwilds_health_regeneration"
@@ -972,8 +972,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_critical_status": 3,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_poison_duration_up": 1
+      "mhwilds_weapon_skill_critical_status": 3,
+      "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Notes": [10, 3, 8],
     "EchoBubbles": "mhwilds_health_regeneration"
@@ -991,7 +991,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Notes": [10, 15, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1009,7 +1009,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Notes": [10, 15, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1027,7 +1027,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_boost": 3
+      "mhwilds_weapon_skill_critical_boost": 3
     },
     "Notes": [10, 6, 12],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1045,7 +1045,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_boost": 3
+      "mhwilds_weapon_skill_critical_boost": 3
     },
     "Notes": [10, 6, 12],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1063,7 +1063,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Notes": [10, 4, 12],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1081,7 +1081,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 3
+      "mhwilds_weapon_skill_critical_element": 3
     },
     "Notes": [10, 4, 12],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1137,7 +1137,7 @@
     "Slots": [],
     "Skills": {
       "mhwilds_weapon_skill_mhwilds_protective_polish": 2,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Notes": [1, 6, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1156,7 +1156,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_weapon_skill_mhwilds_protective_polish": 2,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Notes": [10, 6, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1175,7 +1175,7 @@
     "Slots": [3, 2],
     "Skills": {
       "mhwilds_weapon_skill_mhwilds_protective_polish": 3,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Notes": [10, 6, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1194,7 +1194,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_weapon_skill_mhwilds_protective_polish": 3,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2
+      "mhwilds_weapon_skill_speed_sharpening": 2
     },
     "Notes": [10, 6, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1252,8 +1252,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_eye": 2,
-      "mhwilds_weapon_skill_mhwilds_speed_sharpening": 2
+      "mhwilds_weapon_skill_critical_eye": 2,
+      "mhwilds_weapon_skill_speed_sharpening": 2
     },
     "Notes": [10, 3, 5],
     "EchoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1305,8 +1305,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_slicked_blade": 2,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1
+      "mhwilds_weapon_skill_slicked_blade": 2,
+      "mhwilds_weapon_skill_critical_element": 1
     },
     "Notes": [10, 4, 12],
     "EchoBubbles": "mhwilds_stamina_regeneration"
@@ -1322,8 +1322,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_slicked_blade": 3,
-      "mhwilds_weapon_skill_mhwilds_weapon_skill_critical_element": 1
+      "mhwilds_weapon_skill_slicked_blade": 3,
+      "mhwilds_weapon_skill_critical_element": 1
     },
     "Notes": [10, 4, 12],
     "EchoBubbles": "mhwilds_stamina_regeneration"

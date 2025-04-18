@@ -22,7 +22,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
@@ -37,7 +37,7 @@
     "Slots": [],
     "Skills": {
       "mhwilds_weapon_skill_critical_eye": 1,
-      "mhwilds_speed_sharpening": 1
+      "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
@@ -51,7 +51,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_speed_sharpening": 2,
+      "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
@@ -66,7 +66,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_speed_sharpening": 2,
+      "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
@@ -81,7 +81,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_guard": 1
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
@@ -96,7 +96,7 @@
     "Slots": [],
     "Skills": {
       "mhwilds_weapon_skill_attack_boost": 1,
-      "mhwilds_guard": 1
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
@@ -110,7 +110,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_guard": 2,
+      "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
@@ -125,7 +125,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_guard": 3,
+      "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
@@ -140,7 +140,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard": 3,
+      "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
@@ -155,7 +155,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_guard_up": 1
+      "mhwilds_weapon_skill_guard_up": 1
     }
   },
   {
@@ -169,7 +169,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_guard_up": 2
+      "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
@@ -183,7 +183,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_guard_up": 2
+      "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
@@ -197,7 +197,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard_up": 3
+      "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
@@ -213,7 +213,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_guard": 1
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
@@ -229,7 +229,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_guard": 2
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
@@ -245,7 +245,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_guard": 2
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
@@ -261,7 +261,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_guard": 3
+      "mhwilds_weapon_skill_guard": 3
     }
   },
   {
@@ -277,7 +277,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard": 3
+      "mhwilds_weapon_skill_guard": 3
     }
   },
   {
@@ -291,7 +291,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_critical_draw": 1
+      "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
@@ -305,8 +305,8 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_critical_draw": 1,
-      "mhwilds_critical_status": 1
+      "mhwilds_weapon_skill_critical_draw": 1,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
@@ -320,8 +320,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_critical_draw": 1,
-      "mhwilds_critical_status": 1
+      "mhwilds_weapon_skill_critical_draw": 1,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
@@ -335,8 +335,8 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_critical_draw": 2,
-      "mhwilds_critical_status": 1
+      "mhwilds_weapon_skill_critical_draw": 2,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
@@ -350,8 +350,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_draw": 2,
-      "mhwilds_critical_status": 1
+      "mhwilds_weapon_skill_critical_draw": 2,
+      "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
@@ -367,7 +367,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_offensive_guard": 1
+      "mhwilds_weapon_skill_offensive_guard": 1
     }
   },
   {
@@ -383,7 +383,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_offensive_guard": 2
+      "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
@@ -399,7 +399,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 2
+      "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
@@ -415,7 +415,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -431,7 +431,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -445,7 +445,7 @@
     "Defense": 20,
     "Slots": [],
     "Skills": {
-      "mhwilds_punishing_draw": 1
+      "mhwilds_weapon_skill_punishing_draw": 1
     }
   },
   {
@@ -459,7 +459,7 @@
     "Defense": 20,
     "Slots": [1, 1],
     "Skills": {
-      "mhwilds_punishing_draw": 2
+      "mhwilds_weapon_skill_punishing_draw": 2
     }
   },
   {
@@ -473,7 +473,7 @@
     "Defense": 20,
     "Slots": [2, 2],
     "Skills": {
-      "mhwilds_punishing_draw": 3
+      "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
@@ -487,7 +487,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_guard_up": 2
+      "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
@@ -501,7 +501,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_guard_up": 2
+      "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
@@ -515,7 +515,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_guard_up": 3
+      "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
@@ -529,7 +529,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard_up": 3
+      "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
@@ -545,8 +545,8 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_offensive_guard": 1,
-      "mhwilds_guard": 1
+      "mhwilds_weapon_skill_offensive_guard": 1,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
@@ -562,8 +562,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 1,
-      "mhwilds_guard": 1
+      "mhwilds_weapon_skill_offensive_guard": 1,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
@@ -579,8 +579,8 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_guard": 2,
-      "mhwilds_offensive_guard": 1
+      "mhwilds_weapon_skill_guard": 2,
+      "mhwilds_weapon_skill_offensive_guard": 1
     }
   },
   {
@@ -596,8 +596,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard": 2,
-      "mhwilds_offensive_guard": 1
+      "mhwilds_weapon_skill_guard": 2,
+      "mhwilds_weapon_skill_offensive_guard": 1
     }
   },
   {
@@ -613,7 +613,7 @@
     "Defense": 0,
     "Slots": [],
     "Skills": {
-      "mhwilds_guard": 2,
+      "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
@@ -630,7 +630,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_guard": 2,
+      "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
@@ -647,7 +647,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_guard": 3,
+      "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
@@ -664,7 +664,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard": 3,
+      "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
@@ -681,7 +681,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_offensive_guard": 2
+      "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
@@ -697,7 +697,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -713,7 +713,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -727,7 +727,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_offensive_guard": 2
+      "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
@@ -741,7 +741,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -755,7 +755,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -772,7 +772,7 @@
     "Slots": [1],
     "Skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
@@ -789,7 +789,7 @@
     "Slots": [2, 1],
     "Skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
@@ -806,7 +806,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_weapon_skill_critical_element": 1,
-      "mhwilds_masters_touch": 1
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
@@ -822,7 +822,7 @@
     "Defense": 0,
     "Slots": [1],
     "Skills": {
-      "mhwilds_offensive_guard": 2
+      "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
@@ -838,7 +838,7 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -854,7 +854,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_offensive_guard": 3
+      "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
@@ -870,7 +870,7 @@
     "Defense": 0,
     "Slots": [1, 1],
     "Skills": {
-      "mhwilds_guard": 2
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
@@ -886,7 +886,7 @@
     "Defense": 0,
     "Slots": [2, 2],
     "Skills": {
-      "mhwilds_guard": 2
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
@@ -902,7 +902,7 @@
     "Defense": 0,
     "Slots": [3, 3, 1],
     "Skills": {
-      "mhwilds_guard": 2
+      "mhwilds_weapon_skill_guard": 2
     }
   },
   {
@@ -916,7 +916,7 @@
     "Defense": 30,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_guard_up": 3
+      "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
@@ -930,7 +930,7 @@
     "Defense": 30,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard_up": 3
+      "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
@@ -1010,7 +1010,7 @@
     "Defense": 0,
     "Slots": [3, 2],
     "Skills": {
-      "mhwilds_guard": 3
+      "mhwilds_weapon_skill_guard": 3
     }
   },
   {
@@ -1061,7 +1061,7 @@
     "Slots": [3, 2, 1],
     "Skills": {
       "mhwilds_weapon_skill_critical_eye": 2,
-      "mhwilds_speed_sharpening": 2
+      "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
@@ -1075,7 +1075,7 @@
     "Defense": 20,
     "Slots": [3, 3, 1],
     "Skills": {
-      "mhwilds_punishing_draw": 3
+      "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
@@ -1091,7 +1091,7 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_guard": 3
+      "mhwilds_weapon_skill_guard": 3
     }
   },
   {
@@ -1105,8 +1105,8 @@
     "Defense": 0,
     "Slots": [2, 1],
     "Skills": {
-      "mhwilds_critical_draw": 3,
-      "mhwilds_guard": 1
+      "mhwilds_weapon_skill_critical_draw": 3,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {
@@ -1120,8 +1120,8 @@
     "Defense": 0,
     "Slots": [3, 2, 1],
     "Skills": {
-      "mhwilds_critical_draw": 3,
-      "mhwilds_guard": 1
+      "mhwilds_weapon_skill_critical_draw": 3,
+      "mhwilds_weapon_skill_guard": 1
     }
   },
   {

@@ -2,32 +2,44 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { mhWildsBowsData } from "@/data/mh-wilds";
+import { mhWildsChargebladesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
-import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
 
-export function BowList({ searchTerm }: { searchTerm: string }) {
+export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
+
   const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsBowNamespace = getNamespaceData("mhWilds_bows") ?? {};
+  const mhWildsChargeBladeNamespace =
+    getNamespaceData("mhWilds_charge_blades") ?? {};
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
-  const mhWildsCoatingNamespace = getNamespaceData("mhWilds_coating") ?? {};
-
-  const filteredList = mhWildsBowsData.filter(({ name }) =>
-    (mhWildsBowNamespace[name] ?? name)
+  const filteredList = mhWildsChargebladesData.filter(({ name }) =>
+    (mhWildsChargeBladeNamespace[name] ?? name)
       .toLowerCase()
       .includes(searchTerm.toLowerCase())
   );
 
+  const [page, setPage] = React.useState(1);
   const itemsPerPage = 10;
-  const { page, paginatedData, nextPage, prevPage } = usePagination(
-    filteredList,
-    itemsPerPage,
-    searchTerm
+
+  const paginatedList = filteredList.slice(
+    (page - 1) * itemsPerPage,
+    page * itemsPerPage
   );
+
+  const nextPage = () => {
+    if (page < Math.ceil(filteredList.length / itemsPerPage)) {
+      setPage(page + 1);
+    }
+  };
+
+  const prevPage = () => {
+    if (page > 1) {
+      setPage(page - 1);
+    }
+  };
 
   return (
     <>
@@ -35,21 +47,12 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
         <NoResults />
       ) : (
         <div>
-          {paginatedData.map(
-            ({
-              name,
-              attack,
-              element,
-              affinity,
-              defense,
-              slots,
-              skills,
-              coating,
-            }) => (
+          {paginatedList.map(
+            ({ name, attack, element, affinity, defense, slots, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
                   <div className="font-semibold">
-                    {mhWildsBowNamespace[name]}
+                    {mhWildsChargeBladeNamespace[name]}
                   </div>
                   {slots.length > 0 && (
                     <div className="text-sm text-gray-600 font-weight: font-bold">
@@ -71,9 +74,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                         ? Object.entries(element)
                             .map(
                               ([key, value]) =>
-                                `${
-                                  mhWildsmhCommonNamespace[`${key}`]
-                                }: ${value}`
+                                `${mhCommonNamespace[`${key}`]}: ${value}`
                             )
                             .join(", ")
                         : element
@@ -91,7 +92,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
+                <div className="gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
                       {mhWildsmhCommonNamespace?.mhwilds_common_skills}:
@@ -110,24 +111,12 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                       <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}
                   </div>
-                  <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>{mhWildsCoatingNamespace?.mhwilds_coating}:</strong>
-                    {coating && coating.length > 0 ? (
-                      coating.map((coatingKey) => (
-                        <div key={coatingKey}>
-                          {mhWildsCoatingNamespace[coatingKey] ?? coatingKey}
-                        </div>
-                      ))
-                    ) : (
-                      <div>{mhCommonNamespace?.mh_common_none}</div>
-                    )}
-                  </div>
                 </div>
               </div>
             )
           )}
 
-          {filteredList.length > paginatedData.length && (
+          {filteredList.length > paginatedList.length && (
             <Pagination
               currentPage={page}
               totalItems={filteredList.length}

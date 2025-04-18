@@ -810,7 +810,7 @@
     "defense": 0,
     "slots": [],
     "skills": {
-      "mhwilds_artillery": 2
+      "mhwilds_weapon_skill_artillery": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -826,7 +826,7 @@
     "defense": 0,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_artillery": 3
+      "mhwilds_weapon_skill_artillery": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -842,7 +842,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_artillery": 3
+      "mhwilds_weapon_skill_artillery": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -1146,7 +1146,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_blade": 3,
+      "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     },
     "ammo": {},
