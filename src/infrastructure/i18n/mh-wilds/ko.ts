@@ -9,6 +9,19 @@ export const mhWildsCommonKo = {
   mhwilds_common_group_name: "그룹 이름",
   mhwilds_common_group_skill: "그룹 스킬",
   mhwilds_common_weapon_skill: "무기 스킬",
+  mhwilds_common_shelling: "포격력",
+};
+
+export const mhWildsShellingTypeKo = {
+  mhwilds_shelling_type_normal: "일반형",
+  mhwilds_shelling_type_wide: "방사형",
+  mhwilds_shelling_type_long: "확산형",
+};
+
+export const mhWildsShellingDamageKo = {
+  mhwilds_shelling_damage_slightly_weak: "조금 약함",
+  mhwilds_shelling_damage_normal: "보통",
+  mhwilds_shelling_damage_slightly_strong: "조금 강함",
 };
 
 export const mhWildsCoatingKo = {

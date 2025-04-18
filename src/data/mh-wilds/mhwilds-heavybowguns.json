@@ -1,6 +1,6 @@
 [
   {
-    "name": "hope_cannon_i",
+    "name": "mhwilds_heavybowgun_hope_cannon_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
     "attack": 90,
@@ -16,7 +16,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_cannon_ii",
+    "name": "mhwilds_heavybowgun_hope_cannon_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
     "attack": 100,
@@ -34,7 +34,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_cannon_iii",
+    "name": "mhwilds_heavybowgun_hope_cannon_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
     "attack": 130,
@@ -53,7 +53,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_cannon_iv",
+    "name": "mhwilds_heavybowgun_hope_cannon_iv",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 160,
@@ -72,7 +72,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "hope_cannon_v",
+    "name": "mhwilds_heavybowgun_hope_cannon_v",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 190,
@@ -91,7 +91,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chata_sheller_i",
+    "name": "mhwilds_heavybowgun_chata_sheller_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
     "attack": 110,
@@ -100,7 +100,7 @@
     "defense": 15,
     "slots": [],
     "skills": {
-      "mhwilds_opening_shot": 1
+      "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -109,7 +109,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chata_sheller_ii",
+    "name": "mhwilds_heavybowgun_chata_sheller_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
     "attack": 150,
@@ -118,7 +118,7 @@
     "defense": 15,
     "slots": [],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -127,7 +127,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chata_sheller_iii",
+    "name": "mhwilds_heavybowgun_chata_sheller_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 180,
@@ -136,7 +136,7 @@
     "defense": 15,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -145,7 +145,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chata_sheller_iv",
+    "name": "mhwilds_heavybowgun_chata_sheller_iv",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 210,
@@ -154,7 +154,7 @@
     "defense": 15,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -163,7 +163,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "power_stinger",
+    "name": "mhwilds_heavybowgun_power_stinger",
     "part": "mhwilds_heavybowgun",
     "rarity": 2,
     "attack": 120,
@@ -181,7 +181,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "power_stinger_ii",
+    "name": "mhwilds_heavybowgun_power_stinger_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 170,
@@ -190,7 +190,7 @@
     "defense": 0,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_opening_shot": 1,
+      "mhwilds_weapon_skill_opening_shot": 1,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "ammo": {},
@@ -200,7 +200,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "wild_stinger",
+    "name": "mhwilds_heavybowgun_wild_stinger",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 220,
@@ -210,7 +210,7 @@
     "slots": [3, 3, 1],
     "skills": {
       "mhwilds_weapon_skill_special_ammo_boost": 2,
-      "mhwilds_opening_shot": 1
+      "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -219,7 +219,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "uth_dalgap_i",
+    "name": "mhwilds_heavybowgun_uth_dalgap_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
     "attack": 160,
@@ -237,7 +237,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "uth_dalgap_ii",
+    "name": "mhwilds_heavybowgun_uth_dalgap_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 190,
@@ -255,7 +255,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "uth_dalgap_iii",
+    "name": "mhwilds_heavybowgun_uth_dalgap_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 220,
@@ -273,7 +273,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "dalgap_of_the_waves",
+    "name": "mhwilds_heavybowgun_dalgap_of_the_waves",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 240,
@@ -291,7 +291,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rompo_sniper_i",
+    "name": "mhwilds_heavybowgun_rompo_sniper_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
     "attack": 140,
@@ -309,7 +309,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "rompo_sniper_ii",
+    "name": "mhwilds_heavybowgun_rompo_sniper_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 170,
@@ -327,7 +327,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rompo_sniper_iii",
+    "name": "mhwilds_heavybowgun_rompo_sniper_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 200,
@@ -345,7 +345,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rompo_latrotox",
+    "name": "mhwilds_heavybowgun_rompo_latrotox",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 220,
@@ -363,7 +363,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "ner_bustergun_i",
+    "name": "mhwilds_heavybowgun_ner_bustergun_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
     "attack": 120,
@@ -382,7 +382,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "ner_bustergun_ii",
+    "name": "mhwilds_heavybowgun_ner_bustergun_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 150,
@@ -401,7 +401,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "ner_bustergun_iii",
+    "name": "mhwilds_heavybowgun_ner_bustergun_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 180,
@@ -420,7 +420,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "buster_blaster",
+    "name": "mhwilds_heavybowgun_buster_blaster",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 200,
@@ -439,7 +439,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "nu_muneo_i",
+    "name": "mhwilds_heavybowgun_nu_muneo_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
     "attack": 170,
@@ -448,7 +448,7 @@
     "defense": 0,
     "slots": [1],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -457,7 +457,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "nu_muneo_ii",
+    "name": "mhwilds_heavybowgun_nu_muneo_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 210,
@@ -466,7 +466,7 @@
     "defense": 0,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -475,7 +475,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "abaddonian_muneo",
+    "name": "mhwilds_heavybowgun_abaddonian_muneo",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 230,
@@ -484,7 +484,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -493,7 +493,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "jin_dhaphal_i",
+    "name": "mhwilds_heavybowgun_jin_dhaphal_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 190,
@@ -511,7 +511,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "precipice_malmiam",
+    "name": "mhwilds_heavybowgun_precipice_malmiam",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 210,
@@ -529,7 +529,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "iron_assault_i",
+    "name": "mhwilds_heavybowgun_iron_assault_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 2,
     "attack": 120,
@@ -547,7 +547,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "iron_assault_ii",
+    "name": "mhwilds_heavybowgun_iron_assault_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
     "attack": 160,
@@ -565,7 +565,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "iron_assault_iii",
+    "name": "mhwilds_heavybowgun_iron_assault_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 190,
@@ -583,7 +583,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "steel_assault",
+    "name": "mhwilds_heavybowgun_steel_assault",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 220,
@@ -601,7 +601,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "bone_shooter_i",
+    "name": "mhwilds_heavybowgun_bone_shooter_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
     "attack": 110,
@@ -619,7 +619,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "bone_shooter_ii",
+    "name": "mhwilds_heavybowgun_bone_shooter_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 2,
     "attack": 130,
@@ -638,7 +638,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "bone_shooter_iii",
+    "name": "mhwilds_heavybowgun_bone_shooter_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
     "attack": 170,
@@ -657,7 +657,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "bone_shooter_iv",
+    "name": "mhwilds_heavybowgun_bone_shooter_iv",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 200,
@@ -676,7 +676,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "heavy_shooter",
+    "name": "mhwilds_heavybowgun_heavy_shooter",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 230,
@@ -695,7 +695,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "yian_kut_ku_cannon_i",
+    "name": "mhwilds_heavybowgun_yian_kut_ku_cannon_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 180,
@@ -704,7 +704,7 @@
     "defense": 0,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_slugger": 2
+      "mhwilds_weapon_skill_slugger": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -713,7 +713,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "yian_kut_ku_cannon_ii",
+    "name": "mhwilds_heavybowgun_yian_kut_ku_cannon_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 210,
@@ -722,7 +722,7 @@
     "defense": 0,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_slugger": 3
+      "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -731,7 +731,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "super_kut_ku_cannon",
+    "name": "mhwilds_heavybowgun_super_kut_ku_cannon",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 220,
@@ -740,7 +740,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_slugger": 3
+      "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -749,7 +749,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "tankmage_i",
+    "name": "mhwilds_heavybowgun_tankmage_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 180,
@@ -767,7 +767,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "tankmage_ii",
+    "name": "mhwilds_heavybowgun_tankmage_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 200,
@@ -785,7 +785,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "tanksorcerer",
+    "name": "mhwilds_heavybowgun_tanksorcerer",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 230,
@@ -803,7 +803,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "queen_s_longfire_i",
+    "name": "mhwilds_heavybowgun_queen_s_longfire_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
     "attack": 160,
@@ -822,7 +822,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "queen_s_longfire_ii",
+    "name": "mhwilds_heavybowgun_queen_s_longfire_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 190,
@@ -841,7 +841,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "queen_s_farflier",
+    "name": "mhwilds_heavybowgun_queen_s_farflier",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 210,
@@ -860,7 +860,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "grounding_fulgur_i",
+    "name": "mhwilds_heavybowgun_grounding_fulgur_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 180,
@@ -878,7 +878,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "fulgurblast_guardiana",
+    "name": "mhwilds_heavybowgun_fulgurblast_guardiana",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 210,
@@ -896,7 +896,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "gravios_howl_i",
+    "name": "mhwilds_heavybowgun_gravios_howl_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 210,
@@ -914,7 +914,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "gravios_gigahowl",
+    "name": "mhwilds_heavybowgun_gravios_gigahowl",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 240,
@@ -932,7 +932,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "todlicher_abzug_i",
+    "name": "mhwilds_heavybowgun_todlicher_abzug_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 180,
@@ -950,7 +950,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "ableben_abzug",
+    "name": "mhwilds_heavybowgun_ableben_abzug",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 200,
@@ -968,7 +968,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_veldian_tormentum_i",
+    "name": "mhwilds_heavybowgun_g_veldian_tormentum_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
     "attack": 170,
@@ -986,7 +986,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "g_veldian_tormentum_ii",
+    "name": "mhwilds_heavybowgun_g_veldian_tormentum_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 210,
@@ -1004,7 +1004,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_aeternal_palamedes",
+    "name": "mhwilds_heavybowgun_g_aeternal_palamedes",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 240,
@@ -1022,7 +1022,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "veldian_tormentum_i",
+    "name": "mhwilds_heavybowgun_veldian_tormentum_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 200,
@@ -1040,7 +1040,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_sheller_i",
+    "name": "mhwilds_heavybowgun_artian_sheller_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 170,
@@ -1056,7 +1056,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_sheller_ii",
+    "name": "mhwilds_heavybowgun_artian_sheller_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 180,
@@ -1072,7 +1072,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "greifen",
+    "name": "mhwilds_heavybowgun_greifen",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 190,
@@ -1088,7 +1088,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "esperanza_cannon",
+    "name": "mhwilds_heavybowgun_esperanza_cannon",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 210,
@@ -1107,7 +1107,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "shrouded_muktana",
+    "name": "mhwilds_heavybowgun_shrouded_muktana",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 230,
@@ -1116,7 +1116,7 @@
     "defense": 15,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -1125,7 +1125,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "aeternal_palamedes",
+    "name": "mhwilds_heavybowgun_aeternal_palamedes",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 220,
@@ -1143,7 +1143,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "cirrus_blaster_i",
+    "name": "mhwilds_heavybowgun_cirrus_blaster_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
     "attack": 180,
@@ -1162,7 +1162,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "mountainous_roar",
+    "name": "mhwilds_heavybowgun_mountainous_roar",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 210,
@@ -1181,7 +1181,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "zoh_mitran_i",
+    "name": "mhwilds_heavybowgun_zoh_mitran_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
     "attack": 210,
@@ -1199,7 +1199,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blazing_mitran",
+    "name": "mhwilds_heavybowgun_blazing_mitran",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
     "attack": 220,

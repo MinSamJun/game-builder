@@ -1,867 +1,387 @@
 [
   {
-    "note1": [
-      "1",
-      "10"
-    ],
-    "note2": [
-      "1",
-      "10"
-    ],
+    "note1": ["1", "10"],
+    "note2": ["1", "10"],
     "note3": [],
     "note4": [],
     "melody": "mhwilds_melodies_self_improvement"
   },
   {
-    "note1": [
-      "1",
-      "3"
-    ],
-    "note2": [
-      "3",
-      "5"
-    ],
-    "note3": [
-      "1",
-      "10"
-    ],
+    "note1": ["1", "3"],
+    "note2": ["3", "5"],
+    "note3": ["1", "10"],
     "note4": [],
-    "melody": "mhwilds_melodies_attack_up_(s)"
+    "melody": "mhwilds_melodies_attack_up_s"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "3",
-      "12"
-    ],
-    "note3": [
-      "2",
-      "7",
-      "8",
-      "12"
-    ],
-    "note4": [
-      "10",
-      "3"
-    ],
-    "melody": "mhwilds_melodies_attack_up_(l)"
+    "note1": ["10"],
+    "note2": ["3", "12"],
+    "note3": ["2", "7", "8", "12"],
+    "note4": ["10", "3"],
+    "melody": "mhwilds_melodies_attack_up_l"
   },
   {
-    "note1": [
-      "5",
-      "10"
-    ],
-    "note2": [
-      "3"
-    ],
-    "note3": [
-      "1",
-      "5"
-    ],
+    "note1": ["5", "10"],
+    "note2": ["3"],
+    "note3": ["1", "5"],
     "note4": [],
-    "melody": "mhwilds_melodies_fire_res_(s)"
+    "melody": "mhwilds_melodies_fire_res_s"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "3"
-    ],
-    "note3": [
-      "5"
-    ],
+    "note1": ["10"],
+    "note2": ["3"],
+    "note3": ["5"],
     "note4": [],
-    "melody": "mhwilds_melodies_fire_res_(l)"
+    "melody": "mhwilds_melodies_fire_res_l"
   },
   {
-    "note1": [
-      "5"
-    ],
-    "note2": [
-      "5"
-    ],
-    "note3": [
-      "5"
-    ],
+    "note1": ["5"],
+    "note2": ["5"],
+    "note3": ["5"],
     "note4": [],
     "melody": "mhwilds_melodies_sonic_waves"
   },
   {
-    "note1": [
-      "1",
-      "10",
-      "4"
-    ],
-    "note2": [
-      "3",
-      "5",
-      "2",
-      "6",
-      "7",
-      "8",
-      "12"
-    ],
-    "note3": [
-      "3",
-      "8",
-      "7",
-      "1",
-      "10",
-      "4"
-    ],
+    "note1": ["1", "10", "4"],
+    "note2": ["3", "5", "2", "6", "7", "8", "12"],
+    "note3": ["3", "8", "7", "1", "10", "4"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(blunt)"
+    "melody": "mhwilds_melodies_echo_wave_blunt"
   },
   {
-    "note1": [
-      "1",
-      "10",
-      "12"
-    ],
-    "note2": [
-      "3",
-      "7",
-      "2",
-      "6"
-    ],
-    "note3": [
-      "3",
-      "12"
-    ],
+    "note1": ["1", "10", "12"],
+    "note2": ["3", "7", "2", "6"],
+    "note3": ["3", "12"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(slash)"
+    "melody": "mhwilds_melodies_echo_wave_slash"
   },
   {
-    "note1": [
-      "1",
-      "10"
-    ],
-    "note2": [
-      "5"
-    ],
-    "note3": [
-      "4"
-    ],
+    "note1": ["1", "10"],
+    "note2": ["5"],
+    "note3": ["4"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(water)"
+    "melody": "mhwilds_melodies_echo_wave_water"
   },
   {
-    "note1": [
-      "1",
-      "10"
-    ],
-    "note2": [
-      "3",
-      "5"
-    ],
-    "note3": [
-      "3"
-    ],
+    "note1": ["1", "10"],
+    "note2": ["3", "5"],
+    "note3": ["3"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(thunder)"
+    "melody": "mhwilds_melodies_echo_wave_thunder"
   },
   {
-    "note1": [
-      "1",
-      "10"
-    ],
-    "note2": [
-      "3",
-      "7"
-    ],
-    "note3": [
-      "3"
-    ],
+    "note1": ["1", "10"],
+    "note2": ["3", "7"],
+    "note3": ["3"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(blast)"
+    "melody": "mhwilds_melodies_echo_wave_blast"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "5"
-    ],
-    "note3": [
-      "4"
-    ],
+    "note1": ["10"],
+    "note2": ["5"],
+    "note3": ["4"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(ice)"
+    "melody": "mhwilds_melodies_echo_wave_ice"
   },
   {
-    "note1": [
-      "12"
-    ],
-    "note2": [
-      "15"
-    ],
-    "note3": [
-      "12"
-    ],
+    "note1": ["12"],
+    "note2": ["15"],
+    "note3": ["12"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(poison)"
+    "melody": "mhwilds_melodies_echo_wave_poison"
   },
   {
-    "note1": [
-      "12"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "12"
-    ],
+    "note1": ["12"],
+    "note2": ["6"],
+    "note3": ["12"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(fire)"
+    "melody": "mhwilds_melodies_echo_wave_fire"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "12"
-    ],
-    "note3": [
-      "3"
-    ],
+    "note1": ["10"],
+    "note2": ["12"],
+    "note3": ["3"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(dragon)"
+    "melody": "mhwilds_melodies_echo_wave_dragon"
   },
   {
-    "note1": [
-      "1",
-      "10"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "5"
-    ],
+    "note1": ["1", "10"],
+    "note2": ["6"],
+    "note3": ["5"],
     "note4": [],
-    "melody": "mhwilds_melodies_echo_wave_(paralysis)"
+    "melody": "mhwilds_melodies_echo_wave_paralysis"
   },
   {
-    "note1": [
-      "5",
-      "1",
-      "10",
-      "6",
-      "12"
-    ],
-    "note2": [
-      "3",
-      "4",
-      "7",
-      "15",
-      "6"
-    ],
-    "note3": [
-      "5",
-      "7",
-      "1",
-      "10",
-      "15"
-    ],
-    "note4": [
-      "1",
-      "10",
-      "7",
-      "12"
-    ],
+    "note1": ["5", "1", "10", "6", "12"],
+    "note2": ["3", "4", "7", "15", "6"],
+    "note3": ["5", "7", "1", "10", "15"],
+    "note4": ["1", "10", "7", "12"],
     "melody": "mhwilds_melodies_offset_melody"
   },
   {
-    "note1": [
-      "1"
-    ],
-    "note2": [
-      "2",
-      "6"
-    ],
-    "note3": [
-      "2",
-      "6"
-    ],
+    "note1": ["1"],
+    "note2": ["2", "6"],
+    "note3": ["2", "6"],
     "note4": [],
-    "melody": "mhwilds_melodies_defense_up_(s)"
+    "melody": "mhwilds_melodies_defense_up_s"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "2",
-      "6"
-    ],
-    "note3": [
-      "2",
-      "6"
-    ],
-    "note4": [
-      "10"
-    ],
-    "melody": "mhwilds_melodies_defense_up_(l)"
+    "note1": ["10"],
+    "note2": ["2", "6"],
+    "note3": ["2", "6"],
+    "note4": ["10"],
+    "melody": "mhwilds_melodies_defense_up_l"
   },
   {
-    "note1": [
-      "2",
-      "6"
-    ],
-    "note2": [
-      "2",
-      "6"
-    ],
-    "note3": [
-      "3",
-      "8",
-      "7"
-    ],
+    "note1": ["2", "6"],
+    "note2": ["2", "6"],
+    "note3": ["3", "8", "7"],
     "note4": [],
     "melody": "mhwilds_melodies_wind_pressure_negated"
   },
   {
-    "note1": [
-      "6"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "12",
-      "5"
-    ],
-    "note4": [
-      "10"
-    ],
-    "melody": "mhwilds_melodies_all wind_pressure_negated"
+    "note1": ["6"],
+    "note2": ["6"],
+    "note3": ["12", "5"],
+    "note4": ["10"],
+    "melody": "mhwilds_melodies_all_wind_pressure_negated"
   },
   {
-    "note1": [
-      "3",
-      "2",
-      "6"
-    ],
-    "note2": [
-      "2",
-      "10",
-      "1"
-    ],
-    "note3": [
-      "1",
-      "3",
-      "7"
-    ],
+    "note1": ["3", "2", "6"],
+    "note2": ["2", "10", "1"],
+    "note3": ["1", "3", "7"],
     "note4": [],
     "melody": "mhwilds_melodies_sonic_barrier"
   },
   {
-    "note1": [
-      "1",
-      "10",
-      "5"
-    ],
-    "note2": [
-      "3",
-      "6"
-    ],
-    "note3": [
-      "2",
-      "12",
-      "5"
-    ],
-    "note4": [
-      "2",
-      "12",
-      "1",
-      "10"
-    ],
+    "note1": ["1", "10", "5"],
+    "note2": ["3", "6"],
+    "note3": ["2", "12", "5"],
+    "note4": ["2", "12", "1", "10"],
     "melody": "mhwilds_melodies_resounding_melody"
   },
   {
-    "note1": [
-      "7"
-    ],
-    "note2": [
-      "7"
-    ],
-    "note3": [
-      "3",
-      "4"
-    ],
-    "note4": [
-      "1",
-      "10"
-    ],
-    "melody": "mhwilds_melodies_earplugs_(s)"
+    "note1": ["7"],
+    "note2": ["7"],
+    "note3": ["3", "4"],
+    "note4": ["1", "10"],
+    "melody": "mhwilds_melodies_earplugs_s"
   },
   {
-    "note1": [
-      "7",
-      "12"
-    ],
-    "note2": [
-      "7",
-      "12"
-    ],
-    "note3": [
-      "4"
-    ],
-    "note4": [
-      "10"
-    ],
-    "melody": "mhwilds_melodies_earplugs_(l)"
+    "note1": ["7", "12"],
+    "note2": ["7", "12"],
+    "note3": ["4"],
+    "note4": ["10"],
+    "melody": "mhwilds_melodies_earplugs_l"
   },
   {
-    "note1": [
-      "7"
-    ],
-    "note2": [
-      "3"
-    ],
-    "note3": [
-      "7"
-    ],
+    "note1": ["7"],
+    "note2": ["3"],
+    "note3": ["7"],
     "note4": [],
-    "melody": "mhwilds_melodies_aquatic/oilsilt_mobility"
+    "melody": "mhwilds_melodies_aquatic_oilsilt_mobility"
   },
   {
-    "note1": [
-      "3"
-    ],
-    "note2": [
-      "3"
-    ],
-    "note3": [
-      "7"
-    ],
+    "note1": ["3"],
+    "note2": ["3"],
+    "note3": ["7"],
     "note4": [],
-    "melody": "mhwilds_melodies_envir._damage_negated"
+    "melody": "mhwilds_melodies_envir_damage_negated"
   },
   {
-    "note1": [
-      "1",
-      "10"
-    ],
-    "note2": [
-      "8",
-      "4"
-    ],
-    "note3": [
-      "1",
-      "10"
-    ],
+    "note1": ["1", "10"],
+    "note2": ["8", "4"],
+    "note3": ["1", "10"],
     "note4": [],
-    "melody": "mhwilds_melodies_health_recovery_(s)"
+    "melody": "mhwilds_melodies_health_recovery_s"
   },
   {
-    "note1": [
-      "4"
-    ],
-    "note2": [
-      "1"
-    ],
-    "note3": [
-      "7"
-    ],
-    "note4": [
-      "4"
-    ],
-    "melody": "mhwilds_melodies_health_recovery_(m)"
+    "note1": ["4"],
+    "note2": ["1"],
+    "note3": ["7"],
+    "note4": ["4"],
+    "melody": "mhwilds_melodies_health_recovery_m"
   },
   {
-    "note1": [
-      "4"
-    ],
-    "note2": [
-      "4"
-    ],
-    "note3": [
-      "10"
-    ],
-    "note4": [
-      "7"
-    ],
-    "melody": "mhwilds_melodies_health_recovery_(l)"
+    "note1": ["4"],
+    "note2": ["4"],
+    "note3": ["10"],
+    "note4": ["7"],
+    "melody": "mhwilds_melodies_health_recovery_l"
   },
   {
-    "note1": [
-      "8"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "1"
-    ],
-    "note4": [
-      "6"
-    ],
-    "melody": "mhwilds_melodies_health_rec._(s)_+_antidote"
+    "note1": ["8"],
+    "note2": ["6"],
+    "note3": ["1"],
+    "note4": ["6"],
+    "melody": "mhwilds_melodies_health_rec_s_antidote"
   },
   {
-    "note1": [
-      "8"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "10"
-    ],
-    "note4": [
-      "6"
-    ],
-    "melody": "mhwilds_melodies_health_rec._(m)_+_antidote"
+    "note1": ["8"],
+    "note2": ["6"],
+    "note3": ["10"],
+    "note4": ["6"],
+    "melody": "mhwilds_melodies_health_rec_m_antidote"
   },
   {
-    "note1": [
-      "1"
-    ],
-    "note2": [
-      "8",
-      "7",
-      "5"
-    ],
-    "note3": [
-      "6"
-    ],
+    "note1": ["1"],
+    "note2": ["8", "7", "5"],
+    "note3": ["6"],
     "note4": [],
-    "melody": "mhwilds_melodies_stamina_use_reduced_(s)"
+    "melody": "mhwilds_melodies_stamina_use_reduced_s"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "8",
-      "7",
-      "12",
-      "5"
-    ],
-    "note3": [
-      "6",
-      "10"
-    ],
-    "note4": [
-      "8",
-      "7",
-      "6"
-    ],
-    "melody": "mhwilds_melodies_stamina_use_reduced_(l)"
+    "note1": ["10"],
+    "note2": ["8", "7", "12", "5"],
+    "note3": ["6", "10"],
+    "note4": ["8", "7", "6"],
+    "melody": "mhwilds_melodies_stamina_use_reduced_l"
   },
   {
-    "note1": [
-      "8",
-      "7",
-      "5",
-      "3",
-      "10"
-    ],
-    "note2": [
-      "6",
-      "4",
-      "15",
-      "8"
-    ],
-    "note3": [
-      "8",
-      "4",
-      "15",
-      "10"
-    ],
-    "note4": [
-      "1",
-      "10",
-      "8",
-      "12"
-    ],
+    "note1": ["8", "7", "5", "3", "10"],
+    "note2": ["6", "4", "15", "8"],
+    "note3": ["8", "4", "15", "10"],
+    "note4": ["1", "10", "8", "12"],
     "melody": "mhwilds_melodies_melody_of_life"
   },
   {
-    "note1": [
-      "4"
-    ],
-    "note2": [
-      "4"
-    ],
-    "note3": [
-      "5"
-    ],
+    "note1": ["4"],
+    "note2": ["4"],
+    "note3": ["5"],
     "note4": [],
-    "melody": "mhwilds_melodies_recovery_speed_(s)"
+    "melody": "mhwilds_melodies_recovery_speed_s"
   },
   {
-    "note1": [
-      "8"
-    ],
-    "note2": [
-      "8"
-    ],
-    "note3": [
-      "3"
-    ],
-    "note4": [
-      "10"
-    ],
-    "melody": "mhwilds_melodies_recovery_speed_(l)"
+    "note1": ["8"],
+    "note2": ["8"],
+    "note3": ["3"],
+    "note4": ["10"],
+    "melody": "mhwilds_melodies_recovery_speed_l"
   },
   {
-    "note1": [
-      "5"
-    ],
-    "note2": [
-      "1"
-    ],
-    "note3": [
-      "4"
-    ],
+    "note1": ["5"],
+    "note2": ["1"],
+    "note3": ["4"],
     "note4": [],
-    "melody": "mhwilds_melodies_thunder_res_(s)"
+    "melody": "mhwilds_melodies_thunder_res_s"
   },
   {
-    "note1": [
-      "5"
-    ],
-    "note2": [
-      "10"
-    ],
-    "note3": [
-      "4"
-    ],
+    "note1": ["5"],
+    "note2": ["10"],
+    "note3": ["4"],
     "note4": [],
-    "melody": "mhwilds_melodies_thunder_res_(l)"
+    "melody": "mhwilds_melodies_thunder_res_l"
   },
   {
-    "note1": [
-      "10",
-      "5"
-    ],
-    "note2": [
-      "4",
-      "15"
-    ],
-    "note3": [
-      "5"
-    ],
-    "note4": [
-      "4",
-      "15"
-    ],
+    "note1": ["10", "5"],
+    "note2": ["4", "15"],
+    "note3": ["5"],
+    "note4": ["4", "15"],
     "melody": "mhwilds_melodies_elem_attack_boost"
   },
   {
-    "note1": [
-      "4",
-      "10"
-    ],
-    "note2": [
-      "5",
-      "12"
-    ],
-    "note3": [
-      "5",
-      "10"
-    ],
-    "note4": [
-      "10",
-      "15"
-    ],
+    "note1": ["4", "10"],
+    "note2": ["5", "12"],
+    "note3": ["5", "10"],
+    "note4": ["10", "15"],
     "melody": "mhwilds_melodies_divine_protection"
   },
   {
-    "note1": [
-      "7"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "10"
-    ],
+    "note1": ["7"],
+    "note2": ["6"],
+    "note3": ["10"],
     "note4": [],
     "melody": "mhwilds_melodies_stun_negated"
   },
   {
-    "note1": [
-      "5"
-    ],
-    "note2": [
-      "15"
-    ],
-    "note3": [
-      "10"
-    ],
+    "note1": ["5"],
+    "note2": ["15"],
+    "note3": ["10"],
     "note4": [],
-    "melody": "mhwilds_melodies_water_res_(l)"
+    "melody": "mhwilds_melodies_water_res_l"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "5"
-    ],
-    "note3": [
-      "15"
-    ],
+    "note1": ["10"],
+    "note2": ["5"],
+    "note3": ["15"],
     "note4": [],
-    "melody": "mhwilds_melodies_dragon_res_(l)"
+    "melody": "mhwilds_melodies_dragon_res_l"
   },
   {
-    "note1": [
-      "15"
-    ],
-    "note2": [
-      "15"
-    ],
-    "note3": [
-      "5"
-    ],
+    "note1": ["15"],
+    "note2": ["15"],
+    "note3": ["5"],
     "note4": [],
     "melody": "mhwilds_melodies_tremors_negated"
   },
   {
-    "note1": [
-      "15"
-    ],
-    "note2": [
-      "5"
-    ],
-    "note3": [
-      "10"
-    ],
+    "note1": ["15"],
+    "note2": ["5"],
+    "note3": ["10"],
     "note4": [],
     "melody": "mhwilds_melodies_paralysis_negated"
   },
   {
-    "note1": [
-      "15"
-    ],
-    "note2": [
-      "12"
-    ],
-    "note3": [
-      "12"
-    ],
-    "note4": [
-      "10"
-    ],
+    "note1": ["15"],
+    "note2": ["12"],
+    "note3": ["12"],
+    "note4": ["10"],
     "melody": "mhwilds_melodies_status_attack_up"
   },
   {
-    "note1": [
-      "15"
-    ],
-    "note2": [
-      "10"
-    ],
-    "note3": [
-      "12"
-    ],
-    "note4": [
-      "12"
-    ],
+    "note1": ["15"],
+    "note2": ["10"],
+    "note3": ["12"],
+    "note4": ["12"],
     "melody": "mhwilds_melodies_all_ailments_negated"
   },
   {
-    "note1": [
-      "10"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "12"
-    ],
-    "note4": [
-      "12"
-    ],
-    "melody": "mhwilds_melodies_attack/defense_up_(s)"
+    "note1": ["10"],
+    "note2": ["6"],
+    "note3": ["12"],
+    "note4": ["12"],
+    "melody": "mhwilds_melodies_attack_defense_up_s"
   },
   {
-    "note1": [
-      "4"
-    ],
-    "note2": [
-      "12"
-    ],
-    "note3": [
-      "10"
-    ],
-    "note4": [
-      "12"
-    ],
-    "melody": "mhwilds_melodies_affinity_up/health_recovery"
+    "note1": ["4"],
+    "note2": ["12"],
+    "note3": ["10"],
+    "note4": ["12"],
+    "melody": "mhwilds_melodies_affinity_up_health_recovery"
   },
   {
-    "note1": [
-      "3"
-    ],
-    "note2": [
-      "12"
-    ],
-    "note3": [
-      "3"
-    ],
-    "note4": [
-      "10"
-    ],
+    "note1": ["3"],
+    "note2": ["12"],
+    "note3": ["3"],
+    "note4": ["10"],
     "melody": "mhwilds_melodies_knockback_negated"
   },
   {
-    "note1": [
-      "12"
-    ],
-    "note2": [
-      "3"
-    ],
-    "note3": [
-      "12"
-    ],
+    "note1": ["12"],
+    "note2": ["3"],
+    "note3": ["12"],
     "note4": [],
     "melody": "mhwilds_melodies_extend_all_melodies"
   },
   {
-    "note1": [
-      "3"
-    ],
-    "note2": [
-      "12"
-    ],
-    "note3": [
-      "10"
-    ],
+    "note1": ["3"],
+    "note2": ["12"],
+    "note3": ["10"],
     "note4": [],
     "melody": "mhwilds_melodies_restore_sharpness"
   },
   {
-    "note1": [
-      "5"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "1"
-    ],
+    "note1": ["5"],
+    "note2": ["6"],
+    "note3": ["1"],
     "note4": [],
-    "melody": "mhwilds_melodies_ice_res_(s)"
+    "melody": "mhwilds_melodies_ice_res_s"
   },
   {
-    "note1": [
-      "5"
-    ],
-    "note2": [
-      "6"
-    ],
-    "note3": [
-      "10"
-    ],
+    "note1": ["5"],
+    "note2": ["6"],
+    "note3": ["10"],
     "note4": [],
-    "melody": "mhwilds_melodies_ice_res_(l)"
+    "melody": "mhwilds_melodies_ice_res_l"
   }
 ]

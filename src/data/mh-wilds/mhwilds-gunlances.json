@@ -1,1244 +1,1244 @@
 [
   {
-    "Name": "hope_gunlance_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 90,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {},
+    "name": "mhwilds_gunlance_hope_gunlance_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 90,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {},
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "hope_gunlance_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_hope_gunlance_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "hope_gunlance_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_hope_gunlance_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "hope_gunlance_iv",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_hope_gunlance_iv",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "hope_gunlance_v",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_hope_gunlance_v",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "bone_gunlance_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_bone_gunlance_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "bone_gunlance_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_bone_gunlance_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_guard": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "bone_gunlance_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_gunlance_bone_gunlance_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "bone_gunlance_iv",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_bone_gunlance_iv",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "great_bone_gunlance",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_great_bone_gunlance",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "triple_bayonet_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_triple_bayonet_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 1
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "triple_bayonet_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_gunlance_triple_bayonet_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "triple_bayonet_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_triple_bayonet_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "triumvirate_edge",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_triumvirate_edge",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "quematrice_culebrina_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_quematrice_culebrina_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "quematrice_culebrina_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_quematrice_culebrina_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "quematrice_culebrina_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_quematrice_culebrina_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "quematrice_culebrina_iv",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_quematrice_culebrina_iv",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "firetrail_quemador",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_firetrail_quemador",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "balahara_exploder_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_balahara_exploder_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "balahara_exploder_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 150,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_gunlance_balahara_exploder_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 150,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "balahara_exploder_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_balahara_exploder_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "balahara_exploder_iv",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_balahara_exploder_iv",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "sandsea_visponan",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_sandsea_visponan",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "uth_falarmata_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_uth_falarmata_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "uth_falarmata_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_uth_falarmata_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "uth_falarmata_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_uth_falarmata_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "falarmata_of_the_waves",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 250,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_falarmata_of_the_waves",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 250,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "shell_gunberd_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_shell_gunberd_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "shell_gunberd_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 150,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_shell_gunberd_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 150,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "shell_gunberd_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_shell_gunberd_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "solid_gunberd",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_solid_gunberd",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "ajara_gunpike_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_ajara_gunpike_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1,
       "mhwilds_weapon_skill_load_shells": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "ajara_gunpike_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_ajara_gunpike_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_load_shells": 2,
       "mhwilds_weapon_skill_offensive_guard": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "ajara_kalika",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_ajara_kalika",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_load_shells": 2,
       "mhwilds_weapon_skill_offensive_guard": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "albirath_rook_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_gunlance_albirath_rook_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "albirath_rook_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_albirath_rook_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "shining_rook",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_shining_rook",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "jin_dhatop_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_jin_dhatop_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "precipice_lohamata",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_precipice_lohamata",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "g_veldian_hasta_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_g_veldian_hasta_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "g_veldian_hasta_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_g_veldian_hasta_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "g_lawful_bors",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_g_lawful_bors",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": null,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "hard_hitter_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_hard_hitter_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 2,
       "mhwilds_weapon_skill_critical_draw": 1
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "hard_hitter_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_hard_hitter_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_punishing_draw": 2
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "big_slugger",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_big_slugger",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3,
       "mhwilds_weapon_skill_critical_draw": 2
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "princess_panoply_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_princess_panoply_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_status": 2,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "princess_panoply_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_princess_panoply_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "ortlinde",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_ortlinde",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "warring_fulgur_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_warring_fulgur_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "fulgurcannon_guardiana",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_fulgurcannon_guardiana",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "white_gunlance_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_white_gunlance_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "white_cannon",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_white_cannon",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "red_rook_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_red_rook_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "crimson_rook",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_crimson_rook",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "tyrannenarm_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_tyrannenarm_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "verraterarm",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_verraterarm",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "veldian_hasta_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_veldian_hasta_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "paretic_gunlance_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_paretic_gunlance_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "paretic_gunlance_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_gunlance_paretic_gunlance_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "paretic_gunlance_iii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_paretic_gunlance_iii",
+    "part": "mhwilds_gunlance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "paretic_gunlance_iv",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_paretic_gunlance_iv",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "debilitating_torpor",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_debilitating_torpor",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly weak"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
   {
-    "Name": "artian_cannon_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {},
+    "name": "mhwilds_gunlance_artian_cannon_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "artian_cannon_ii",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {},
+    "name": "mhwilds_gunlance_artian_cannon_ii",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {},
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "argenesis",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 3],
-    "Skills": {},
+    "name": "mhwilds_gunlance_argenesis",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {},
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "esperanza_gunlance",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_esperanza_gunlance",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "lawful_bors",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_lawful_bors",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
     "Shelling": {
-      "mhwilds_shelling_long": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "ukiyo_no_yamiwo_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_ukiyo_no_yamiwo_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "mizumori",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_mizumori",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     },
     "Shelling": {
-      "mhwilds_shelling_wide": "mhwilds_shelling_normal"
+      "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
   {
-    "Name": "zoh_lael_i",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_gunlance_zoh_lael_i",
+    "part": "mhwilds_gunlance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
   {
-    "Name": "blazing_lael",
-    "Part": "mhwilds_gunlance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_gunlance_blazing_lael",
+    "part": "mhwilds_gunlance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "Shelling": {
-      "mhwilds_shelling_normal": "mhwilds_shelling_slightly strong"
+      "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   }
 ]

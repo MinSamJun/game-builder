@@ -9,6 +9,19 @@ export const mhWildsCommonEn = {
   mhwilds_common_group_name: "Group Name",
   mhwilds_common_group_skill: "Group Skill",
   mhwilds_common_weapon_skill: "Weapon Skill",
+  mhwilds_common_shelling: "shelling",
+};
+
+export const mhWildsShellingTypeEn = {
+  mhwilds_shelling_type_normal: "Normal Type",
+  mhwilds_shelling_type_wide: "Long Type",
+  mhwilds_shelling_type_long: "Wide Type",
+};
+
+export const mhWildsShellingDamageEn = {
+  mhwilds_shelling_damage_slightly_weak: "Slightly Weak",
+  mhwilds_shelling_damage_normal: "Normal",
+  mhwilds_shelling_damage_slightly_strong: "Slightly Strong",
 };
 
 export const mhWildsCoatingEn = {

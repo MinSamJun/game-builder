@@ -170,8 +170,8 @@
     "defense": 0,
     "slots": [],
     "skills": {
-      "mhwilds_opening_shot": 1,
-      "mhwilds_slugger": 1
+      "mhwilds_weapon_skill_opening_shot": 1,
+      "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -187,8 +187,8 @@
     "defense": 0,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_opening_shot": 1,
-      "mhwilds_slugger": 1
+      "mhwilds_weapon_skill_opening_shot": 1,
+      "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -204,8 +204,8 @@
     "defense": 0,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_opening_shot": 2,
-      "mhwilds_slugger": 1
+      "mhwilds_weapon_skill_opening_shot": 2,
+      "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -221,8 +221,8 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 2,
-      "mhwilds_slugger": 1
+      "mhwilds_weapon_skill_opening_shot": 2,
+      "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -238,7 +238,7 @@
     "defense": 20,
     "slots": [],
     "skills": {
-      "mhwilds_opening_shot": 1
+      "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -254,7 +254,7 @@
     "defense": 20,
     "slots": [1],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -270,7 +270,7 @@
     "defense": 20,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -286,7 +286,7 @@
     "defense": 0,
     "slots": [1, 1],
     "skills": {
-      "mhwilds_slugger": 2
+      "mhwilds_weapon_skill_slugger": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -302,7 +302,7 @@
     "defense": 0,
     "slots": [2, 2],
     "skills": {
-      "mhwilds_slugger": 3
+      "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -318,7 +318,7 @@
     "defense": 0,
     "slots": [3, 3, 1],
     "skills": {
-      "mhwilds_slugger": 3
+      "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -529,7 +529,7 @@
     "defense": 0,
     "slots": [2, 1, 1],
     "skills": {
-      "mhwilds_opening_shot": 1,
+      "mhwilds_weapon_skill_opening_shot": 1,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "ammo": {},
@@ -547,7 +547,7 @@
     "slots": [3, 3, 1],
     "skills": {
       "mhwilds_weapon_skill_special_ammo_boost": 2,
-      "mhwilds_opening_shot": 1
+      "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -563,7 +563,7 @@
     "defense": 0,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -579,7 +579,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -646,7 +646,7 @@
     "defense": 0,
     "slots": [],
     "skills": {
-      "mhwilds_opening_shot": 1
+      "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -663,7 +663,7 @@
     "slots": [],
     "skills": {
       "mhwilds_weapon_skill_attack_boost": 1,
-      "mhwilds_opening_shot": 1
+      "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
     "custom mods": {},
@@ -679,7 +679,7 @@
     "defense": 0,
     "slots": [1],
     "skills": {
-      "mhwilds_opening_shot": 2,
+      "mhwilds_weapon_skill_opening_shot": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
@@ -696,7 +696,7 @@
     "defense": 0,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3,
+      "mhwilds_weapon_skill_opening_shot": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
@@ -713,7 +713,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3,
+      "mhwilds_weapon_skill_opening_shot": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
@@ -858,7 +858,7 @@
     "defense": 0,
     "slots": [1],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -874,7 +874,7 @@
     "defense": 0,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -890,7 +890,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -974,7 +974,7 @@
     "defense": 0,
     "slots": [1, 1],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -990,7 +990,7 @@
     "defense": 0,
     "slots": [2, 2],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -1006,7 +1006,7 @@
     "defense": 0,
     "slots": [3, 3, 1],
     "skills": {
-      "mhwilds_opening_shot": 2
+      "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
     "custom mods": {},
@@ -1022,7 +1022,7 @@
     "defense": 0,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -1097,7 +1097,7 @@
     "defense": 20,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},
@@ -1113,7 +1113,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_opening_shot": 3
+      "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
     "custom mods": {},

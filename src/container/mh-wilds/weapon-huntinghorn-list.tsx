@@ -2,38 +2,51 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { mhWildsBowsData } from "@/data/mh-wilds";
+import { mhWildsHuntingHornsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
-import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
 
-export function BowList({ searchTerm }: { searchTerm: string }) {
+export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
+
   const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsBowNamespace = getNamespaceData("mhWilds_bows") ?? {};
+  const mhWildsHuntinghornNamespace =
+    getNamespaceData("mhWilds_heavy_bowguns") ?? {};
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
-  const mhWildsCoatingNamespace = getNamespaceData("mhWilds_coating") ?? {};
 
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
   const [isFinalOnly, setIsFinalOnly] = React.useState(false);
 
-  const filteredList = mhWildsBowsData.filter(
+  const filteredList = mhWildsHuntingHornsData.filter(
     ({ name, rank, rarity }) =>
       (!selectedRank || rank === selectedRank) &&
       (!isFinalOnly || rarity === 4 || rarity === 8) &&
-      (mhWildsBowNamespace[name] ?? name)
+      (mhWildsHuntinghornNamespace[name] ?? name)
         .toLowerCase()
         .includes(searchTerm.toLowerCase())
   );
 
+  const [page, setPage] = React.useState(1);
   const itemsPerPage = 10;
-  const { page, paginatedData, nextPage, prevPage } = usePagination(
-    filteredList,
-    itemsPerPage,
-    searchTerm
+
+  const paginatedList = filteredList.slice(
+    (page - 1) * itemsPerPage,
+    page * itemsPerPage
   );
+
+  const nextPage = () => {
+    if (page < Math.ceil(filteredList.length / itemsPerPage)) {
+      setPage(page + 1);
+    }
+  };
+
+  const prevPage = () => {
+    if (page > 1) {
+      setPage(page - 1);
+    }
+  };
 
   return (
     <>
@@ -86,7 +99,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
         <NoResults />
       ) : (
         <div>
-          {paginatedData.map(
+          {paginatedList.map(
             ({
               name,
               attack,
@@ -95,17 +108,17 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
               defense,
               slots,
               skills,
-              coating,
+              notes,
+              echoBubbles,
             }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
                   <div className="font-semibold">
-                    {mhWildsBowNamespace[name]}
+                    {mhWildsHuntinghornNamespace[name]}
                   </div>
                   {slots.length > 0 && (
                     <div className="text-sm text-gray-600 font-weight: font-bold">
-                      　{mhCommonNamespace?.mh_common_slots} :{" "}
-                      {slots.join(" / ")}
+                      {mhCommonNamespace?.mh_common_slots} : {slots.join(" / ")}
                     </div>
                   )}
                 </div>
@@ -122,27 +135,23 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                         ? Object.entries(element)
                             .map(
                               ([key, value]) =>
-                                `${
-                                  mhWildsmhCommonNamespace[key] ?? key
-                                }: ${value}`
+                                `${mhCommonNamespace[key] ?? key}: ${value}`
                             )
                             .join(", ")
                         : element
                       : "-"}
                   </div>
-
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_affinity}:</strong>{" "}
                     {affinity}%
                   </div>
-
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_defense}:</strong>{" "}
                     {defense}
                   </div>
                 </div>
 
-                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
+                <div className="gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
                       {mhWildsmhCommonNamespace?.mhwilds_common_skills}:
@@ -161,14 +170,24 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                       <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}
                   </div>
+                </div>
+
+                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>{mhWildsCoatingNamespace?.mhwilds_coating}:</strong>
-                    {coating && coating.length > 0 ? (
-                      coating.map((coatingKey) => (
-                        <div key={coatingKey}>
-                          {mhWildsCoatingNamespace[coatingKey] ?? coatingKey}
+                    {notes && notes.length > 0 ? (
+                      notes.map((note, index) => (
+                        <div key={index}>
+                          {mhCommonNamespace?.[`note_${note}`] ??
+                            `Note ${note}`}
                         </div>
                       ))
+                    ) : (
+                      <div>{mhCommonNamespace?.mh_common_none}</div>
+                    )}
+                  </div>
+                  <div className="bg-gray-800 text-white rounded p-4">
+                    {echoBubbles ? (
+                      <div>{mhCommonNamespace[echoBubbles] ?? echoBubbles}</div>
                     ) : (
                       <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}
@@ -178,7 +197,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
             )
           )}
 
-          {filteredList.length > paginatedData.length && (
+          {filteredList.length > paginatedList.length && (
             <Pagination
               currentPage={page}
               totalItems={filteredList.length}

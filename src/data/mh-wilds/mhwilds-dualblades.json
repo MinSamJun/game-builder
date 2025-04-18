@@ -1,1253 +1,1253 @@
 [
   {
-    "Name": "hope_daggers_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 90,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {}
+    "name": "mhwilds_dualblades_hope_daggers_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 90,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {}
   },
   {
-    "Name": "hope_daggers_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_dualblades_hope_daggers_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_daggers_iii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_dualblades_hope_daggers_iii",
+    "part": "mhwilds_dualblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_daggers_iv",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_hope_daggers_iv",
+    "part": "mhwilds_dualblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "hope_daggers_v",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_dualblades_hope_daggers_v",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "bone_hatchets_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_dualblades_bone_hatchets_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "bone_hatchets_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_dualblades_bone_hatchets_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "bone_hatchets_iii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_dualblades_bone_hatchets_iii",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "bone_hatchets_iv",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_bone_hatchets_iv",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "wild_hatchets",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_wild_hatchets",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "dual_hatchets_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_dualblades_dual_hatchets_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 1
     }
   },
   {
-    "Name": "dual_hatchets_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_dualblades_dual_hatchets_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "dual_hatchets_iii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_dual_hatchets_iii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "dual_cleavers",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_dual_cleavers",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "quematrice_silexes_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": {
+    "name": "mhwilds_dualblades_quematrice_silexes_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": {
       "mh_common_fire": 70
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "quematrice_silexes_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "mhwilds_dualblades_quematrice_silexes_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_fire": 90
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "quematrice_silexes_iii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "mhwilds_dualblades_quematrice_silexes_iii",
+    "part": "mhwilds_dualblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_fire": 110
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "quematrice_silexes_iv",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_quematrice_silexes_iv",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 130
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "firetrail_magnesiae",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
+    "name": "mhwilds_dualblades_firetrail_magnesiae",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
       "mh_common_fire": 150
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "barina_faucilles_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": {
+    "name": "mhwilds_dualblades_barina_faucilles_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": {
       "mh_common_paralysis": 60
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
-    "Name": "barina_faucilles_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": {
+    "name": "mhwilds_dualblades_barina_faucilles_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": {
       "mh_common_paralysis": 80
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "barina_faucilles_iii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 150,
-    "Element": {
+    "name": "mhwilds_dualblades_barina_faucilles_iii",
+    "part": "mhwilds_dualblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 150,
+    "element": {
       "mh_common_paralysis": 110
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "barina_faucilles_iv",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_barina_faucilles_iv",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_paralysis": 130
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "lala_harpactirs",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_dualblades_lala_harpactirs",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_paralysis": 150
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "pink_maracas_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_dualblades_pink_maracas_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_punishing_draw": 1
     }
   },
   {
-    "Name": "pink_maracas_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_pink_maracas_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 2,
       "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
-    "Name": "funky_maracas",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_funky_maracas",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3,
       "mhwilds_weapon_skill_critical_draw": 2
     }
   },
   {
-    "Name": "dosha_fastflayers_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_dualblades_dosha_fastflayers_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 1
     }
   },
   {
-    "Name": "dosha_fastflayers_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_dualblades_dosha_fastflayers_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "dosha_fastflayers_iii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [2, 2],
-    "Skills": {
+    "name": "mhwilds_dualblades_dosha_fastflayers_iii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "uth_ngarpatu_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "mhwilds_dualblades_uth_ngarpatu_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": {
       "mh_common_water": 100
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "uth_ngarpatu_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
+    "name": "mhwilds_dualblades_uth_ngarpatu_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
       "mh_common_water": 140
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "uth_ngarpatu_iii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_dualblades_uth_ngarpatu_iii",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_water": 170
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "ngarpatu_of_the_waves",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
+    "name": "mhwilds_dualblades_ngarpatu_of_the_waves",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
       "mh_common_water": 200
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "ajara_twin_edges_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": {
+    "name": "mhwilds_dualblades_ajara_twin_edges_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": {
       "mh_common_blast": 90
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "ajara_twin_edges_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_ajara_twin_edges_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_blast": 120
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "ajara_panthaka",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_ajara_panthaka",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_blast": 150
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "dosha_guardflayers_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "mhwilds_dualblades_dosha_guardflayers_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "dosha_guardflayers_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
+    "name": "mhwilds_dualblades_dosha_guardflayers_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "guardflayers_urbastra",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 250,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_guardflayers_urbastra",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 250,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "twin_albiraths_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "mhwilds_dualblades_twin_albiraths_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": {
       "mh_common_fire": 90
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "twin_albiraths_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_twin_albiraths_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_fire": 120
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "wyvern_sentinels",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_wyvern_sentinels",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 150
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "jin_dhakoo_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
+    "name": "mhwilds_dualblades_jin_dhakoo_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
       "mh_common_ice": 270
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "precipice_ulokiem",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_precipice_ulokiem",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_ice": 300
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "chthonian_kusarigamas_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "mhwilds_dualblades_chthonian_kusarigamas_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_dragon": 140
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "chthonian_kusarigamas_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "mhwilds_dualblades_chthonian_kusarigamas_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_dragon": 170
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "bequeathed_oblivion",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_bequeathed_oblivion",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 200
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "g_veldian_harpes_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "mhwilds_dualblades_g_veldian_harpes_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": {
       "mh_common_dragon": 90
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "g_veldian_harpes_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_g_veldian_harpes_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 120
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "g_inspired_ywain",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
+    "name": "mhwilds_dualblades_g_inspired_ywain",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
       "mh_common_dragon": 150
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "kut_ku_pair_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_kut_ku_pair_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_fire": 180
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "kut_ku_pair_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_kut_ku_pair_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 220
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "dual_kut_ku",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_dualblades_dual_kut_ku",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_fire": 250
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "dual_battleaxes_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_dual_battleaxes_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_poison": 140
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "dual_battleaxes_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_dualblades_dual_battleaxes_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_poison": 170
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "final_battleaxes",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
+    "name": "mhwilds_dualblades_final_battleaxes",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
       "mh_common_poison": 200
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "whirling_fulgur_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_whirling_fulgur_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_thunder": 160
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "fulgurtwins_guardiana",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_fulgurtwins_guardiana",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_thunder": 200
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "blango_sai_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_dualblades_blango_sai_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_ice": 110
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "blango_trishula",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
+    "name": "mhwilds_dualblades_blango_trishula",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
       "mh_common_ice": 150
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     }
   },
   {
-    "Name": "gravios_warmakers_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_gravios_warmakers_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_blast": 170
     },
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 30,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "gravios_conquerors",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
+    "name": "mhwilds_dualblades_gravios_conquerors",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
       "mh_common_blast": 200
     },
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 30,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "twin_flames_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_twin_flames_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_fire": 160
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "wyvern_lovers",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_dualblades_wyvern_lovers",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_fire": 200
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "fledderklauen_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_fledderklauen_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_dragon": 120
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "hungerklauen",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_dualblades_hungerklauen",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_dragon": 150
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "veldian_harpes_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_dualblades_veldian_harpes_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_dragon": 160
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "guild_knight_sabers_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": {
+    "name": "mhwilds_dualblades_guild_knight_sabers_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": {
       "mh_common_water": 140
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "guild_knight_sabers_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "mhwilds_dualblades_guild_knight_sabers_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": {
       "mh_common_water": 170
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "master_sabers",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_dualblades_master_sabers",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_water": 200
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "esperanza_daggers",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_esperanza_daggers",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "artian_edges_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_dualblades_artian_edges_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "artian_edges_ii",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_dualblades_artian_edges_ii",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "tiltkreise",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 3],
-    "Skills": {}
+    "name": "mhwilds_dualblades_tiltkreise",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {}
   },
   {
-    "Name": "fastflayers_jambastra",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "mhwilds_dualblades_fastflayers_jambastra",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     }
   },
   {
-    "Name": "inspired_ywain",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_dualblades_inspired_ywain",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_dragon": 200
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "morning_dawn_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_dualblades_morning_dawn_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_water": 130
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "evening_dusk",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_evening_dusk",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_water": 190
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "zoh_liel_i",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_dualblades_zoh_liel_i",
+    "part": "mhwilds_dualblades",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 100
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   },
   {
-    "Name": "blazing_liel",
-    "Part": "mhwilds_dualblades",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_dualblades_blazing_liel",
+    "part": "mhwilds_dualblades",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_dragon": 140
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   }

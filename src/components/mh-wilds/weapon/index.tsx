@@ -2,12 +2,26 @@
 
 import { useState } from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { GreatswordList, ChargeBladeList, BowList } from "@/container/mh-wilds";
+import {
+  GreatswordList,
+  ChargeBladeList,
+  GunlanceList,
+  HammerList,
+  HuntingHornList,
+  DualbladeList,
+  BowList,
+  HeavyBowgunList,
+} from "@/container/mh-wilds";
 
 type EquipmentNamespace =
   | "mhWilds_greatswords"
+  | "mhWilds_charge_blades"
+  | "mhWilds_gunlances"
+  | "mhWilds_hammers"
+  | "mhWilds_hunting_horn"
+  | "mhWilds_dualblades"
   | "mhWilds_bows"
-  | "mhWilds_charge_blades";
+  | "mhWilds_heavy_bowguns";
 
 export function MhWildsWeapon() {
   const { lang, setLang, getNamespaceData } = useI18n();
@@ -72,9 +86,50 @@ export function MhWildsWeapon() {
         >
           {mhCommonNamespace?.mh_common_chargeblade}
         </button>
+        <button
+          onClick={() => setEquipmentType("mhWilds_gunlances")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_gunlances"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_gunlance}
+        </button>
+        <button
+          onClick={() => setEquipmentType("mhWilds_hammers")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_hammers"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_hammer}
+        </button>
+        <button
+          onClick={() => setEquipmentType("mhWilds_hunting_horn")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_hunting_horn"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_huntinghorn}
+        </button>
       </div>
       {/* 태도, 한손검, 쌍검, 랜스, 조충곤 */}
-      <div className="mb-6 flex space-x-4"></div>
+      <div className="mb-6 flex space-x-4">
+        <button
+          onClick={() => setEquipmentType("mhWilds_dualblades")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_dualblades"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_dualblade}
+        </button>
+      </div>
       {/* 라이트 보우건, 헤비 보우건, 활 */}
       <div className="mb-6 flex space-x-4">
         <button
@@ -86,6 +141,16 @@ export function MhWildsWeapon() {
           }`}
         >
           {mhCommonNamespace?.mh_common_bow}
+        </button>
+        <button
+          onClick={() => setEquipmentType("mhWilds_heavy_bowguns")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_heavy_bowguns"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_heavy_bowgun}
         </button>
       </div>
 
@@ -100,8 +165,18 @@ export function MhWildsWeapon() {
         <GreatswordList searchTerm={term} />
       ) : equipmentType === "mhWilds_charge_blades" ? (
         <ChargeBladeList searchTerm={term} />
+      ) : equipmentType === "mhWilds_gunlances" ? (
+        <GunlanceList searchTerm={term} />
+      ) : equipmentType === "mhWilds_hammers" ? (
+        <HammerList searchTerm={term} />
+      ) : equipmentType === "mhWilds_hunting_horn" ? (
+        <HuntingHornList searchTerm={term} />
+      ) : equipmentType === "mhWilds_dualblades" ? (
+        <DualbladeList searchTerm={term} />
       ) : equipmentType === "mhWilds_bows" ? (
         <BowList searchTerm={term} />
+      ) : equipmentType === "mhWilds_heavy_bowguns" ? (
+        <HeavyBowgunList searchTerm={term} />
       ) : (
         <div className="text-center py-8 text-gray-500">
           {mhWildsmhCommonNamespace?.mhwilds_common_noResults}

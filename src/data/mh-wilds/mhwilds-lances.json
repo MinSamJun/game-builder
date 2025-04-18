@@ -1,1188 +1,1188 @@
 [
   {
-    "Name": "hope_lance_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 90,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {}
+    "name": "hope_lance_i",
+    "part": "mhwilds_lance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 90,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {}
   },
   {
-    "Name": "hope_lance_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "hope_lance_ii",
+    "part": "mhwilds_lance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_lance_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "hope_lance_iii",
+    "part": "mhwilds_lance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_lance_iv",
-    "Part": "mhwilds_lance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "hope_lance_iv",
+    "part": "mhwilds_lance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "hope_lance_v",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "hope_lance_v",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "bone_lance_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "bone_lance_i",
+    "part": "mhwilds_lance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "bone_lance_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "bone_lance_ii",
+    "part": "mhwilds_lance",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "bone_lance_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "bone_lance_iii",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "bone_lance_iv",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "bone_lance_iv",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "hard_bone_lance",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "hard_bone_lance",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "chrome_drill_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "chrome_drill_i",
+    "part": "mhwilds_lance",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 1
     }
   },
   {
-    "Name": "chrome_drill_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "chrome_drill_ii",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
-    "Name": "chrome_drill_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "chrome_drill_iii",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
-    "Name": "chrome_lance",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "chrome_lance",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
-    "Name": "quematrice_lanza_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": {
+    "name": "quematrice_lanza_i",
+    "part": "mhwilds_lance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": {
       "mh_common_fire": 100
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "quematrice_lanza_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "quematrice_lanza_ii",
+    "part": "mhwilds_lance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_fire": 120
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "quematrice_lanza_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "quematrice_lanza_iii",
+    "part": "mhwilds_lance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_fire": 150
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "quematrice_lanza_iv",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "quematrice_lanza_iv",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 170
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     }
   },
   {
-    "Name": "firetrail_kaminet",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
+    "name": "firetrail_kaminet",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
       "mh_common_fire": 200
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     }
   },
   {
-    "Name": "barina_sarissa_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "barina_sarissa_i",
+    "part": "mhwilds_lance",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
-    "Name": "barina_sarissa_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "barina_sarissa_ii",
+    "part": "mhwilds_lance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "barina_sarissa_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 150,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "barina_sarissa_iii",
+    "part": "mhwilds_lance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 150,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "barina_sarissa_iv",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "barina_sarissa_iv",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "lala_aviculari",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "lala_aviculari",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     }
   },
   {
-    "Name": "balahara_lance_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": {
+    "name": "balahara_lance_i",
+    "part": "mhwilds_lance",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": {
       "mh_common_water": 140
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1
     }
   },
   {
-    "Name": "balahara_lance_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 150,
-    "Element": {
+    "name": "balahara_lance_ii",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 150,
+    "element": {
       "mh_common_water": 160
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
-    "Name": "balahara_lance_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "balahara_lance_iii",
+    "part": "mhwilds_lance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": {
       "mh_common_water": 200
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
-    "Name": "balahara_lance_iv",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
+    "name": "balahara_lance_iv",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
       "mh_common_water": 220
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "sandsea_prallaya",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "sandsea_prallaya",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_water": 250
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "dosha_fierceborer_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [],
-    "Skills": {
+    "name": "dosha_fierceborer_i",
+    "part": "mhwilds_lance",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 1
     }
   },
   {
-    "Name": "dosha_fierceborer_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [1, 1],
-    "Skills": {
+    "name": "dosha_fierceborer_ii",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 2
     }
   },
   {
-    "Name": "dosha_fierceborer_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [2, 2],
-    "Skills": {
+    "name": "dosha_fierceborer_iii",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
-    "Name": "rompo_piercer_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "rompo_piercer_i",
+    "part": "mhwilds_lance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
-    "Name": "rompo_piercer_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "rompo_piercer_ii",
+    "part": "mhwilds_lance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     }
   },
   {
-    "Name": "rompo_piercer_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "rompo_piercer_iii",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
-    "Name": "rompo_tetrotox",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "rompo_tetrotox",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
-    "Name": "rey_indra_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "rey_indra_i",
+    "part": "mhwilds_lance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_thunder": 150
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "rey_indra_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "rey_indra_ii",
+    "part": "mhwilds_lance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_thunder": 190
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "rey_indra_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "rey_indra_iii",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_thunder": 220
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_offensive_guard": 1
     }
   },
   {
-    "Name": "indra_clairlance",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "indra_clairlance",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_thunder": 250
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_offensive_guard": 1
     }
   },
   {
-    "Name": "windpierce_lance_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "windpierce_lance_i",
+    "part": "mhwilds_lance",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_ice": 150
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "windpierce_lance_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "windpierce_lance_ii",
+    "part": "mhwilds_lance",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_ice": 190
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "windpierce_lance_iii",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "windpierce_lance_iii",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_ice": 220
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "windpierce_tsukibami",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "windpierce_tsukibami",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_ice": 250
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_airborne": 1
     }
   },
   {
-    "Name": "nu_osminog_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "nu_osminog_i",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": {
       "mh_common_fire": 150
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
-    "Name": "nu_osminog_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "nu_osminog_ii",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 220
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "abaddonian_osminog",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
+    "name": "abaddonian_osminog",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
       "mh_common_fire": 250
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "dosha_gloomborer_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "name": "dosha_gloomborer_i",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
-    "Name": "dosha_gloomborer_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "dosha_gloomborer_ii",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "gloomborer_urshanith",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 250,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "gloomborer_urshanith",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 250,
+    "element": null,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "albirath_tail_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "albirath_tail_i",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": {
       "mh_common_fire": 160
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "albirath_tail_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "albirath_tail_ii",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_fire": 210
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "shining_pillar",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "shining_pillar",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_fire": 250
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "chthonian_firewheel_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "chthonian_firewheel_i",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_dragon": 260
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     }
   },
   {
-    "Name": "chthonian_firewheel_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "chthonian_firewheel_ii",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_dragon": 310
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "bequeathed_regret",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "bequeathed_regret",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 350
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     }
   },
   {
-    "Name": "g_veldian_lancea_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "g_veldian_lancea_i",
+    "part": "mhwilds_lance",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": {
       "mh_common_dragon": 140
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "g_veldian_lancea_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "g_veldian_lancea_ii",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 170
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "g_purifying_beaumains",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
+    "name": "g_purifying_beaumains",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
       "mh_common_dragon": 200
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 2
     }
   },
   {
-    "Name": "gravios_spear_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "gravios_spear_i",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
-    "Name": "gravios_lance",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 250,
-    "Element": null,
-    "Affinity": -15,
-    "Defense": 30,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "gravios_lance",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 250,
+    "element": null,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     }
   },
   {
-    "Name": "red_tail_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
+    "name": "red_tail_i",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
       "mh_common_fire": 290
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "spear_of_prominence",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "spear_of_prominence",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 350
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "eiferschild_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "eiferschild_i",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_dragon": 220
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "fieberschild",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "fieberschild",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 250
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "veldian_lancea_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "veldian_lancea_i",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_dragon": 320
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     }
   },
   {
-    "Name": "artian_lance_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "artian_lance_i",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "artian_lance_ii",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "artian_lance_ii",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "skyscraper",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 3],
-    "Skills": {}
+    "name": "skyscraper",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {}
   },
   {
-    "Name": "esperanza_lance",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "esperanza_lance",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "fierceborer_dubhanith",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": null,
-    "Affinity": -5,
-    "Defense": 20,
-    "Slots": [3, 3, 1],
-    "Skills": {
+    "name": "fierceborer_dubhanith",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": null,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [3, 3, 1],
+    "skills": {
       "mhwilds_weapon_skill_punishing_draw": 3
     }
   },
   {
-    "Name": "purifying_beaumains",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "purifying_beaumains",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_dragon": 350
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_guard": 3
     }
   },
   {
-    "Name": "paladin_lance_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "paladin_lance_i",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 3,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "babel_spear",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "babel_spear",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_critical_draw": 3,
       "mhwilds_weapon_skill_guard": 1
     }
   },
   {
-    "Name": "hana_mo_hana_nare_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "hana_mo_hana_nare_i",
+    "part": "mhwilds_lance",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "kimi_ga_kiru",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "name": "kimi_ga_kiru",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "zoh_sital_i",
-    "Part": "mhwilds_lance",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "zoh_sital_i",
+    "part": "mhwilds_lance",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 150
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   },
   {
-    "Name": "blazing_sital",
-    "Part": "mhwilds_lance",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "blazing_sital",
+    "part": "mhwilds_lance",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_dragon": 200
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   }

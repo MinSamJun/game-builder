@@ -81,13 +81,17 @@ export function GreatswordList({ searchTerm }: { searchTerm: string }) {
           {mhCommonNamespace?.mh_common_high_rank ?? "High Rank"}
         </button>
 
-        <label className="flex items-center gap-2 ml-4 text-sm">
+        <label
+          htmlFor="finalOnlyCheckbox"
+          className="flex items-center gap-2 ml-4 text-sm"
+        >
           <input
+            id="finalOnlyCheckbox"
             type="checkbox"
             checked={isFinalOnly}
             onChange={() => setIsFinalOnly(!isFinalOnly)}
           />
-          {mhCommonNamespace?.mh_common_final_only}
+          {mhCommonNamespace?.mh_common_final_only ?? "final only"}
         </label>
       </div>
 

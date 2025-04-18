@@ -1,1207 +1,1207 @@
 [
   {
-    "Name": "hope_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 90,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {}
+    "name": "mhwilds_hammers_hope_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 90,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {}
   },
   {
-    "Name": "hope_hammer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
+    "name": "mhwilds_hammers_hope_hammer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_hammer_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "critical_eye": 1,
+    "name": "mhwilds_hammers_hope_hammer_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "hope_hammer_iv",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
+    "name": "mhwilds_hammers_hope_hammer_iv",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
-      "critical_eye": 1
+      "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "hope_hammer_v",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
+    "name": "mhwilds_hammers_hope_hammer_v",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 2,
-      "critical_eye": 1
+      "mhwilds_weapon_skill_critical_eye": 1
     }
   },
   {
-    "Name": "bone_bludgeon_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "focus": 1
+    "name": "mhwilds_hammers_bone_bludgeon_i",
+    "part": "mhwilds_hammers",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "bone_bludgeon_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 130,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "focus": 2,
-      "attack_boost": 1
+    "name": "mhwilds_hammers_bone_bludgeon_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 130,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "bone_bludgeon_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "focus": 2,
-      "attack_boost": 1
+    "name": "mhwilds_hammers_bone_bludgeon_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2,
+      "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "bone_bludgeon_iv",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "focus": 3,
-      "attack_boost": 1
+    "name": "mhwilds_hammers_bone_bludgeon_iv",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "heavy_bone_bludgeon",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "focus": 3,
-      "attack_boost": 1
+    "name": "mhwilds_hammers_heavy_bone_bludgeon",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3,
+      "mhwilds_weapon_skill_attack_boost": 1
     }
   },
   {
-    "Name": "iron_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "critical_draw": 1
+    "name": "mhwilds_hammers_iron_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 1
     }
   },
   {
-    "Name": "iron_hammer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "critical_draw": 2
+    "name": "mhwilds_hammers_iron_hammer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 2
     }
   },
   {
-    "Name": "iron_hammer_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "critical_draw": 2
+    "name": "mhwilds_hammers_iron_hammer_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 2
     }
   },
   {
-    "Name": "iron_devil",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "critical_draw": 3
+    "name": "mhwilds_hammers_iron_devil",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 3
     }
   },
   {
-    "Name": "chata_clobberer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [],
-    "Skills": {
-      "charge_up": 1
+    "name": "mhwilds_hammers_chata_clobberer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "chata_clobberer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 150,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [],
-    "Skills": {
-      "stamina_thief": 1,
-      "charge_up": 1
+    "name": "mhwilds_hammers_chata_clobberer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 150,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 1,
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "chata_clobberer_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [2, 1],
-    "Skills": {
-      "stamina_thief": 1,
-      "charge_up": 1
+    "name": "mhwilds_hammers_chata_clobberer_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 1,
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "chata_clobberer_iv",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [3, 2],
-    "Skills": {
-      "stamina_thief": 2,
-      "charge_up": 1
+    "name": "mhwilds_hammers_chata_clobberer_iv",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 2,
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "balahara_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 2,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 110,
-    "Element": {
+    "name": "mhwilds_hammers_balahara_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 2,
+    "rank": "mhwilds_low_rank",
+    "attack": 110,
+    "element": {
       "mh_common_water": 160
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "slugger": 1
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_slugger": 1
     }
   },
   {
-    "Name": "balahara_hammer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 150,
-    "Element": {
+    "name": "mhwilds_hammers_balahara_hammer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 150,
+    "element": {
       "mh_common_water": 200
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "slugger": 2
+    "affinity": 10,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_slugger": 2
     }
   },
   {
-    "Name": "balahara_hammer_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "mhwilds_hammers_balahara_hammer_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 160,
+    "element": {
       "mh_common_water": 230
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "slugger": 2
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slugger": 2
     }
   },
   {
-    "Name": "balahara_hammer_iv",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
+    "name": "mhwilds_hammers_balahara_hammer_iv",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
       "mh_common_water": 270
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "slugger": 3
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_slugger": 3
     }
   },
   {
-    "Name": "sandsea_siamitiya",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_sandsea_siamitiya",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_water": 300
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "slugger": 3
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slugger": 3
     }
   },
   {
-    "Name": "rompo_wrecker_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "mhwilds_hammers_rompo_wrecker_i",
+    "part": "mhwilds_hammers",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_poison": 170
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "focus": 2
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "rompo_wrecker_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "mhwilds_hammers_rompo_wrecker_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_poison": 240
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "focus": 2
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "rompo_wrecker_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_hammers_rompo_wrecker_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_poison": 270
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "rompo_robustox",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_hammers_rompo_robustox",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_poison": 300
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "cluster_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 120,
-    "Element": {
+    "name": "mhwilds_hammers_cluster_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 120,
+    "element": {
       "mh_common_sleep": 150
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "charge_master": 1,
-      "focus": 1
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 1,
+      "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "cluster_hammer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 150,
-    "Element": {
+    "name": "mhwilds_hammers_cluster_hammer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 150,
+    "element": {
       "mh_common_sleep": 210
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "charge_master": 1,
-      "focus": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 1,
+      "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "cluster_hammer_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_cluster_hammer_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_sleep": 270
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "charge_master": 2,
-      "focus": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 2,
+      "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "nerscrapper",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_hammers_nerscrapper",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_sleep": 300
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "charge_master": 2,
-      "focus": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 2,
+      "mhwilds_weapon_skill_focus": 1
     }
   },
   {
-    "Name": "nu_pulpo_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "mhwilds_hammers_nu_pulpo_i",
+    "part": "mhwilds_hammers",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": {
       "mh_common_fire": 200
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "protective_polish": 2,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_speed_sharpening": 1
     }
   },
   {
-    "Name": "nu_pulpo_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_nu_pulpo_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 270
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "protective_polish": 2,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "abaddonian_pulpo",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
+    "name": "mhwilds_hammers_abaddonian_pulpo",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
       "mh_common_fire": 300
     },
-    "Affinity": -15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "protective_polish": 3,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_protective_polish": 3,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "albirath_bludgeon_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "mhwilds_hammers_albirath_bludgeon_i",
+    "part": "mhwilds_hammers",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": {
       "mh_common_fire": 210
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "critical_element": 1,
-      "masters_touch": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "albirath_bludgeon_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_albirath_bludgeon_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_fire": 260
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "critical_element": 1,
-      "masters_touch": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "gibil_hammer",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_gibil_hammer",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 300
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "critical_element": 1,
-      "masters_touch": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 1,
+      "mhwilds_weapon_skill_masters_touch": 1
     }
   },
   {
-    "Name": "jin_dhauda_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
+    "name": "mhwilds_hammers_jin_dhauda_i",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
       "mh_common_ice": 470
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "precipice_logamtu",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_precipice_logamtu",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_ice": 500
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "nihil_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 160,
-    "Element": {
+    "name": "mhwilds_hammers_nihil_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 160,
+    "element": {
       "mh_common_water": 160
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [1],
-    "Skills": {
-      "focus": 2
+    "affinity": 0,
+    "defense": 0,
+    "slots": [1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "nihil_hammer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": {
+    "name": "mhwilds_hammers_nihil_hammer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": {
       "mh_common_water": 210
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "zaccio_s_execution",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_hammers_zaccio_s_execution",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_water": 250
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "g_veldian_malleus_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 4,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "mhwilds_hammers_g_veldian_malleus_i",
+    "part": "mhwilds_hammers",
+    "rarity": 4,
+    "rank": "mhwilds_low_rank",
+    "attack": 170,
+    "element": {
       "mh_common_dragon": 160
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [1, 1],
-    "Skills": {
-      "focus": 2
+    "affinity": -10,
+    "defense": 0,
+    "slots": [1, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "g_veldian_malleus_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_g_veldian_malleus_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 210
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 2],
-    "Skills": {
-      "focus": 2
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "g_exultant_bedivere",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 240,
-    "Element": {
+    "name": "mhwilds_hammers_g_exultant_bedivere",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 240,
+    "element": {
       "mh_common_dragon": 250
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
-      "focus": 2
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 2
     }
   },
   {
-    "Name": "kut_ku_pick_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_kut_ku_pick_i",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_fire": 410
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "charge_master": 2
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 2
     }
   },
   {
-    "Name": "kut_ku_pick_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_kut_ku_pick_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_fire": 470
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "charge_master": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 3
     }
   },
   {
-    "Name": "kut_ku_thwap",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_hammers_kut_ku_thwap",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_fire": 500
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "charge_master": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 3
     }
   },
   {
-    "Name": "venom_monster_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_venom_monster_i",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_poison": 310
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "critical_draw": 1,
-      "charge_up": 1
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 1,
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "venom_monster_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_hammers_venom_monster_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_poison": 340
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "critical_draw": 2,
-      "charge_up": 1
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 2,
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "death_venom_hammer",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
+    "name": "mhwilds_hammers_death_venom_hammer",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
       "mh_common_poison": 400
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
-      "critical_draw": 3,
-      "charge_up": 1
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_draw": 3,
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "crashing_fulgur_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_crashing_fulgur_i",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_thunder": 390
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "critical_element": 3
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "fulgurhammer_guardiana",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_fulgurhammer_guardiana",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_thunder": 450
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "critical_element": 3
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "blan_gada_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_hammers_blan_gada_i",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_ice": 210
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "slugger": 3
+    "affinity": -10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slugger": 3
     }
   },
   {
-    "Name": "singha_gada",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": {
+    "name": "mhwilds_hammers_singha_gada",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": {
       "mh_common_ice": 250
     },
-    "Affinity": -10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "slugger": 3
+    "affinity": -10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slugger": 3
     }
   },
   {
-    "Name": "shell_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_shell_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_blast": 340
     },
-    "Affinity": -20,
-    "Defense": 30,
-    "Slots": [2, 1],
-    "Skills": {
-      "charge_master": 3
+    "affinity": -20,
+    "defense": 30,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 3
     }
   },
   {
-    "Name": "graviton_hammer",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 250,
-    "Element": {
+    "name": "mhwilds_hammers_graviton_hammer",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 250,
+    "element": {
       "mh_common_blast": 400
     },
-    "Affinity": -20,
-    "Defense": 30,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "charge_master": 3
+    "affinity": -20,
+    "defense": 30,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_charge_master": 3
     }
   },
   {
-    "Name": "red_bludgeon_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_red_bludgeon_i",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_fire": 340
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "critical_boost": 3
+    "affinity": 10,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "huracan_hammer",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_hammers_huracan_hammer",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_fire": 400
     },
-    "Affinity": 10,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "critical_boost": 3
+    "affinity": 10,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_boost": 3
     }
   },
   {
-    "Name": "wuchtblick_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_wuchtblick_i",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_dragon": 270
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "critical_element": 3
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "grimmblick",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_grimmblick",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 300
     },
-    "Affinity": 20,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "critical_element": 3
+    "affinity": 20,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_element": 3
     }
   },
   {
-    "Name": "veldian_malleus_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_hammers_veldian_malleus_i",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_dragon": 320
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "jail_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 1,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 100,
-    "Element": {
+    "name": "mhwilds_hammers_jail_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 1,
+    "rank": "mhwilds_low_rank",
+    "attack": 100,
+    "element": {
       "mh_common_paralysis": 150
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "stamina_thief": 1
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 1
     }
   },
   {
-    "Name": "jail_hammer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 3,
-    "Rank": "mhwilds_low_rank",
-    "Attack": 140,
-    "Element": {
+    "name": "mhwilds_hammers_jail_hammer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 3,
+    "rank": "mhwilds_low_rank",
+    "attack": 140,
+    "element": {
       "mh_common_paralysis": 170
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [],
-    "Skills": {
-      "stamina_thief": 2
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 2
     }
   },
   {
-    "Name": "jail_hammer_iii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 5,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": {
+    "name": "mhwilds_hammers_jail_hammer_iii",
+    "part": "mhwilds_hammers",
+    "rarity": 5,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": {
       "mh_common_paralysis": 200
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "stamina_thief": 2
+    "affinity": 0,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 2
     }
   },
   {
-    "Name": "jail_hammer_iv",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 200,
-    "Element": {
+    "name": "mhwilds_hammers_jail_hammer_iv",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 200,
+    "element": {
       "mh_common_paralysis": 220
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "stamina_thief": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 3
     }
   },
   {
-    "Name": "binder_mace",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_hammers_binder_mace",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_paralysis": 250
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 3, 1],
-    "Skills": {
-      "stamina_thief": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 3, 1],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 3
     }
   },
   {
-    "Name": "artian_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 170,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_hammers_artian_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 170,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "artian_hammer_ii",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [2, 2, 2],
-    "Skills": {}
+    "name": "mhwilds_hammers_artian_hammer_ii",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [2, 2, 2],
+    "skills": {}
   },
   {
-    "Name": "moteurvankel",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 190,
-    "Element": null,
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 3, 3],
-    "Skills": {}
+    "name": "mhwilds_hammers_moteurvankel",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 190,
+    "element": null,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 3, 3],
+    "skills": {}
   },
   {
-    "Name": "esperanza_hammer",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "critical_eye": 2,
+    "name": "mhwilds_hammers_esperanza_hammer",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": null,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     }
   },
   {
-    "Name": "shrouded_aghaturi",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 230,
-    "Element": null,
-    "Affinity": 0,
-    "Defense": 15,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "stamina_thief": 3,
-      "charge_up": 1
+    "name": "mhwilds_hammers_shrouded_aghaturi",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 230,
+    "element": null,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_stamina_thief": 3,
+      "mhwilds_weapon_skill_charge_up": 1
     }
   },
   {
-    "Name": "exultant_bedivere",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_hammers_exultant_bedivere",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_dragon": 350
     },
-    "Affinity": 0,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "focus": 3
+    "affinity": 0,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_focus": 3
     }
   },
   {
-    "Name": "purity_hammer_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 6,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 180,
-    "Element": {
+    "name": "mhwilds_hammers_purity_hammer_i",
+    "part": "mhwilds_hammers",
+    "rarity": 6,
+    "rank": "mhwilds_high_rank",
+    "attack": 180,
+    "element": {
       "mh_common_water": 300
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [2, 1],
-    "Skills": {
-      "slicked_blade": 2,
-      "critical_element": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 2,
+      "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "sinter_hammer",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_sinter_hammer",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_water": 350
     },
-    "Affinity": 15,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "slicked_blade": 3,
-      "critical_element": 1
+    "affinity": 15,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_slicked_blade": 3,
+      "mhwilds_weapon_skill_critical_element": 1
     }
   },
   {
-    "Name": "zoh_uria_i",
-    "Part": "mhwilds_hammers",
-    "Rarity": 7,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 210,
-    "Element": {
+    "name": "mhwilds_hammers_zoh_uria_i",
+    "part": "mhwilds_hammers",
+    "rarity": 7,
+    "rank": "mhwilds_high_rank",
+    "attack": 210,
+    "element": {
       "mh_common_dragon": 200
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2],
-    "Skills": {
-      "whiteflame\n_torrent": 1
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   },
   {
-    "Name": "blazing_uria",
-    "Part": "mhwilds_hammers",
-    "Rarity": 8,
-    "Rank": "mhwilds_high_rank",
-    "Attack": 220,
-    "Element": {
+    "name": "mhwilds_hammers_blazing_uria",
+    "part": "mhwilds_hammers",
+    "rarity": 8,
+    "rank": "mhwilds_high_rank",
+    "attack": 220,
+    "element": {
       "mh_common_dragon": 250
     },
-    "Affinity": 5,
-    "Defense": 0,
-    "Slots": [3, 2, 1],
-    "Skills": {
-      "whiteflame\n_torrent": 1
+    "affinity": 5,
+    "defense": 0,
+    "slots": [3, 2, 1],
+    "skills": {
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     }
   }
 ]

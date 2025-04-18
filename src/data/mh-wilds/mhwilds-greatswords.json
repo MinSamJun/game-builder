@@ -838,7 +838,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 180,
     "element": {
-      "mhwilds_mh_common_thunder": 440
+      "mh_common_thunder": 440
     },
     "affinity": 15,
     "defense": 0,
@@ -854,7 +854,7 @@
     "rank": "mhwilds_high_rank",
     "attack": 210,
     "element": {
-      "mhwilds_mh_common_thunder": 500
+      "mh_common_thunder": 500
     },
     "affinity": 15,
     "defense": 0,

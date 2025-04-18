@@ -2,28 +2,31 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { mhWildsChargebladesData } from "@/data/mh-wilds";
+import { mhWildsGunlancesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 
-export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
+export function GunlanceList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsChargeBladeNamespace =
-    getNamespaceData("mhWilds_charge_blades") ?? {};
+  const mhWildsGunlanceNamespace = getNamespaceData("mhWilds_gunlances") ?? {};
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
+  const mhWildsShellingTypeNamespace =
+    getNamespaceData("mhWilds_shelling_type") ?? {};
+  const mhWildsShellingDamageNamespace =
+    getNamespaceData("mhWilds_shelling_damage") ?? {};
 
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
   const [isFinalOnly, setIsFinalOnly] = React.useState(false);
 
-  const filteredList = mhWildsChargebladesData.filter(
+  const filteredList = mhWildsGunlancesData.filter(
     ({ name, rank, rarity }) =>
       (!selectedRank || rank === selectedRank) &&
       (!isFinalOnly || rarity === 4 || rarity === 8) &&
-      (mhWildsChargeBladeNamespace[name] ?? name)
+      (mhWildsGunlanceNamespace[name] ?? name)
         .toLowerCase()
         .includes(searchTerm.toLowerCase())
   );
@@ -81,13 +84,17 @@ export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
           {mhCommonNamespace?.mh_common_high_rank ?? "High Rank"}
         </button>
 
-        <label className="flex items-center gap-2 ml-4 text-sm">
+        <label
+          htmlFor="finalOnlyCheckbox"
+          className="flex items-center gap-2 ml-4 text-sm"
+        >
           <input
+            id="finalOnlyCheckbox"
             type="checkbox"
             checked={isFinalOnly}
             onChange={() => setIsFinalOnly(!isFinalOnly)}
           />
-          {mhCommonNamespace?.mh_common_final_only}
+          {mhCommonNamespace?.mh_common_final_only ?? "final only"}
         </label>
       </div>
 
@@ -96,11 +103,20 @@ export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
       ) : (
         <div>
           {paginatedList.map(
-            ({ name, attack, element, affinity, defense, slots, skills }) => (
+            ({
+              name,
+              attack,
+              element,
+              affinity,
+              defense,
+              slots,
+              skills,
+              Shelling,
+            }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
-                <div className="flex items-center">
+                <div className="flex items-center justify-between">
                   <div className="font-semibold">
-                    {mhWildsChargeBladeNamespace[name]}
+                    {mhWildsGunlanceNamespace[name]}
                   </div>
                   {slots.length > 0 && (
                     <div className="text-sm text-gray-600 font-weight: font-bold">
@@ -128,19 +144,17 @@ export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
                         : element
                       : "-"}
                   </div>
-
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_affinity}:</strong>{" "}
                     {affinity}%
                   </div>
-
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_defense}:</strong>{" "}
                     {defense}
                   </div>
                 </div>
 
-                <div className="gap-4 text-sm mt-2">
+                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
                       {mhWildsmhCommonNamespace?.mhwilds_common_skills}:
@@ -152,6 +166,29 @@ export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
                         return (
                           <div key={key}>
                             {skillName} Lv{level}
+                          </div>
+                        );
+                      })
+                    ) : (
+                      <div>{mhCommonNamespace?.mh_common_none}</div>
+                    )}
+                  </div>
+
+                  <div className="bg-gray-800 text-white rounded p-4">
+                    <strong>
+                      {mhWildsmhCommonNamespace?.mhwilds_common_shelling ??
+                        "Shelling"}
+                    </strong>
+                    {Shelling && Object.entries(Shelling).length > 0 ? (
+                      Object.entries(Shelling).map(([typeKey, damageKey]) => {
+                        const typeName =
+                          mhWildsShellingTypeNamespace[typeKey] ?? typeKey;
+                        const damageName =
+                          mhWildsShellingDamageNamespace[damageKey] ??
+                          damageKey;
+                        return (
+                          <div key={typeKey}>
+                            {typeName} : {damageName}
                           </div>
                         );
                       })
