@@ -24,7 +24,7 @@ export function SidebarLayout({ children }: { children: React.ReactNode }) {
         {shouldShowSidebar && !isSidebarOpen && (
           <button
             onClick={toggleSidebar}
-            className="absolute top-2 left-2 z-50 px-2 py-1 text-sm text-white bg-gray-800 hover:bg-gray-700 rounded"
+            className="fixed top-2 left-2 z-50 px-2 py-1 text-sm text-white bg-gray-800 hover:bg-[var(--background)] rounded text-black"
           >
             ▶
           </button>
