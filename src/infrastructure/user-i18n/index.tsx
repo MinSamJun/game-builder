@@ -30,14 +30,18 @@ const resources = {
   },
 };
 
-type Lang = keyof typeof resources;
-type TranslationSet = (typeof resources)[Lang];
+type Lang = "en" | "ja" | "ko";
+type TranslationSet =
+  | (typeof resources)["en"]
+  | (typeof resources)["ja"]
+  | (typeof resources)["ko"];
+
 export type Namespace = keyof TranslationSet;
 
 interface I18nContextValue {
   lang: Lang;
   setLang: (lang: Lang) => void;
-  t: (ns: Namespace, key: string) => string;
+  getTranslation: (ns: Namespace, key: string) => string;
   getNamespaceData: (ns: Namespace) => Record<string, string>;
 }
 
@@ -50,10 +54,13 @@ export const I18nProvider = ({ children }: { children: ReactNode }) => {
 
   const getNamespaceData = (ns: Namespace): Record<string, string> =>
     resources[lang][ns] || {};
-  const t = (ns: Namespace, key: string) => getNamespaceData(ns)[key] ?? key;
+  const getTranslation = (ns: Namespace, key: string) =>
+    getNamespaceData(ns)[key] ?? key;
 
   return (
-    <I18nContext.Provider value={{ lang, setLang, t, getNamespaceData }}>
+    <I18nContext.Provider
+      value={{ lang, setLang, getTranslation, getNamespaceData }}
+    >
       {children}
     </I18nContext.Provider>
   );
