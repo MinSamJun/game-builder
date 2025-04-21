@@ -176,7 +176,7 @@
     "slots": [],
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 1,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [1, 3, 7],
     "echoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -193,7 +193,7 @@
     "slots": [1],
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [1, 3, 7],
     "echoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -210,7 +210,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 3, 7],
     "echoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -227,7 +227,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 3, 7],
     "echoBubbles": "mhwilds_evaasion_movement_speed_up"
@@ -243,7 +243,7 @@
     "defense": 0,
     "slots": [],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [1, 6, 8],
     "echoBubbles": "mhwilds_attack_affinity_up"
@@ -259,7 +259,7 @@
     "defense": 0,
     "slots": [2, 1, 1],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1,
+      "mhwilds_weapon_skill_horn_maestro": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "notes": [10, 6, 8],
@@ -276,7 +276,7 @@
     "defense": 0,
     "slots": [3, 3, 1],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2,
+      "mhwilds_weapon_skill_horn_maestro": 2,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "notes": [10, 6, 8],
@@ -400,7 +400,7 @@
     "slots": [1],
     "skills": {
       "mhwilds_weapon_skill_slugger": 1,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [1, 6, 7],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -417,7 +417,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_slugger": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 6, 7],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -436,7 +436,7 @@
     "slots": [],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [1, 3, 5],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -455,7 +455,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 3, 5],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -474,7 +474,7 @@
     "slots": [3, 2],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 3, 5],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -493,7 +493,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 3, 5],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -564,7 +564,7 @@
     "slots": [1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [1, 4, 7],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -581,7 +581,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 4, 7],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -598,7 +598,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 4, 7],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -710,7 +710,7 @@
     "slots": [1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [1, 6, 8],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -729,7 +729,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 6, 8],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -748,7 +748,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 6, 8],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -766,7 +766,7 @@
     "defense": 0,
     "slots": [1, 1],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+      "mhwilds_weapon_skill_horn_maestro": 2
     },
     "notes": [1, 3, 2],
     "echoBubbles": "mhwilds_ailments_blights_negated"
@@ -784,7 +784,7 @@
     "defense": 0,
     "slots": [2, 2],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+      "mhwilds_weapon_skill_horn_maestro": 2
     },
     "notes": [10, 3, 2],
     "echoBubbles": "mhwilds_ailments_blights_negated"
@@ -802,7 +802,7 @@
     "defense": 0,
     "slots": [3, 3, 1],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+      "mhwilds_weapon_skill_horn_maestro": 2
     },
     "notes": [10, 3, 2],
     "echoBubbles": "mhwilds_ailments_blights_negated"
@@ -821,7 +821,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 15, 5],
     "echoBubbles": "mhwilds_health_regeneraation"
@@ -840,7 +840,7 @@
     "slots": [3, 2],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 15, 5],
     "echoBubbles": "mhwilds_health_regeneraation"
@@ -859,7 +859,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 15, 5],
     "echoBubbles": "mhwilds_health_regeneraation"
@@ -878,7 +878,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 15, 12],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -897,7 +897,7 @@
     "slots": [2, 1],
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 15, 12],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -916,7 +916,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 3,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 15, 12],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -1100,7 +1100,7 @@
     "slots": [3, 2],
     "skills": {
       "mhwilds_weapon_skill_slugger": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+      "mhwilds_weapon_skill_horn_maestro": 2
     },
     "notes": [10, 3, 12],
     "echoBubbles": "mhwilds_defense_elemental_res_up"
@@ -1270,7 +1270,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_slugger": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 1
+      "mhwilds_weapon_skill_horn_maestro": 1
     },
     "notes": [10, 6, 7],
     "echoBubbles": "mhwilds_stamina_regeneration"
@@ -1289,7 +1289,7 @@
     "slots": [3, 2, 1],
     "skills": {
       "mhwilds_weapon_skill_slugger": 2,
-      "mhwilds_weapon_skill_mhwilds_horn_maestro": 2
+      "mhwilds_weapon_skill_horn_maestro": 2
     },
     "notes": [10, 3, 12],
     "echoBubbles": "mhwilds_defense_elemental_res_up"
@@ -1341,7 +1341,7 @@
     "defense": 0,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_whiteflame_torrent": 1
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "notes": [10, 6, 12],
     "echoBubbles": "mhwilds_health_regeneration"
@@ -1359,7 +1359,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_whiteflame_torrent": 1
+      "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "notes": [10, 6, 12],
     "echoBubbles": "mhwilds_health_regeneration"
