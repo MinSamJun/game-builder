@@ -119,9 +119,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                         ? Object.entries(element)
                             .map(
                               ([key, value]) =>
-                                `${
-                                  mhWildsCommonNamespace[key] ?? key
-                                }: ${value}`
+                                `${mhCommonNamespace[key] ?? key}: ${value}`
                             )
                             .join(", ")
                         : element

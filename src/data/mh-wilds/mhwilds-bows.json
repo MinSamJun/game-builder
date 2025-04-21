@@ -80,7 +80,9 @@
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 160,
-    "element": null,
+    "element": {
+      "mh_common_water": 110
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [1],
@@ -95,7 +97,9 @@
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 190,
-    "element": null,
+    "element": {
+      "mh_common_water": 130
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [2, 1],
@@ -110,7 +114,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 230,
-    "element": null,
+    "element": {
+      "mh_common_water": 150
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -125,7 +131,9 @@
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 140,
-    "element": null,
+    "element": {
+      "mh_common_thunder": 90
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [],
@@ -141,7 +149,9 @@
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
-    "element": null,
+    "element": {
+      "mh_common_thunder": 110
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [2, 1],
@@ -157,7 +167,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 200,
-    "element": null,
+    "element": {
+      "mh_common_thunder": 130
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2],
@@ -173,7 +185,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
-    "element": null,
+    "element": {
+      "mh_common_thunder": 150
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -189,7 +203,9 @@
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 140,
-    "element": null,
+    "element": {
+      "mh_common_ice": 90
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [],
@@ -205,7 +221,9 @@
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
-    "element": null,
+    "element": {
+      "mh_common_ice": 110
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [2, 1],
@@ -221,7 +239,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 200,
-    "element": null,
+    "element": {
+      "mh_common_ice": 130
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2],
@@ -237,7 +257,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
-    "element": null,
+    "element": {
+      "mh_common_ice": 150
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -253,7 +275,9 @@
     "part": "mhwilds_bow",
     "rarity": 1,
     "attack": 100,
-    "element": null,
+    "element": {
+      "mh_common_fire": 70
+    },
     "affinity": 5,
     "defense": 0,
     "slots": [],
@@ -268,7 +292,9 @@
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 140,
-    "element": null,
+    "element": {
+      "mh_common_fire": 90
+    },
     "affinity": 5,
     "defense": 0,
     "slots": [],
@@ -283,7 +309,9 @@
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
-    "element": null,
+    "element": {
+      "mh_common_fire": 110
+    },
     "affinity": 5,
     "defense": 0,
     "slots": [2, 1],
@@ -298,7 +326,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 210,
-    "element": null,
+    "element": {
+      "mh_common_fire": 130
+    },
     "affinity": 5,
     "defense": 0,
     "slots": [3, 2],
@@ -313,7 +343,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
-    "element": null,
+    "element": {
+      "mh_common_fire": 150
+    },
     "affinity": 5,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -388,7 +420,9 @@
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 160,
-    "element": null,
+    "element": {
+      "mh_common_fire": 110
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [1],
@@ -404,7 +438,9 @@
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
-    "element": null,
+    "element": {
+      "mh_common_fire": 130
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [2, 1],
@@ -420,7 +456,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
-    "element": null,
+    "element": {
+      "mh_common_fire": 150
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -436,7 +474,9 @@
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
-    "element": null,
+    "element": {
+      "mh_common_fire": 160
+    },
     "affinity": 10,
     "defense": 0,
     "slots": [2, 1],
@@ -451,7 +491,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 200,
-    "element": null,
+    "element": {
+      "mh_common_fire": 200
+    },
     "affinity": 10,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -466,7 +508,9 @@
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 160,
-    "element": null,
+    "element": {
+      "mh_common_fire": 110
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [2, 1],
@@ -482,7 +526,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 190,
-    "element": null,
+    "element": {
+      "mh_common_fire": 130
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [3, 2],
@@ -498,7 +544,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
-    "element": null,
+    "element": {
+      "mh_common_fire": 150
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -766,7 +814,9 @@
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
-    "element": null,
+    "element": {
+      "mh_common_thunder": 160
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [2, 1],
@@ -781,7 +831,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 200,
-    "element": null,
+    "element": {
+      "mh_common_thunder": 200
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -796,7 +848,9 @@
     "part": "mhwilds_bow",
     "rarity": 3,
     "attack": 160,
-    "element": null,
+    "element": {
+      "mh_common_water": 100
+    },
     "affinity": -20,
     "defense": 0,
     "slots": [],
@@ -811,7 +865,9 @@
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 190,
-    "element": null,
+    "element": {
+      "mh_common_water": 140
+    },
     "affinity": -20,
     "defense": 0,
     "slots": [2, 1],
@@ -826,7 +882,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 220,
-    "element": null,
+    "element": {
+      "mh_common_water": 170
+    },
     "affinity": -20,
     "defense": 0,
     "slots": [3, 2],
@@ -841,7 +899,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 240,
-    "element": null,
+    "element": {
+      "mh_common_water": 200
+    },
     "affinity": -20,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -856,7 +916,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 180,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 120
+    },
     "affinity": 20,
     "defense": 0,
     "slots": [3, 2],
@@ -871,7 +933,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 150
+    },
     "affinity": 20,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -947,7 +1011,9 @@
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 200,
-    "element": null,
+    "element": {
+      "mh_common_ice": 110
+    },
     "affinity": -10,
     "defense": 0,
     "slots": [2, 1],
@@ -962,7 +1028,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 230,
-    "element": null,
+    "element": {
+      "mh_common_ice": 150
+    },
     "affinity": -10,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -977,7 +1045,9 @@
     "part": "mhwilds_bow",
     "rarity": 5,
     "attack": 170,
-    "element": null,
+    "element": {
+      "mh_common_fire": 230
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [2, 1],
@@ -992,7 +1062,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 190,
-    "element": null,
+    "element": {
+      "mh_common_fire": 270
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2],
@@ -1007,7 +1079,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 200,
-    "element": null,
+    "element": {
+      "mh_common_fire": 300
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -1022,7 +1096,9 @@
     "part": "mhwilds_bow",
     "rarity": 4,
     "attack": 170,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 90
+    },
     "affinity": -10,
     "defense": 0,
     "slots": [1, 1],
@@ -1037,7 +1113,9 @@
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 210,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 120
+    },
     "affinity": -10,
     "defense": 0,
     "slots": [2, 2],
@@ -1052,7 +1130,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 240,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 150
+    },
     "affinity": -10,
     "defense": 0,
     "slots": [3, 3, 1],
@@ -1067,7 +1147,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 200,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 160
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2],
@@ -1152,7 +1234,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 200
+    },
     "affinity": 0,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -1167,7 +1251,9 @@
     "part": "mhwilds_bow",
     "rarity": 6,
     "attack": 180,
-    "element": null,
+    "element": {
+      "mh_common_water": 130
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [2, 1],
@@ -1183,7 +1269,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 210,
-    "element": null,
+    "element": {
+      "mh_common_water": 190
+    },
     "affinity": 15,
     "defense": 0,
     "slots": [3, 2, 1],
@@ -1199,7 +1287,9 @@
     "part": "mhwilds_bow",
     "rarity": 7,
     "attack": 210,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 100
+    },
     "affinity": 5,
     "defense": 0,
     "slots": [],
@@ -1214,7 +1304,9 @@
     "part": "mhwilds_bow",
     "rarity": 8,
     "attack": 220,
-    "element": null,
+    "element": {
+      "mh_common_dragon": 140
+    },
     "affinity": 5,
     "defense": 0,
     "slots": [],
