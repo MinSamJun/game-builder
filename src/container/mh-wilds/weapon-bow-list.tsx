@@ -1,44 +1,32 @@
 "use client";
 
 import React from "react";
-import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsBowsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
-import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
+import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
+import { useI18n } from "@infrastructure/user-i18n";
 
 export function BowList({ searchTerm }: { searchTerm: string }) {
-  const { getNamespaceData } = useI18n();
-  const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsBowNamespace = React.useMemo(
-    () => getNamespaceData("mhWilds_bows") ?? {},
-    [getNamespaceData]
-  );
-  const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
-  const mhWildsWeaponSkillsNamespace =
-    getNamespaceData("mhWilds_weapon_skill") ?? {};
-  const mhWildsCoatingNamespace = getNamespaceData("mhWilds_coating") ?? {};
-
-  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
-  const [isFinalOnly, setIsFinalOnly] = React.useState(false);
-
-  const filteredList = React.useMemo(() => {
-    return mhWildsBowsData.filter(
-      ({ name, rank, rarity }) =>
-        (!selectedRank || rank === selectedRank) &&
-        (!isFinalOnly || rarity === 4 || rarity === 8) &&
-        (mhWildsBowNamespace[name] ?? name)
-          .toLowerCase()
-          .includes(searchTerm.toLowerCase())
-    );
-  }, [selectedRank, isFinalOnly, mhWildsBowNamespace, searchTerm]);
-
-  const itemsPerPage = 10;
-  const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
+  const {
+    mhCommonNamespace,
+    mhWildsCommonNamespace,
+    mhWildsWeaponSkillsNamespace,
+    weaponNamespace: mhWildsBowNamespace,
     filteredList,
-    itemsPerPage,
-    searchTerm
-  );
+    selectedRank,
+    setSelectedRank,
+    isFinalOnly,
+    setIsFinalOnly,
+    page,
+    setPage,
+    paginatedData,
+    nextPage,
+    prevPage,
+  } = useWeaponList(mhWildsBowsData, "mhWilds_bows", searchTerm);
+
+  const { getNamespaceData } = useI18n();
+  const mhWildsCoatingNamespace = getNamespaceData("mhWilds_coating") ?? {};
 
   React.useEffect(() => {
     setPage(1);
@@ -132,7 +120,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                             .map(
                               ([key, value]) =>
                                 `${
-                                  mhWildsmhCommonNamespace[key] ?? key
+                                  mhWildsCommonNamespace[key] ?? key
                                 }: ${value}`
                             )
                             .join(", ")
@@ -154,7 +142,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                 <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
-                      {mhWildsmhCommonNamespace?.mhwilds_common_skills}:
+                      {mhWildsCommonNamespace?.mhwilds_common_skills}:
                     </strong>
                     {skills && Object.entries(skills).length > 0 ? (
                       Object.entries(skills).map(([key, level]) => {
@@ -191,7 +179,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
             <Pagination
               currentPage={page}
               totalItems={filteredList.length}
-              itemsPerPage={itemsPerPage}
+              itemsPerPage={10}
               onPrev={prevPage}
               onNext={nextPage}
             />

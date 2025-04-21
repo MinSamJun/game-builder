@@ -1,43 +1,30 @@
 "use client";
 
 import React from "react";
-import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsHeavyBowgunsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
-import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
+import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
 
 export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
-  const { getNamespaceData } = useI18n();
-
-  const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsHeavybowgunNamespace = React.useMemo(
-    () => getNamespaceData("mhWilds_heavy_bowguns") ?? {},
-    [getNamespaceData]
-  );
-
-  const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
-  const mhWildsWeaponSkillsNamespace =
-    getNamespaceData("mhWilds_weapon_skill") ?? {};
-
-  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
-  const [isFinalOnly, setIsFinalOnly] = React.useState(false);
-
-  const filteredList = React.useMemo(() => {
-    return mhWildsHeavyBowgunsData.filter(
-      ({ name, rank, rarity }) =>
-        (!selectedRank || rank === selectedRank) &&
-        (!isFinalOnly || rarity === 4 || rarity === 8) &&
-        (mhWildsHeavybowgunNamespace[name] ?? name)
-          .toLowerCase()
-          .includes(searchTerm.toLowerCase())
-    );
-  }, [selectedRank, isFinalOnly, mhWildsHeavybowgunNamespace, searchTerm]);
-
-  const itemsPerPage = 10;
-  const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
+  const {
+    mhCommonNamespace,
+    mhWildsCommonNamespace,
+    mhWildsWeaponSkillsNamespace,
+    weaponNamespace: mhWildsHeavybowgunNamespace,
     filteredList,
-    itemsPerPage,
+    selectedRank,
+    setSelectedRank,
+    isFinalOnly,
+    setIsFinalOnly,
+    page,
+    setPage,
+    paginatedData,
+    nextPage,
+    prevPage,
+  } = useWeaponList(
+    mhWildsHeavyBowgunsData,
+    "mhWilds_heavy_bowguns",
     searchTerm
   );
 
@@ -97,7 +84,7 @@ export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
       ) : (
         <div>
           {paginatedData.map(
-            ({ name, attack, element, affinity, defense, slots, skills }) => (
+            ({ name, attack, affinity, defense, slots, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
                   <div className="font-semibold">
@@ -117,24 +104,12 @@ export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
                     {attack}
                   </div>
                   <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>{mhCommonNamespace?.mh_common_element}:</strong>{" "}
-                    {element
-                      ? typeof element === "object"
-                        ? Object.entries(element)
-                            .map(
-                              ([key, value]) =>
-                                `${mhCommonNamespace[key] ?? key}: ${value}`
-                            )
-                            .join(", ")
-                        : element
-                      : "-"}
+                    <strong>{mhCommonNamespace?.mh_common_element}:</strong> -
                   </div>
-
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_affinity}:</strong>{" "}
                     {affinity}%
                   </div>
-
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_defense}:</strong>{" "}
                     {defense}
@@ -144,7 +119,7 @@ export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
                 <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
-                      {mhWildsmhCommonNamespace?.mhwilds_common_skills}:
+                      {mhWildsCommonNamespace?.mhwilds_common_skills}:
                     </strong>
                     {skills && Object.entries(skills).length > 0 ? (
                       Object.entries(skills).map(([key, level]) => {
@@ -164,6 +139,7 @@ export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
                     bullets
                   </div>
                 </div>
+
                 <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     custom 1
@@ -180,7 +156,7 @@ export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
             <Pagination
               currentPage={page}
               totalItems={filteredList.length}
-              itemsPerPage={itemsPerPage}
+              itemsPerPage={10}
               onPrev={prevPage}
               onNext={nextPage}
             />
