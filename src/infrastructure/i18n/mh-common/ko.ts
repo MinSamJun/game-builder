@@ -45,6 +45,7 @@ export const commonKo = {
   mh_common_switchaxe: "슬래시 액스",
   mh_common_chargeblade: "차지 액스",
   mh_common_insectglavie: "조충곤",
+  mh_common_insectglavie_kinsectlevel: "사냥 벌레 레벨",
   mh_common_bow: "활",
   mh_common_light_bowgun: "라이트 보우건",
   mh_common_heavy_bowgun: "헤비 보우건",

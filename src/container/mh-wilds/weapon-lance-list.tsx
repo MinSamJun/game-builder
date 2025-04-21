@@ -2,17 +2,19 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { mhWildsHuntingHornsData } from "@/data/mh-wilds";
+import { mhWildsLancesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
 
-export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
+export function LanceList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsHuntinghornNamespace =
-    getNamespaceData("mhWilds_heavy_bowguns") ?? {};
+  const mhWildsLanceNamespace = React.useMemo(
+    () => getNamespaceData("mhWilds_lances") ?? {},
+    [getNamespaceData]
+  );
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
@@ -20,14 +22,16 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
   const [isFinalOnly, setIsFinalOnly] = React.useState(false);
 
-  const filteredList = mhWildsHuntingHornsData.filter(
-    ({ name, rank, rarity }) =>
-      (!selectedRank || rank === selectedRank) &&
-      (!isFinalOnly || rarity === 4 || rarity === 8) &&
-      (mhWildsHuntinghornNamespace[name] ?? name)
-        .toLowerCase()
-        .includes(searchTerm.toLowerCase())
-  );
+  const filteredList = React.useMemo(() => {
+    return mhWildsLancesData.filter(
+      ({ name, rank, rarity }) =>
+        (!selectedRank || rank === selectedRank) &&
+        (!isFinalOnly || rarity === 4 || rarity === 8) &&
+        (mhWildsLanceNamespace[name] ?? name)
+          .toLowerCase()
+          .includes(searchTerm.toLowerCase())
+    );
+  }, [selectedRank, isFinalOnly, mhWildsLanceNamespace, searchTerm]);
 
   const itemsPerPage = 10;
   const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
@@ -92,25 +96,16 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
       ) : (
         <div>
           {paginatedData.map(
-            ({
-              name,
-              attack,
-              element,
-              affinity,
-              defense,
-              slots,
-              skills,
-              notes,
-              echoBubbles,
-            }) => (
+            ({ name, attack, element, affinity, defense, slots, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
                   <div className="font-semibold">
-                    {mhWildsHuntinghornNamespace[name]}
+                    {mhWildsLanceNamespace[name]}
                   </div>
                   {slots.length > 0 && (
                     <div className="text-sm text-gray-600 font-weight: font-bold">
-                      {mhCommonNamespace?.mh_common_slots} : {slots.join(" / ")}
+                      　{mhCommonNamespace?.mh_common_slots} :{" "}
+                      {slots.join(" / ")}
                     </div>
                   )}
                 </div>
@@ -133,10 +128,12 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
                         : element
                       : "-"}
                   </div>
+
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_affinity}:</strong>{" "}
                     {affinity}%
                   </div>
+
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_defense}:</strong>{" "}
                     {defense}
@@ -158,28 +155,6 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
                           </div>
                         );
                       })
-                    ) : (
-                      <div>{mhCommonNamespace?.mh_common_none}</div>
-                    )}
-                  </div>
-                </div>
-
-                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
-                  <div className="bg-gray-800 text-white rounded p-4">
-                    {notes && notes.length > 0 ? (
-                      notes.map((note, index) => (
-                        <div key={index}>
-                          {mhCommonNamespace?.[`note_${note}`] ??
-                            `Note ${note}`}
-                        </div>
-                      ))
-                    ) : (
-                      <div>{mhCommonNamespace?.mh_common_none}</div>
-                    )}
-                  </div>
-                  <div className="bg-gray-800 text-white rounded p-4">
-                    {echoBubbles ? (
-                      <div>{mhCommonNamespace[echoBubbles] ?? echoBubbles}</div>
                     ) : (
                       <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}

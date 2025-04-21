@@ -1,6 +1,6 @@
 [
   {
-    "name": "hope_rifle_i",
+    "name": "mhwilds_lightbowgun_hope_rifle_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 1,
     "attack": 89,
@@ -14,7 +14,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_rifle_ii",
+    "name": "mhwilds_lightbowgun_hope_rifle_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 1,
     "attack": 99,
@@ -30,7 +30,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_rifle_iii",
+    "name": "mhwilds_lightbowgun_hope_rifle_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
     "attack": 129,
@@ -47,7 +47,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_rifle_iv",
+    "name": "mhwilds_lightbowgun_hope_rifle_iv",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
     "attack": 159,
@@ -64,7 +64,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "hope_rifle_v",
+    "name": "mhwilds_lightbowgun_hope_rifle_v",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 189,
@@ -81,7 +81,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "kut_ku_anger_i",
+    "name": "mhwilds_lightbowgun_kut_ku_anger_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
     "attack": 179,
@@ -97,7 +97,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "kut_ku_anger_ii",
+    "name": "mhwilds_lightbowgun_kut_ku_anger_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 209,
@@ -113,7 +113,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "kut_ku_counterattack",
+    "name": "mhwilds_lightbowgun_kut_ku_counterattack",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 219,
@@ -129,7 +129,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "faulnisschleuder_i",
+    "name": "mhwilds_lightbowgun_faulnisschleuder_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 179,
@@ -145,7 +145,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "wahnschleuder",
+    "name": "mhwilds_lightbowgun_wahnschleuder",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 199,
@@ -161,7 +161,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rey_szelatya_i",
+    "name": "mhwilds_lightbowgun_rey_szelatya_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
     "attack": 139,
@@ -178,7 +178,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "rey_szelatya_ii",
+    "name": "mhwilds_lightbowgun_rey_szelatya_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
     "attack": 169,
@@ -195,7 +195,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rey_szelatya_iii",
+    "name": "mhwilds_lightbowgun_rey_szelatya_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 199,
@@ -212,7 +212,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "szelatya_clairgun",
+    "name": "mhwilds_lightbowgun_szelatya_clairgun",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 219,
@@ -229,7 +229,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "dosha_faithbreaker_i",
+    "name": "mhwilds_lightbowgun_dosha_faithbreaker_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
     "attack": 139,
@@ -245,7 +245,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dosha_faithbreaker_ii",
+    "name": "mhwilds_lightbowgun_dosha_faithbreaker_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 179,
@@ -261,7 +261,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dosha_faithbreaker_iii",
+    "name": "mhwilds_lightbowgun_dosha_faithbreaker_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 209,
@@ -277,7 +277,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "dosha_gigasbreaker_i",
+    "name": "mhwilds_lightbowgun_dosha_gigasbreaker_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 189,
@@ -293,7 +293,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "dosha_gigasbreaker_ii",
+    "name": "mhwilds_lightbowgun_dosha_gigasbreaker_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 219,
@@ -309,7 +309,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "gigasbreaker_urbolkule",
+    "name": "mhwilds_lightbowgun_gigasbreaker_urbolkule",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 249,
@@ -325,7 +325,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chain_blitz_i",
+    "name": "mhwilds_lightbowgun_chain_blitz_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
     "attack": 119,
@@ -341,7 +341,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chain_blitz_ii",
+    "name": "mhwilds_lightbowgun_chain_blitz_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 159,
@@ -357,7 +357,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chain_blitz_iii",
+    "name": "mhwilds_lightbowgun_chain_blitz_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 189,
@@ -373,7 +373,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "high_chain_blitz",
+    "name": "mhwilds_lightbowgun_high_chain_blitz",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 219,
@@ -389,7 +389,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "titan_launcher_i",
+    "name": "mhwilds_lightbowgun_titan_launcher_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 209,
@@ -405,7 +405,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "titan_panzer",
+    "name": "mhwilds_lightbowgun_titan_panzer",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 239,
@@ -421,7 +421,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_rathling_gun_i",
+    "name": "mhwilds_lightbowgun_g_rathling_gun_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 159,
@@ -438,7 +438,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "g_rathling_gun_ii",
+    "name": "mhwilds_lightbowgun_g_rathling_gun_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 179,
@@ -455,7 +455,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "white_rathling_phoenix",
+    "name": "mhwilds_lightbowgun_white_rathling_phoenix",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 209,
@@ -472,7 +472,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rathling_gun_i",
+    "name": "mhwilds_lightbowgun_rathling_gun_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 179,
@@ -488,7 +488,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rathling_phoenix",
+    "name": "mhwilds_lightbowgun_rathling_phoenix",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 199,
@@ -504,7 +504,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "assault_conga_i",
+    "name": "mhwilds_lightbowgun_assault_conga_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
     "attack": 119,
@@ -520,7 +520,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "assault_conga_ii",
+    "name": "mhwilds_lightbowgun_assault_conga_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
     "attack": 169,
@@ -537,7 +537,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "combat_conga",
+    "name": "mhwilds_lightbowgun_combat_conga",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 219,
@@ -554,7 +554,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "tail_string_i",
+    "name": "mhwilds_lightbowgun_tail_string_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 199,
@@ -570,7 +570,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "tail_catapult",
+    "name": "mhwilds_lightbowgun_tail_catapult",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 229,
@@ -586,7 +586,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "valkyrie_fire_i",
+    "name": "mhwilds_lightbowgun_valkyrie_fire_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
     "attack": 159,
@@ -603,7 +603,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "valkyrie_fire_ii",
+    "name": "mhwilds_lightbowgun_valkyrie_fire_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 189,
@@ -620,7 +620,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "valkyrie_flame",
+    "name": "mhwilds_lightbowgun_valkyrie_flame",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 209,
@@ -637,7 +637,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "hunter_s_rifle_i",
+    "name": "mhwilds_lightbowgun_hunter_s_rifle_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 1,
     "attack": 109,
@@ -653,7 +653,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hunter_s_rifle_ii",
+    "name": "mhwilds_lightbowgun_hunter_s_rifle_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
     "attack": 129,
@@ -670,7 +670,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hunter_s_rifle_iii",
+    "name": "mhwilds_lightbowgun_hunter_s_rifle_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 169,
@@ -687,7 +687,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hunter_s_rifle_iv",
+    "name": "mhwilds_lightbowgun_hunter_s_rifle_iv",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 199,
@@ -704,7 +704,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "power_rifle",
+    "name": "mhwilds_lightbowgun_power_rifle",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 229,
@@ -721,7 +721,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "felling_fulgur_i",
+    "name": "mhwilds_lightbowgun_felling_fulgur_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 179,
@@ -737,7 +737,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "fulgursnipe_guardiana",
+    "name": "mhwilds_lightbowgun_fulgursnipe_guardiana",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 209,
@@ -753,7 +753,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chthonian_gunfire_i",
+    "name": "mhwilds_lightbowgun_chthonian_gunfire_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 139,
@@ -769,7 +769,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chthonian_gunfire_ii",
+    "name": "mhwilds_lightbowgun_chthonian_gunfire_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 169,
@@ -785,7 +785,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "bequeathed_animus",
+    "name": "mhwilds_lightbowgun_bequeathed_animus",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 209,
@@ -801,7 +801,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "ajara_shellgun_i",
+    "name": "mhwilds_lightbowgun_ajara_shellgun_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
     "attack": 129,
@@ -817,7 +817,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "ajara_shellgun_ii",
+    "name": "mhwilds_lightbowgun_ajara_shellgun_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 179,
@@ -833,7 +833,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "ajara_angaja",
+    "name": "mhwilds_lightbowgun_ajara_angaja",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 209,
@@ -849,7 +849,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "nu_chobotnice_i",
+    "name": "mhwilds_lightbowgun_nu_chobotnice_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 169,
@@ -865,7 +865,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "nu_chobotnice_ii",
+    "name": "mhwilds_lightbowgun_nu_chobotnice_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 209,
@@ -881,7 +881,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "abaddonian_chobotnice",
+    "name": "mhwilds_lightbowgun_abaddonian_chobotnice",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 229,
@@ -897,7 +897,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "windshear_light_i",
+    "name": "mhwilds_lightbowgun_windshear_light_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
     "attack": 139,
@@ -914,7 +914,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "windshear_light_ii",
+    "name": "mhwilds_lightbowgun_windshear_light_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
     "attack": 169,
@@ -931,7 +931,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "windshear_light_iii",
+    "name": "mhwilds_lightbowgun_windshear_light_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 199,
@@ -948,7 +948,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "windshear_uchibami",
+    "name": "mhwilds_lightbowgun_windshear_uchibami",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 219,
@@ -965,7 +965,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_veldian_impetum_i",
+    "name": "mhwilds_lightbowgun_g_veldian_impetum_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
     "attack": 159,
@@ -981,7 +981,7 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "g_veldian_impetum_ii",
+    "name": "mhwilds_lightbowgun_g_veldian_impetum_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 199,
@@ -997,7 +997,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_expiating_caius",
+    "name": "mhwilds_lightbowgun_g_expiating_caius",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 229,
@@ -1013,7 +1013,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "veldian_impetum_i",
+    "name": "mhwilds_lightbowgun_veldian_impetum_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 179,
@@ -1029,7 +1029,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_blaster_i",
+    "name": "mhwilds_lightbowgun_artian_blaster_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 169,
@@ -1043,7 +1043,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_blaster_ii",
+    "name": "mhwilds_lightbowgun_artian_blaster_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 179,
@@ -1057,7 +1057,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "animilater",
+    "name": "mhwilds_lightbowgun_animilater",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 189,
@@ -1071,7 +1071,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "esperanza_rifle",
+    "name": "mhwilds_lightbowgun_esperanza_rifle",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 209,
@@ -1088,7 +1088,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "faithbreaker_leibolkule",
+    "name": "mhwilds_lightbowgun_faithbreaker_leibolkule",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 239,
@@ -1104,7 +1104,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "expiating_caius",
+    "name": "mhwilds_lightbowgun_expiating_caius",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 199,
@@ -1120,7 +1120,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "desolate_mist_i",
+    "name": "mhwilds_lightbowgun_desolate_mist_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
     "attack": 179,
@@ -1137,7 +1137,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "nifl_mist",
+    "name": "mhwilds_lightbowgun_nifl_mist",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 209,
@@ -1154,7 +1154,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "zoh_kaiah_i",
+    "name": "mhwilds_lightbowgun_zoh_kaiah_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
     "attack": 209,
@@ -1170,7 +1170,7 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blazing_kaiah",
+    "name": "mhwilds_lightbowgun_blazing_kaiah",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
     "attack": 219,

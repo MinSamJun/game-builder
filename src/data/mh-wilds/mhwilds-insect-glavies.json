@@ -1,7 +1,7 @@
 [
   {
-    "name": "hope_glaive_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_hope_glaive_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 1,
     "attack": 90,
     "element": null,
@@ -13,8 +13,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_glaive_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_hope_glaive_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 1,
     "attack": 100,
     "element": null,
@@ -28,8 +28,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_glaive_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_hope_glaive_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 3,
     "attack": 130,
     "element": null,
@@ -44,8 +44,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "hope_glaive_iv",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_hope_glaive_iv",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 160,
     "element": null,
@@ -60,8 +60,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "hope_glaive_v",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_hope_glaive_v",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 190,
     "element": null,
@@ -76,8 +76,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "bone_staff_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_bone_staff_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 1,
     "attack": 110,
     "element": null,
@@ -91,8 +91,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "bone_staff_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_bone_staff_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 2,
     "attack": 130,
     "element": null,
@@ -107,8 +107,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "bone_staff_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_bone_staff_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 4,
     "attack": 170,
     "element": null,
@@ -123,8 +123,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "bone_staff_iv",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_bone_staff_iv",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 200,
     "element": null,
@@ -139,8 +139,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "aerial_glaive",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_aerial_glaive",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 230,
     "element": null,
@@ -155,8 +155,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "iron_gale_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_iron_gale_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 2,
     "attack": 120,
     "element": null,
@@ -170,8 +170,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "iron_gale_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_iron_gale_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 4,
     "attack": 160,
     "element": null,
@@ -185,8 +185,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "iron_gale_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_iron_gale_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 190,
     "element": null,
@@ -200,8 +200,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chrome_gale",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_chrome_gale",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 220,
     "element": null,
@@ -215,8 +215,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chata_glaive_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_chata_glaive_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 1,
     "attack": 110,
     "element": null,
@@ -230,8 +230,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chata_glaive_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_chata_glaive_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 3,
     "attack": 150,
     "element": null,
@@ -245,8 +245,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chata_glaive_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_chata_glaive_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 180,
     "element": null,
@@ -260,8 +260,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chata_glaive_iv",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_chata_glaive_iv",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 210,
     "element": null,
@@ -275,8 +275,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "barina_perche_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_barina_perche_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 1,
     "attack": 100,
     "element": null,
@@ -290,8 +290,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "barina_perche_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_barina_perche_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 3,
     "attack": 120,
     "element": null,
@@ -306,8 +306,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "barina_perche_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_barina_perche_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 150,
     "element": null,
@@ -322,8 +322,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "barina_perche_iv",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_barina_perche_iv",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 180,
     "element": null,
@@ -338,8 +338,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "lala_stromatopelm",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_lala_stromatopelm",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 200,
     "element": null,
@@ -354,8 +354,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "balahara_glaive_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_balahara_glaive_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 2,
     "attack": 110,
     "element": null,
@@ -369,8 +369,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "balahara_glaive_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_balahara_glaive_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 4,
     "attack": 150,
     "element": null,
@@ -384,8 +384,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "balahara_glaive_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_balahara_glaive_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 160,
     "element": null,
@@ -399,8 +399,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "balahara_glaive_iv",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_balahara_glaive_iv",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 190,
     "element": null,
@@ -414,8 +414,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "sandsea_uchaltiya",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_sandsea_uchaltiya",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -429,8 +429,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rey_halilintar_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_rey_halilintar_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 3,
     "attack": 140,
     "element": null,
@@ -445,8 +445,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "rey_halilintar_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_rey_halilintar_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 170,
     "element": null,
@@ -461,8 +461,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rey_halilintar_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_rey_halilintar_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 200,
     "element": null,
@@ -477,8 +477,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "halilintar_clairglaive",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_halilintar_clairglaive",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 220,
     "element": null,
@@ -493,8 +493,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "stealth_glaive_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_stealth_glaive_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 3,
     "attack": 120,
     "element": null,
@@ -509,8 +509,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "stealth_glaive_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_stealth_glaive_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 150,
     "element": null,
@@ -525,8 +525,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "stealth_glaive_iii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_stealth_glaive_iii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 180,
     "element": null,
@@ -541,8 +541,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "stealth_glaive_redux",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_stealth_glaive_redux",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 200,
     "element": null,
@@ -557,8 +557,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "ajara_trident_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_ajara_trident_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 3,
     "attack": 130,
     "element": null,
@@ -572,8 +572,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "ajara_trident_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_ajara_trident_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 180,
     "element": null,
@@ -587,8 +587,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "ajara_bhadra",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_ajara_bhadra",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -602,8 +602,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "guardian_rathmaul_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_guardian_rathmaul_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 4,
     "attack": 160,
     "element": null,
@@ -618,8 +618,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "guardian_rathmaul_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_guardian_rathmaul_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 180,
     "element": null,
@@ -634,8 +634,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "alabaster_rathmaul",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_alabaster_rathmaul",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -650,8 +650,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "jin_dhachhad",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_jin_dhachhad",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 190,
     "element": null,
@@ -665,8 +665,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "precipice_geumgel",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_precipice_geumgel",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -680,8 +680,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "chthonian_vajra_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_chthonian_vajra_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 4,
     "attack": 140,
     "element": null,
@@ -695,8 +695,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "chthonian_vajra_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_chthonian_vajra_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 170,
     "element": null,
@@ -710,8 +710,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "bequeathed_testament",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_bequeathed_testament",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -725,8 +725,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_veldian_trudis_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_g_veldian_trudis_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 4,
     "attack": 170,
     "element": null,
@@ -740,8 +740,8 @@
     "rank": "mhwilds_low_rank"
   },
   {
-    "name": "g_veldian_trudis_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_g_veldian_trudis_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 210,
     "element": null,
@@ -755,8 +755,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "g_enduring_tor",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_g_enduring_tor",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 240,
     "element": null,
@@ -770,8 +770,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "kut_ku_pike_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_kut_ku_pike_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 180,
     "element": null,
@@ -785,8 +785,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "kut_ku_pike_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_kut_ku_pike_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 210,
     "element": null,
@@ -800,8 +800,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "toucan_pike",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_toucan_pike",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 220,
     "element": null,
@@ -815,8 +815,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "princess_regalia_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_princess_regalia_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 5,
     "attack": 160,
     "element": null,
@@ -831,8 +831,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "princess_regalia_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_princess_regalia_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 190,
     "element": null,
@@ -847,8 +847,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "queen_regalia",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_queen_regalia",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -863,8 +863,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rising_fulgur_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_rising_fulgur_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 180,
     "element": null,
@@ -878,8 +878,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "fulgurglaive_guardiana",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_fulgurglaive_guardiana",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -893,8 +893,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blizzard_glaive_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_blizzard_glaive_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 200,
     "element": null,
@@ -908,8 +908,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "immaculate_blizzard",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_immaculate_blizzard",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 230,
     "element": null,
@@ -923,8 +923,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "graviafaren_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_graviafaren_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 220,
     "element": null,
@@ -938,8 +938,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "gravordius",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_gravordius",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 250,
     "element": null,
@@ -953,8 +953,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "rathmaul_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_rathmaul_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 180,
     "element": null,
@@ -968,8 +968,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "firedance_rathmaul",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_firedance_rathmaul",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 200,
     "element": null,
@@ -983,8 +983,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "leumundslist",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_leumundslist",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 180,
     "element": null,
@@ -998,8 +998,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "leumundsgift",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_leumundsgift",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 200,
     "element": null,
@@ -1013,8 +1013,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "veldian_trudis_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_veldian_trudis_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 200,
     "element": null,
@@ -1028,8 +1028,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_glaive_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_artian_glaive_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 170,
     "element": null,
@@ -1041,8 +1041,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "artian_glaive_ii",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_artian_glaive_ii",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 180,
     "element": null,
@@ -1054,8 +1054,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "diprielcha",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_diprielcha",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 190,
     "element": null,
@@ -1067,8 +1067,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "esperanza_glaive",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_esperanza_glaive",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -1083,8 +1083,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "shrouded_laphoka",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_shrouded_laphoka",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 230,
     "element": null,
@@ -1098,8 +1098,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "enduring_tor",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_enduring_tor",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 220,
     "element": null,
@@ -1113,8 +1113,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "fox_halberd_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_fox_halberd_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 6,
     "attack": 180,
     "element": null,
@@ -1129,8 +1129,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "curved_naganagi",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_curved_naganagi",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 210,
     "element": null,
@@ -1145,8 +1145,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "zoh_katir_i",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_zoh_katir_i",
+    "part": "mhWilds_insect_glavies",
     "rarity": 7,
     "attack": 210,
     "element": null,
@@ -1160,8 +1160,8 @@
     "rank": "mhwilds_high_rank"
   },
   {
-    "name": "blazing_katir",
-    "part": "mhwilds_insectglavies",
+    "name": "mhWilds_insect_glavies_blazing_katir",
+    "part": "mhWilds_insect_glavies",
     "rarity": 8,
     "attack": 220,
     "element": null,

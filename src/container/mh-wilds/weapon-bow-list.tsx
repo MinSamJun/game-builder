@@ -10,7 +10,10 @@ import { Pagination } from "@infrastructure/common/pagenation";
 export function BowList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
   const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsBowNamespace = getNamespaceData("mhWilds_bows") ?? {};
+  const mhWildsBowNamespace = React.useMemo(
+    () => getNamespaceData("mhWilds_bows") ?? {},
+    [getNamespaceData]
+  );
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
@@ -19,21 +22,27 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
   const [isFinalOnly, setIsFinalOnly] = React.useState(false);
 
-  const filteredList = mhWildsBowsData.filter(
-    ({ name, rank, rarity }) =>
-      (!selectedRank || rank === selectedRank) &&
-      (!isFinalOnly || rarity === 4 || rarity === 8) &&
-      (mhWildsBowNamespace[name] ?? name)
-        .toLowerCase()
-        .includes(searchTerm.toLowerCase())
-  );
+  const filteredList = React.useMemo(() => {
+    return mhWildsBowsData.filter(
+      ({ name, rank, rarity }) =>
+        (!selectedRank || rank === selectedRank) &&
+        (!isFinalOnly || rarity === 4 || rarity === 8) &&
+        (mhWildsBowNamespace[name] ?? name)
+          .toLowerCase()
+          .includes(searchTerm.toLowerCase())
+    );
+  }, [selectedRank, isFinalOnly, mhWildsBowNamespace, searchTerm]);
 
   const itemsPerPage = 10;
-  const { page, paginatedData, nextPage, prevPage } = usePagination(
+  const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
     filteredList,
     itemsPerPage,
     searchTerm
   );
+
+  React.useEffect(() => {
+    setPage(1);
+  }, [selectedRank, isFinalOnly, setPage]);
 
   return (
     <>

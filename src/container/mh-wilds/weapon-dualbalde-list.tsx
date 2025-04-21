@@ -4,6 +4,7 @@ import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsDualbladesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
+import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
 
 export function DualbladeList({ searchTerm }: { searchTerm: string }) {
@@ -28,25 +29,16 @@ export function DualbladeList({ searchTerm }: { searchTerm: string }) {
         .includes(searchTerm.toLowerCase())
   );
 
-  const [page, setPage] = React.useState(1);
   const itemsPerPage = 10;
-
-  const paginatedList = filteredList.slice(
-    (page - 1) * itemsPerPage,
-    page * itemsPerPage
+  const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
+    filteredList,
+    itemsPerPage,
+    searchTerm
   );
 
-  const nextPage = () => {
-    if (page < Math.ceil(filteredList.length / itemsPerPage)) {
-      setPage(page + 1);
-    }
-  };
-
-  const prevPage = () => {
-    if (page > 1) {
-      setPage(page - 1);
-    }
-  };
+  React.useEffect(() => {
+    setPage(1);
+  }, [selectedRank, isFinalOnly, setPage]);
 
   return (
     <>
@@ -99,7 +91,7 @@ export function DualbladeList({ searchTerm }: { searchTerm: string }) {
         <NoResults />
       ) : (
         <div>
-          {paginatedList.map(
+          {paginatedData.map(
             ({ name, attack, element, affinity, defense, slots, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
@@ -168,7 +160,7 @@ export function DualbladeList({ searchTerm }: { searchTerm: string }) {
             )
           )}
 
-          {filteredList.length > paginatedList.length && (
+          {filteredList.length > paginatedData.length && (
             <Pagination
               currentPage={page}
               totalItems={filteredList.length}

@@ -2,17 +2,20 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { mhWildsHuntingHornsData } from "@/data/mh-wilds";
+import { mhWildsInsectGlaviesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
 
-export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
+export function InsectglavieList({ searchTerm }: { searchTerm: string }) {
   const { getNamespaceData } = useI18n();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsHuntinghornNamespace =
-    getNamespaceData("mhWilds_heavy_bowguns") ?? {};
+  const mhWildsInsectglavieNamespace = React.useMemo(
+    () => getNamespaceData("mhWilds_insect_glavies") ?? {},
+    [getNamespaceData]
+  );
+
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
     getNamespaceData("mhWilds_weapon_skill") ?? {};
@@ -20,14 +23,16 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
   const [isFinalOnly, setIsFinalOnly] = React.useState(false);
 
-  const filteredList = mhWildsHuntingHornsData.filter(
-    ({ name, rank, rarity }) =>
-      (!selectedRank || rank === selectedRank) &&
-      (!isFinalOnly || rarity === 4 || rarity === 8) &&
-      (mhWildsHuntinghornNamespace[name] ?? name)
-        .toLowerCase()
-        .includes(searchTerm.toLowerCase())
-  );
+  const filteredList = React.useMemo(() => {
+    return mhWildsInsectGlaviesData.filter(
+      ({ name, rank, rarity }) =>
+        (!selectedRank || rank === selectedRank) &&
+        (!isFinalOnly || rarity === 4 || rarity === 8) &&
+        (mhWildsInsectglavieNamespace[name] ?? name)
+          .toLowerCase()
+          .includes(searchTerm.toLowerCase())
+    );
+  }, [selectedRank, isFinalOnly, mhWildsInsectglavieNamespace, searchTerm]);
 
   const itemsPerPage = 10;
   const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
@@ -100,17 +105,17 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
               defense,
               slots,
               skills,
-              notes,
-              echoBubbles,
+              kinsectlevel,
             }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
                   <div className="font-semibold">
-                    {mhWildsHuntinghornNamespace[name]}
+                    {mhWildsInsectglavieNamespace[name]}
                   </div>
                   {slots.length > 0 && (
                     <div className="text-sm text-gray-600 font-weight: font-bold">
-                      {mhCommonNamespace?.mh_common_slots} : {slots.join(" / ")}
+                      　{mhCommonNamespace?.mh_common_slots} :{" "}
+                      {slots.join(" / ")}
                     </div>
                   )}
                 </div>
@@ -133,17 +138,19 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
                         : element
                       : "-"}
                   </div>
+
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_affinity}:</strong>{" "}
                     {affinity}%
                   </div>
+
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>{mhCommonNamespace?.mh_common_defense}:</strong>{" "}
                     {defense}
                   </div>
                 </div>
 
-                <div className="gap-4 text-sm mt-2">
+                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
                       {mhWildsmhCommonNamespace?.mhwilds_common_skills}:
@@ -162,27 +169,11 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
                       <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}
                   </div>
-                </div>
-
-                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
-                    {notes && notes.length > 0 ? (
-                      notes.map((note, index) => (
-                        <div key={index}>
-                          {mhCommonNamespace?.[`note_${note}`] ??
-                            `Note ${note}`}
-                        </div>
-                      ))
-                    ) : (
-                      <div>{mhCommonNamespace?.mh_common_none}</div>
-                    )}
-                  </div>
-                  <div className="bg-gray-800 text-white rounded p-4">
-                    {echoBubbles ? (
-                      <div>{mhCommonNamespace[echoBubbles] ?? echoBubbles}</div>
-                    ) : (
-                      <div>{mhCommonNamespace?.mh_common_none}</div>
-                    )}
+                    <strong>
+                      {mhCommonNamespace?.mh_common_insectglavie_kinsectlevel}:
+                    </strong>{" "}
+                    {`Lv ${kinsectlevel}`}
                   </div>
                 </div>
               </div>

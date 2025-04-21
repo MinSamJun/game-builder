@@ -45,12 +45,13 @@ export const commonJa = {
   mh_common_switchaxe: "スラッシュアックス",
   mh_common_chargeblade: "チャージアックス",
   mh_common_insectglavie: "操虫棍",
+  mh_common_insectglavie_kinsectlevel: "猟虫レベル",
   mh_common_bow: "弓",
   mh_common_pierce_coating: "貫通ビン",
   mh_common_blast_coating: "爆破ビン",
   mh_common_sleep_coating: "睡眠ビン",
-  mh_common_lightbowgun: "ライトボウガン",
-  mh_common_heavybowgun: "ヘビィボウガン",
+  mh_common_light_bowgun: "ライトボウガン",
+  mh_common_heavy_bowgun: "ヘビィボウガン",
 };
 
 export const mhwildsMelodiesKn = {

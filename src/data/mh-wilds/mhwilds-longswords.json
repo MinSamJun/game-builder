@@ -1,6 +1,6 @@
 [
   {
-    "name": "hope_edge_i",
+    "name": "mhwilds_longswords_hope_edge_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -12,7 +12,7 @@
     "skills": {}
   },
   {
-    "name": "hope_edge_ii",
+    "name": "mhwilds_longswords_hope_edge_ii",
     "part": "mhwilds_longswords",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "name": "hope_edge_iii",
+    "name": "mhwilds_longswords_hope_edge_iii",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -41,7 +41,7 @@
     }
   },
   {
-    "name": "hope_edge_iv",
+    "name": "mhwilds_longswords_hope_edge_iv",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "name": "hope_edge_v",
+    "name": "mhwilds_longswords_hope_edge_v",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "name": "rey_tonitrus_i",
+    "name": "mhwilds_longswords_rey_tonitrus_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "name": "rey_tonitrus_ii",
+    "name": "mhwilds_longswords_rey_tonitrus_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -105,7 +105,7 @@
     }
   },
   {
-    "name": "rey_tonitrus_iii",
+    "name": "mhwilds_longswords_rey_tonitrus_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -122,7 +122,7 @@
     }
   },
   {
-    "name": "tonitrus_clairblade",
+    "name": "mhwilds_longswords_tonitrus_clairblade",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -139,7 +139,7 @@
     }
   },
   {
-    "name": "stahlfakt_i",
+    "name": "mhwilds_longswords_stahlfakt_i",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -155,7 +155,7 @@
     }
   },
   {
-    "name": "stahlrecht",
+    "name": "mhwilds_longswords_stahlrecht",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -171,7 +171,7 @@
     }
   },
   {
-    "name": "uth_khlunda_i",
+    "name": "mhwilds_longswords_uth_khlunda_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -187,7 +187,7 @@
     }
   },
   {
-    "name": "uth_khlunda_ii",
+    "name": "mhwilds_longswords_uth_khlunda_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -203,7 +203,7 @@
     }
   },
   {
-    "name": "uth_khlunda_iii",
+    "name": "mhwilds_longswords_uth_khlunda_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -219,7 +219,7 @@
     }
   },
   {
-    "name": "khlunda_of_the_waves",
+    "name": "mhwilds_longswords_khlunda_of_the_waves",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -235,7 +235,7 @@
     }
   },
   {
-    "name": "windclaw_blade_i",
+    "name": "mhwilds_longswords_windclaw_blade_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -252,7 +252,7 @@
     }
   },
   {
-    "name": "windclaw_blade_ii",
+    "name": "mhwilds_longswords_windclaw_blade_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -269,7 +269,7 @@
     }
   },
   {
-    "name": "windclaw_blade_iii",
+    "name": "mhwilds_longswords_windclaw_blade_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "name": "windclaw_kiribami",
+    "name": "mhwilds_longswords_windclaw_kiribami",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -303,7 +303,7 @@
     }
   },
   {
-    "name": "quematrice_lima_i",
+    "name": "mhwilds_longswords_quematrice_lima_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -319,7 +319,7 @@
     }
   },
   {
-    "name": "quematrice_lima_ii",
+    "name": "mhwilds_longswords_quematrice_lima_ii",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -335,7 +335,7 @@
     }
   },
   {
-    "name": "quematrice_lima_iii",
+    "name": "mhwilds_longswords_quematrice_lima_iii",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "name": "quematrice_lima_iv",
+    "name": "mhwilds_longswords_quematrice_lima_iv",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -367,7 +367,7 @@
     }
   },
   {
-    "name": "firetrail_ferrocere",
+    "name": "mhwilds_longswords_firetrail_ferrocere",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -383,7 +383,7 @@
     }
   },
   {
-    "name": "iron_katana_i",
+    "name": "mhwilds_longswords_iron_katana_i",
     "part": "mhwilds_longswords",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -397,7 +397,7 @@
     }
   },
   {
-    "name": "iron_katana_ii",
+    "name": "mhwilds_longswords_iron_katana_ii",
     "part": "mhwilds_longswords",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -411,7 +411,7 @@
     }
   },
   {
-    "name": "iron_katana_iii",
+    "name": "mhwilds_longswords_iron_katana_iii",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -425,7 +425,7 @@
     }
   },
   {
-    "name": "keen_edge",
+    "name": "mhwilds_longswords_keen_edge",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -439,7 +439,7 @@
     }
   },
   {
-    "name": "wyvern_blade_ash______i",
+    "name": "mhwilds_longswords_wyvern_blade_ash______i",
     "part": "mhwilds_longswords",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -456,7 +456,7 @@
     }
   },
   {
-    "name": "wyvern_blade_ash_ii",
+    "name": "mhwilds_longswords_wyvern_blade_ash_ii",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -473,7 +473,7 @@
     }
   },
   {
-    "name": "wyvern_blade_lily",
+    "name": "mhwilds_longswords_wyvern_blade_lily",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -490,7 +490,7 @@
     }
   },
   {
-    "name": "wyvern_blade_blood_i",
+    "name": "mhwilds_longswords_wyvern_blade_blood_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "name": "wyvern_blade_maple",
+    "name": "mhwilds_longswords_wyvern_blade_maple",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -522,7 +522,7 @@
     }
   },
   {
-    "name": "wyvern_blade_verde_i",
+    "name": "mhwilds_longswords_wyvern_blade_verde_i",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -539,7 +539,7 @@
     }
   },
   {
-    "name": "wyvern_blade_verde_ii",
+    "name": "mhwilds_longswords_wyvern_blade_verde_ii",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -556,7 +556,7 @@
     }
   },
   {
-    "name": "wyvern_blade_holly",
+    "name": "mhwilds_longswords_wyvern_blade_holly",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -573,7 +573,7 @@
     }
   },
   {
-    "name": "barina_flamberge_i",
+    "name": "mhwilds_longswords_barina_flamberge_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -589,7 +589,7 @@
     }
   },
   {
-    "name": "barina_flamberge_ii",
+    "name": "mhwilds_longswords_barina_flamberge_ii",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -606,7 +606,7 @@
     }
   },
   {
-    "name": "barina_flamberge_iii",
+    "name": "mhwilds_longswords_barina_flamberge_iii",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -623,7 +623,7 @@
     }
   },
   {
-    "name": "barina_flamberge_iv",
+    "name": "mhwilds_longswords_barina_flamberge_iv",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -640,7 +640,7 @@
     }
   },
   {
-    "name": "lala_ornithocton",
+    "name": "mhwilds_longswords_lala_ornithocton",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -657,7 +657,7 @@
     }
   },
   {
-    "name": "blood_cry_i",
+    "name": "mhwilds_longswords_blood_cry_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -673,7 +673,7 @@
     }
   },
   {
-    "name": "blood_cry_ii",
+    "name": "mhwilds_longswords_blood_cry_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -689,7 +689,7 @@
     }
   },
   {
-    "name": "blood_cry_iii",
+    "name": "mhwilds_longswords_blood_cry_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -705,7 +705,7 @@
     }
   },
   {
-    "name": "blood_scream",
+    "name": "mhwilds_longswords_blood_scream",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -721,7 +721,7 @@
     }
   },
   {
-    "name": "bone_shotel_i",
+    "name": "mhwilds_longswords_bone_shotel_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -735,7 +735,7 @@
     }
   },
   {
-    "name": "bone_shotel_ii",
+    "name": "mhwilds_longswords_bone_shotel_ii",
     "part": "mhwilds_longswords",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -750,7 +750,7 @@
     }
   },
   {
-    "name": "bone_shotel_iii",
+    "name": "mhwilds_longswords_bone_shotel_iii",
     "part": "mhwilds_longswords",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -765,7 +765,7 @@
     }
   },
   {
-    "name": "bone_shotel_iv",
+    "name": "mhwilds_longswords_bone_shotel_iv",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -780,7 +780,7 @@
     }
   },
   {
-    "name": "hard_bone_shotel",
+    "name": "mhwilds_longswords_hard_bone_shotel",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -795,7 +795,7 @@
     }
   },
   {
-    "name": "gnashing_fulgur_i",
+    "name": "mhwilds_longswords_gnashing_fulgur_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -811,7 +811,7 @@
     }
   },
   {
-    "name": "fulgurblade_guardiana",
+    "name": "mhwilds_longswords_fulgurblade_guardiana",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -827,7 +827,7 @@
     }
   },
   {
-    "name": "rompo_hacker_i",
+    "name": "mhwilds_longswords_rompo_hacker_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -843,7 +843,7 @@
     }
   },
   {
-    "name": "rompo_hacker_ii",
+    "name": "mhwilds_longswords_rompo_hacker_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -859,7 +859,7 @@
     }
   },
   {
-    "name": "rompo_hacker_iii",
+    "name": "mhwilds_longswords_rompo_hacker_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -875,7 +875,7 @@
     }
   },
   {
-    "name": "rompo_mytoxin",
+    "name": "mhwilds_longswords_rompo_mytoxin",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -891,7 +891,7 @@
     }
   },
   {
-    "name": "dosha_fatecleaver_i",
+    "name": "mhwilds_longswords_dosha_fatecleaver_i",
     "part": "mhwilds_longswords",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -905,7 +905,7 @@
     }
   },
   {
-    "name": "dosha_fatecleaver_ii",
+    "name": "mhwilds_longswords_dosha_fatecleaver_ii",
     "part": "mhwilds_longswords",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -919,7 +919,7 @@
     }
   },
   {
-    "name": "dosha_fatecleaver_iii",
+    "name": "mhwilds_longswords_dosha_fatecleaver_iii",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -933,7 +933,7 @@
     }
   },
   {
-    "name": "blanberge_i",
+    "name": "mhwilds_longswords_blanberge_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -949,7 +949,7 @@
     }
   },
   {
-    "name": "blangongaberge",
+    "name": "mhwilds_longswords_blangongaberge",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -965,7 +965,7 @@
     }
   },
   {
-    "name": "dosha_gravecleaver_i",
+    "name": "mhwilds_longswords_dosha_gravecleaver_i",
     "part": "mhwilds_longswords",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -979,7 +979,7 @@
     }
   },
   {
-    "name": "dosha_gravecleaver_ii",
+    "name": "mhwilds_longswords_dosha_gravecleaver_ii",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -993,7 +993,7 @@
     }
   },
   {
-    "name": "gravecleaver_urkemush",
+    "name": "mhwilds_longswords_gravecleaver_urkemush",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1007,7 +1007,7 @@
     }
   },
   {
-    "name": "g_veldian_ensis_i",
+    "name": "mhwilds_longswords_g_veldian_ensis_i",
     "part": "mhwilds_longswords",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -1023,7 +1023,7 @@
     }
   },
   {
-    "name": "g_veldian_ensis_ii",
+    "name": "mhwilds_longswords_g_veldian_ensis_ii",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1039,7 +1039,7 @@
     }
   },
   {
-    "name": "g_righteous_lancelot",
+    "name": "mhwilds_longswords_g_righteous_lancelot",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1055,7 +1055,7 @@
     }
   },
   {
-    "name": "veldian_ensis_i",
+    "name": "mhwilds_longswords_veldian_ensis_i",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1071,7 +1071,7 @@
     }
   },
   {
-    "name": "artian_saber_i",
+    "name": "mhwilds_longswords_artian_saber_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1083,7 +1083,7 @@
     "skills": {}
   },
   {
-    "name": "artian_saber_ii",
+    "name": "mhwilds_longswords_artian_saber_ii",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1095,7 +1095,7 @@
     "skills": {}
   },
   {
-    "name": "dimensius",
+    "name": "mhwilds_longswords_dimensius",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1107,7 +1107,7 @@
     "skills": {}
   },
   {
-    "name": "esperanza_edge",
+    "name": "mhwilds_longswords_esperanza_edge",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1122,7 +1122,7 @@
     }
   },
   {
-    "name": "fatecleaver_kimkemush",
+    "name": "mhwilds_longswords_fatecleaver_kimkemush",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1136,7 +1136,7 @@
     }
   },
   {
-    "name": "righteous_lancelot",
+    "name": "mhwilds_longswords_righteous_lancelot",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1152,7 +1152,7 @@
     }
   },
   {
-    "name": "zoh_rafel_i",
+    "name": "mhwilds_longswords_zoh_rafel_i",
     "part": "mhwilds_longswords",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1168,7 +1168,7 @@
     }
   },
   {
-    "name": "blazing_rafel",
+    "name": "mhwilds_longswords_blazing_rafel",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1184,7 +1184,7 @@
     }
   },
   {
-    "name": "kakaru_kumo_naki_i",
+    "name": "mhwilds_longswords_kakaru_kumo_naki_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1201,7 +1201,7 @@
     }
   },
   {
-    "name": "tamonowo",
+    "name": "mhwilds_longswords_tamonowo",
     "part": "mhwilds_longswords",
     "rarity": 8,
     "rank": "mhwilds_high_rank",

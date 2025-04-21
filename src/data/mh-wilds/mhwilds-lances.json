@@ -1,6 +1,6 @@
 [
   {
-    "name": "hope_lance_i",
+    "name": "mhwilds_lance_hope_lance_i",
     "part": "mhwilds_lance",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -12,7 +12,7 @@
     "skills": {}
   },
   {
-    "name": "hope_lance_ii",
+    "name": "mhwilds_lance_hope_lance_ii",
     "part": "mhwilds_lance",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "name": "hope_lance_iii",
+    "name": "mhwilds_lance_hope_lance_iii",
     "part": "mhwilds_lance",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -41,7 +41,7 @@
     }
   },
   {
-    "name": "hope_lance_iv",
+    "name": "mhwilds_lance_hope_lance_iv",
     "part": "mhwilds_lance",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "name": "hope_lance_v",
+    "name": "mhwilds_lance_hope_lance_v",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "name": "bone_lance_i",
+    "name": "mhwilds_lance_bone_lance_i",
     "part": "mhwilds_lance",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -85,7 +85,7 @@
     }
   },
   {
-    "name": "bone_lance_ii",
+    "name": "mhwilds_lance_bone_lance_ii",
     "part": "mhwilds_lance",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "name": "bone_lance_iii",
+    "name": "mhwilds_lance_bone_lance_iii",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -115,7 +115,7 @@
     }
   },
   {
-    "name": "bone_lance_iv",
+    "name": "mhwilds_lance_bone_lance_iv",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "name": "hard_bone_lance",
+    "name": "mhwilds_lance_hard_bone_lance",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -145,7 +145,7 @@
     }
   },
   {
-    "name": "chrome_drill_i",
+    "name": "mhwilds_lance_chrome_drill_i",
     "part": "mhwilds_lance",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -159,7 +159,7 @@
     }
   },
   {
-    "name": "chrome_drill_ii",
+    "name": "mhwilds_lance_chrome_drill_ii",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -173,7 +173,7 @@
     }
   },
   {
-    "name": "chrome_drill_iii",
+    "name": "mhwilds_lance_chrome_drill_iii",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -187,7 +187,7 @@
     }
   },
   {
-    "name": "chrome_lance",
+    "name": "mhwilds_lance_chrome_lance",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -201,7 +201,7 @@
     }
   },
   {
-    "name": "quematrice_lanza_i",
+    "name": "mhwilds_lance_quematrice_lanza_i",
     "part": "mhwilds_lance",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -217,7 +217,7 @@
     }
   },
   {
-    "name": "quematrice_lanza_ii",
+    "name": "mhwilds_lance_quematrice_lanza_ii",
     "part": "mhwilds_lance",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -233,7 +233,7 @@
     }
   },
   {
-    "name": "quematrice_lanza_iii",
+    "name": "mhwilds_lance_quematrice_lanza_iii",
     "part": "mhwilds_lance",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -249,7 +249,7 @@
     }
   },
   {
-    "name": "quematrice_lanza_iv",
+    "name": "mhwilds_lance_quematrice_lanza_iv",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -265,7 +265,7 @@
     }
   },
   {
-    "name": "firetrail_kaminet",
+    "name": "mhwilds_lance_firetrail_kaminet",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -281,7 +281,7 @@
     }
   },
   {
-    "name": "barina_sarissa_i",
+    "name": "mhwilds_lance_barina_sarissa_i",
     "part": "mhwilds_lance",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -295,7 +295,7 @@
     }
   },
   {
-    "name": "barina_sarissa_ii",
+    "name": "mhwilds_lance_barina_sarissa_ii",
     "part": "mhwilds_lance",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -310,7 +310,7 @@
     }
   },
   {
-    "name": "barina_sarissa_iii",
+    "name": "mhwilds_lance_barina_sarissa_iii",
     "part": "mhwilds_lance",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -325,7 +325,7 @@
     }
   },
   {
-    "name": "barina_sarissa_iv",
+    "name": "mhwilds_lance_barina_sarissa_iv",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -340,7 +340,7 @@
     }
   },
   {
-    "name": "lala_aviculari",
+    "name": "mhwilds_lance_lala_aviculari",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -355,7 +355,7 @@
     }
   },
   {
-    "name": "balahara_lance_i",
+    "name": "mhwilds_lance_balahara_lance_i",
     "part": "mhwilds_lance",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -371,7 +371,7 @@
     }
   },
   {
-    "name": "balahara_lance_ii",
+    "name": "mhwilds_lance_balahara_lance_ii",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -387,7 +387,7 @@
     }
   },
   {
-    "name": "balahara_lance_iii",
+    "name": "mhwilds_lance_balahara_lance_iii",
     "part": "mhwilds_lance",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -403,7 +403,7 @@
     }
   },
   {
-    "name": "balahara_lance_iv",
+    "name": "mhwilds_lance_balahara_lance_iv",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -419,7 +419,7 @@
     }
   },
   {
-    "name": "sandsea_prallaya",
+    "name": "mhwilds_lance_sandsea_prallaya",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -435,7 +435,7 @@
     }
   },
   {
-    "name": "dosha_fierceborer_i",
+    "name": "mhwilds_lance_dosha_fierceborer_i",
     "part": "mhwilds_lance",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -449,7 +449,7 @@
     }
   },
   {
-    "name": "dosha_fierceborer_ii",
+    "name": "mhwilds_lance_dosha_fierceborer_ii",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -463,7 +463,7 @@
     }
   },
   {
-    "name": "dosha_fierceborer_iii",
+    "name": "mhwilds_lance_dosha_fierceborer_iii",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -477,7 +477,7 @@
     }
   },
   {
-    "name": "rompo_piercer_i",
+    "name": "mhwilds_lance_rompo_piercer_i",
     "part": "mhwilds_lance",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -491,7 +491,7 @@
     }
   },
   {
-    "name": "rompo_piercer_ii",
+    "name": "mhwilds_lance_rompo_piercer_ii",
     "part": "mhwilds_lance",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -505,7 +505,7 @@
     }
   },
   {
-    "name": "rompo_piercer_iii",
+    "name": "mhwilds_lance_rompo_piercer_iii",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -519,7 +519,7 @@
     }
   },
   {
-    "name": "rompo_tetrotox",
+    "name": "mhwilds_lance_rompo_tetrotox",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -533,7 +533,7 @@
     }
   },
   {
-    "name": "rey_indra_i",
+    "name": "mhwilds_lance_rey_indra_i",
     "part": "mhwilds_lance",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "name": "rey_indra_ii",
+    "name": "mhwilds_lance_rey_indra_ii",
     "part": "mhwilds_lance",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -567,7 +567,7 @@
     }
   },
   {
-    "name": "rey_indra_iii",
+    "name": "mhwilds_lance_rey_indra_iii",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -584,7 +584,7 @@
     }
   },
   {
-    "name": "indra_clairlance",
+    "name": "mhwilds_lance_indra_clairlance",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -601,7 +601,7 @@
     }
   },
   {
-    "name": "windpierce_lance_i",
+    "name": "mhwilds_lance_windpierce_lance_i",
     "part": "mhwilds_lance",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -618,7 +618,7 @@
     }
   },
   {
-    "name": "windpierce_lance_ii",
+    "name": "mhwilds_lance_windpierce_lance_ii",
     "part": "mhwilds_lance",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -635,7 +635,7 @@
     }
   },
   {
-    "name": "windpierce_lance_iii",
+    "name": "mhwilds_lance_windpierce_lance_iii",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -652,7 +652,7 @@
     }
   },
   {
-    "name": "windpierce_tsukibami",
+    "name": "mhwilds_lance_windpierce_tsukibami",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -669,7 +669,7 @@
     }
   },
   {
-    "name": "nu_osminog_i",
+    "name": "mhwilds_lance_nu_osminog_i",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -685,7 +685,7 @@
     }
   },
   {
-    "name": "nu_osminog_ii",
+    "name": "mhwilds_lance_nu_osminog_ii",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -701,7 +701,7 @@
     }
   },
   {
-    "name": "abaddonian_osminog",
+    "name": "mhwilds_lance_abaddonian_osminog",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -717,7 +717,7 @@
     }
   },
   {
-    "name": "dosha_gloomborer_i",
+    "name": "mhwilds_lance_dosha_gloomborer_i",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -731,7 +731,7 @@
     }
   },
   {
-    "name": "dosha_gloomborer_ii",
+    "name": "mhwilds_lance_dosha_gloomborer_ii",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -745,7 +745,7 @@
     }
   },
   {
-    "name": "gloomborer_urshanith",
+    "name": "mhwilds_lance_gloomborer_urshanith",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -759,7 +759,7 @@
     }
   },
   {
-    "name": "albirath_tail_i",
+    "name": "mhwilds_lance_albirath_tail_i",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -776,7 +776,7 @@
     }
   },
   {
-    "name": "albirath_tail_ii",
+    "name": "mhwilds_lance_albirath_tail_ii",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -793,7 +793,7 @@
     }
   },
   {
-    "name": "shining_pillar",
+    "name": "mhwilds_lance_shining_pillar",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -810,7 +810,7 @@
     }
   },
   {
-    "name": "chthonian_firewheel_i",
+    "name": "mhwilds_lance_chthonian_firewheel_i",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -826,7 +826,7 @@
     }
   },
   {
-    "name": "chthonian_firewheel_ii",
+    "name": "mhwilds_lance_chthonian_firewheel_ii",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -842,7 +842,7 @@
     }
   },
   {
-    "name": "bequeathed_regret",
+    "name": "mhwilds_lance_bequeathed_regret",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "name": "g_veldian_lancea_i",
+    "name": "mhwilds_lance_g_veldian_lancea_i",
     "part": "mhwilds_lance",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -874,7 +874,7 @@
     }
   },
   {
-    "name": "g_veldian_lancea_ii",
+    "name": "mhwilds_lance_g_veldian_lancea_ii",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -890,7 +890,7 @@
     }
   },
   {
-    "name": "g_purifying_beaumains",
+    "name": "mhwilds_lance_g_purifying_beaumains",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -906,7 +906,7 @@
     }
   },
   {
-    "name": "gravios_spear_i",
+    "name": "mhwilds_lance_gravios_spear_i",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -920,7 +920,7 @@
     }
   },
   {
-    "name": "gravios_lance",
+    "name": "mhwilds_lance_gravios_lance",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -934,7 +934,7 @@
     }
   },
   {
-    "name": "red_tail_i",
+    "name": "mhwilds_lance_red_tail_i",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -950,7 +950,7 @@
     }
   },
   {
-    "name": "spear_of_prominence",
+    "name": "mhwilds_lance_spear_of_prominence",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -966,7 +966,7 @@
     }
   },
   {
-    "name": "eiferschild_i",
+    "name": "mhwilds_lance_eiferschild_i",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -982,7 +982,7 @@
     }
   },
   {
-    "name": "fieberschild",
+    "name": "mhwilds_lance_fieberschild",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -998,7 +998,7 @@
     }
   },
   {
-    "name": "veldian_lancea_i",
+    "name": "mhwilds_lance_veldian_lancea_i",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1014,7 +1014,7 @@
     }
   },
   {
-    "name": "artian_lance_i",
+    "name": "mhwilds_lance_artian_lance_i",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1026,7 +1026,7 @@
     "skills": {}
   },
   {
-    "name": "artian_lance_ii",
+    "name": "mhwilds_lance_artian_lance_ii",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1038,7 +1038,7 @@
     "skills": {}
   },
   {
-    "name": "skyscraper",
+    "name": "mhwilds_lance_skyscraper",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1050,7 +1050,7 @@
     "skills": {}
   },
   {
-    "name": "esperanza_lance",
+    "name": "mhwilds_lance_esperanza_lance",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1065,7 +1065,7 @@
     }
   },
   {
-    "name": "fierceborer_dubhanith",
+    "name": "mhwilds_lance_fierceborer_dubhanith",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1079,7 +1079,7 @@
     }
   },
   {
-    "name": "purifying_beaumains",
+    "name": "mhwilds_lance_purifying_beaumains",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1095,7 +1095,7 @@
     }
   },
   {
-    "name": "paladin_lance_i",
+    "name": "mhwilds_lance_paladin_lance_i",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1110,7 +1110,7 @@
     }
   },
   {
-    "name": "babel_spear",
+    "name": "mhwilds_lance_babel_spear",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1125,7 +1125,7 @@
     }
   },
   {
-    "name": "hana_mo_hana_nare_i",
+    "name": "mhwilds_lance_hana_mo_hana_nare_i",
     "part": "mhwilds_lance",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1140,7 +1140,7 @@
     }
   },
   {
-    "name": "kimi_ga_kiru",
+    "name": "mhwilds_lance_kimi_ga_kiru",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1155,7 +1155,7 @@
     }
   },
   {
-    "name": "zoh_sital_i",
+    "name": "mhwilds_lance_zoh_sital_i",
     "part": "mhwilds_lance",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1171,7 +1171,7 @@
     }
   },
   {
-    "name": "blazing_sital",
+    "name": "mhwilds_lance_blazing_sital",
     "part": "mhwilds_lance",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
