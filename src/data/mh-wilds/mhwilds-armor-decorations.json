@@ -1,0 +1,530 @@
+[
+  {
+    "name": "mhwilds_adapt_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_adaptability_i"
+  },
+  {
+    "name": "mhwilds_ambush_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_ambush_i"
+  },
+  {
+    "name": "mhwilds_antiblast_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_blast_resistance_i"
+  },
+  {
+    "name": "mhwilds_antidote_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_poison_resistance_i"
+  },
+  {
+    "name": "mhwilds_antipara_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_paralysis_resistance_i"
+  },
+  {
+    "name": "mhwilds_bomber_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_bombardier_i"
+  },
+  {
+    "name": "mhwilds_botany_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_botanist_i"
+  },
+  {
+    "name": "mhwilds_brace_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_flinch_free_i"
+  },
+  {
+    "name": "mhwilds_chain_jewel_3",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_armor_skill_burst_i"
+  },
+  {
+    "name": "mhwilds_challenger_jewel_3",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_armor_skill_agitator_i"
+  },
+  {
+    "name": "mhwilds_climber_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_cliffhanger_i"
+  },
+  {
+    "name": "mhwilds_counter_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_counterstrike_i"
+  },
+  {
+    "name": "mhwilds_counterattack_jewel_3",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_armor_skill_adrenaline_rush_i"
+  },
+  {
+    "name": "mhwilds_def_lock_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_iron_skin_i"
+  },
+  {
+    "name": "mhwilds_defense_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_defense_boost_i"
+  },
+  {
+    "name": "mhwilds_destroyer_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_partbreaker_i"
+  },
+  {
+    "name": "mhwilds_dive_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_leap_of_faith_i"
+  },
+  {
+    "name": "mhwilds_dragon_res_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_dragon_resistance_i"
+  },
+  {
+    "name": "mhwilds_earplugs_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_earplugs_i"
+  },
+  {
+    "name": "mhwilds_enduring_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_item_prolonger_i"
+  },
+  {
+    "name": "mhwilds_escape_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_bind_resistance_i"
+  },
+  {
+    "name": "mhwilds_evasion_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_evade_window_i"
+  },
+  {
+    "name": "mhwilds_fire_res_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_fire_resistance_i"
+  },
+  {
+    "name": "mhwilds_flash_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_blindsider_i"
+  },
+  {
+    "name": "mhwilds_flawless_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_peak_performance_ii"
+  },
+  {
+    "name": "mhwilds_flayer_jewel_3",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_armor_skill_flayer_i"
+  },
+  {
+    "name": "mhwilds_footing_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_tremor_resistance_i"
+  },
+  {
+    "name": "mhwilds_foray_jewel_3",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_armor_skill_foray_i"
+  },
+  {
+    "name": "mhwilds_friendship_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_wide_range_i"
+  },
+  {
+    "name": "mhwilds_fungiform_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_mushroomancer_i"
+  },
+  {
+    "name": "mhwilds_furor_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_resentment_i"
+  },
+  {
+    "name": "mhwilds_geology_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_geologist_i"
+  },
+  {
+    "name": "mhwilds_gobbler_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_speed_eating_i"
+  },
+  {
+    "name": "mhwilds_growth_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_self_improvement_i"
+  },
+  {
+    "name": "mhwilds_hungerless_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_hunger_resistance_i"
+  },
+  {
+    "name": "mhwilds_ice_res_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_ice_resistance_i"
+  },
+  {
+    "name": "mhwilds_intimidator_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_intimidator_i"
+  },
+  {
+    "name": "mhwilds_jumping_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_evade_extender_ii"
+  },
+  {
+    "name": "mhwilds_leap_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_jump_master_i"
+  },
+  {
+    "name": "mhwilds_maintenance_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_tool_specialist_i"
+  },
+  {
+    "name": "mhwilds_medicine_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_recovery_up_i"
+  },
+  {
+    "name": "mhwilds_mighty_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_maximum_might_i"
+  },
+  {
+    "name": "mhwilds_mirewalker_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_aquatic_oilsilt_mobility_i"
+  },
+  {
+    "name": "mhwilds_pep_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_sleep_resistance_i"
+  },
+  {
+    "name": "mhwilds_perfume_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_stench_resistance_i"
+  },
+  {
+    "name": "mhwilds_phoenix_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_coalescence_i"
+  },
+  {
+    "name": "mhwilds_physique_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_constitution_i"
+  },
+  {
+    "name": "mhwilds_potential_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_heroics_i"
+  },
+  {
+    "name": "mhwilds_protection_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_divine_blessing_i"
+  },
+  {
+    "name": "mhwilds_ranger_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_outdoorsman_i"
+  },
+  {
+    "name": "mhwilds_recovery_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_recovery_speed_i"
+  },
+  {
+    "name": "mhwilds_refresh_jewel_2",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_armor_skill_stamina_surge_i"
+  },
+  {
+    "name": "mhwilds_sane_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_antivirus_i"
+  },
+  {
+    "name": "mhwilds_satiated_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_free_meal_i"
+  },
+  {
+    "name": "mhwilds_sheath_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_quick_sheathe_i"
+  },
+  {
+    "name": "mhwilds_shockproof_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_shock_absorber_i"
+  },
+  {
+    "name": "mhwilds_specimen_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_entomologist_i"
+  },
+  {
+    "name": "mhwilds_sprinter_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_marathon_runner_i"
+  },
+  {
+    "name": "mhwilds_steadfast_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_stun_resistance_i"
+  },
+  {
+    "name": "mhwilds_survival_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_survival_expert_i"
+  },
+  {
+    "name": "mhwilds_suture_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_bleeding_resistance_i"
+  },
+  {
+    "name": "mhwilds_tenderizer_jewel_3",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_armor_skill_weakness_exploit_i"
+  },
+  {
+    "name": "mhwilds_throttle_jewel_3",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_armor_skill_latent_power_i"
+  },
+  {
+    "name": "mhwilds_thunder_res_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_thunder_resistance_i"
+  },
+  {
+    "name": "mhwilds_water_res_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_water_resistance_i"
+  },
+  {
+    "name": "mhwilds_wind_resist_jewel_1",
+    "type": "mhwilds_armor_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_armor_skill_windproof_i"
+  }
+]

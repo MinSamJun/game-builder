@@ -1,0 +1,2881 @@
+[
+  {
+    "name": "mhwilds_artillery_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_artillery_i"
+  },
+  {
+    "name": "mhwilds_artillery_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_artillery_ii"
+  },
+  {
+    "name": "mhwilds_artillery_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_artillery_iii"
+  },
+  {
+    "name": "mhwilds_attack_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_attack_boost_i"
+  },
+  {
+    "name": "mhwilds_attack_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_attack_boost_ii"
+  },
+  {
+    "name": "mhwilds_attack_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_attack_boost_iii"
+  },
+  {
+    "name": "mhwilds_bandolier_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_tetrad_shot_i"
+  },
+  {
+    "name": "mhwilds_bandolier_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_tetrad_shot_ii"
+  },
+  {
+    "name": "mhwilds_bandolier_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_tetrad_shot_iii"
+  },
+  {
+    "name": "mhwilds_bandolier_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_tetrad_shot_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bandolier_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_tetrad_shot_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bandolier_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_tetrad_shot_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bandolier_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_tetrad_shot_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bandolier_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_tetrad_shot_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bandolier_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_tetrad_shot_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bandolier_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_tetrad_shot_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blast_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_blast_attack_i"
+  },
+  {
+    "name": "mhwilds_blast_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_blast_attack_ii"
+  },
+  {
+    "name": "mhwilds_blast_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_blast_attack_iii"
+  },
+  {
+    "name": "mhwilds_blastcoat_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_blast_functionality_i"
+  },
+  {
+    "name": "mhwilds_blaze_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_fire_attack_i"
+  },
+  {
+    "name": "mhwilds_blaze_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_fire_attack_ii"
+  },
+  {
+    "name": "mhwilds_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_fire_attack_iii"
+  },
+  {
+    "name": "mhwilds_blaze_bandolier_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_tetrad_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_crit_elem_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_critical_element_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_enhancer_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_power_prolonger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_focus_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_focus_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_guardian_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_offensive_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_opener_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_opening_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_quickswitch_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_rapid_morph_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_rzr_sharp_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_razor_sharp_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blaze_shield_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_fire_attack_iii",
+      "mhwilds_weapon_skill_guard_up_i"
+    ]
+  },
+  {
+    "name": "mhwilds_blunt_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_bludgeoner_i"
+  },
+  {
+    "name": "mhwilds_blunt_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_bludgeoner_ii"
+  },
+  {
+    "name": "mhwilds_blunt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_bludgeoner_iii"
+  },
+  {
+    "name": "mhwilds_bolt_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_thunder_attack_i"
+  },
+  {
+    "name": "mhwilds_bolt_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_thunder_attack_ii"
+  },
+  {
+    "name": "mhwilds_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_thunder_attack_iii"
+  },
+  {
+    "name": "mhwilds_bolt_bandolier_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_tetrad_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_crit_elem_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_critical_element_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_enhancer_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_power_prolonger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_focus_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_focus_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_guardian_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_offensive_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_opener_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_opening_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_quickswitch_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_rapid_morph_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_rzr_sharp_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_razor_sharp_i"
+    ]
+  },
+  {
+    "name": "mhwilds_bolt_shield_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_thunder_attack_iii",
+      "mhwilds_weapon_skill_guard_up_i"
+    ]
+  },
+  {
+    "name": "mhwilds_charge_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_charge_master_i"
+  },
+  {
+    "name": "mhwilds_charge_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_charge_master_ii"
+  },
+  {
+    "name": "mhwilds_charge_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_charge_master_iii"
+  },
+  {
+    "name": "mhwilds_charge_up_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_charge_up_ii"
+  },
+  {
+    "name": "mhwilds_charge_up_attack_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_charge_up_i",
+      "mhwilds_weapon_skill_attack_boost_i"
+    ]
+  },
+  {
+    "name": "mhwilds_charge_up_draw_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_charge_up_i",
+      "mhwilds_weapon_skill_critical_draw_i"
+    ]
+  },
+  {
+    "name": "mhwilds_charge_up_expert_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_charge_up_i",
+      "mhwilds_weapon_skill_critical_eye_i"
+    ]
+  },
+  {
+    "name": "mhwilds_charge_up_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_charge_up_i",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_charge_up_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_charge_up_i",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_charge_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_charge_master_i",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_charge_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_charge_master_i",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_critical_element_iii"
+  },
+  {
+    "name": "mhwilds_crit_elem_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_elem_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_element_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_critical_element_i"
+  },
+  {
+    "name": "mhwilds_crit_element_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_critical_element_ii"
+  },
+  {
+    "name": "mhwilds_crit_element_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_element_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_stat_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_critical_status_iii"
+  },
+  {
+    "name": "mhwilds_crit_stat_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_status_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_stat_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_status_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_stat_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_status_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_crit_status_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_critical_status_i"
+  },
+  {
+    "name": "mhwilds_crit_status_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_critical_status_ii"
+  },
+  {
+    "name": "mhwilds_crit_status_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_critical_status_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_critical_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_critical_boost_i"
+  },
+  {
+    "name": "mhwilds_critical_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_critical_boost_ii"
+  },
+  {
+    "name": "mhwilds_critical_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_critical_boost_iii"
+  },
+  {
+    "name": "mhwilds_dragon_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_dragon_attack_i"
+  },
+  {
+    "name": "mhwilds_dragon_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_dragon_attack_ii"
+  },
+  {
+    "name": "mhwilds_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_dragon_attack_iii"
+  },
+  {
+    "name": "mhwilds_dragon_bandolier_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_tetrad_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_crit_elem_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_critical_element_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_enhancer_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_power_prolonger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_focus_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_focus_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_guardian_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_offensive_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_opener_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_opening_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_quickswitch_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_rapid_morph_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_rzr_sharp_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_razor_sharp_i"
+    ]
+  },
+  {
+    "name": "mhwilds_dragon_shield_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_dragon_attack_iii",
+      "mhwilds_weapon_skill_guard_up_i"
+    ]
+  },
+  {
+    "name": "mhwilds_drain_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_stamina_thief_i"
+  },
+  {
+    "name": "mhwilds_drain_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_stamina_thief_ii"
+  },
+  {
+    "name": "mhwilds_drain_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_stamina_thief_iii"
+  },
+  {
+    "name": "mhwilds_draincoat_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_exhaust_functionality_ii"
+  },
+  {
+    "name": "mhwilds_draw_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_critical_draw_i"
+  },
+  {
+    "name": "mhwilds_draw_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_critical_draw_ii"
+  },
+  {
+    "name": "mhwilds_draw_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_critical_draw_iii"
+  },
+  {
+    "name": "mhwilds_enhancer_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_power_prolonger_i"
+  },
+  {
+    "name": "mhwilds_enhancer_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_power_prolonger_ii"
+  },
+  {
+    "name": "mhwilds_enhancer_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_power_prolonger_iii"
+  },
+  {
+    "name": "mhwilds_enhancer_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_power_prolonger_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_enhancer_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_power_prolonger_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_enhancer_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_power_prolonger_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_enhancer_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_power_prolonger_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_enhancer_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_power_prolonger_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_enhancer_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_power_prolonger_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_expert_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_critical_eye_i"
+  },
+  {
+    "name": "mhwilds_expert_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_critical_eye_ii"
+  },
+  {
+    "name": "mhwilds_expert_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_critical_eye_iii"
+  },
+  {
+    "name": "mhwilds_flight_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_airborne_i"
+  },
+  {
+    "name": "mhwilds_flight_attack_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_airborne_i",
+      "mhwilds_weapon_skill_attack_boost_i"
+    ]
+  },
+  {
+    "name": "mhwilds_flight_draw_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_airborne_i",
+      "mhwilds_weapon_skill_critical_draw_i"
+    ]
+  },
+  {
+    "name": "mhwilds_flight_expert_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_airborne_i",
+      "mhwilds_weapon_skill_critical_eye_i"
+    ]
+  },
+  {
+    "name": "mhwilds_flight_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_airborne_i",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_focus_i"
+  },
+  {
+    "name": "mhwilds_focus_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_focus_ii"
+  },
+  {
+    "name": "mhwilds_focus_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_focus_iii"
+  },
+  {
+    "name": "mhwilds_focus_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_focus_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_focus_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_forceshot_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_normal_shots_i"
+  },
+  {
+    "name": "mhwilds_frost_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_ice_attack_i"
+  },
+  {
+    "name": "mhwilds_frost_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_ice_attack_ii"
+  },
+  {
+    "name": "mhwilds_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_ice_attack_iii"
+  },
+  {
+    "name": "mhwilds_frost_bandolier_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_tetrad_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_crit_elem_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_critical_element_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_enhancer_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_power_prolonger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_focus_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_focus_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_guardian_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_offensive_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_opener_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_opening_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_ precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_quickswitch_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_rapid_morph_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_rzr_sharp_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_razor_sharp_i"
+    ]
+  },
+  {
+    "name": "mhwilds_frost_shield_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_ice_attack_iii",
+      "mhwilds_weapon_skill_guard_up_i"
+    ]
+  },
+  {
+    "name": "mhwilds_gambit_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_punishing_draw_i"
+  },
+  {
+    "name": "mhwilds_gambit_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_punishing_draw_ii"
+  },
+  {
+    "name": "mhwilds_gambit_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_punishing_draw_iii"
+  },
+  {
+    "name": "mhwilds_gambit_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_punishing_draw_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_gambit_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_punishing_draw_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_gambit_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_punishing_draw_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_grinder_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_speed_sharpening_i"
+  },
+  {
+    "name": "mhwilds_grinder_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_speed_sharpening_ii"
+  },
+  {
+    "name": "mhwilds_grinder_attack_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_speed_sharpening_ii",
+      "mhwilds_weapon_skill_attack_boost_i"
+    ]
+  },
+  {
+    "name": "mhwilds_grinder_draw_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_speed_sharpening_ii",
+      "mhwilds_weapon_skill_critical_draw_i"
+    ]
+  },
+  {
+    "name": "mhwilds_grinder_expert_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_speed_sharpening_ii",
+      "mhwilds_weapon_skill_critical_eye_i"
+    ]
+  },
+  {
+    "name": "mhwilds_grinder_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_speed_sharpening_ii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_grinder_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_speed_sharpening_ii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_grinder_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_speed_sharpening_ii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_guardian_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_offensive_guard_i"
+  },
+  {
+    "name": "mhwilds_guardian_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_offensive_guard_ii"
+  },
+  {
+    "name": "mhwilds_guardian_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_offensive_guard_iii"
+  },
+  {
+    "name": "mhwilds_guardian_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_offensive_guard_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_guardian_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_offensive_guard_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_guardian_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_offensive_guard_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_guardian_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_offensive_guard_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_guardian_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_offensive_guard_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_guardian_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_offensive_guard_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_guardian_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_offensive_guard_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_handicraft_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_handicraft_i"
+  },
+  {
+    "name": "mhwilds_handicraft_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_handicraft_ii"
+  },
+  {
+    "name": "mhwilds_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_handicraft_iii"
+  },
+  {
+    "name": "mhwilds_ironwall_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_guard_i"
+  },
+  {
+    "name": "mhwilds_ironwall_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_guard_ii"
+  },
+  {
+    "name": "mhwilds_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_guard_iii"
+  },
+  {
+    "name": "mhwilds_ko_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_slugger_i"
+  },
+  {
+    "name": "mhwilds_ko_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_slugger_ii"
+  },
+  {
+    "name": "mhwilds_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_slugger_iii"
+  },
+  {
+    "name": "mhwilds_magazine_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_load_shells_i"
+  },
+  {
+    "name": "mhwilds_magazine_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_load_shells_ii"
+  },
+  {
+    "name": "mhwilds_magazine_attack_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_load_shells_ii",
+      "mhwilds_weapon_skill_attack_boost_i"
+    ]
+  },
+  {
+    "name": "mhwilds_magazine_draw_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_load_shells_ii",
+      "mhwilds_weapon_skill_critical_draw_i"
+    ]
+  },
+  {
+    "name": "mhwilds_magazine_expert_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_load_shells_ii",
+      "mhwilds_weapon_skill_critical_eye_i"
+    ]
+  },
+  {
+    "name": "mhwilds_magazine_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_load_shells_ii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_magazine_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_load_shells_ii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_mastery_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_masters_touch_i"
+  },
+  {
+    "name": "mhwilds_minds_eye_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_minds_eye_i"
+  },
+  {
+    "name": "mhwilds_minds_eye_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_minds_eye_ii"
+  },
+  {
+    "name": "mhwilds_minds_eye_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_minds_eye_iii"
+  },
+  {
+    "name": "mhwilds_opener_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_opening_shot_i"
+  },
+  {
+    "name": "mhwilds_opener_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_opening_shot_ii"
+  },
+  {
+    "name": "mhwilds_opener_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_opening_shot_iii"
+  },
+  {
+    "name": "mhwilds_opener_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_opening_shot_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_opener_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_opening_shot_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_opener_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_opening_shot_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_opener_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_opening_shot_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_opener_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_opening_shot_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_opener_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_opening_shot_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_opener_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_opening_shot_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_paracoat_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_para_functionality_i"
+  },
+  {
+    "name": "mhwilds_paralyzer_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_paralysis_attack_i"
+  },
+  {
+    "name": "mhwilds_paralyzer_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_paralysis_attack_ii"
+  },
+  {
+    "name": "mhwilds_paralyzer_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_paralysis_attack_iii"
+  },
+  {
+    "name": "mhwilds_pierce_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_piercing_shots_i"
+  },
+  {
+    "name": "mhwilds_poison_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_poison_duration_up_ii"
+  },
+  {
+    "name": "mhwilds_poison_attack_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_poison_duration_up_i",
+      "mhwilds_weapon_skill_attack_boost_i"
+    ]
+  },
+  {
+    "name": "mhwilds_poison_draw_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_poison_duration_up_i",
+      "mhwilds_weapon_skill_critical_draw_i"
+    ]
+  },
+  {
+    "name": "mhwilds_poison_expert_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_poison_duration_up_i",
+      "mhwilds_weapon_skill_critical_eye_i"
+    ]
+  },
+  {
+    "name": "mhwilds_poison_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_poison_duration_up_i",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_poison_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_poison_duration_up_i",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_poison_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_poison_duration_up_i",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_poison_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_poison_duration_up_i",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_poisoncoat_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_poison_functionality_i"
+  },
+  {
+    "name": "mhwilds_precise_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_ballistics_i"
+  },
+  {
+    "name": "mhwilds_precise_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_ballistics_ii"
+  },
+  {
+    "name": "mhwilds_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_ballistics_iii"
+  },
+  {
+    "name": "mhwilds_quickswitch_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_rapid_morph_i"
+  },
+  {
+    "name": "mhwilds_quickswitch_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_rapid_morph_ii"
+  },
+  {
+    "name": "mhwilds_quickswitch_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_rapid_morph_iii"
+  },
+  {
+    "name": "mhwilds_quickswitch_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_quickswitch_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_quickswitch_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_quickswitch_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_quickswitch_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_quickswitch_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_quickswitch_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_quickswitch_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_rapid_morph_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_razor_sharp_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_razor_sharp_i"
+  },
+  {
+    "name": "mhwilds_razor_sharp_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_razor_sharp_ii"
+  },
+  {
+    "name": "mhwilds_razor_sharp_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_rzr_sharp_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_razor_sharp_iii"
+  },
+  {
+    "name": "mhwilds_rzr_sharp_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_rzr_sharp_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_rzr_sharp_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_rzr_sharp_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_rzr_sharp_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_rzr_sharp_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_rzr_sharp_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_razor_sharp_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_salvo_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_rapid_fire_up_i"
+  },
+  {
+    "name": "mhwilds_sharp_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_protective_polish_i"
+  },
+  {
+    "name": "mhwilds_sharp_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_protective_polish_ii"
+  },
+  {
+    "name": "mhwilds_sharp_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_protective_polish_iii"
+  },
+  {
+    "name": "mhwilds_shield_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_guard_up_i"
+  },
+  {
+    "name": "mhwilds_shield_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_guard_up_ii"
+  },
+  {
+    "name": "mhwilds_shield_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_guard_up_iii"
+  },
+  {
+    "name": "mhwilds_shield_blaze_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_guard_up_iii",
+      "mhwilds_weapon_skill_fire_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_shield_bolt_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_guard_up_iii",
+      "mhwilds_weapon_skill_thunder_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_shield_dragon_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_guard_up_iii",
+      "mhwilds_weapon_skill_dragon_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_shield_frost_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_guard_up_iii",
+      "mhwilds_weapon_skill_ice_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_shield_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_guard_up_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_shield_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_guard_up_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_shield_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_guard_up_iii",
+      "mhwilds_weapon_skill_water_attack_i"
+    ]
+  },
+  {
+    "name": "mhwilds_sleep_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_sleep_attack_i"
+  },
+  {
+    "name": "mhwilds_sleep_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_sleep_attack_ii"
+  },
+  {
+    "name": "mhwilds_sleep_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_sleep_attack_iii"
+  },
+  {
+    "name": "mhwilds_sleepcoat_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_sleep_functionality_i"
+  },
+  {
+    "name": "mhwilds_sonorous_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_horn_maestro_i"
+  },
+  {
+    "name": "mhwilds_sonorous_attack_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_horn_maestro_ii",
+      "mhwilds_weapon_skill_attack_boost_i"
+    ]
+  },
+  {
+    "name": "mhwilds_sonorous_draw_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_horn_maestro_ii",
+      "mhwilds_weapon_skill_critical_draw_i"
+    ]
+  },
+  {
+    "name": "mhwilds_sonorous_expert_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_horn_maestro_ii",
+      "mhwilds_weapon_skill_critical_eye_i"
+    ]
+  },
+  {
+    "name": "mhwilds_sonorous_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_horn_maestro_ii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_sonorousko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_horn_maestro_ii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_spread_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_spreadpower_shots_i"
+  },
+  {
+    "name": "mhwilds_stream_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_water_attack_i"
+  },
+  {
+    "name": "mhwilds_stream_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_water_attack_ii"
+  },
+  {
+    "name": "mhwilds_stream_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_water_attack_iii"
+  },
+  {
+    "name": "mhwilds_stream_bandolier_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_tetrad_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_crit_elem_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_critical_element_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_enhancer_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_power_prolonger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_focus_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_focus_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_guardian_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_offensive_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_handicraft_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_handicraft_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_ironwall_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_guard_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_ko_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_slugger_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_opener_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_opening_shot_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_precise_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_ballistics_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_quickswitch_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_rapid_morph_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_rzr_sharp_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_razor_sharp_i"
+    ]
+  },
+  {
+    "name": "mhwilds_stream_shield_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": [
+      "mhwilds_weapon_skill_water_attack_iii",
+      "mhwilds_weapon_skill_guard_up_i"
+    ]
+  },
+  {
+    "name": "mhwilds_trueshot_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_special_ammo_boost_i"
+  },
+  {
+    "name": "mhwilds_trueshot_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_special_ammo_boost_ii"
+  },
+  {
+    "name": "mhwilds_venom_jewel_1",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 3,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 1,
+    "skills": "mhwilds_weapon_skill_poison_attack_i"
+  },
+  {
+    "name": "mhwilds_venom_jewel_2",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 4,
+    "rank": "mh_common_low_rank",
+    "slotlevel": 2,
+    "skills": "mhwilds_weapon_skill_poison_attack_ii"
+  },
+  {
+    "name": "mhwilds_venom_jewel_3",
+    "type": "mhwilds_weapon_decoration",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "slotlevel": 3,
+    "skills": "mhwilds_weapon_skill_poison_attack_iii"
+  }
+]

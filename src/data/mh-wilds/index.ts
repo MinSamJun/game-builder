@@ -1,6 +1,7 @@
 import mhWildsArmorData from "./mhwilds-armors.json";
 import mhWildsCharmData from "./mhwilds-charm.json";
 import mhWildsArmorSkillData from "./mhwilds-armor-skills.json";
+import mhWildsArmorSkillDecorationData from "./mhwilds-armor-decorations.json";
 import mhWildsSeriesSkillData from "./mhwilds-series-skill.json";
 import mhWildsGroupSkillData from "./mhwilds-group-skill.json";
 import mhWildsGreatswordsData from "./mhwilds-greatswords.json";
@@ -18,11 +19,13 @@ import mhWildsBowsData from "./mhwilds-bows.json";
 import mhWildsLightBowgunsData from "./mhwilds-light-bowguns.json";
 import mhWildsHeavyBowgunsData from "./mhwilds-heavy-bowguns.json";
 import mhWildsWeaponSkillsData from "./mhwilds-weapon-skills.json";
+import mhWildsWeaponSkillDecorationData from "./mhwilds-weapon-decorations.json";
 
 export {
   mhWildsArmorData,
   mhWildsCharmData,
   mhWildsArmorSkillData,
+  mhWildsArmorSkillDecorationData,
   mhWildsSeriesSkillData,
   mhWildsGroupSkillData,
   mhWildsGreatswordsData,
@@ -40,4 +43,5 @@ export {
   mhWildsLightBowgunsData,
   mhWildsHeavyBowgunsData,
   mhWildsWeaponSkillsData,
+  mhWildsWeaponSkillDecorationData,
 };
