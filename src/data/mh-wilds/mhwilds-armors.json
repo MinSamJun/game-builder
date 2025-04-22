@@ -2,7 +2,7 @@
   {
     "name": "mhwilds_armor_hope_mask",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1
@@ -15,7 +15,7 @@
   {
     "name": "mhwilds_armor_hope_mail",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1
@@ -28,7 +28,7 @@
   {
     "name": "mhwilds_armor_hope_vambraces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1
@@ -41,7 +41,7 @@
   {
     "name": "mhwilds_armor_hope_coil",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1
@@ -54,7 +54,7 @@
   {
     "name": "mhwilds_armor_hope_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1
@@ -67,7 +67,7 @@
   {
     "name": "mhwilds_armor_doshaguma_helm",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_free_meal": 1
@@ -84,7 +84,7 @@
   {
     "name": "mhwilds_armor_doshaguma_mail",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_free_meal": 1
@@ -101,7 +101,7 @@
   {
     "name": "mhwilds_armor_doshaguma_braces",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 1
@@ -118,7 +118,7 @@
   {
     "name": "mhwilds_armor_doshaguma_coil",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_item_prolonger": 1
@@ -135,7 +135,7 @@
   {
     "name": "mhwilds_armor_doshaguma_greaves",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_free_meal": 1
@@ -152,7 +152,7 @@
   {
     "name": "mhwilds_armor_balahara_helm",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_hunger_resistance": 1
@@ -167,7 +167,7 @@
   {
     "name": "mhwilds_armor_balahara_mail",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_quick_sheathe": 1
@@ -182,7 +182,7 @@
   {
     "name": "mhwilds_armor_balahara_vambraces",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_evade_extender": 1
@@ -197,7 +197,7 @@
   {
     "name": "mhwilds_armor_balahara_coil",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_evade_extender": 1
@@ -212,7 +212,7 @@
   {
     "name": "mhwilds_armor_balahara_greaves",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_extender": 1
@@ -227,7 +227,7 @@
   {
     "name": "mhwilds_armor_chatacabra_helm",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -242,7 +242,7 @@
   {
     "name": "mhwilds_armor_chatacabra_mail",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -257,7 +257,7 @@
   {
     "name": "mhwilds_armor_chatacabra_vambraces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_item_prolonger": 1
@@ -272,7 +272,7 @@
   {
     "name": "mhwilds_armor_chatacabra_coil",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -287,7 +287,7 @@
   {
     "name": "mhwilds_armor_chatacabra_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_item_prolonger": 1
@@ -302,7 +302,7 @@
   {
     "name": "mhwilds_armor_leather_headgear",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_botanist": 1
@@ -315,7 +315,7 @@
   {
     "name": "mhwilds_armor_leather_vest",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_botanist": 1
@@ -328,7 +328,7 @@
   {
     "name": "mhwilds_armor_leather_gloves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_hunger_resistance": 1
@@ -341,7 +341,7 @@
   {
     "name": "mhwilds_armor_leather_belt",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_botanist": 1
@@ -354,7 +354,7 @@
   {
     "name": "mhwilds_armor_leather_pants",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_botanist": 1
@@ -367,7 +367,7 @@
   {
     "name": "mhwilds_armor_chainmail_headgear",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_geologist": 1
@@ -380,7 +380,7 @@
   {
     "name": "mhwilds_armor_chainmail_vest",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_geologist": 1
@@ -393,7 +393,7 @@
   {
     "name": "mhwilds_armor_chainmail_gloves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_geologist": 1
@@ -406,7 +406,7 @@
   {
     "name": "mhwilds_armor_chainmail_belt",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 1
@@ -419,7 +419,7 @@
   {
     "name": "mhwilds_armor_chainmail_pants",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 1
@@ -432,7 +432,7 @@
   {
     "name": "mhwilds_armor_bone_helm",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 1
@@ -445,7 +445,7 @@
   {
     "name": "mhwilds_armor_bone_mail",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 1
@@ -458,7 +458,7 @@
   {
     "name": "mhwilds_armor_bone_vambraces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1
@@ -471,7 +471,7 @@
   {
     "name": "mhwilds_armor_bone_coil",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 1
@@ -484,7 +484,7 @@
   {
     "name": "mhwilds_armor_bone_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1
@@ -497,7 +497,7 @@
   {
     "name": "mhwilds_armor_bulaqchi_specs",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_entomologist": 1
@@ -512,7 +512,7 @@
   {
     "name": "mhwilds_armor_talioth_vambraces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_leap_of_faith": 1
@@ -527,7 +527,7 @@
   {
     "name": "mhwilds_armor_quematrice_helm",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 1
@@ -542,7 +542,7 @@
   {
     "name": "mhwilds_armor_quematrice_mail",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_fire_resistance": 1
@@ -557,7 +557,7 @@
   {
     "name": "mhwilds_armor_quematrice_braces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 1
@@ -572,7 +572,7 @@
   {
     "name": "mhwilds_armor_quematrice_coil",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_fire_resistance": 1
@@ -587,7 +587,7 @@
   {
     "name": "mhwilds_armor_quematrice_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 1
@@ -602,7 +602,7 @@
   {
     "name": "mhwilds_armor_alloy_helm",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_quick_sheathe": 1
@@ -615,7 +615,7 @@
   {
     "name": "mhwilds_armor_alloy_mail",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_tremor_resistance": 1
@@ -628,7 +628,7 @@
   {
     "name": "mhwilds_armor_alloy_vambraces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_tremor_resistance": 1
@@ -641,7 +641,7 @@
   {
     "name": "mhwilds_armor_alloy_coil",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_tremor_resistance": 1
@@ -654,7 +654,7 @@
   {
     "name": "mhwilds_armor_alloy_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_quick_sheathe": 1
@@ -667,7 +667,7 @@
   {
     "name": "mhwilds_armor_piragill_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_water_resistance": 1
@@ -682,7 +682,7 @@
   {
     "name": "mhwilds_armor_vespoid_helm",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 1
@@ -697,7 +697,7 @@
   {
     "name": "mhwilds_armor_vespoid_mail",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 1
@@ -712,7 +712,7 @@
   {
     "name": "mhwilds_armor_vespoid_vambraces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -727,7 +727,7 @@
   {
     "name": "mhwilds_armor_vespoid_coil",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -742,7 +742,7 @@
   {
     "name": "mhwilds_armor_vespoid_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 1
@@ -757,7 +757,7 @@
   {
     "name": "mhwilds_armor_gajau_boots",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_water_resistance": 1
@@ -772,7 +772,7 @@
   {
     "name": "mhwilds_armor_barina_headgear",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -787,7 +787,7 @@
   {
     "name": "mhwilds_armor_barina_mail",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -802,7 +802,7 @@
   {
     "name": "mhwilds_armor_barina_vambraces",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 1
@@ -817,7 +817,7 @@
   {
     "name": "mhwilds_armor_barina_coil",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 1
@@ -832,7 +832,7 @@
   {
     "name": "mhwilds_armor_barina_greaves",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 1
@@ -847,7 +847,7 @@
   {
     "name": "mhwilds_armor_conga_helm",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_mushroomancer": 1
@@ -862,7 +862,7 @@
   {
     "name": "mhwilds_armor_conga_mail",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_mushroomancer": 1
@@ -877,7 +877,7 @@
   {
     "name": "mhwilds_armor_conga_vambraces",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stench_resistance": 1
@@ -892,7 +892,7 @@
   {
     "name": "mhwilds_armor_conga_coil",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_stench_resistance": 1
@@ -907,7 +907,7 @@
   {
     "name": "mhwilds_armor_conga_greaves",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_mushroomancer": 1
@@ -922,7 +922,7 @@
   {
     "name": "mhwilds_armor_ingot_helm",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1
@@ -935,7 +935,7 @@
   {
     "name": "mhwilds_armor_ingot_mail",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_windproof": 1
@@ -948,7 +948,7 @@
   {
     "name": "mhwilds_armor_ingot_vambraces",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1
@@ -961,7 +961,7 @@
   {
     "name": "mhwilds_armor_ingot_coil",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1
@@ -974,7 +974,7 @@
   {
     "name": "mhwilds_armor_ingot_greaves",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_windproof": 1
@@ -987,7 +987,7 @@
   {
     "name": "mhwilds_armor_kranodath_mail",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 2
@@ -1002,7 +1002,7 @@
   {
     "name": "mhwilds_armor_comaqchi_accessory",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 1
@@ -1017,7 +1017,7 @@
   {
     "name": "mhwilds_armor_rompopolo_helm",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1
@@ -1032,7 +1032,7 @@
   {
     "name": "mhwilds_armor_rompopolo_mail",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1
@@ -1047,7 +1047,7 @@
   {
     "name": "mhwilds_armor_rompopolo_vambraces",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1,
@@ -1063,7 +1063,7 @@
   {
     "name": "mhwilds_armor_rompopolo_coil",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1,
@@ -1079,7 +1079,7 @@
   {
     "name": "mhwilds_armor_rompopolo_greaves",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1
@@ -1094,7 +1094,7 @@
   {
     "name": "mhwilds_armor_nerscylla_helm",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_ambush": 1
@@ -1109,7 +1109,7 @@
   {
     "name": "mhwilds_armor_nerscylla_mail",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 1,
@@ -1125,7 +1125,7 @@
   {
     "name": "mhwilds_armor_nerscylla_vambraces",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_ambush": 1
@@ -1140,7 +1140,7 @@
   {
     "name": "mhwilds_armor_nerscylla_coil",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 1,
@@ -1156,7 +1156,7 @@
   {
     "name": "mhwilds_armor_nerscylla_greaves",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_ambush": 1
@@ -1171,7 +1171,7 @@
   {
     "name": "mhwilds_armor_hirabami_headdress",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -1187,7 +1187,7 @@
   {
     "name": "mhwilds_armor_hirabami_mail",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -1203,7 +1203,7 @@
   {
     "name": "mhwilds_armor_hirabami_vambraces",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -1219,7 +1219,7 @@
   {
     "name": "mhwilds_armor_hirabami_coil",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -1235,7 +1235,7 @@
   {
     "name": "mhwilds_armor_hirabami_greaves",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -1251,7 +1251,7 @@
   {
     "name": "mhwilds_armor_ajarakan_helm",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_partbreaker": 1,
@@ -1267,7 +1267,7 @@
   {
     "name": "mhwilds_armor_ajarakan_mail",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_partbreaker": 1
@@ -1282,7 +1282,7 @@
   {
     "name": "mhwilds_armor_ajarakan_vambraces",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_bombardier": 1,
@@ -1298,7 +1298,7 @@
   {
     "name": "mhwilds_armor_ajarakan_coil",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_blast_resistance": 1,
@@ -1314,7 +1314,7 @@
   {
     "name": "mhwilds_armor_ajarakan_greaves",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_blast_resistance": 1,
@@ -1330,7 +1330,7 @@
   {
     "name": "mhwilds_armor_g_seikret_coil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_jump_master": 1
@@ -1345,7 +1345,7 @@
   {
     "name": "mhwilds_armor_duna_helm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -1363,7 +1363,7 @@
   {
     "name": "mhwilds_armor_duna_mail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1
@@ -1380,7 +1380,7 @@
   {
     "name": "mhwilds_armor_duna_vambraces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_tool_specialist": 1
@@ -1397,7 +1397,7 @@
   {
     "name": "mhwilds_armor_duna_coil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_tool_specialist": 1,
@@ -1415,7 +1415,7 @@
   {
     "name": "mhwilds_armor_duna_greaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1
@@ -1432,7 +1432,7 @@
   {
     "name": "mhwilds_armor_rey_sandhelm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1
@@ -1449,7 +1449,7 @@
   {
     "name": "mhwilds_armor_rey_sandmail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_constitution": 1
@@ -1466,7 +1466,7 @@
   {
     "name": "mhwilds_armor_rey_sandbraces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1
@@ -1483,7 +1483,7 @@
   {
     "name": "mhwilds_armor_rey_sandcoil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_constitution": 1
@@ -1500,7 +1500,7 @@
   {
     "name": "mhwilds_armor_rey_sandgreaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -1518,7 +1518,7 @@
   {
     "name": "mhwilds_armor_udra_mirehelm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_resentment": 1
@@ -1535,7 +1535,7 @@
   {
     "name": "mhwilds_armor_udra_miremail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -1553,7 +1553,7 @@
   {
     "name": "mhwilds_armor_udra_mirebraces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -1570,7 +1570,7 @@
   {
     "name": "mhwilds_armor_udra_mirecoil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_resentment": 1
@@ -1587,7 +1587,7 @@
   {
     "name": "mhwilds_armor_udra_miregreaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -1604,7 +1604,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_helm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_heroics": 1
@@ -1621,7 +1621,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_mail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -1639,7 +1639,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_braces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 1
@@ -1656,7 +1656,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_coil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -1674,7 +1674,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_greaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_iron_skin": 1,
@@ -1692,7 +1692,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_helm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -1710,7 +1710,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_mail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_intimidator": 1
@@ -1727,7 +1727,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_vambraces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1
@@ -1744,7 +1744,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_coil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_intimidator": 1
@@ -1761,7 +1761,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_greaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1
@@ -1778,7 +1778,7 @@
   {
     "name": "mhwilds_armor_g_ebony_helm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_burst": 1
@@ -1795,7 +1795,7 @@
   {
     "name": "mhwilds_armor_g_ebony_mail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_bleeding_resistance": 1
@@ -1812,7 +1812,7 @@
   {
     "name": "mhwilds_armor_g_ebony_braces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_burst": 1
@@ -1829,7 +1829,7 @@
   {
     "name": "mhwilds_armor_g_ebony_coil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_burst": 1,
@@ -1847,7 +1847,7 @@
   {
     "name": "mhwilds_armor_g_ebony_greaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_bleeding_resistance": 1
@@ -1864,7 +1864,7 @@
   {
     "name": "mhwilds_armor_xu_wu_helm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1
@@ -1879,7 +1879,7 @@
   {
     "name": "mhwilds_armor_xu_wu_mail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1
@@ -1894,7 +1894,7 @@
   {
     "name": "mhwilds_armor_xu_wu_vambraces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1
@@ -1909,7 +1909,7 @@
   {
     "name": "mhwilds_armor_xu_wu_coil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1,
@@ -1925,7 +1925,7 @@
   {
     "name": "mhwilds_armor_xu_wu_greaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1
@@ -1940,7 +1940,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_helm",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_flayer": 1
@@ -1957,7 +1957,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_mail",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_flayer": 1,
@@ -1975,7 +1975,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_vambraces",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_flayer": 1
@@ -1992,7 +1992,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_coil",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_blight_resistance": 1
@@ -2009,7 +2009,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_greaves",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_blight_resistance": 1
@@ -2026,7 +2026,7 @@
   {
     "name": "mhwilds_armor_ajarakan_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_resentment": 2,
@@ -2042,7 +2042,7 @@
   {
     "name": "mhwilds_armor_ajarakan_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -2058,7 +2058,7 @@
   {
     "name": "mhwilds_armor_alloy_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_quick_sheathe": 1
@@ -2071,7 +2071,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_helmα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_elemental_absorption": 2,
@@ -2089,7 +2089,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_helmβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_convert_element": 1
@@ -2106,7 +2106,7 @@
   {
     "name": "mhwilds_armor_artian_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_flayer": 1,
@@ -2122,7 +2122,7 @@
   {
     "name": "mhwilds_armor_azuz_headdressα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 2
@@ -2137,7 +2137,7 @@
   {
     "name": "mhwilds_armor_balahara_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -2153,7 +2153,7 @@
   {
     "name": "mhwilds_armor_balahara_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1
@@ -2168,7 +2168,7 @@
   {
     "name": "mhwilds_armor_barina_headgearα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
@@ -2184,7 +2184,7 @@
   {
     "name": "mhwilds_armor_barina_headgearβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_foray": 1
@@ -2199,7 +2199,7 @@
   {
     "name": "mhwilds_armor_battle_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 2
@@ -2214,7 +2214,7 @@
   {
     "name": "mhwilds_armor_blango_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_wide_range": 2,
@@ -2232,7 +2232,7 @@
   {
     "name": "mhwilds_armor_blango_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_wide_range": 2
@@ -2249,7 +2249,7 @@
   {
     "name": "mhwilds_armor_bone_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1,
@@ -2263,7 +2263,7 @@
   {
     "name": "mhwilds_armor_bulaqchi_specsα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -2279,7 +2279,7 @@
   {
     "name": "mhwilds_armor_bulaqchi_specsβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_entomologist": 1
@@ -2294,7 +2294,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_helmα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_partbreaker": 2,
@@ -2312,7 +2312,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_helmβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_flayer": 1,
@@ -2330,7 +2330,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_hunger_resistance": 2,
@@ -2348,7 +2348,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_heroics": 1
@@ -2363,7 +2363,7 @@
   {
     "name": "mhwilds_armor_g_ebony_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_burst": 2,
@@ -2379,7 +2379,7 @@
   {
     "name": "mhwilds_armor_g_ebony_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_burst": 2
@@ -2394,7 +2394,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_agitator": 2,
@@ -2412,7 +2412,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_agitator": 2
@@ -2427,7 +2427,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 2,
@@ -2445,7 +2445,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1
@@ -2460,7 +2460,7 @@
   {
     "name": "mhwilds_armor_gore_helmα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 2,
@@ -2478,7 +2478,7 @@
   {
     "name": "mhwilds_armor_gore_helmβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -2496,7 +2496,7 @@
   {
     "name": "mhwilds_armor_gravios_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -2514,7 +2514,7 @@
   {
     "name": "mhwilds_armor_gravios_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1
@@ -2529,7 +2529,7 @@
   {
     "name": "mhwilds_armor_guild_ace_earringsα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -2544,7 +2544,7 @@
   {
     "name": "mhwilds_armor_gypceros_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1,
@@ -2560,7 +2560,7 @@
   {
     "name": "mhwilds_armor_gypceros_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1
@@ -2575,7 +2575,7 @@
   {
     "name": "mhwilds_armor_high_metal_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -2588,7 +2588,7 @@
   {
     "name": "mhwilds_armor_hirabami_headdressα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -2604,7 +2604,7 @@
   {
     "name": "mhwilds_armor_hirabami_headdressβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1
@@ -2619,7 +2619,7 @@
   {
     "name": "mhwilds_armor_hope_maskα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 2
@@ -2632,7 +2632,7 @@
   {
     "name": "mhwilds_armor_ingot_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 2,
@@ -2646,7 +2646,7 @@
   {
     "name": "mhwilds_armor_king_beetle_vertexα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -2663,7 +2663,7 @@
   {
     "name": "mhwilds_armor_kunafa_headgearα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_wide_range": 2,
@@ -2679,7 +2679,7 @@
   {
     "name": "mhwilds_armor_kutku_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_constitution": 2,
@@ -2695,7 +2695,7 @@
   {
     "name": "mhwilds_armor_kutku_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_constitution": 2
@@ -2710,7 +2710,7 @@
   {
     "name": "mhwilds_armor_butterfly_vertexα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -2727,7 +2727,7 @@
   {
     "name": "mhwilds_armor_chainmail_headgearα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_geologist": 1
@@ -2740,7 +2740,7 @@
   {
     "name": "mhwilds_armor_chatacabra_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1,
@@ -2756,7 +2756,7 @@
   {
     "name": "mhwilds_armor_chatacabra_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -2771,7 +2771,7 @@
   {
     "name": "mhwilds_armor_comaqchi_accessoryα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 2,
@@ -2787,7 +2787,7 @@
   {
     "name": "mhwilds_armor_comaqchi_accessoryβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 2
@@ -2802,7 +2802,7 @@
   {
     "name": "mhwilds_armor_commission_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -2813,7 +2813,7 @@
   {
     "name": "mhwilds_armor_conga_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_intimidator": 1,
@@ -2829,7 +2829,7 @@
   {
     "name": "mhwilds_armor_conga_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_intimidator": 1
@@ -2844,7 +2844,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardhelmα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -2860,7 +2860,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardhelmβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_agitator": 1
@@ -2877,7 +2877,7 @@
   {
     "name": "mhwilds_armor_damascus_helmα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 2,
@@ -2891,7 +2891,7 @@
   {
     "name": "mhwilds_armor_death_stench_brainα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -2907,7 +2907,7 @@
   {
     "name": "mhwilds_armor_dober_helmα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -2921,7 +2921,7 @@
   {
     "name": "mhwilds_armor_doshaguma_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_free_meal": 2,
@@ -2939,7 +2939,7 @@
   {
     "name": "mhwilds_armor_doshaguma_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1,
@@ -2957,7 +2957,7 @@
   {
     "name": "mhwilds_armor_dragonking_eyepatchα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": ["-", "-", "-"],
@@ -2968,7 +2968,7 @@
   {
     "name": "mhwilds_armor_duna_wildhelmα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_tool_specialist": 2,
@@ -2986,7 +2986,7 @@
   {
     "name": "mhwilds_armor_duna_wildhelmβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_tool_specialist": 1,
@@ -3004,7 +3004,7 @@
   {
     "name": "mhwilds_armor_expedition_headgearα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_blight_resistance": 1,
@@ -3018,7 +3018,7 @@
   {
     "name": "mhwilds_armor_leather_headgearα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_botanist": 2
@@ -3031,7 +3031,7 @@
   {
     "name": "mhwilds_armor_melahoa_hatα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 1
@@ -3046,7 +3046,7 @@
   {
     "name": "mhwilds_armor_mimiphytaα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -3059,7 +3059,7 @@
   {
     "name": "mhwilds_armor_nerscylla_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 2,
@@ -3075,7 +3075,7 @@
   {
     "name": "mhwilds_armor_nerscylla_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_bind_resistance": 1
@@ -3090,7 +3090,7 @@
   {
     "name": "mhwilds_armor_quematrice_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1,
@@ -3106,7 +3106,7 @@
   {
     "name": "mhwilds_armor_quematrice_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1
@@ -3121,7 +3121,7 @@
   {
     "name": "mhwilds_armor_rathalos_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_evade_window": 2,
@@ -3139,7 +3139,7 @@
   {
     "name": "mhwilds_armor_rathalos_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -3157,7 +3157,7 @@
   {
     "name": "mhwilds_armor_rathian_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1,
@@ -3173,7 +3173,7 @@
   {
     "name": "mhwilds_armor_rathian_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1
@@ -3188,7 +3188,7 @@
   {
     "name": "mhwilds_armor_rey_sandhelmα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 2,
@@ -3206,7 +3206,7 @@
   {
     "name": "mhwilds_armor_rey_sandhelmβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1,
@@ -3224,7 +3224,7 @@
   {
     "name": "mhwilds_armor_rompopolo_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_wide_range": 2
@@ -3239,7 +3239,7 @@
   {
     "name": "mhwilds_armor_rompopolo_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1
@@ -3254,7 +3254,7 @@
   {
     "name": "mhwilds_armor_sild_hoodα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [2, 1, "-"],
@@ -3267,7 +3267,7 @@
   {
     "name": "mhwilds_armor_udra_mirehelmα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_resentment": 2,
@@ -3285,7 +3285,7 @@
   {
     "name": "mhwilds_armor_udra_mirehelmβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -3303,7 +3303,7 @@
   {
     "name": "mhwilds_armor_vespoid_helmα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 1,
@@ -3319,7 +3319,7 @@
   {
     "name": "mhwilds_armor_vespoid_helmβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 1
@@ -3334,7 +3334,7 @@
   {
     "name": "mhwilds_armor_xu_wu_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 2,
@@ -3352,7 +3352,7 @@
   {
     "name": "mhwilds_armor_xu_wu_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 2
@@ -3369,7 +3369,7 @@
   {
     "name": "mhwilds_armor_mizutsune_helmα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [3, "-", "-"],
@@ -3382,7 +3382,7 @@
   {
     "name": "mhwilds_armor_mizutsune_helmβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [3, 2, "-"],
@@ -3395,7 +3395,7 @@
   {
     "name": "mhwilds_armor_numinous_crownα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [3, 2, "-"],
@@ -3408,7 +3408,7 @@
   {
     "name": "mhwilds_armor_numinous_crownβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
     "skills": {},
     "slots": [3, 2, 1],
@@ -3421,7 +3421,7 @@
   {
     "name": "mhwilds_armor_ajarakan_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_resentment": 2,
@@ -3437,7 +3437,7 @@
   {
     "name": "mhwilds_armor_ajarakan_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_resentment": 2
@@ -3452,7 +3452,7 @@
   {
     "name": "mhwilds_armor_alloy_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 2
@@ -3465,7 +3465,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_mailα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -3483,7 +3483,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_mailβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1
@@ -3498,7 +3498,7 @@
   {
     "name": "mhwilds_armor_artian_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_flayer": 1,
@@ -3514,7 +3514,7 @@
   {
     "name": "mhwilds_armor_azuz_apronα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [1, 1, "-"],
@@ -3527,7 +3527,7 @@
   {
     "name": "mhwilds_armor_balahara_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1,
@@ -3543,7 +3543,7 @@
   {
     "name": "mhwilds_armor_balahara_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_geologist": 1
@@ -3558,7 +3558,7 @@
   {
     "name": "mhwilds_armor_barina_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 2,
@@ -3574,7 +3574,7 @@
   {
     "name": "mhwilds_armor_barina_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -3590,7 +3590,7 @@
   {
     "name": "mhwilds_armor_battle_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 1
@@ -3605,7 +3605,7 @@
   {
     "name": "mhwilds_armor_blango_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_agitator": 2,
@@ -3623,7 +3623,7 @@
   {
     "name": "mhwilds_armor_blango_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_agitator": 2
@@ -3638,7 +3638,7 @@
   {
     "name": "mhwilds_armor_bone_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1,
@@ -3652,7 +3652,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_mailα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_flayer": 2,
@@ -3670,7 +3670,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_mailβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_blight_resistance": 2,
@@ -3688,7 +3688,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_constitution": 2,
@@ -3706,7 +3706,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_constitution": 2
@@ -3723,7 +3723,7 @@
   {
     "name": "mhwilds_armor_g_ebony_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_bleeding_resistance": 2,
@@ -3741,7 +3741,7 @@
   {
     "name": "mhwilds_armor_g_ebony_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_earplugs": 1
@@ -3758,7 +3758,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1,
@@ -3776,7 +3776,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1
@@ -3791,7 +3791,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_intimidator": 2,
@@ -3809,7 +3809,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -3827,7 +3827,7 @@
   {
     "name": "mhwilds_armor_gore_mailα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_evade_window": 2,
@@ -3845,7 +3845,7 @@
   {
     "name": "mhwilds_armor_gore_mailβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_evade_window": 2
@@ -3862,7 +3862,7 @@
   {
     "name": "mhwilds_armor_gravios_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 2,
@@ -3880,7 +3880,7 @@
   {
     "name": "mhwilds_armor_gravios_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -3898,7 +3898,7 @@
   {
     "name": "mhwilds_armor_guild_ace_mailα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -3913,7 +3913,7 @@
   {
     "name": "mhwilds_armor_gypceros_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 1,
@@ -3929,7 +3929,7 @@
   {
     "name": "mhwilds_armor_gypceros_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1
@@ -3944,7 +3944,7 @@
   {
     "name": "mhwilds_armor_high_metal_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -3957,7 +3957,7 @@
   {
     "name": "mhwilds_armor_hirabami_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_ice_resistance": 2,
@@ -3973,7 +3973,7 @@
   {
     "name": "mhwilds_armor_hirabami_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -3989,7 +3989,7 @@
   {
     "name": "mhwilds_armor_hope_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 1
@@ -4002,7 +4002,7 @@
   {
     "name": "mhwilds_armor_ingot_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -4016,7 +4016,7 @@
   {
     "name": "mhwilds_armor_king_beetle_thoraxα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -4033,7 +4033,7 @@
   {
     "name": "mhwilds_armor_kranodath_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 2,
@@ -4049,7 +4049,7 @@
   {
     "name": "mhwilds_armor_kranodath_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 2
@@ -4064,7 +4064,7 @@
   {
     "name": "mhwilds_armor_kunafa_cloakα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_free_meal": 2,
@@ -4080,7 +4080,7 @@
   {
     "name": "mhwilds_armor_kutku_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_agitator": 1,
@@ -4096,7 +4096,7 @@
   {
     "name": "mhwilds_armor_kutku_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_agitator": 1
@@ -4111,7 +4111,7 @@
   {
     "name": "mhwilds_armor_butterfly_thoraxα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -4128,7 +4128,7 @@
   {
     "name": "mhwilds_armor_chainmail_armorα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_ice_resistance": 1,
@@ -4142,7 +4142,7 @@
   {
     "name": "mhwilds_armor_chatacabra_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -4158,7 +4158,7 @@
   {
     "name": "mhwilds_armor_chatacabra_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -4173,7 +4173,7 @@
   {
     "name": "mhwilds_armor_commission_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -4184,7 +4184,7 @@
   {
     "name": "mhwilds_armor_conga_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_intimidator": 2,
@@ -4200,7 +4200,7 @@
   {
     "name": "mhwilds_armor_conga_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_intimidator": 2
@@ -4215,7 +4215,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardmailα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_bind_resistance": 2,
@@ -4233,7 +4233,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardmailβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_bind_resistance": 1,
@@ -4251,7 +4251,7 @@
   {
     "name": "mhwilds_armor_damascus_mailα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 2,
@@ -4265,7 +4265,7 @@
   {
     "name": "mhwilds_armor_death_stench_muscleα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -4281,7 +4281,7 @@
   {
     "name": "mhwilds_armor_dober_mailα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -4295,7 +4295,7 @@
   {
     "name": "mhwilds_armor_doshaguma_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1,
@@ -4313,7 +4313,7 @@
   {
     "name": "mhwilds_armor_doshaguma_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1
@@ -4330,7 +4330,7 @@
   {
     "name": "mhwilds_armor_duna_wildmailα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_tool_specialist": 2,
@@ -4348,7 +4348,7 @@
   {
     "name": "mhwilds_armor_duna_wildmailβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_tool_specialist": 2
@@ -4365,7 +4365,7 @@
   {
     "name": "mhwilds_armor_leather_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_botanist": 1,
@@ -4379,7 +4379,7 @@
   {
     "name": "mhwilds_armor_melahoa_jacketα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -4392,7 +4392,7 @@
   {
     "name": "mhwilds_armor_nerscylla_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -4408,7 +4408,7 @@
   {
     "name": "mhwilds_armor_nerscylla_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_ambush": 1
@@ -4423,7 +4423,7 @@
   {
     "name": "mhwilds_armor_quematrice_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1,
@@ -4439,7 +4439,7 @@
   {
     "name": "mhwilds_armor_quematrice_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1
@@ -4454,7 +4454,7 @@
   {
     "name": "mhwilds_armor_rathalos_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 2,
@@ -4472,7 +4472,7 @@
   {
     "name": "mhwilds_armor_rathalos_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 2
@@ -4489,7 +4489,7 @@
   {
     "name": "mhwilds_armor_rathian_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_foray": 2
@@ -4504,7 +4504,7 @@
   {
     "name": "mhwilds_armor_rathian_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_foray": 1
@@ -4519,7 +4519,7 @@
   {
     "name": "mhwilds_armor_rey_sandmailα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 2,
@@ -4537,7 +4537,7 @@
   {
     "name": "mhwilds_armor_rey_sandmailβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1,
@@ -4553,7 +4553,7 @@
   {
     "name": "mhwilds_armor_rompopolo_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 2,
@@ -4569,7 +4569,7 @@
   {
     "name": "mhwilds_armor_rompopolo_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 2
@@ -4584,7 +4584,7 @@
   {
     "name": "mhwilds_armor_sild_coatα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_wide_range": 4
@@ -4599,7 +4599,7 @@
   {
     "name": "mhwilds_armor_udra_miremailα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -4617,7 +4617,7 @@
   {
     "name": "mhwilds_armor_udra_miremailβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_resentment": 1
@@ -4634,7 +4634,7 @@
   {
     "name": "mhwilds_armor_vespoid_mailα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -4650,7 +4650,7 @@
   {
     "name": "mhwilds_armor_vespoid_mailβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 1
@@ -4665,7 +4665,7 @@
   {
     "name": "mhwilds_armor_xu_wu_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {
       "mhwilds_armor_skill_ambush": 1
@@ -4682,7 +4682,7 @@
   {
     "name": "mhwilds_armor_xu_wu_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [1, 1, "-"],
@@ -4695,7 +4695,7 @@
   {
     "name": "mhwilds_armor_numinous_shroudα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -4708,7 +4708,7 @@
   {
     "name": "mhwilds_armor_numinous_shroudβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [3, "-", "-"],
@@ -4719,7 +4719,7 @@
   {
     "name": "mhwilds_armor_mizutsune_mailα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -4732,7 +4732,7 @@
   {
     "name": "mhwilds_armor_mizutsune_mailβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
     "skills": {},
     "slots": [2, 2, "-"],
@@ -4745,7 +4745,7 @@
   {
     "name": "mhwilds_armor_ajarakan_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_bombardier": 2,
@@ -4761,7 +4761,7 @@
   {
     "name": "mhwilds_armor_ajarakan_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_partbreaker": 1,
@@ -4777,7 +4777,7 @@
   {
     "name": "mhwilds_armor_alloy_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_tremor_resistance": 1
@@ -4790,7 +4790,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_vambracesα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_convert_element": 1,
@@ -4808,7 +4808,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_vambracesβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_convert_element": 1
@@ -4825,7 +4825,7 @@
   {
     "name": "mhwilds_armor_artian_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_blight_resistance": 2,
@@ -4841,7 +4841,7 @@
   {
     "name": "mhwilds_armor_balahara_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1,
@@ -4857,7 +4857,7 @@
   {
     "name": "mhwilds_armor_balahara_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_evade_extender": 1
@@ -4872,7 +4872,7 @@
   {
     "name": "mhwilds_armor_barina_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
@@ -4888,7 +4888,7 @@
   {
     "name": "mhwilds_armor_barina_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 1
@@ -4903,7 +4903,7 @@
   {
     "name": "mhwilds_armor_battle_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -4916,7 +4916,7 @@
   {
     "name": "mhwilds_armor_blango_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_palico_rally": 2,
@@ -4934,7 +4934,7 @@
   {
     "name": "mhwilds_armor_blango_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_counterstrike": 1
@@ -4951,7 +4951,7 @@
   {
     "name": "mhwilds_armor_bone_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 1,
@@ -4965,7 +4965,7 @@
   {
     "name": "mhwilds_armor_butterfly_brachiaα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 2,
@@ -4982,7 +4982,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_vambracesα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 2,
@@ -5000,7 +5000,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_vambracesβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 2
@@ -5015,7 +5015,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_bracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_iron_skin": 2,
@@ -5033,7 +5033,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_bracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_heroics": 1
@@ -5048,7 +5048,7 @@
   {
     "name": "mhwilds_armor_g_ebony_bracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_burst": 2,
@@ -5066,7 +5066,7 @@
   {
     "name": "mhwilds_armor_g_ebony_bracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_burst": 1,
@@ -5084,7 +5084,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_agitator": 1,
@@ -5100,7 +5100,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1
@@ -5117,7 +5117,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -5136,7 +5136,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1
@@ -5151,7 +5151,7 @@
   {
     "name": "mhwilds_armor_gore_vambracesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_constitution": 2,
@@ -5169,7 +5169,7 @@
   {
     "name": "mhwilds_armor_gore_vambracesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -5185,7 +5185,7 @@
   {
     "name": "mhwilds_armor_gravios_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 2,
@@ -5203,7 +5203,7 @@
   {
     "name": "mhwilds_armor_gravios_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 2
@@ -5218,7 +5218,7 @@
   {
     "name": "mhwilds_armor_guild_ace_vambracesα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -5233,7 +5233,7 @@
   {
     "name": "mhwilds_armor_gypceros_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_resentment": 2,
@@ -5249,7 +5249,7 @@
   {
     "name": "mhwilds_armor_gypceros_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_resentment": 2
@@ -5264,7 +5264,7 @@
   {
     "name": "mhwilds_armor_high_metal_bracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -5277,7 +5277,7 @@
   {
     "name": "mhwilds_armor_hirabami_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -5293,7 +5293,7 @@
   {
     "name": "mhwilds_armor_hirabami_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1
@@ -5308,7 +5308,7 @@
   {
     "name": "mhwilds_armor_hope_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 1
@@ -5321,7 +5321,7 @@
   {
     "name": "mhwilds_armor_ingot_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 2,
@@ -5335,7 +5335,7 @@
   {
     "name": "mhwilds_armor_king_beetle_brachiaα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -5352,7 +5352,7 @@
   {
     "name": "mhwilds_armor_kutku_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -5368,7 +5368,7 @@
   {
     "name": "mhwilds_armor_kutku_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_constitution": 1
@@ -5383,7 +5383,7 @@
   {
     "name": "mhwilds_armor_chainmail_glovesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 1,
@@ -5397,7 +5397,7 @@
   {
     "name": "mhwilds_armor_chatacabra_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1,
@@ -5413,7 +5413,7 @@
   {
     "name": "mhwilds_armor_chatacabra_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_item_prolonger": 1
@@ -5428,7 +5428,7 @@
   {
     "name": "mhwilds_armor_commission_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -5439,7 +5439,7 @@
   {
     "name": "mhwilds_armor_conga_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1,
@@ -5455,7 +5455,7 @@
   {
     "name": "mhwilds_armor_conga_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_mushroomancer": 1
@@ -5470,7 +5470,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardbracesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_agitator": 2,
@@ -5488,7 +5488,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardbracesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_agitator": 1,
@@ -5506,7 +5506,7 @@
   {
     "name": "mhwilds_armor_damascus_vambracesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1,
@@ -5520,7 +5520,7 @@
   {
     "name": "mhwilds_armor_death_stench_gripα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -5536,7 +5536,7 @@
   {
     "name": "mhwilds_armor_dober_vambracesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 2,
@@ -5550,7 +5550,7 @@
   {
     "name": "mhwilds_armor_doshaguma_bracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 2,
@@ -5568,7 +5568,7 @@
   {
     "name": "mhwilds_armor_doshaguma_bracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1,
@@ -5586,7 +5586,7 @@
   {
     "name": "mhwilds_armor_duna_wildbracesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 2,
@@ -5602,7 +5602,7 @@
   {
     "name": "mhwilds_armor_duna_wildbracesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -5620,7 +5620,7 @@
   {
     "name": "mhwilds_armor_leather_glovesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_botanist": 1,
@@ -5634,7 +5634,7 @@
   {
     "name": "mhwilds_armor_melahoa_branchα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -5649,7 +5649,7 @@
   {
     "name": "mhwilds_armor_nerscylla_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 1,
@@ -5665,7 +5665,7 @@
   {
     "name": "mhwilds_armor_nerscylla_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_ambush": 1
@@ -5680,7 +5680,7 @@
   {
     "name": "mhwilds_armor_quematrice_bracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_fire_resistance": 1,
@@ -5696,7 +5696,7 @@
   {
     "name": "mhwilds_armor_quematrice_bracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 1
@@ -5711,7 +5711,7 @@
   {
     "name": "mhwilds_armor_rathalos_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_constitution": 2,
@@ -5729,7 +5729,7 @@
   {
     "name": "mhwilds_armor_rathalos_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_constitution": 2
@@ -5746,7 +5746,7 @@
   {
     "name": "mhwilds_armor_rathian_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 2,
@@ -5762,7 +5762,7 @@
   {
     "name": "mhwilds_armor_rathian_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
@@ -5778,7 +5778,7 @@
   {
     "name": "mhwilds_armor_rey_sandbracesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_latent_power": 2,
@@ -5796,7 +5796,7 @@
   {
     "name": "mhwilds_armor_rey_sandbracesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_latent_power": 2
@@ -5813,7 +5813,7 @@
   {
     "name": "mhwilds_armor_rompopolo_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_poison_resistance": 1,
@@ -5829,7 +5829,7 @@
   {
     "name": "mhwilds_armor_rompopolo_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_earplugs": 1
@@ -5844,7 +5844,7 @@
   {
     "name": "mhwilds_armor_talioth_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_burst": 1,
@@ -5860,7 +5860,7 @@
   {
     "name": "mhwilds_armor_talioth_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_leap_of_faith": 1
@@ -5875,7 +5875,7 @@
   {
     "name": "mhwilds_armor_udra_mirebracesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_counterstrike": 2,
@@ -5893,7 +5893,7 @@
   {
     "name": "mhwilds_armor_udra_mirebracesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 2,
@@ -5911,7 +5911,7 @@
   {
     "name": "mhwilds_armor_vespoid_vambracesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1,
@@ -5927,7 +5927,7 @@
   {
     "name": "mhwilds_armor_vespoid_vambracesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -5942,7 +5942,7 @@
   {
     "name": "mhwilds_armor_xu_wu_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_earplugs": 2
@@ -5959,7 +5959,7 @@
   {
     "name": "mhwilds_armor_xu_wu_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {
       "mhwilds_armor_skill_earplugs": 1
@@ -5976,7 +5976,7 @@
   {
     "name": "mhwilds_armor_mizutsune_bracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -5989,7 +5989,7 @@
   {
     "name": "mhwilds_armor_mizutsune_bracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {},
     "slots": [3, "-", "-"],
@@ -6002,7 +6002,7 @@
   {
     "name": "mhwilds_armor_numinous_vambracesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {},
     "slots": ["-", "-", "-"],
@@ -6013,7 +6013,7 @@
   {
     "name": "mhwilds_armor_numinous_vambracesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -6026,7 +6026,7 @@
   {
     "name": "mhwilds_armor_ajarakan_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_blast_resistance": 2,
@@ -6042,7 +6042,7 @@
   {
     "name": "mhwilds_armor_ajarakan_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_partbreaker": 2,
@@ -6058,7 +6058,7 @@
   {
     "name": "mhwilds_armor_alloy_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_quick_sheathe": 1,
@@ -6072,7 +6072,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_coilα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 2,
@@ -6090,7 +6090,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_coilβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 2,
@@ -6108,7 +6108,7 @@
   {
     "name": "mhwilds_armor_artian_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_windproof": 2,
@@ -6124,7 +6124,7 @@
   {
     "name": "mhwilds_armor_balahara_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -6140,7 +6140,7 @@
   {
     "name": "mhwilds_armor_balahara_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1
@@ -6155,7 +6155,7 @@
   {
     "name": "mhwilds_armor_barina_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 2
@@ -6170,7 +6170,7 @@
   {
     "name": "mhwilds_armor_barina_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -6185,7 +6185,7 @@
   {
     "name": "mhwilds_armor_battle_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_bind_resistance": 1
@@ -6200,7 +6200,7 @@
   {
     "name": "mhwilds_armor_blango_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_agitator": 2,
@@ -6218,7 +6218,7 @@
   {
     "name": "mhwilds_armor_blango_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_agitator": 2
@@ -6233,7 +6233,7 @@
   {
     "name": "mhwilds_armor_bone_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 1
@@ -6246,7 +6246,7 @@
   {
     "name": "mhwilds_armor_butterfly_elytraα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -6263,7 +6263,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_heroics": 2,
@@ -6281,7 +6281,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_heroics": 2
@@ -6296,7 +6296,7 @@
   {
     "name": "mhwilds_armor_g_ebony_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_burst": 1,
@@ -6314,7 +6314,7 @@
   {
     "name": "mhwilds_armor_g_ebony_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_burst": 1
@@ -6329,7 +6329,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_maximum_might": 1,
@@ -6347,7 +6347,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1
@@ -6362,7 +6362,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -6378,7 +6378,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_windproof": 1
@@ -6395,7 +6395,7 @@
   {
     "name": "mhwilds_armor_g_seikret_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_earplugs": 2,
@@ -6411,7 +6411,7 @@
   {
     "name": "mhwilds_armor_g_seikret_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_earplugs": 1,
@@ -6427,7 +6427,7 @@
   {
     "name": "mhwilds_armor_gore_coilα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_constitution": 2,
@@ -6445,7 +6445,7 @@
   {
     "name": "mhwilds_armor_gore_coilβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_constitution": 2
@@ -6460,7 +6460,7 @@
   {
     "name": "mhwilds_armor_gravios_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 2,
@@ -6478,7 +6478,7 @@
   {
     "name": "mhwilds_armor_gravios_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -6494,7 +6494,7 @@
   {
     "name": "mhwilds_armor_guild_ace_coilα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -6509,7 +6509,7 @@
   {
     "name": "mhwilds_armor_gypceros_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -6525,7 +6525,7 @@
   {
     "name": "mhwilds_armor_gypceros_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1
@@ -6540,7 +6540,7 @@
   {
     "name": "mhwilds_armor_high_metal_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -6553,7 +6553,7 @@
   {
     "name": "mhwilds_armor_hirabami_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_evade_window": 2
@@ -6568,7 +6568,7 @@
   {
     "name": "mhwilds_armor_hirabami_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1
@@ -6583,7 +6583,7 @@
   {
     "name": "mhwilds_armor_hope_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1,
@@ -6597,7 +6597,7 @@
   {
     "name": "mhwilds_armor_ingot_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -6611,7 +6611,7 @@
   {
     "name": "mhwilds_armor_king_beetle_elytraα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -6628,7 +6628,7 @@
   {
     "name": "mhwilds_armor_kunafa_sashα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 2,
@@ -6644,7 +6644,7 @@
   {
     "name": "mhwilds_armor_kutku_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 2,
@@ -6660,7 +6660,7 @@
   {
     "name": "mhwilds_armor_kutku_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_agitator": 1,
@@ -6676,7 +6676,7 @@
   {
     "name": "mhwilds_armor_chainmail_beltα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_ice_resistance": 1,
@@ -6690,7 +6690,7 @@
   {
     "name": "mhwilds_armor_chatacabra_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1,
@@ -6706,7 +6706,7 @@
   {
     "name": "mhwilds_armor_chatacabra_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_speed_eating": 1
@@ -6721,7 +6721,7 @@
   {
     "name": "mhwilds_armor_commission_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -6732,7 +6732,7 @@
   {
     "name": "mhwilds_armor_conga_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_mushroomancer": 1,
@@ -6748,7 +6748,7 @@
   {
     "name": "mhwilds_armor_conga_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_mushroomancer": 1
@@ -6763,7 +6763,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardcoilα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_tremor_resistance": 2,
@@ -6781,7 +6781,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardcoilβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -6799,7 +6799,7 @@
   {
     "name": "mhwilds_armor_damascus_coilα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_wide_range": 1,
@@ -6813,7 +6813,7 @@
   {
     "name": "mhwilds_armor_death_stench_bowelsα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_intimidator": 2,
@@ -6829,7 +6829,7 @@
   {
     "name": "mhwilds_armor_dober_coilα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 2,
@@ -6843,7 +6843,7 @@
   {
     "name": "mhwilds_armor_doshaguma_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_latent_power": 2
@@ -6860,7 +6860,7 @@
   {
     "name": "mhwilds_armor_doshaguma_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1
@@ -6877,7 +6877,7 @@
   {
     "name": "mhwilds_armor_duna_wildcoilα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 2,
@@ -6895,7 +6895,7 @@
   {
     "name": "mhwilds_armor_duna_wildcoilβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 2
@@ -6910,7 +6910,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_coilα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_flayer": 2,
@@ -6928,7 +6928,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_coilβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_flayer": 2
@@ -6945,7 +6945,7 @@
   {
     "name": "mhwilds_armor_leather_beltα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_hunger_resistance": 1
@@ -6958,7 +6958,7 @@
   {
     "name": "mhwilds_armor_melahoa_foliaα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_bleeding_resistance": 1
@@ -6973,7 +6973,7 @@
   {
     "name": "mhwilds_armor_nerscylla_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 2,
@@ -6989,7 +6989,7 @@
   {
     "name": "mhwilds_armor_nerscylla_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_bind_resistance": 1
@@ -7004,7 +7004,7 @@
   {
     "name": "mhwilds_armor_quematrice_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1,
@@ -7020,7 +7020,7 @@
   {
     "name": "mhwilds_armor_quematrice_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_fire_resistance": 2
@@ -7035,7 +7035,7 @@
   {
     "name": "mhwilds_armor_rathalos_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 2,
@@ -7053,7 +7053,7 @@
   {
     "name": "mhwilds_armor_rathalos_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 2
@@ -7070,7 +7070,7 @@
   {
     "name": "mhwilds_armor_rathian_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
@@ -7086,7 +7086,7 @@
   {
     "name": "mhwilds_armor_rathian_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_foray": 1
@@ -7101,7 +7101,7 @@
   {
     "name": "mhwilds_armor_rey_sandcoilα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 2,
@@ -7119,7 +7119,7 @@
   {
     "name": "mhwilds_armor_rey_sandcoilβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 2,
@@ -7137,7 +7137,7 @@
   {
     "name": "mhwilds_armor_rompopolo_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
@@ -7153,7 +7153,7 @@
   {
     "name": "mhwilds_armor_rompopolo_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_foray": 1
@@ -7168,7 +7168,7 @@
   {
     "name": "mhwilds_armor_suja_sashα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {},
     "slots": [2, 1, "-"],
@@ -7181,7 +7181,7 @@
   {
     "name": "mhwilds_armor_udra_mirecoilα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_resentment": 2,
@@ -7199,7 +7199,7 @@
   {
     "name": "mhwilds_armor_udra_mirecoilβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_resentment": 2
@@ -7216,7 +7216,7 @@
   {
     "name": "mhwilds_armor_vespoid_coilα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1,
@@ -7232,7 +7232,7 @@
   {
     "name": "mhwilds_armor_vespoid_coilβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1
@@ -7247,7 +7247,7 @@
   {
     "name": "mhwilds_armor_xu_wu_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_heroics": 2,
@@ -7263,7 +7263,7 @@
   {
     "name": "mhwilds_armor_xu_wu_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -7281,7 +7281,7 @@
   {
     "name": "mhwilds_armor_numinous_overlayα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {},
     "slots": ["-", "-", "-"],
@@ -7294,7 +7294,7 @@
   {
     "name": "mhwilds_armor_numinous_overlayβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -7305,7 +7305,7 @@
   {
     "name": "mhwilds_armor_mizutsune_coilα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {},
     "slots": [2, 1, "-"],
@@ -7318,7 +7318,7 @@
   {
     "name": "mhwilds_armor_mizutsune_coilβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
     "skills": {},
     "slots": [3, 2, 1],
@@ -7331,7 +7331,7 @@
   {
     "name": "mhwilds_armor_ajarakan_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_partbreaker": 2,
@@ -7347,7 +7347,7 @@
   {
     "name": "mhwilds_armor_ajarakan_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_partbreaker": 2
@@ -7362,7 +7362,7 @@
   {
     "name": "mhwilds_armor_alloy_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_quick_sheathe": 1,
@@ -7376,7 +7376,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_greavesα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_quick_sheathe": 2,
@@ -7394,7 +7394,7 @@
   {
     "name": "mhwilds_armor_arkvulcan_greavesβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_convert_element": 1,
@@ -7412,7 +7412,7 @@
   {
     "name": "mhwilds_armor_artian_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_tremor_resistance": 2,
@@ -7428,7 +7428,7 @@
   {
     "name": "mhwilds_armor_azuz_pantsα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [2, 1, 1],
@@ -7441,7 +7441,7 @@
   {
     "name": "mhwilds_armor_balahara_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_extender": 1,
@@ -7457,7 +7457,7 @@
   {
     "name": "mhwilds_armor_balahara_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_extender": 1
@@ -7472,7 +7472,7 @@
   {
     "name": "mhwilds_armor_barina_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
@@ -7488,7 +7488,7 @@
   {
     "name": "mhwilds_armor_barina_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_window": 1
@@ -7503,7 +7503,7 @@
   {
     "name": "mhwilds_armor_battle_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_constitution": 1
@@ -7518,7 +7518,7 @@
   {
     "name": "mhwilds_armor_blango_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_agitator": 1,
@@ -7536,7 +7536,7 @@
   {
     "name": "mhwilds_armor_blango_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_agitator": 1
@@ -7551,7 +7551,7 @@
   {
     "name": "mhwilds_armor_bone_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 1
@@ -7564,7 +7564,7 @@
   {
     "name": "mhwilds_armor_butterfly_cruraα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 2,
@@ -7581,7 +7581,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_greavesβ",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -7599,7 +7599,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_constitution": 2,
@@ -7617,7 +7617,7 @@
   {
     "name": "mhwilds_armor_g_doshaguma_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -7635,7 +7635,7 @@
   {
     "name": "mhwilds_armor_g_ebony_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 2,
@@ -7653,7 +7653,7 @@
   {
     "name": "mhwilds_armor_g_ebony_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_divine_blessing": 1,
@@ -7671,7 +7671,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 2,
@@ -7689,7 +7689,7 @@
   {
     "name": "mhwilds_armor_g_fulgur_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_stamina_surge": 1,
@@ -7707,7 +7707,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_windproof": 2,
@@ -7725,7 +7725,7 @@
   {
     "name": "mhwilds_armor_g_rathalos_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -7741,7 +7741,7 @@
   {
     "name": "mhwilds_armor_gajau_bootsα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_water_resistance": 1,
@@ -7757,7 +7757,7 @@
   {
     "name": "mhwilds_armor_gore_greavesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 2,
@@ -7775,7 +7775,7 @@
   {
     "name": "mhwilds_armor_gore_greavesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_antivirus": 1,
@@ -7791,7 +7791,7 @@
   {
     "name": "mhwilds_armor_gravios_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_tremor_resistance": 2,
@@ -7809,7 +7809,7 @@
   {
     "name": "mhwilds_armor_gravios_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 1,
@@ -7827,7 +7827,7 @@
   {
     "name": "mhwilds_armor_guild_ace_bootsα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -7842,7 +7842,7 @@
   {
     "name": "mhwilds_armor_gypceros_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_marathon_runner": 2,
@@ -7858,7 +7858,7 @@
   {
     "name": "mhwilds_armor_gypceros_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -7874,7 +7874,7 @@
   {
     "name": "mhwilds_armor_high_metal_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -7887,7 +7887,7 @@
   {
     "name": "mhwilds_armor_hirabami_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -7903,7 +7903,7 @@
   {
     "name": "mhwilds_armor_hirabami_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1
@@ -7918,7 +7918,7 @@
   {
     "name": "mhwilds_armor_hope_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 2
@@ -7931,7 +7931,7 @@
   {
     "name": "mhwilds_armor_ingot_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_resentment": 1,
@@ -7945,7 +7945,7 @@
   {
     "name": "mhwilds_armor_king_beetle_cruraα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_heroics": 1,
@@ -7962,7 +7962,7 @@
   {
     "name": "mhwilds_armor_kunafa_chapsα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_wide_range": 2,
@@ -7978,7 +7978,7 @@
   {
     "name": "mhwilds_armor_kutku_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_constitution": 2,
@@ -7994,7 +7994,7 @@
   {
     "name": "mhwilds_armor_kutku_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_constitution": 1,
@@ -8010,7 +8010,7 @@
   {
     "name": "mhwilds_armor_chainmail_pantsα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 1
@@ -8023,7 +8023,7 @@
   {
     "name": "mhwilds_armor_chatacabra_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1,
@@ -8039,7 +8039,7 @@
   {
     "name": "mhwilds_armor_chatacabra_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_weakness_exploit": 1
@@ -8054,7 +8054,7 @@
   {
     "name": "mhwilds_armor_commission_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -8065,7 +8065,7 @@
   {
     "name": "mhwilds_armor_conga_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_burst": 1,
@@ -8081,7 +8081,7 @@
   {
     "name": "mhwilds_armor_conga_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_burst": 1
@@ -8096,7 +8096,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardgreavesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_agitator": 2,
@@ -8114,7 +8114,7 @@
   {
     "name": "mhwilds_armor_dahaad_shardgreavesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_agitator": 2
@@ -8129,7 +8129,7 @@
   {
     "name": "mhwilds_armor_damascus_greavesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_item_prolonger": 2,
@@ -8143,7 +8143,7 @@
   {
     "name": "mhwilds_armor_death_stench_heelα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_stun_resistance": 2,
@@ -8159,7 +8159,7 @@
   {
     "name": "mhwilds_armor_dober_greavesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_mushroomancer": 2,
@@ -8173,7 +8173,7 @@
   {
     "name": "mhwilds_armor_doshaguma_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 2,
@@ -8191,7 +8191,7 @@
   {
     "name": "mhwilds_armor_doshaguma_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_up": 1,
@@ -8209,7 +8209,7 @@
   {
     "name": "mhwilds_armor_duna_wildgreavesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1,
@@ -8227,7 +8227,7 @@
   {
     "name": "mhwilds_armor_duna_wildgreavesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_peak_performance": 1
@@ -8244,7 +8244,7 @@
   {
     "name": "mhwilds_armor_g_arkveld_greavesα",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_elemental_absorption": 2,
@@ -8262,7 +8262,7 @@
   {
     "name": "mhwilds_armor_leather_pantsα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_hunger_resistance": 1,
@@ -8276,7 +8276,7 @@
   {
     "name": "mhwilds_armor_melahoa_rootsα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [2, "-", "-"],
@@ -8289,7 +8289,7 @@
   {
     "name": "mhwilds_armor_nerscylla_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 1,
@@ -8305,7 +8305,7 @@
   {
     "name": "mhwilds_armor_nerscylla_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_sleep_resistance": 1
@@ -8320,7 +8320,7 @@
   {
     "name": "mhwilds_armor_piragill_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_water_resistance": 2,
@@ -8336,7 +8336,7 @@
   {
     "name": "mhwilds_armor_piragill_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_aquatic-oilsilt_mobility": 1
@@ -8351,7 +8351,7 @@
   {
     "name": "mhwilds_armor_quematrice_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_extender": 1,
@@ -8367,7 +8367,7 @@
   {
     "name": "mhwilds_armor_quematrice_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_flinch_free": 1
@@ -8382,7 +8382,7 @@
   {
     "name": "mhwilds_armor_rathalos_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_window": 2,
@@ -8400,7 +8400,7 @@
   {
     "name": "mhwilds_armor_rathalos_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_evade_window": 2
@@ -8417,7 +8417,7 @@
   {
     "name": "mhwilds_armor_rathian_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_recovery_speed": 2,
@@ -8433,7 +8433,7 @@
   {
     "name": "mhwilds_armor_rathian_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_foray": 1,
@@ -8449,7 +8449,7 @@
   {
     "name": "mhwilds_armor_rey_sandgreavesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1,
@@ -8467,7 +8467,7 @@
   {
     "name": "mhwilds_armor_rey_sandgreavesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_latent_power": 1
@@ -8484,7 +8484,7 @@
   {
     "name": "mhwilds_armor_rompopolo_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_wide_range": 2,
@@ -8500,7 +8500,7 @@
   {
     "name": "mhwilds_armor_rompopolo_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_wide_range": 2
@@ -8515,7 +8515,7 @@
   {
     "name": "mhwilds_armor_udra_miregreavesα",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_windproof": 2,
@@ -8533,7 +8533,7 @@
   {
     "name": "mhwilds_armor_udra_miregreavesβ",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_burst": 1,
@@ -8551,7 +8551,7 @@
   {
     "name": "mhwilds_armor_vespoid_greavesα",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_paralysis_resistance": 1,
@@ -8567,7 +8567,7 @@
   {
     "name": "mhwilds_armor_vespoid_greavesβ",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_survival_expert": 1
@@ -8582,7 +8582,7 @@
   {
     "name": "mhwilds_armor_xu_wu_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 1,
@@ -8600,7 +8600,7 @@
   {
     "name": "mhwilds_armor_xu_wu_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {
       "mhwilds_armor_skill_adrenaline_rush": 1
@@ -8617,7 +8617,7 @@
   {
     "name": "mhwilds_armor_mizutsune_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [1, "-", "-"],
@@ -8630,7 +8630,7 @@
   {
     "name": "mhwilds_armor_mizutsune_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [3, "-", "-"],
@@ -8641,7 +8641,7 @@
   {
     "name": "mhwilds_armor_numinous_greavesα",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [2, 1, "-"],
@@ -8654,7 +8654,7 @@
   {
     "name": "mhwilds_armor_numinous_greavesβ",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
     "skills": {},
     "slots": [3, 2, "-"],

@@ -13,7 +13,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_ii",
@@ -31,7 +31,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_iii",
@@ -50,7 +50,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_iv",
@@ -69,7 +69,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_v",
@@ -88,7 +88,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_i",
@@ -106,7 +106,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_ii",
@@ -124,7 +124,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_iii",
@@ -142,7 +142,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_iv",
@@ -160,7 +160,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_power_stinger",
@@ -178,7 +178,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_power_stinger_ii",
@@ -197,7 +197,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_wild_stinger",
@@ -216,7 +216,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_uth_dalgap_i",
@@ -234,7 +234,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_uth_dalgap_ii",
@@ -252,7 +252,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_uth_dalgap_iii",
@@ -270,7 +270,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_dalgap_of_the_waves",
@@ -288,7 +288,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_rompo_sniper_i",
@@ -306,7 +306,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_rompo_sniper_ii",
@@ -324,7 +324,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_rompo_sniper_iii",
@@ -342,7 +342,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_rompo_latrotox",
@@ -360,7 +360,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_ner_bustergun_i",
@@ -379,7 +379,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_ner_bustergun_ii",
@@ -398,7 +398,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_ner_bustergun_iii",
@@ -417,7 +417,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_buster_blaster",
@@ -436,7 +436,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_nu_muneo_i",
@@ -454,7 +454,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_nu_muneo_ii",
@@ -472,7 +472,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_abaddonian_muneo",
@@ -490,7 +490,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_jin_dhaphal_i",
@@ -508,7 +508,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_precipice_malmiam",
@@ -526,7 +526,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_iron_assault_i",
@@ -544,7 +544,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_iron_assault_ii",
@@ -562,7 +562,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_iron_assault_iii",
@@ -580,7 +580,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_steel_assault",
@@ -598,7 +598,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_i",
@@ -616,7 +616,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_ii",
@@ -635,7 +635,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_iii",
@@ -654,7 +654,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_iv",
@@ -673,7 +673,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_heavy_shooter",
@@ -692,7 +692,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_yian_kut_ku_cannon_i",
@@ -710,7 +710,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_yian_kut_ku_cannon_ii",
@@ -728,7 +728,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_super_kut_ku_cannon",
@@ -746,7 +746,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_tankmage_i",
@@ -764,7 +764,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_tankmage_ii",
@@ -782,7 +782,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_tanksorcerer",
@@ -800,7 +800,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_queen_s_longfire_i",
@@ -819,7 +819,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_queen_s_longfire_ii",
@@ -838,7 +838,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_queen_s_farflier",
@@ -857,7 +857,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_grounding_fulgur_i",
@@ -875,7 +875,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_fulgurblast_guardiana",
@@ -893,7 +893,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_gravios_howl_i",
@@ -911,7 +911,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_gravios_gigahowl",
@@ -929,7 +929,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_todlicher_abzug_i",
@@ -947,7 +947,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_ableben_abzug",
@@ -965,7 +965,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_g_veldian_tormentum_i",
@@ -983,7 +983,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_heavybowgun_g_veldian_tormentum_ii",
@@ -1001,7 +1001,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_g_aeternal_palamedes",
@@ -1019,7 +1019,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_veldian_tormentum_i",
@@ -1037,7 +1037,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_artian_sheller_i",
@@ -1053,7 +1053,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_artian_sheller_ii",
@@ -1069,7 +1069,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_greifen",
@@ -1085,7 +1085,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_esperanza_cannon",
@@ -1104,7 +1104,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_shrouded_muktana",
@@ -1122,7 +1122,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_aeternal_palamedes",
@@ -1140,7 +1140,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_cirrus_blaster_i",
@@ -1159,7 +1159,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_mountainous_roar",
@@ -1178,7 +1178,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_zoh_mitran_i",
@@ -1196,7 +1196,7 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_heavybowgun_blazing_mitran",
@@ -1214,6 +1214,6 @@
     "custom mods": {},
     "ignition gauge recovery": {},
     "specialization type": null,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   }
 ]

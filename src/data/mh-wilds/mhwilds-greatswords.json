@@ -3,7 +3,7 @@
     "name": "mhwilds_greatsword_hope_blade_i",
     "part": "mhwilds_greatswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -15,7 +15,7 @@
     "name": "mhwilds_greatsword_hope_blade_ii",
     "part": "mhwilds_greatswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -29,7 +29,7 @@
     "name": "mhwilds_greatsword_hope_blade_iii",
     "part": "mhwilds_greatswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -44,7 +44,7 @@
     "name": "mhwilds_greatsword_hope_blade_iv",
     "part": "mhwilds_greatswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -59,7 +59,7 @@
     "name": "mhwilds_greatsword_hope_blade_v",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -74,7 +74,7 @@
     "name": "mhwilds_greatsword_valkyrie_blade_i",
     "part": "mhwilds_greatswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": {
       "mh_common_poison": 210
@@ -91,7 +91,7 @@
     "name": "mhwilds_greatsword_valkyrie_blade_ii",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_poison": 270
@@ -108,7 +108,7 @@
     "name": "mhwilds_greatsword_sieglinde",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_poison": 300
@@ -125,7 +125,7 @@
     "name": "mhwilds_greatsword_chicken_decapitator_i",
     "part": "mhwilds_greatswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 450
@@ -142,7 +142,7 @@
     "name": "mhwilds_greatsword_chicken_decapitator_ii",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 550
@@ -159,7 +159,7 @@
     "name": "mhwilds_greatsword_rooster_decapitator",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_fire": 600
@@ -176,7 +176,7 @@
     "name": "mhwilds_greatsword_nihil_great_sword_i",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_water": 200
@@ -192,7 +192,7 @@
     "name": "mhwilds_greatsword_nihil_great_sword_ii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_water": 260
@@ -208,7 +208,7 @@
     "name": "mhwilds_greatsword_prinvrilo_s_dissolution",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_water": 300
@@ -224,7 +224,7 @@
     "name": "mhwilds_greatsword_quematrice_espada_i",
     "part": "mhwilds_greatswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": {
       "mh_common_fire": 140
@@ -240,7 +240,7 @@
     "name": "mhwilds_greatsword_quematrice_espada_ii",
     "part": "mhwilds_greatswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_fire": 180
@@ -256,7 +256,7 @@
     "name": "mhwilds_greatsword_quematrice_espada_iii",
     "part": "mhwilds_greatswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_fire": 230
@@ -272,7 +272,7 @@
     "name": "mhwilds_greatsword_quematrice_espada_iv",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 270
@@ -288,7 +288,7 @@
     "name": "mhwilds_greatsword_firetrail_blaisdell",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": {
       "mh_common_fire": 300
@@ -304,7 +304,7 @@
     "name": "mhwilds_greatsword_buster_sword_i",
     "part": "mhwilds_greatswords",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -318,7 +318,7 @@
     "name": "mhwilds_greatsword_buster_sword_ii",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -332,7 +332,7 @@
     "name": "mhwilds_greatsword_buster_sword_iii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -346,7 +346,7 @@
     "name": "mhwilds_greatsword_ravager_blade",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -360,7 +360,7 @@
     "name": "mhwilds_greatsword_jin_dhavaar_i",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_ice": 550
@@ -376,7 +376,7 @@
     "name": "mhwilds_greatsword_precipice_metallam",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_ice": 600
@@ -392,7 +392,7 @@
     "name": "mhwilds_greatsword_albirath_wing_i",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_fire": 280
@@ -409,7 +409,7 @@
     "name": "mhwilds_greatsword_albirath_wing_ii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 340
@@ -426,7 +426,7 @@
     "name": "mhwilds_greatsword_whitefire_rathguard",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 400
@@ -443,7 +443,7 @@
     "name": "mhwilds_greatsword_red_wing_i",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 440
@@ -459,7 +459,7 @@
     "name": "mhwilds_greatsword_rathalos_firesword",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 500
@@ -475,7 +475,7 @@
     "name": "mhwilds_greatsword_immane_blade_i",
     "part": "mhwilds_greatswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": {
       "mh_common_sleep": 210
@@ -492,7 +492,7 @@
     "name": "mhwilds_greatsword_immane_blade_ii",
     "part": "mhwilds_greatswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_sleep": 310
@@ -509,7 +509,7 @@
     "name": "mhwilds_greatsword_immane_blade_iii",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_sleep": 370
@@ -526,7 +526,7 @@
     "name": "mhwilds_greatsword_immolator_blade",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_sleep": 400
@@ -543,7 +543,7 @@
     "name": "mhwilds_greatsword_schattenstolz_i",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_dragon": 370
@@ -559,7 +559,7 @@
     "name": "mhwilds_greatsword_dusterstolz",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 400
@@ -575,7 +575,7 @@
     "name": "mhwilds_greatsword_bone_blade_i",
     "part": "mhwilds_greatswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -589,7 +589,7 @@
     "name": "mhwilds_greatsword_bone_blade_ii",
     "part": "mhwilds_greatswords",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -604,7 +604,7 @@
     "name": "mhwilds_greatsword_bone_blade_iii",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -619,7 +619,7 @@
     "name": "mhwilds_greatsword_bone_blade_iv",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -634,7 +634,7 @@
     "name": "mhwilds_greatsword_bone_slasher",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -649,7 +649,7 @@
     "name": "mhwilds_greatsword_nu_krake_i",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_fire": 270
@@ -666,7 +666,7 @@
     "name": "mhwilds_greatsword_nu_krake_ii",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 370
@@ -683,7 +683,7 @@
     "name": "mhwilds_greatsword_abaddonian_krake",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_fire": 400
@@ -700,7 +700,7 @@
     "name": "mhwilds_greatsword_slaughter_i",
     "part": "mhwilds_greatswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_poison": 410
@@ -717,7 +717,7 @@
     "name": "mhwilds_greatsword_slaughter_ii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_poison": 440
@@ -734,7 +734,7 @@
     "name": "mhwilds_greatsword_poison_king",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_poison": 500
@@ -751,7 +751,7 @@
     "name": "mhwilds_greatsword_dosha_fellslayer_i",
     "part": "mhwilds_greatswords",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": null,
     "affinity": -10,
@@ -765,7 +765,7 @@
     "name": "mhwilds_greatsword_dosha_fellslayer_ii",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -10,
@@ -779,7 +779,7 @@
     "name": "mhwilds_greatsword_dosha_fellslayer_iii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": -10,
@@ -793,7 +793,7 @@
     "name": "mhwilds_greatsword_dosha_grimslayer_i",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -20,
@@ -807,7 +807,7 @@
     "name": "mhwilds_greatsword_dosha_grimslayer_ii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": -20,
@@ -821,7 +821,7 @@
     "name": "mhwilds_greatsword_grimslayer_urgeom",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 250,
     "element": null,
     "affinity": -20,
@@ -835,7 +835,7 @@
     "name": "mhwilds_greatsword_smiting_fulgur_i",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_thunder": 440
@@ -851,7 +851,7 @@
     "name": "mhwilds_greatsword_fulgurcleaver_guardiana",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_thunder": 500
@@ -867,7 +867,7 @@
     "name": "mhwilds_greatsword_g_veldian_gladius_i",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_dragon": 200
@@ -883,7 +883,7 @@
     "name": "mhwilds_greatsword_g_veldian_gladius_ii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 260
@@ -899,7 +899,7 @@
     "name": "mhwilds_greatsword_g_stalwart_lamorak",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": {
       "mh_common_dragon": 300
@@ -915,7 +915,7 @@
     "name": "mhwilds_greatsword_veldian_gladius_i",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 470
@@ -931,7 +931,7 @@
     "name": "mhwilds_greatsword_frozen_speartuna_i",
     "part": "mhwilds_greatswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 150,
     "element": {
       "mh_common_ice": 500
@@ -947,7 +947,7 @@
     "name": "mhwilds_greatsword_frozen_speartuna_ii",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_ice": 600
@@ -964,7 +964,7 @@
     "name": "mhwilds_greatsword_freezer_speartuna",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_ice": 700
@@ -981,7 +981,7 @@
     "name": "mhwilds_greatsword_paretic_blade_i",
     "part": "mhwilds_greatswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 90,
     "element": {
       "mh_common_paralysis": 250
@@ -997,7 +997,7 @@
     "name": "mhwilds_greatsword_paretic_blade_ii",
     "part": "mhwilds_greatswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": {
       "mh_common_paralysis": 310
@@ -1013,7 +1013,7 @@
     "name": "mhwilds_greatsword_paretic_blade_iii",
     "part": "mhwilds_greatswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_paralysis": 410
@@ -1029,7 +1029,7 @@
     "name": "mhwilds_greatsword_paretic_blade_iv",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_paralysis": 470
@@ -1045,7 +1045,7 @@
     "name": "mhwilds_greatsword_destructive_torpor",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_paralysis": 500
@@ -1061,7 +1061,7 @@
     "name": "mhwilds_greatsword_artian_blade_i",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1073,7 +1073,7 @@
     "name": "mhwilds_greatsword_artian_blade_ii",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1085,7 +1085,7 @@
     "name": "mhwilds_greatsword_varianza",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1097,7 +1097,7 @@
     "name": "mhwilds_greatsword_esperanza_blade",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1112,7 +1112,7 @@
     "name": "mhwilds_greatsword_fellslayer_dangeom",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": null,
     "affinity": -10,
@@ -1126,7 +1126,7 @@
     "name": "mhwilds_greatsword_stalwart_lamorak",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 500
@@ -1142,7 +1142,7 @@
     "name": "mhwilds_greatsword_jawblade_i",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -1157,7 +1157,7 @@
     "name": "mhwilds_greatsword_giant_jawblade",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": null,
     "affinity": 0,
@@ -1172,7 +1172,7 @@
     "name": "mhwilds_greatsword_zoh_veiah_i",
     "part": "mhwilds_greatswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 250
@@ -1188,7 +1188,7 @@
     "name": "mhwilds_greatsword_blazing_veiah",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 300
@@ -1204,7 +1204,7 @@
     "name": "mhwilds_greatsword_hanayako_yohino_i",
     "part": "mhwilds_greatswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": { "mh_common_water": 350 },
     "affinity": 15,
@@ -1219,7 +1219,7 @@
     "name": "mhwilds_greatsword_akanesasu",
     "part": "mhwilds_greatswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 225,
     "element": { "mh_common_water": 450 },
     "affinity": 15,

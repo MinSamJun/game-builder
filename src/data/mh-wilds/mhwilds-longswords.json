@@ -3,7 +3,7 @@
     "name": "mhwilds_longswords_hope_edge_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -15,7 +15,7 @@
     "name": "mhwilds_longswords_hope_edge_ii",
     "part": "mhwilds_longswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -29,7 +29,7 @@
     "name": "mhwilds_longswords_hope_edge_iii",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -44,7 +44,7 @@
     "name": "mhwilds_longswords_hope_edge_iv",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -59,7 +59,7 @@
     "name": "mhwilds_longswords_hope_edge_v",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -74,7 +74,7 @@
     "name": "mhwilds_longswords_rey_tonitrus_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_thunder": 150
@@ -91,7 +91,7 @@
     "name": "mhwilds_longswords_rey_tonitrus_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_thunder": 190
@@ -108,7 +108,7 @@
     "name": "mhwilds_longswords_rey_tonitrus_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_thunder": 220
@@ -125,7 +125,7 @@
     "name": "mhwilds_longswords_tonitrus_clairblade",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_thunder": 250
@@ -142,7 +142,7 @@
     "name": "mhwilds_longswords_stahlfakt_i",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_dragon": 270
@@ -158,7 +158,7 @@
     "name": "mhwilds_longswords_stahlrecht",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 300
@@ -174,7 +174,7 @@
     "name": "mhwilds_longswords_uth_khlunda_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_water": 200
@@ -190,7 +190,7 @@
     "name": "mhwilds_longswords_uth_khlunda_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_water": 260
@@ -206,7 +206,7 @@
     "name": "mhwilds_longswords_uth_khlunda_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_water": 320
@@ -222,7 +222,7 @@
     "name": "mhwilds_longswords_khlunda_of_the_waves",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": {
       "mh_common_water": 350
@@ -238,7 +238,7 @@
     "name": "mhwilds_longswords_windclaw_blade_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_ice": 180
@@ -255,7 +255,7 @@
     "name": "mhwilds_longswords_windclaw_blade_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_ice": 230
@@ -272,7 +272,7 @@
     "name": "mhwilds_longswords_windclaw_blade_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_ice": 270
@@ -289,7 +289,7 @@
     "name": "mhwilds_longswords_windclaw_kiribami",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_ice": 300
@@ -306,7 +306,7 @@
     "name": "mhwilds_longswords_quematrice_lima_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": {
       "mh_common_fire": 100
@@ -322,7 +322,7 @@
     "name": "mhwilds_longswords_quematrice_lima_ii",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_fire": 120
@@ -338,7 +338,7 @@
     "name": "mhwilds_longswords_quematrice_lima_iii",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_fire": 150
@@ -354,7 +354,7 @@
     "name": "mhwilds_longswords_quematrice_lima_iv",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 170
@@ -370,7 +370,7 @@
     "name": "mhwilds_longswords_firetrail_ferrocere",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_fire": 200
@@ -386,7 +386,7 @@
     "name": "mhwilds_longswords_iron_katana_i",
     "part": "mhwilds_longswords",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -400,7 +400,7 @@
     "name": "mhwilds_longswords_iron_katana_ii",
     "part": "mhwilds_longswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -414,7 +414,7 @@
     "name": "mhwilds_longswords_iron_katana_iii",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -428,7 +428,7 @@
     "name": "mhwilds_longswords_keen_edge",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -442,7 +442,7 @@
     "name": "mhwilds_longswords_wyvern_blade_ash______i",
     "part": "mhwilds_longswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_fire": 210
@@ -459,7 +459,7 @@
     "name": "mhwilds_longswords_wyvern_blade_ash_ii",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 260
@@ -476,7 +476,7 @@
     "name": "mhwilds_longswords_wyvern_blade_lily",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 300
@@ -493,7 +493,7 @@
     "name": "mhwilds_longswords_wyvern_blade_blood_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 290
@@ -509,7 +509,7 @@
     "name": "mhwilds_longswords_wyvern_blade_maple",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 350
@@ -525,7 +525,7 @@
     "name": "mhwilds_longswords_wyvern_blade_verde_i",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": {
       "mh_common_poison": 140
@@ -542,7 +542,7 @@
     "name": "mhwilds_longswords_wyvern_blade_verde_ii",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_poison": 170
@@ -559,7 +559,7 @@
     "name": "mhwilds_longswords_wyvern_blade_holly",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_poison": 200
@@ -576,7 +576,7 @@
     "name": "mhwilds_longswords_barina_flamberge_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": {
       "mh_common_paralysis": 100
@@ -592,7 +592,7 @@
     "name": "mhwilds_longswords_barina_flamberge_ii",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": {
       "mh_common_paralysis": 130
@@ -609,7 +609,7 @@
     "name": "mhwilds_longswords_barina_flamberge_iii",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_paralysis": 180
@@ -626,7 +626,7 @@
     "name": "mhwilds_longswords_barina_flamberge_iv",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_paralysis": 210
@@ -643,7 +643,7 @@
     "name": "mhwilds_longswords_lala_ornithocton",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_paralysis": 250
@@ -660,7 +660,7 @@
     "name": "mhwilds_longswords_blood_cry_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": {
       "mh_common_sleep": 130
@@ -676,7 +676,7 @@
     "name": "mhwilds_longswords_blood_cry_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_sleep": 180
@@ -692,7 +692,7 @@
     "name": "mhwilds_longswords_blood_cry_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_sleep": 220
@@ -708,7 +708,7 @@
     "name": "mhwilds_longswords_blood_scream",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_sleep": 250
@@ -724,7 +724,7 @@
     "name": "mhwilds_longswords_bone_shotel_i",
     "part": "mhwilds_longswords",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -738,7 +738,7 @@
     "name": "mhwilds_longswords_bone_shotel_ii",
     "part": "mhwilds_longswords",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -753,7 +753,7 @@
     "name": "mhwilds_longswords_bone_shotel_iii",
     "part": "mhwilds_longswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -768,7 +768,7 @@
     "name": "mhwilds_longswords_bone_shotel_iv",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -783,7 +783,7 @@
     "name": "mhwilds_longswords_hard_bone_shotel",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -798,7 +798,7 @@
     "name": "mhwilds_longswords_gnashing_fulgur_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_thunder": 290
@@ -814,7 +814,7 @@
     "name": "mhwilds_longswords_fulgurblade_guardiana",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_thunder": 350
@@ -830,7 +830,7 @@
     "name": "mhwilds_longswords_rompo_hacker_i",
     "part": "mhwilds_longswords",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_poison": 150
@@ -846,7 +846,7 @@
     "name": "mhwilds_longswords_rompo_hacker_ii",
     "part": "mhwilds_longswords",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_poison": 190
@@ -862,7 +862,7 @@
     "name": "mhwilds_longswords_rompo_hacker_iii",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_poison": 220
@@ -878,7 +878,7 @@
     "name": "mhwilds_longswords_rompo_mytoxin",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_poison": 250
@@ -894,7 +894,7 @@
     "name": "mhwilds_longswords_dosha_fatecleaver_i",
     "part": "mhwilds_longswords",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": null,
     "affinity": -5,
@@ -908,7 +908,7 @@
     "name": "mhwilds_longswords_dosha_fatecleaver_ii",
     "part": "mhwilds_longswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -5,
@@ -922,7 +922,7 @@
     "name": "mhwilds_longswords_dosha_fatecleaver_iii",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": -5,
@@ -936,7 +936,7 @@
     "name": "mhwilds_longswords_blanberge_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_ice": 160
@@ -952,7 +952,7 @@
     "name": "mhwilds_longswords_blangongaberge",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_ice": 200
@@ -968,7 +968,7 @@
     "name": "mhwilds_longswords_dosha_gravecleaver_i",
     "part": "mhwilds_longswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -15,
@@ -982,7 +982,7 @@
     "name": "mhwilds_longswords_dosha_gravecleaver_ii",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": -15,
@@ -996,7 +996,7 @@
     "name": "mhwilds_longswords_gravecleaver_urkemush",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 250,
     "element": null,
     "affinity": -15,
@@ -1010,7 +1010,7 @@
     "name": "mhwilds_longswords_g_veldian_ensis_i",
     "part": "mhwilds_longswords",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_dragon": 140
@@ -1026,7 +1026,7 @@
     "name": "mhwilds_longswords_g_veldian_ensis_ii",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 170
@@ -1042,7 +1042,7 @@
     "name": "mhwilds_longswords_g_righteous_lancelot",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": {
       "mh_common_dragon": 200
@@ -1058,7 +1058,7 @@
     "name": "mhwilds_longswords_veldian_ensis_i",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 320
@@ -1074,7 +1074,7 @@
     "name": "mhwilds_longswords_artian_saber_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1086,7 +1086,7 @@
     "name": "mhwilds_longswords_artian_saber_ii",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1098,7 +1098,7 @@
     "name": "mhwilds_longswords_dimensius",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1110,7 +1110,7 @@
     "name": "mhwilds_longswords_esperanza_edge",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1125,7 +1125,7 @@
     "name": "mhwilds_longswords_fatecleaver_kimkemush",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": null,
     "affinity": -5,
@@ -1139,7 +1139,7 @@
     "name": "mhwilds_longswords_righteous_lancelot",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 350
@@ -1155,7 +1155,7 @@
     "name": "mhwilds_longswords_zoh_rafel_i",
     "part": "mhwilds_longswords",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 150
@@ -1171,7 +1171,7 @@
     "name": "mhwilds_longswords_blazing_rafel",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 200
@@ -1187,7 +1187,7 @@
     "name": "mhwilds_longswords_kakaru_kumo_naki_i",
     "part": "mhwilds_longswords",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_water": 250
@@ -1204,7 +1204,7 @@
     "name": "mhwilds_longswords_tamonowo",
     "part": "mhwilds_longswords",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_water": 300

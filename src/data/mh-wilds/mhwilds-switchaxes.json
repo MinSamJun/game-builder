@@ -3,7 +3,7 @@
     "name": "mhwilds_switchaxe_hope_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -18,7 +18,7 @@
     "name": "mhwilds_switchaxe_hope_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -35,7 +35,7 @@
     "name": "mhwilds_switchaxe_hope_axe_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -53,7 +53,7 @@
     "name": "mhwilds_switchaxe_hope_axe_iv",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -71,7 +71,7 @@
     "name": "mhwilds_switchaxe_hope_axe_v",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -89,7 +89,7 @@
     "name": "mhwilds_switchaxe_bone_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -106,7 +106,7 @@
     "name": "mhwilds_switchaxe_bone_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -124,7 +124,7 @@
     "name": "mhwilds_switchaxe_bone_axe_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -142,7 +142,7 @@
     "name": "mhwilds_switchaxe_bone_axe_iv",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -160,7 +160,7 @@
     "name": "mhwilds_switchaxe_bone_smasher",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -178,7 +178,7 @@
     "name": "mhwilds_switchaxe_iron_accelerator_i",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -195,7 +195,7 @@
     "name": "mhwilds_switchaxe_iron_accelerator_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -212,7 +212,7 @@
     "name": "mhwilds_switchaxe_iron_accelerator_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -229,7 +229,7 @@
     "name": "mhwilds_switchaxe_chrome_accelerator",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -246,7 +246,7 @@
     "name": "mhwilds_switchaxe_barina_hache_i",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": {
       "mh_common_paralysis": 100
@@ -265,7 +265,7 @@
     "name": "mhwilds_switchaxe_barina_hache_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": {
       "mh_common_paralysis": 120
@@ -285,7 +285,7 @@
     "name": "mhwilds_switchaxe_barina_hache_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_paralysis": 150
@@ -305,7 +305,7 @@
     "name": "mhwilds_switchaxe_barina_hache_iv",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_paralysis": 170
@@ -325,7 +325,7 @@
     "name": "mhwilds_switchaxe_lala_selenocosmi",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_paralysis": 200
@@ -345,7 +345,7 @@
     "name": "mhwilds_switchaxe_golba_vandal_i",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": null,
     "affinity": 5,
@@ -363,7 +363,7 @@
     "name": "mhwilds_switchaxe_golba_vandal_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -381,7 +381,7 @@
     "name": "mhwilds_switchaxe_gundava_vandal",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": 5,
@@ -399,7 +399,7 @@
     "name": "mhwilds_switchaxe_dosha_fleshhacker_i",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": null,
     "affinity": -5,
@@ -416,7 +416,7 @@
     "name": "mhwilds_switchaxe_dosha_fleshhacker_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -5,
@@ -433,7 +433,7 @@
     "name": "mhwilds_switchaxe_dosha_fleshhacker_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": -5,
@@ -450,7 +450,7 @@
     "name": "mhwilds_switchaxe_uth_olacha_i",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_water": 150
@@ -469,7 +469,7 @@
     "name": "mhwilds_switchaxe_uth_olacha_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_water": 190
@@ -488,7 +488,7 @@
     "name": "mhwilds_switchaxe_uth_olacha_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_water": 220
@@ -507,7 +507,7 @@
     "name": "mhwilds_switchaxe_olacha_of_the_waves",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": {
       "mh_common_water": 250
@@ -526,7 +526,7 @@
     "name": "mhwilds_switchaxe_windsunder_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_ice": 120
@@ -546,7 +546,7 @@
     "name": "mhwilds_switchaxe_windsunder_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_ice": 150
@@ -566,7 +566,7 @@
     "name": "mhwilds_switchaxe_windsunder_axe_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_ice": 170
@@ -586,7 +586,7 @@
     "name": "mhwilds_switchaxe_windsunder_sakibami",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_ice": 200
@@ -606,7 +606,7 @@
     "name": "mhwilds_switchaxe_nu_zhangyu_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_fire": 120
@@ -625,7 +625,7 @@
     "name": "mhwilds_switchaxe_nu_zhangyu_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 170
@@ -644,7 +644,7 @@
     "name": "mhwilds_switchaxe_abaddonian_zhangyu",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_fire": 200
@@ -663,7 +663,7 @@
     "name": "mhwilds_switchaxe_dosha_gorehacker_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -15,
@@ -680,7 +680,7 @@
     "name": "mhwilds_switchaxe_dosha_gorehacker_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": -15,
@@ -697,7 +697,7 @@
     "name": "mhwilds_switchaxe_gorehacker_urgahaac",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 250,
     "element": null,
     "affinity": -15,
@@ -714,7 +714,7 @@
     "name": "mhwilds_switchaxe_albirath_flamesplitter_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_fire": 140
@@ -734,7 +734,7 @@
     "name": "mhwilds_switchaxe_albirath_flamesplitter_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 170
@@ -754,7 +754,7 @@
     "name": "mhwilds_switchaxe_albirath_blaze_splitter",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 200
@@ -774,7 +774,7 @@
     "name": "mhwilds_switchaxe_nihil_switch_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_water": 120
@@ -793,7 +793,7 @@
     "name": "mhwilds_switchaxe_nihil_switch_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_water": 150
@@ -812,7 +812,7 @@
     "name": "mhwilds_switchaxe_brutus_s_abolishment",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_water": 180
@@ -831,7 +831,7 @@
     "name": "mhwilds_switchaxe_g_veldian_securis_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_dragon": 120
@@ -850,7 +850,7 @@
     "name": "mhwilds_switchaxe_g_veldian_securis_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 150
@@ -869,7 +869,7 @@
     "name": "mhwilds_switchaxe_g_indomitable_perceval",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_dragon": 180
@@ -888,7 +888,7 @@
     "name": "mhwilds_switchaxe_beak_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 260
@@ -907,7 +907,7 @@
     "name": "mhwilds_switchaxe_beak_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 320
@@ -926,7 +926,7 @@
     "name": "mhwilds_switchaxe_sawbill_axe",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_fire": 350
@@ -945,7 +945,7 @@
     "name": "mhwilds_switchaxe_dragonmaiden_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": {
       "mh_common_poison": 120
@@ -965,7 +965,7 @@
     "name": "mhwilds_switchaxe_dragonmaiden_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_poison": 150
@@ -985,7 +985,7 @@
     "name": "mhwilds_switchaxe_grithor_s_landmaker",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_poison": 180
@@ -1005,7 +1005,7 @@
     "name": "mhwilds_switchaxe_morphing_fulgur_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_thunder": 210
@@ -1024,7 +1024,7 @@
     "name": "mhwilds_switchaxe_fulgurswitch_guardiana",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_thunder": 250
@@ -1043,7 +1043,7 @@
     "name": "mhwilds_switchaxe_rath_flamesplitter_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 210
@@ -1062,7 +1062,7 @@
     "name": "mhwilds_switchaxe_rath_blaze_splitter",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 250
@@ -1081,7 +1081,7 @@
     "name": "mhwilds_switchaxe_eisenleib_i",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_dragon": 160
@@ -1100,7 +1100,7 @@
     "name": "mhwilds_switchaxe_eisengeist",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 200
@@ -1119,7 +1119,7 @@
     "name": "mhwilds_switchaxe_veldian_securis_i",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 220
@@ -1138,7 +1138,7 @@
     "name": "mhwilds_switchaxe_artian_saw_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1153,7 +1153,7 @@
     "name": "mhwilds_switchaxe_artian_saw_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1168,7 +1168,7 @@
     "name": "mhwilds_switchaxe_mundus_altus",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1183,7 +1183,7 @@
     "name": "mhwilds_switchaxe_esperanza_axe",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1201,7 +1201,7 @@
     "name": "mhwilds_switchaxe_fleshhacker_yaogahaac",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": null,
     "affinity": -5,
@@ -1218,7 +1218,7 @@
     "name": "mhwilds_switchaxe_indomitable_perceval",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 250
@@ -1237,7 +1237,7 @@
     "name": "mhwilds_switchaxe_fond_farewell_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_water": 180
@@ -1257,7 +1257,7 @@
     "name": "mhwilds_switchaxe_parting_slice",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_water": 230
@@ -1277,7 +1277,7 @@
     "name": "mhwilds_switchaxe_zoh_mahaiah_i",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 100
@@ -1296,7 +1296,7 @@
     "name": "mhwilds_switchaxe_blazing_mahaiah",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 150

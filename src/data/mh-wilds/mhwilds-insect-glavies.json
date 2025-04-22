@@ -10,7 +10,7 @@
     "slots": [],
     "skills": {},
     "kinsectlevel": 1,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_hope_glaive_ii",
@@ -25,7 +25,7 @@
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "kinsectlevel": 1,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_hope_glaive_iii",
@@ -41,7 +41,7 @@
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "kinsectlevel": 3,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_hope_glaive_iv",
@@ -57,7 +57,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "kinsectlevel": 5,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_hope_glaive_v",
@@ -73,7 +73,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_bone_staff_i",
@@ -88,7 +88,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 1,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_bone_staff_ii",
@@ -104,7 +104,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 3,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_bone_staff_iii",
@@ -120,7 +120,7 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "kinsectlevel": 5,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_bone_staff_iv",
@@ -136,7 +136,7 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_aerial_glaive",
@@ -152,7 +152,7 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "kinsectlevel": 10,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_iron_gale_i",
@@ -167,7 +167,7 @@
       "mhwilds_weapon_skill_critical_draw": 1
     },
     "kinsectlevel": 2,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_iron_gale_ii",
@@ -182,7 +182,7 @@
       "mhwilds_weapon_skill_critical_draw": 2
     },
     "kinsectlevel": 4,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_iron_gale_iii",
@@ -197,7 +197,7 @@
       "mhwilds_weapon_skill_critical_draw": 2
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_chrome_gale",
@@ -212,7 +212,7 @@
       "mhwilds_weapon_skill_critical_draw": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_chata_glaive_i",
@@ -227,7 +227,7 @@
       "mhwilds_weapon_skill_power_prolonger": 1
     },
     "kinsectlevel": 1,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_chata_glaive_ii",
@@ -242,7 +242,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 3,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_chata_glaive_iii",
@@ -257,7 +257,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 5,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_chata_glaive_iv",
@@ -272,7 +272,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_barina_perche_i",
@@ -287,7 +287,7 @@
       "mhwilds_weapon_skill_critical_draw": 1
     },
     "kinsectlevel": 1,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_barina_perche_ii",
@@ -303,7 +303,7 @@
       "mhwilds_weapon_skill_critical_status": 1
     },
     "kinsectlevel": 4,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_barina_perche_iii",
@@ -319,7 +319,7 @@
       "mhwilds_weapon_skill_critical_status": 1
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_barina_perche_iv",
@@ -335,7 +335,7 @@
       "mhwilds_weapon_skill_critical_status": 1
     },
     "kinsectlevel": 9,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_lala_stromatopelm",
@@ -351,7 +351,7 @@
       "mhwilds_weapon_skill_critical_status": 1
     },
     "kinsectlevel": 10,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_balahara_glaive_i",
@@ -366,7 +366,7 @@
       "mhwilds_weapon_skill_power_prolonger": 1
     },
     "kinsectlevel": 2,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_balahara_glaive_ii",
@@ -381,7 +381,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 4,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_balahara_glaive_iii",
@@ -396,7 +396,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 5,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_balahara_glaive_iv",
@@ -411,7 +411,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_sandsea_uchaltiya",
@@ -426,7 +426,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_rey_halilintar_i",
@@ -442,7 +442,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 3,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_rey_halilintar_ii",
@@ -458,7 +458,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 5,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_rey_halilintar_iii",
@@ -474,7 +474,7 @@
       "mhwilds_weapon_skill_charge_master": 1
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_halilintar_clairglaive",
@@ -490,7 +490,7 @@
       "mhwilds_weapon_skill_charge_master": 1
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_stealth_glaive_i",
@@ -506,7 +506,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 4,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_stealth_glaive_ii",
@@ -522,7 +522,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_stealth_glaive_iii",
@@ -538,7 +538,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 9,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_stealth_glaive_redux",
@@ -554,7 +554,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "kinsectlevel": 10,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_ajara_trident_i",
@@ -569,7 +569,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 3,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_ajara_trident_ii",
@@ -584,7 +584,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_ajara_bhadra",
@@ -599,7 +599,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_guardian_rathmaul_i",
@@ -615,7 +615,7 @@
       "mhwilds_weapon_skill_masters_touch": 1
     },
     "kinsectlevel": 4,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_guardian_rathmaul_ii",
@@ -631,7 +631,7 @@
       "mhwilds_weapon_skill_masters_touch": 1
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_alabaster_rathmaul",
@@ -647,7 +647,7 @@
       "mhwilds_weapon_skill_masters_touch": 1
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_jin_dhachhad",
@@ -662,7 +662,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_precipice_geumgel",
@@ -677,7 +677,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_chthonian_vajra_i",
@@ -692,7 +692,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "kinsectlevel": 4,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_chthonian_vajra_ii",
@@ -707,7 +707,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_bequeathed_testament",
@@ -722,7 +722,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_g_veldian_trudis_i",
@@ -737,7 +737,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 4,
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhWilds_insect_glavies_g_veldian_trudis_ii",
@@ -752,7 +752,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_g_enduring_tor",
@@ -767,7 +767,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_kut_ku_pike_i",
@@ -782,7 +782,7 @@
       "mhwilds_weapon_skill_power_prolonger": 2
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_kut_ku_pike_ii",
@@ -797,7 +797,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 9,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_toucan_pike",
@@ -812,7 +812,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 10,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_princess_regalia_i",
@@ -828,7 +828,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "kinsectlevel": 5,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_princess_regalia_ii",
@@ -844,7 +844,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_queen_regalia",
@@ -860,7 +860,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_rising_fulgur_i",
@@ -875,7 +875,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_fulgurglaive_guardiana",
@@ -890,7 +890,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_blizzard_glaive_i",
@@ -905,7 +905,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_immaculate_blizzard",
@@ -920,7 +920,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "kinsectlevel": 10,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_graviafaren_i",
@@ -935,7 +935,7 @@
       "mhwilds_weapon_skill_punishing_draw": 3
     },
     "kinsectlevel": 5,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_gravordius",
@@ -950,7 +950,7 @@
       "mhwilds_weapon_skill_punishing_draw": 3
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_rathmaul_i",
@@ -965,7 +965,7 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_firedance_rathmaul",
@@ -980,7 +980,7 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_leumundslist",
@@ -995,7 +995,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "kinsectlevel": 9,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_leumundsgift",
@@ -1010,7 +1010,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "kinsectlevel": 10,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_veldian_trudis_i",
@@ -1025,7 +1025,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_artian_glaive_i",
@@ -1038,7 +1038,7 @@
     "slots": [2, 2, 2],
     "skills": {},
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_artian_glaive_ii",
@@ -1051,7 +1051,7 @@
     "slots": [2, 2, 2],
     "skills": {},
     "kinsectlevel": 0,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_diprielcha",
@@ -1064,7 +1064,7 @@
     "slots": [3, 3, 3],
     "skills": {},
     "kinsectlevel": 0,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_esperanza_glaive",
@@ -1080,7 +1080,7 @@
       "mhwilds_weapon_skill_speed_sharpening": 2
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_shrouded_laphoka",
@@ -1095,7 +1095,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_enduring_tor",
@@ -1110,7 +1110,7 @@
       "mhwilds_weapon_skill_power_prolonger": 3
     },
     "kinsectlevel": 9,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_fox_halberd_i",
@@ -1126,7 +1126,7 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_curved_naganagi",
@@ -1142,7 +1142,7 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "kinsectlevel": 7,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_zoh_katir_i",
@@ -1157,7 +1157,7 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "kinsectlevel": 6,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhWilds_insect_glavies_blazing_katir",
@@ -1172,6 +1172,6 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "kinsectlevel": 8,
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   }
 ]

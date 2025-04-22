@@ -38,11 +38,13 @@ export function SwordNShieldList({ searchTerm }: { searchTerm: string }) {
         <button
           onClick={() =>
             setSelectedRank(
-              selectedRank === "mhwilds_low_rank" ? null : "mhwilds_low_rank"
+              selectedRank === "mh_common_low_rank"
+                ? null
+                : "mh_common_low_rank"
             )
           }
           className={`px-3 py-1 rounded border ${
-            selectedRank === "mhwilds_low_rank"
+            selectedRank === "mh_common_low_rank"
               ? "bg-blue-500 text-white"
               : "bg-white text-gray-700"
           }`}
@@ -53,11 +55,13 @@ export function SwordNShieldList({ searchTerm }: { searchTerm: string }) {
         <button
           onClick={() =>
             setSelectedRank(
-              selectedRank === "mhwilds_high_rank" ? null : "mhwilds_high_rank"
+              selectedRank === "mh_common_high_rank"
+                ? null
+                : "mh_common_high_rank"
             )
           }
           className={`px-3 py-1 rounded border ${
-            selectedRank === "mhwilds_high_rank"
+            selectedRank === "mh_common_high_rank"
               ? "bg-blue-500 text-white"
               : "bg-white text-gray-700"
           }`}

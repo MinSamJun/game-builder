@@ -3,7 +3,7 @@
     "name": "hope_horn_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -17,7 +17,7 @@
     "name": "hope_horn_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -33,7 +33,7 @@
     "name": "hope_horn_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -50,7 +50,7 @@
     "name": "hope_horn_iv",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -67,7 +67,7 @@
     "name": "hope_horn_v",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -84,7 +84,7 @@
     "name": "bone_horn_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -100,7 +100,7 @@
     "name": "bone_horn_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -117,7 +117,7 @@
     "name": "bone_horn_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -134,7 +134,7 @@
     "name": "bone_horn_iv",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -151,7 +151,7 @@
     "name": "hardened_bone_horn",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -168,7 +168,7 @@
     "name": "metal_bagpipe_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -185,7 +185,7 @@
     "name": "metal_bagpipe_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -202,7 +202,7 @@
     "name": "metal_bagpipe_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": null,
     "affinity": 0,
@@ -219,7 +219,7 @@
     "name": "great_bagpipe",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -236,7 +236,7 @@
     "name": "war_bongo_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": null,
     "affinity": 5,
@@ -252,7 +252,7 @@
     "name": "war_bongo_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": null,
     "affinity": 5,
@@ -269,7 +269,7 @@
     "name": "war_conga",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 5,
@@ -286,7 +286,7 @@
     "name": "balahara_horn_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": {
       "mh_common_water": 160
@@ -304,7 +304,7 @@
     "name": "balahara_horn_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 150,
     "element": {
       "mh_common_water": 200
@@ -322,7 +322,7 @@
     "name": "balahara_horn_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": {
       "mh_common_water": 230
@@ -340,7 +340,7 @@
     "name": "balahara_horn_iv",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_water": 270
@@ -358,7 +358,7 @@
     "name": "sandsea_ghantisil",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_water": 300
@@ -376,7 +376,7 @@
     "name": "dosha_farsounder_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": null,
     "affinity": -5,
@@ -392,7 +392,7 @@
     "name": "dosha_farsounder_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -5,
@@ -409,7 +409,7 @@
     "name": "dosha_farsounder_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": -5,
@@ -426,7 +426,7 @@
     "name": "rey_perun_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_thunder": 180
@@ -445,7 +445,7 @@
     "name": "rey_perun_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_thunder": 230
@@ -464,7 +464,7 @@
     "name": "rey_perun_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_thunder": 270
@@ -483,7 +483,7 @@
     "name": "perun_clairhorn",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_thunder": 300
@@ -502,7 +502,7 @@
     "name": "ajara_reverberator_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": {
       "mh_common_blast": 140
@@ -520,7 +520,7 @@
     "name": "ajara_reverberator_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_blast": 190
@@ -538,7 +538,7 @@
     "name": "ajara_jivaka",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_blast": 250
@@ -556,7 +556,7 @@
     "name": "dosha_grudgesounder_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 180,
     "element": null,
     "affinity": -15,
@@ -573,7 +573,7 @@
     "name": "dosha_grudgesounder_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": -15,
@@ -590,7 +590,7 @@
     "name": "grudgesounder_urga",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 250,
     "element": null,
     "affinity": -15,
@@ -607,7 +607,7 @@
     "name": "albirath_feroce_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_fire": 210
@@ -626,7 +626,7 @@
     "name": "albirath_feroce_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_fire": 260
@@ -645,7 +645,7 @@
     "name": "g_rathalos_feroce",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 300
@@ -664,7 +664,7 @@
     "name": "jin_dhaang_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_ice": 470
@@ -682,7 +682,7 @@
     "name": "precipice_kovira",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_ice": 500
@@ -700,7 +700,7 @@
     "name": "nihil_chord_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_water": 160
@@ -719,7 +719,7 @@
     "name": "nihil_chord_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_water": 210
@@ -738,7 +738,7 @@
     "name": "kae_jin_s_lament",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_water": 250
@@ -757,7 +757,7 @@
     "name": "g_veldian_sibilus_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_dragon": 160
@@ -775,7 +775,7 @@
     "name": "g_veldian_sibilus_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 210
@@ -793,7 +793,7 @@
     "name": "g_resounding_galahad",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_dragon": 250
@@ -811,7 +811,7 @@
     "name": "kut_ku_s_song_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_fire": 410
@@ -830,7 +830,7 @@
     "name": "kut_ku_s_song_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_fire": 470
@@ -849,7 +849,7 @@
     "name": "kut_ku_cantabile",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_fire": 500
@@ -868,7 +868,7 @@
     "name": "poisoned_capri_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_poison": 310
@@ -887,7 +887,7 @@
     "name": "poisoned_capri_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_poison": 340
@@ -906,7 +906,7 @@
     "name": "crazed_melody",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_poison": 400
@@ -925,7 +925,7 @@
     "name": "valkyrie_chordmaker_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_poison": 190
@@ -944,7 +944,7 @@
     "name": "valkyrie_chordmaker_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_poison": 220
@@ -963,7 +963,7 @@
     "name": "queen_chordmaker",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_poison": 250
@@ -982,7 +982,7 @@
     "name": "deafening_fulgur_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_thunder": 340
@@ -1000,7 +1000,7 @@
     "name": "fulgurhowl_guardiana",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_thunder": 400
@@ -1018,7 +1018,7 @@
     "name": "flame_feroce_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 340
@@ -1036,7 +1036,7 @@
     "name": "rathalos_feroce",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 400
@@ -1054,7 +1054,7 @@
     "name": "kummerklang_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_dragon": 270
@@ -1072,7 +1072,7 @@
     "name": "gramklang",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 300
@@ -1090,7 +1090,7 @@
     "name": "veldian_sibilus_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_dragon": 370
@@ -1109,7 +1109,7 @@
     "name": "sonic_horn_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 90,
     "element": {
       "mh_common_paralysis": 150
@@ -1118,7 +1118,7 @@
     "defense": 0,
     "slots": [],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_protective_polish": 1
+      "mhwilds_weapon_skill_protective_polish": 1
     },
     "notes": [1, 6, 5],
     "echoBubbles": "mhwilds_evasion_movement_speed_up"
@@ -1127,7 +1127,7 @@
     "name": "sonic_horn_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": {
       "mh_common_paralysis": 210
@@ -1136,7 +1136,7 @@
     "defense": 0,
     "slots": [],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_protective_polish": 2,
+      "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "notes": [1, 6, 5],
@@ -1146,7 +1146,7 @@
     "name": "sonic_horn_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_paralysis": 310
@@ -1155,7 +1155,7 @@
     "defense": 0,
     "slots": [2, 1],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_protective_polish": 2,
+      "mhwilds_weapon_skill_protective_polish": 2,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "notes": [10, 6, 5],
@@ -1165,7 +1165,7 @@
     "name": "sonic_horn_iv",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_paralysis": 370
@@ -1174,7 +1174,7 @@
     "defense": 0,
     "slots": [3, 2],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_protective_polish": 3,
+      "mhwilds_weapon_skill_protective_polish": 3,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
     "notes": [10, 6, 5],
@@ -1184,7 +1184,7 @@
     "name": "glass_royale",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_paralysis": 400
@@ -1193,7 +1193,7 @@
     "defense": 0,
     "slots": [3, 2, 1],
     "skills": {
-      "mhwilds_weapon_skill_mhwilds_protective_polish": 3,
+      "mhwilds_weapon_skill_protective_polish": 3,
       "mhwilds_weapon_skill_speed_sharpening": 2
     },
     "notes": [10, 6, 5],
@@ -1203,7 +1203,7 @@
     "name": "artian_sounder_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1217,7 +1217,7 @@
     "name": "artian_sounder_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1231,7 +1231,7 @@
     "name": "omiltika",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1245,7 +1245,7 @@
     "name": "esperanza_horn",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1262,7 +1262,7 @@
     "name": "farsounder_honga",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": null,
     "affinity": -5,
@@ -1279,7 +1279,7 @@
     "name": "resounding_galahad",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 400
@@ -1298,7 +1298,7 @@
     "name": "poetic_bell",
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": null,
     "affinity": 15,
@@ -1315,7 +1315,7 @@
     "name": "summoning",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 15,
@@ -1332,7 +1332,7 @@
     "name": "zoh_gariel_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 200
@@ -1350,7 +1350,7 @@
     "name": "blazing",
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 250

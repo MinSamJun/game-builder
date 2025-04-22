@@ -3,7 +3,7 @@
     "name": "mhwilds_chargeblades_hope_strongarm_i",
     "part": "mhwilds_chargeblades",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 92,
     "element": null,
     "affinity": 0,
@@ -15,7 +15,7 @@
     "name": "mhwilds_chargeblades_hope_strongarm_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 102,
     "element": null,
     "affinity": 0,
@@ -29,7 +29,7 @@
     "name": "mhwilds_chargeblades_hope_strongarm_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 133,
     "element": null,
     "affinity": 0,
@@ -44,7 +44,7 @@
     "name": "mhwilds_chargeblades_hope_strongarm_iv",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 164,
     "element": null,
     "affinity": 0,
@@ -59,7 +59,7 @@
     "name": "mhwilds_chargeblades_hope_strongarm_v",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 195,
     "element": null,
     "affinity": 0,
@@ -74,7 +74,7 @@
     "name": "mhwilds_chargeblades_bone_strongarm_i",
     "part": "mhwilds_chargeblades",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 113,
     "element": null,
     "affinity": 0,
@@ -88,7 +88,7 @@
     "name": "mhwilds_chargeblades_bone_strongarm_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 133,
     "element": null,
     "affinity": 0,
@@ -103,7 +103,7 @@
     "name": "mhwilds_chargeblades_bone_strongarm_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 174,
     "element": null,
     "affinity": 0,
@@ -118,7 +118,7 @@
     "name": "mhwilds_chargeblades_bone_strongarm_iv",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": null,
     "affinity": 0,
@@ -133,7 +133,7 @@
     "name": "mhwilds_chargeblades_hard_bone_strongarm",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 236,
     "element": null,
     "affinity": 0,
@@ -148,7 +148,7 @@
     "name": "mhwilds_chargeblades_hyperguard_i",
     "part": "mhwilds_chargeblades",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 123,
     "element": null,
     "affinity": 0,
@@ -162,7 +162,7 @@
     "name": "mhwilds_chargeblades_hyperguard_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 164,
     "element": null,
     "affinity": 0,
@@ -176,7 +176,7 @@
     "name": "mhwilds_chargeblades_hyperguard_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 195,
     "element": null,
     "affinity": 0,
@@ -190,7 +190,7 @@
     "name": "mhwilds_chargeblades_regas_hyper",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": null,
     "affinity": 0,
@@ -204,7 +204,7 @@
     "name": "mhwilds_chargeblades_chata_strongarm_i",
     "part": "mhwilds_chargeblades",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 113,
     "element": null,
     "affinity": 0,
@@ -218,7 +218,7 @@
     "name": "mhwilds_chargeblades_chata_strongarm_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 154,
     "element": null,
     "affinity": 0,
@@ -233,7 +233,7 @@
     "name": "mhwilds_chargeblades_chata_strongarm_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": null,
     "affinity": 0,
@@ -248,7 +248,7 @@
     "name": "mhwilds_chargeblades_chata_strongarm_iv",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": null,
     "affinity": 0,
@@ -263,7 +263,7 @@
     "name": "mhwilds_chargeblades_barina_bouclier_i",
     "part": "mhwilds_chargeblades",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 102,
     "element": {
       "mh_common_paralysis": 100
@@ -279,7 +279,7 @@
     "name": "mhwilds_chargeblades_barina_bouclier_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 123,
     "element": {
       "mh_common_paralysis": 130
@@ -296,7 +296,7 @@
     "name": "mhwilds_chargeblades_barina_bouclier_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 154,
     "element": {
       "mh_common_paralysis": 180
@@ -313,7 +313,7 @@
     "name": "mhwilds_chargeblades_barina_bouclier_iv",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": {
       "mh_common_paralysis": 210
@@ -330,7 +330,7 @@
     "name": "mhwilds_chargeblades_lala_eumenophor",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": {
       "mh_common_paralysis": 250
@@ -347,7 +347,7 @@
     "name": "mhwilds_chargeblades_uth_valeroje_i",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 164,
     "element": {
       "mh_common_water": 200
@@ -363,7 +363,7 @@
     "name": "mhwilds_chargeblades_uth_valeroje_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 195,
     "element": {
       "mh_common_water": 260
@@ -379,7 +379,7 @@
     "name": "mhwilds_chargeblades_uth_valeroje_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": {
       "mh_common_water": 320
@@ -395,7 +395,7 @@
     "name": "mhwilds_chargeblades_valeroje_of_the_waves",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 246,
     "element": {
       "mh_common_water": 350
@@ -411,7 +411,7 @@
     "name": "mhwilds_chargeblades_rompo_shielder_i",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 144,
     "element": {
       "mh_common_poison": 150
@@ -427,7 +427,7 @@
     "name": "mhwilds_chargeblades_rompo_shielder_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 174,
     "element": {
       "mh_common_poison": 190
@@ -443,7 +443,7 @@
     "name": "mhwilds_chargeblades_rompo_shielder_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": {
       "mh_common_poison": 220
@@ -459,7 +459,7 @@
     "name": "mhwilds_chargeblades_rompo_dendrotox",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": {
       "mh_common_poison": 250
@@ -475,7 +475,7 @@
     "name": "mhwilds_chargeblades_rey_astrapi_i",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 144,
     "element": {
       "mh_common_thunder": 150
@@ -492,7 +492,7 @@
     "name": "mhwilds_chargeblades_rey_astrapi_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 174,
     "element": {
       "mh_common_thunder": 190
@@ -509,7 +509,7 @@
     "name": "mhwilds_chargeblades_rey_astrapi_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": {
       "mh_common_thunder": 220
@@ -526,7 +526,7 @@
     "name": "mhwilds_chargeblades_astrapi_clairaxe",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": {
       "mh_common_thunder": 250
@@ -543,7 +543,7 @@
     "name": "mhwilds_chargeblades_arachnoscale_i",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 123,
     "element": {
       "mh_common_sleep": 130
@@ -560,7 +560,7 @@
     "name": "mhwilds_chargeblades_arachnoscale_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 154,
     "element": {
       "mh_common_sleep": 180
@@ -577,7 +577,7 @@
     "name": "mhwilds_chargeblades_arachnoscale_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": {
       "mh_common_sleep": 220
@@ -594,7 +594,7 @@
     "name": "mhwilds_chargeblades_arachnoscythe",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": {
       "mh_common_sleep": 250
@@ -611,7 +611,7 @@
     "name": "mhwilds_chargeblades_windthrash_charger_i",
     "part": "mhwilds_chargeblades",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 144,
     "element": {
       "mh_common_ice": 150
@@ -628,7 +628,7 @@
     "name": "mhwilds_chargeblades_windthrash_charger_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 174,
     "element": {
       "mh_common_ice": 190
@@ -645,7 +645,7 @@
     "name": "mhwilds_chargeblades_windthrash_charger_iii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": {
       "mh_common_ice": 220
@@ -662,7 +662,7 @@
     "name": "mhwilds_chargeblades_windthrash_tamebami",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": {
       "mh_common_ice": 250
@@ -679,7 +679,7 @@
     "name": "mhwilds_chargeblades_nu_pweza_i",
     "part": "mhwilds_chargeblades",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 174,
     "element": {
       "mh_common_fire": 150
@@ -695,7 +695,7 @@
     "name": "mhwilds_chargeblades_nu_pweza_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_fire": 220
@@ -711,7 +711,7 @@
     "name": "mhwilds_chargeblades_abaddonian_pweza",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 236,
     "element": {
       "mh_common_fire": 250
@@ -727,7 +727,7 @@
     "name": "mhwilds_chargeblades_albirath_blade_i",
     "part": "mhwilds_chargeblades",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 164,
     "element": {
       "mh_common_fire": 160
@@ -744,7 +744,7 @@
     "name": "mhwilds_chargeblades_albirath_blade_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": {
       "mh_common_fire": 210
@@ -761,7 +761,7 @@
     "name": "mhwilds_chargeblades_guardian_albathos",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": {
       "mh_common_fire": 250
@@ -778,7 +778,7 @@
     "name": "mhwilds_chargeblades_chthonian_flame_i",
     "part": "mhwilds_chargeblades",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 144,
     "element": {
       "mh_common_dragon": 260
@@ -794,7 +794,7 @@
     "name": "mhwilds_chargeblades_chthonian_flame_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 174,
     "element": {
       "mh_common_dragon": 310
@@ -810,7 +810,7 @@
     "name": "mhwilds_chargeblades_bequeathed_enmity",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_dragon": 350
@@ -826,7 +826,7 @@
     "name": "mhwilds_chargeblades_g_veldian_labrys_i",
     "part": "mhwilds_chargeblades",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 174,
     "element": {
       "mh_common_dragon": 140
@@ -842,7 +842,7 @@
     "name": "mhwilds_chargeblades_g_veldian_labrys_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_dragon": 170
@@ -858,7 +858,7 @@
     "name": "mhwilds_chargeblades_g_abiding_gawain",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 246,
     "element": {
       "mh_common_dragon": 200
@@ -874,7 +874,7 @@
     "name": "mhwilds_chargeblades_poison_blade_i",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": {
       "mh_common_poison": 260
@@ -891,7 +891,7 @@
     "name": "mhwilds_chargeblades_poison_blade_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": {
       "mh_common_poison": 290
@@ -908,7 +908,7 @@
     "name": "mhwilds_chargeblades_venom_s_kiss",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 236,
     "element": {
       "mh_common_poison": 350
@@ -925,7 +925,7 @@
     "name": "mhwilds_chargeblades_dear_lutemis_i",
     "part": "mhwilds_chargeblades",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 164,
     "element": {
       "mh_common_poison": 140
@@ -942,7 +942,7 @@
     "name": "mhwilds_chargeblades_dear_lutemis_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 195,
     "element": {
       "mh_common_poison": 170
@@ -959,7 +959,7 @@
     "name": "mhwilds_chargeblades_dear_lutemia",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_poison": 200
@@ -976,7 +976,7 @@
     "name": "mhwilds_chargeblades_axelion_blade_i",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 195,
     "element": {
       "mh_common_fire": 290
@@ -992,7 +992,7 @@
     "name": "mhwilds_chargeblades_bardichion_blade",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_fire": 350
@@ -1008,7 +1008,7 @@
     "name": "mhwilds_chargeblades_elendskraft_i",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": {
       "mh_common_dragon": 220
@@ -1024,7 +1024,7 @@
     "name": "mhwilds_chargeblades_leidenskraft",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_dragon": 250
@@ -1040,7 +1040,7 @@
     "name": "mhwilds_chargeblades_veldian_labrys_i",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 205,
     "element": {
       "mh_common_dragon": 320
@@ -1056,7 +1056,7 @@
     "name": "mhwilds_chargeblades_artian_defender_i",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 174,
     "element": null,
     "affinity": 5,
@@ -1068,7 +1068,7 @@
     "name": "mhwilds_chargeblades_artian_defender_ii",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": null,
     "affinity": 5,
@@ -1080,7 +1080,7 @@
     "name": "mhwilds_chargeblades_chrono_gear",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 195,
     "element": null,
     "affinity": 5,
@@ -1092,7 +1092,7 @@
     "name": "mhwilds_chargeblades_esperanza_strongarm",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": null,
     "affinity": 0,
@@ -1107,7 +1107,7 @@
     "name": "mhwilds_chargeblades_shrouded_kutharja",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": null,
     "affinity": 0,
@@ -1122,7 +1122,7 @@
     "name": "mhwilds_chargeblades_abiding_gawain",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": {
       "mh_common_dragon": 350
@@ -1138,7 +1138,7 @@
     "name": "mhwilds_chargeblades_mizuniya_drill_i",
     "part": "mhwilds_chargeblades",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 185,
     "element": {
       "mh_common_water": 250
@@ -1155,7 +1155,7 @@
     "name": "mhwilds_chargeblades_final_fieldblade",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_water": 300
@@ -1172,7 +1172,7 @@
     "name": "mhwilds_chargeblades_zoh_yirmiya_i",
     "part": "mhwilds_chargeblades",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 216,
     "element": {
       "mh_common_dragon": 150
@@ -1188,7 +1188,7 @@
     "name": "mhwilds_chargeblades_blazing_yirmiya",
     "part": "mhwilds_chargeblades",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 226,
     "element": {
       "mh_common_dragon": 250

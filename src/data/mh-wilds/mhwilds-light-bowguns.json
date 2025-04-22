@@ -11,7 +11,7 @@
     "skills": {},
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_ii",
@@ -27,7 +27,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_iii",
@@ -44,7 +44,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_iv",
@@ -61,7 +61,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_v",
@@ -78,7 +78,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_kut_ku_anger_i",
@@ -94,7 +94,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_kut_ku_anger_ii",
@@ -110,7 +110,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_kut_ku_counterattack",
@@ -126,7 +126,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_faulnisschleuder_i",
@@ -142,7 +142,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_wahnschleuder",
@@ -158,7 +158,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_rey_szelatya_i",
@@ -175,7 +175,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_rey_szelatya_ii",
@@ -192,7 +192,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_rey_szelatya_iii",
@@ -209,7 +209,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_szelatya_clairgun",
@@ -226,7 +226,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_dosha_faithbreaker_i",
@@ -242,7 +242,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_dosha_faithbreaker_ii",
@@ -258,7 +258,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_dosha_faithbreaker_iii",
@@ -274,7 +274,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_dosha_gigasbreaker_i",
@@ -290,7 +290,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_dosha_gigasbreaker_ii",
@@ -306,7 +306,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_gigasbreaker_urbolkule",
@@ -322,7 +322,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_chain_blitz_i",
@@ -338,7 +338,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_chain_blitz_ii",
@@ -354,7 +354,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_chain_blitz_iii",
@@ -370,7 +370,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_high_chain_blitz",
@@ -386,7 +386,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_titan_launcher_i",
@@ -402,7 +402,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_titan_panzer",
@@ -418,7 +418,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_g_rathling_gun_i",
@@ -435,7 +435,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_g_rathling_gun_ii",
@@ -452,7 +452,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_white_rathling_phoenix",
@@ -469,7 +469,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_rathling_gun_i",
@@ -485,7 +485,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_rathling_phoenix",
@@ -501,7 +501,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_assault_conga_i",
@@ -517,7 +517,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_assault_conga_ii",
@@ -534,7 +534,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_combat_conga",
@@ -551,7 +551,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_tail_string_i",
@@ -567,7 +567,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_tail_catapult",
@@ -583,7 +583,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_valkyrie_fire_i",
@@ -600,7 +600,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_valkyrie_fire_ii",
@@ -617,7 +617,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_valkyrie_flame",
@@ -634,7 +634,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_i",
@@ -650,7 +650,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_ii",
@@ -667,7 +667,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_iii",
@@ -684,7 +684,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_iv",
@@ -701,7 +701,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_power_rifle",
@@ -718,7 +718,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_felling_fulgur_i",
@@ -734,7 +734,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_fulgursnipe_guardiana",
@@ -750,7 +750,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_chthonian_gunfire_i",
@@ -766,7 +766,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_chthonian_gunfire_ii",
@@ -782,7 +782,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_bequeathed_animus",
@@ -798,7 +798,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_ajara_shellgun_i",
@@ -814,7 +814,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_ajara_shellgun_ii",
@@ -830,7 +830,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_ajara_angaja",
@@ -846,7 +846,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_nu_chobotnice_i",
@@ -862,7 +862,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_nu_chobotnice_ii",
@@ -878,7 +878,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_abaddonian_chobotnice",
@@ -894,7 +894,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_windshear_light_i",
@@ -911,7 +911,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_windshear_light_ii",
@@ -928,7 +928,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_windshear_light_iii",
@@ -945,7 +945,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_windshear_uchibami",
@@ -962,7 +962,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_g_veldian_impetum_i",
@@ -978,7 +978,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_lightbowgun_g_veldian_impetum_ii",
@@ -994,7 +994,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_g_expiating_caius",
@@ -1010,7 +1010,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_veldian_impetum_i",
@@ -1026,7 +1026,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_artian_blaster_i",
@@ -1040,7 +1040,7 @@
     "skills": {},
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_artian_blaster_ii",
@@ -1054,7 +1054,7 @@
     "skills": {},
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_animilater",
@@ -1068,7 +1068,7 @@
     "skills": {},
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_esperanza_rifle",
@@ -1085,7 +1085,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_faithbreaker_leibolkule",
@@ -1101,7 +1101,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_expiating_caius",
@@ -1117,7 +1117,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_desolate_mist_i",
@@ -1134,7 +1134,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_nifl_mist",
@@ -1151,7 +1151,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_zoh_kaiah_i",
@@ -1167,7 +1167,7 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_lightbowgun_blazing_kaiah",
@@ -1183,6 +1183,6 @@
     },
     "ammo": {},
     "custom mods": {},
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   }
 ]

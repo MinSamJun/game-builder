@@ -10,7 +10,7 @@
     "slots": [],
     "skills": {},
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_hope_bow_ii",
@@ -25,7 +25,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_hope_bow_iii",
@@ -41,7 +41,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_hope_bow_iv",
@@ -57,7 +57,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_hope_bow_v",
@@ -73,7 +73,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_nihil_bow_i",
@@ -90,7 +90,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "coating": ["mh_power_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_nihil_bow_ii",
@@ -107,7 +107,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_power_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_bookwilthe_s_punisher",
@@ -124,7 +124,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_power_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_rey_perkonis_i",
@@ -142,7 +142,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_pierce_coating", "mh_blast_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_rey_perkonis_ii",
@@ -160,7 +160,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_pierce_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_rey_perkonis_iii",
@@ -178,7 +178,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_pierce_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_perkonis_clairbow",
@@ -196,7 +196,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_pierce_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_windbrace_bow_i",
@@ -214,7 +214,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "coating": ["mh_power_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_windbrace_bow_ii",
@@ -232,7 +232,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "coating": ["mh_power_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_windbrace_bow_iii",
@@ -250,7 +250,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "coating": ["mh_power_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_windbrace_ibami",
@@ -268,7 +268,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "coating": ["mh_power_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_quematrice_arco_i",
@@ -285,7 +285,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_quematrice_arco_ii",
@@ -302,7 +302,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_quematrice_arco_iii",
@@ -319,7 +319,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_quematrice_arco_iv",
@@ -336,7 +336,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_firetrail_leviora",
@@ -353,7 +353,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_dragon_perforator_i",
@@ -368,7 +368,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 1
     },
     "coating": ["mh_pierce_coating", "mh_poison_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_dragon_perforator_ii",
@@ -383,7 +383,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "coating": ["mh_pierce_coating", "mh_poison_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_dragon_perforator_iii",
@@ -398,7 +398,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "coating": ["mh_pierce_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_true_dragon_perforator",
@@ -413,7 +413,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "coating": ["mh_pierce_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_albirath_bow_i",
@@ -431,7 +431,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "coating": ["mh_power_coating", "mh_blast_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_albirath_bow_ii",
@@ -449,7 +449,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "coating": ["mh_power_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_solar_spicule",
@@ -467,7 +467,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "coating": ["mh_power_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_prominence_bow_i",
@@ -484,7 +484,7 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "coating": ["mh_power_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_dark_filament",
@@ -501,7 +501,7 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "coating": ["mh_power_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_queen_blaster_i",
@@ -519,7 +519,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "coating": ["mh_pierce_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_queen_blaster_ii",
@@ -537,7 +537,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "coating": ["mh_pierce_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_queen_s_melody",
@@ -555,7 +555,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "coating": ["mh_pierce_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_scylla_fist_i",
@@ -575,7 +575,7 @@
       "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_scylla_fist_ii",
@@ -595,7 +595,7 @@
       "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_scylla_fist_iii",
@@ -615,7 +615,7 @@
       "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_nershock",
@@ -635,7 +635,7 @@
       "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_dosha_fearbringer_i",
@@ -650,7 +650,7 @@
       "mhwilds_weapon_skill_stamina_thief": 1
     },
     "coating": ["mh_power_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_dosha_fearbringer_ii",
@@ -665,7 +665,7 @@
       "mhwilds_weapon_skill_stamina_thief": 2
     },
     "coating": ["mh_power_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_dosha_fearbringer_iii",
@@ -680,7 +680,7 @@
       "mhwilds_weapon_skill_stamina_thief": 3
     },
     "coating": ["mh_power_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_dosha_griefbringer_i",
@@ -696,7 +696,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_close_range_coating", "mh_blast_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_dosha_griefbringer_ii",
@@ -712,7 +712,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_close_range_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_griefbringer_urstox",
@@ -728,7 +728,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_close_range_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_hunter_s_bow_i",
@@ -743,7 +743,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_hunter_s_bow_ii",
@@ -759,7 +759,7 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_hunter_s_bow_iii",
@@ -775,7 +775,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_hunter_s_bow_iv",
@@ -791,7 +791,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_hunter_s_stoutbow",
@@ -807,7 +807,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_blinding_fulgur_i",
@@ -824,7 +824,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "coating": ["mh_close_range_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_fulgurbow_guardiana",
@@ -841,7 +841,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "coating": ["mh_close_range_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_uth_khviluk_i",
@@ -858,7 +858,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_uth_khviluk_ii",
@@ -875,7 +875,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_uth_khviluk_iii",
@@ -892,7 +892,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_khviluk_of_the_waves",
@@ -909,7 +909,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_entbehrung_i",
@@ -926,7 +926,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "coating": ["mh_power_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_verzweiflung",
@@ -943,7 +943,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "coating": ["mh_power_coating", "mh_blast_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_wild_power_bow_i",
@@ -958,7 +958,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating", "mh_blast_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_wild_power_bow_ii",
@@ -979,7 +979,7 @@
       "mh_paralysis_coating",
       "mh_blast_coating"
     ],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_wildwood_kalifa",
@@ -1000,7 +1000,7 @@
       "mh_paralysis_coating",
       "mh_blast_coating"
     ],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_blan_sharanga_i",
@@ -1017,7 +1017,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "coating": ["mh_close_range_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_singha_sharanga",
@@ -1034,7 +1034,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "coating": ["mh_close_range_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_kut_ku_stave_i",
@@ -1051,7 +1051,7 @@
       "mhwilds_weapon_skill_charge_master": 2
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_kut_ku_stave_ii",
@@ -1068,7 +1068,7 @@
       "mhwilds_weapon_skill_charge_master": 3
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_strange_kut_ku_stave",
@@ -1085,7 +1085,7 @@
       "mhwilds_weapon_skill_charge_master": 3
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_g_veldian_arcum_i",
@@ -1102,7 +1102,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_low_rank"
+    "rank": "mh_common_low_rank"
   },
   {
     "name": "mhwilds_bow_g_veldian_arcum_ii",
@@ -1119,7 +1119,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_g_renowned_tristram",
@@ -1136,7 +1136,7 @@
       "mhwilds_weapon_skill_focus": 2
     },
     "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_veldian_arcum_i",
@@ -1153,7 +1153,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_artian_sight_i",
@@ -1166,7 +1166,7 @@
     "slots": [2, 2, 2],
     "skills": {},
     "coating": ["mh_close_range_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_artian_sight_ii",
@@ -1179,7 +1179,7 @@
     "slots": [2, 2, 2],
     "skills": {},
     "coating": ["mh_close_range_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_angelbein",
@@ -1192,7 +1192,7 @@
     "slots": [3, 3, 3],
     "skills": {},
     "coating": ["mh_close_range_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_esperanza_bow",
@@ -1208,7 +1208,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_fearbringer_callistox",
@@ -1223,7 +1223,7 @@
       "mhwilds_weapon_skill_stamina_thief": 3
     },
     "coating": ["mh_power_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_renowned_tristram",
@@ -1240,7 +1240,7 @@
       "mhwilds_weapon_skill_focus": 3
     },
     "coating": ["mh_pierce_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_blessed_rain_i",
@@ -1258,7 +1258,7 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "coating": ["mh_pierce_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_heaven_s_manna",
@@ -1276,7 +1276,7 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "coating": ["mh_pierce_coating", "mh_exhaust_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_zoh_samira_i",
@@ -1293,7 +1293,7 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   },
   {
     "name": "mhwilds_bow_blazing_samira",
@@ -1310,6 +1310,6 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "coating": ["mh_power_coating", "mh_poison_coating"],
-    "rank": "mhwilds_high_rank"
+    "rank": "mh_common_high_rank"
   }
 ]

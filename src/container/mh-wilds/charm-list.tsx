@@ -29,16 +29,16 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
         <>
           <div className="flex flex-wrap gap-2 mb-4">
             <button
-              key={"mhwilds_low_rank"}
+              key={"mh_common_low_rank"}
               onClick={() =>
                 setSelectedRank(
-                  selectedRank === "mhwilds_low_rank"
+                  selectedRank === "mh_common_low_rank"
                     ? null
-                    : "mhwilds_low_rank"
+                    : "mh_common_low_rank"
                 )
               }
               className={`px-3 py-1 rounded border ${
-                selectedRank === "mhwilds_low_rank"
+                selectedRank === "mh_common_low_rank"
                   ? "bg-blue-500 text-white"
                   : "bg-white text-gray-700"
               }`}
@@ -46,16 +46,16 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
               {mhCommonNamespace?.mh_common_low_rank}
             </button>
             <button
-              key={"mhwilds_high_rank"}
+              key={"mh_common_high_rank"}
               onClick={() =>
                 setSelectedRank(
-                  selectedRank === "mhwilds_high_rank"
+                  selectedRank === "mh_common_high_rank"
                     ? null
-                    : "mhwilds_high_rank"
+                    : "mh_common_high_rank"
                 )
               }
               className={`px-3 py-1 rounded border ${
-                selectedRank === "mhwilds_high_rank"
+                selectedRank === "mh_common_high_rank"
                   ? "bg-blue-500 text-white"
                   : "bg-white text-gray-700"
               }`}

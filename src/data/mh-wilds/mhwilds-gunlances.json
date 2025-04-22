@@ -3,7 +3,7 @@
     "name": "mhwilds_gunlance_hope_gunlance_i",
     "part": "mhwilds_gunlance",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -18,7 +18,7 @@
     "name": "mhwilds_gunlance_hope_gunlance_ii",
     "part": "mhwilds_gunlance",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -35,7 +35,7 @@
     "name": "mhwilds_gunlance_hope_gunlance_iii",
     "part": "mhwilds_gunlance",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -53,7 +53,7 @@
     "name": "mhwilds_gunlance_hope_gunlance_iv",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -71,7 +71,7 @@
     "name": "mhwilds_gunlance_hope_gunlance_v",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -89,7 +89,7 @@
     "name": "mhwilds_gunlance_bone_gunlance_i",
     "part": "mhwilds_gunlance",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -106,7 +106,7 @@
     "name": "mhwilds_gunlance_bone_gunlance_ii",
     "part": "mhwilds_gunlance",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -124,7 +124,7 @@
     "name": "mhwilds_gunlance_bone_gunlance_iii",
     "part": "mhwilds_gunlance",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -142,7 +142,7 @@
     "name": "mhwilds_gunlance_bone_gunlance_iv",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -160,7 +160,7 @@
     "name": "mhwilds_gunlance_great_bone_gunlance",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -178,7 +178,7 @@
     "name": "mhwilds_gunlance_triple_bayonet_i",
     "part": "mhwilds_gunlance",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -195,7 +195,7 @@
     "name": "mhwilds_gunlance_triple_bayonet_ii",
     "part": "mhwilds_gunlance",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -212,7 +212,7 @@
     "name": "mhwilds_gunlance_triple_bayonet_iii",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -229,7 +229,7 @@
     "name": "mhwilds_gunlance_triumvirate_edge",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -246,7 +246,7 @@
     "name": "mhwilds_gunlance_quematrice_culebrina_i",
     "part": "mhwilds_gunlance",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": {
       "mh_common_fire": 140
@@ -265,7 +265,7 @@
     "name": "mhwilds_gunlance_quematrice_culebrina_ii",
     "part": "mhwilds_gunlance",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 140,
     "element": {
       "mh_common_fire": 160
@@ -284,7 +284,7 @@
     "name": "mhwilds_gunlance_quematrice_culebrina_iii",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": {
       "mh_common_fire": 200
@@ -303,7 +303,7 @@
     "name": "mhwilds_gunlance_quematrice_culebrina_iv",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 220
@@ -322,7 +322,7 @@
     "name": "mhwilds_gunlance_firetrail_quemador",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_fire": 250
@@ -341,7 +341,7 @@
     "name": "mhwilds_gunlance_balahara_exploder_i",
     "part": "mhwilds_gunlance",
     "rarity": 2,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 110,
     "element": {
       "mh_common_water": 160
@@ -360,7 +360,7 @@
     "name": "mhwilds_gunlance_balahara_exploder_ii",
     "part": "mhwilds_gunlance",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 150,
     "element": {
       "mh_common_water": 200
@@ -379,7 +379,7 @@
     "name": "mhwilds_gunlance_balahara_exploder_iii",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": {
       "mh_common_water": 230
@@ -398,7 +398,7 @@
     "name": "mhwilds_gunlance_balahara_exploder_iv",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_water": 270
@@ -417,7 +417,7 @@
     "name": "mhwilds_gunlance_sandsea_visponan",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_water": 300
@@ -436,7 +436,7 @@
     "name": "mhwilds_gunlance_uth_falarmata_i",
     "part": "mhwilds_gunlance",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_water": 250
@@ -455,7 +455,7 @@
     "name": "mhwilds_gunlance_uth_falarmata_ii",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_water": 310
@@ -474,7 +474,7 @@
     "name": "mhwilds_gunlance_uth_falarmata_iii",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_water": 370
@@ -493,7 +493,7 @@
     "name": "mhwilds_gunlance_falarmata_of_the_waves",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 250,
     "element": {
       "mh_common_water": 400
@@ -512,7 +512,7 @@
     "name": "mhwilds_gunlance_shell_gunberd_i",
     "part": "mhwilds_gunlance",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 120,
     "element": {
       "mh_common_sleep": 150
@@ -532,7 +532,7 @@
     "name": "mhwilds_gunlance_shell_gunberd_ii",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 150,
     "element": {
       "mh_common_sleep": 210
@@ -552,7 +552,7 @@
     "name": "mhwilds_gunlance_shell_gunberd_iii",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_sleep": 270
@@ -572,7 +572,7 @@
     "name": "mhwilds_gunlance_solid_gunberd",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_sleep": 300
@@ -592,7 +592,7 @@
     "name": "mhwilds_gunlance_ajara_gunpike_i",
     "part": "mhwilds_gunlance",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": {
       "mh_common_blast": 190
@@ -612,7 +612,7 @@
     "name": "mhwilds_gunlance_ajara_gunpike_ii",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_blast": 220
@@ -632,7 +632,7 @@
     "name": "mhwilds_gunlance_ajara_kalika",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_blast": 250
@@ -652,7 +652,7 @@
     "name": "mhwilds_gunlance_albirath_rook_i",
     "part": "mhwilds_gunlance",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 160,
     "element": {
       "mh_common_fire": 210
@@ -672,7 +672,7 @@
     "name": "mhwilds_gunlance_albirath_rook_ii",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 260
@@ -692,7 +692,7 @@
     "name": "mhwilds_gunlance_shining_rook",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_fire": 300
@@ -712,7 +712,7 @@
     "name": "mhwilds_gunlance_jin_dhatop_i",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_ice": 470
@@ -731,7 +731,7 @@
     "name": "mhwilds_gunlance_precipice_lohamata",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_ice": 500
@@ -750,7 +750,7 @@
     "name": "mhwilds_gunlance_g_veldian_hasta_i",
     "part": "mhwilds_gunlance",
     "rarity": 4,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 170,
     "element": {
       "mh_common_dragon": 160
@@ -769,7 +769,7 @@
     "name": "mhwilds_gunlance_g_veldian_hasta_ii",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 210
@@ -788,7 +788,7 @@
     "name": "mhwilds_gunlance_g_lawful_bors",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": {
       "mh_common_dragon": 250
@@ -807,7 +807,7 @@
     "name": "mhwilds_gunlance_hard_hitter_i",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_poison": 310
@@ -827,7 +827,7 @@
     "name": "mhwilds_gunlance_hard_hitter_ii",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_poison": 340
@@ -847,7 +847,7 @@
     "name": "mhwilds_gunlance_big_slugger",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 230,
     "element": {
       "mh_common_poison": 400
@@ -867,7 +867,7 @@
     "name": "mhwilds_gunlance_princess_panoply_i",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": {
       "mh_common_poison": 190
@@ -887,7 +887,7 @@
     "name": "mhwilds_gunlance_princess_panoply_ii",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_poison": 220
@@ -907,7 +907,7 @@
     "name": "mhwilds_gunlance_ortlinde",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_poison": 250
@@ -927,7 +927,7 @@
     "name": "mhwilds_gunlance_warring_fulgur_i",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_thunder": 340
@@ -946,7 +946,7 @@
     "name": "mhwilds_gunlance_fulgurcannon_guardiana",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_thunder": 400
@@ -965,7 +965,7 @@
     "name": "mhwilds_gunlance_white_gunlance_i",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_blast": 340
@@ -984,7 +984,7 @@
     "name": "mhwilds_gunlance_white_cannon",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 240,
     "element": {
       "mh_common_blast": 400
@@ -1003,7 +1003,7 @@
     "name": "mhwilds_gunlance_red_rook_i",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_fire": 340
@@ -1022,7 +1022,7 @@
     "name": "mhwilds_gunlance_crimson_rook",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_fire": 400
@@ -1041,7 +1041,7 @@
     "name": "mhwilds_gunlance_tyrannenarm_i",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_dragon": 270
@@ -1060,7 +1060,7 @@
     "name": "mhwilds_gunlance_verraterarm",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 300
@@ -1079,7 +1079,7 @@
     "name": "mhwilds_gunlance_veldian_hasta_i",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 200,
     "element": {
       "mh_common_dragon": 370
@@ -1098,7 +1098,7 @@
     "name": "mhwilds_gunlance_paretic_gunlance_i",
     "part": "mhwilds_gunlance",
     "rarity": 1,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 100,
     "element": {
       "mh_common_paralysis": 150
@@ -1117,7 +1117,7 @@
     "name": "mhwilds_gunlance_paretic_gunlance_ii",
     "part": "mhwilds_gunlance",
     "rarity": 3,
-    "rank": "mhwilds_low_rank",
+    "rank": "mh_common_low_rank",
     "attack": 130,
     "element": {
       "mh_common_paralysis": 210
@@ -1136,7 +1136,7 @@
     "name": "mhwilds_gunlance_paretic_gunlance_iii",
     "part": "mhwilds_gunlance",
     "rarity": 5,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 160,
     "element": {
       "mh_common_paralysis": 310
@@ -1155,7 +1155,7 @@
     "name": "mhwilds_gunlance_paretic_gunlance_iv",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": {
       "mh_common_paralysis": 370
@@ -1174,7 +1174,7 @@
     "name": "mhwilds_gunlance_debilitating_torpor",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_paralysis": 400
@@ -1193,7 +1193,7 @@
     "name": "mhwilds_gunlance_artian_cannon_i",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1208,7 +1208,7 @@
     "name": "mhwilds_gunlance_artian_cannon_ii",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1223,7 +1223,7 @@
     "name": "mhwilds_gunlance_argenesis",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1238,7 +1238,7 @@
     "name": "mhwilds_gunlance_esperanza_gunlance",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1256,7 +1256,7 @@
     "name": "mhwilds_gunlance_lawful_bors",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 400
@@ -1275,7 +1275,7 @@
     "name": "mhwilds_gunlance_ukiyo_no_yamiwo_i",
     "part": "mhwilds_gunlance",
     "rarity": 6,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 180,
     "element": {
       "mh_common_water": 311
@@ -1295,7 +1295,7 @@
     "name": "mhwilds_gunlance_mizumori",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_water": 350
@@ -1315,7 +1315,7 @@
     "name": "mhwilds_gunlance_zoh_lael_i",
     "part": "mhwilds_gunlance",
     "rarity": 7,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 210,
     "element": {
       "mh_common_dragon": 200
@@ -1334,7 +1334,7 @@
     "name": "mhwilds_gunlance_blazing_lael",
     "part": "mhwilds_gunlance",
     "rarity": 8,
-    "rank": "mhwilds_high_rank",
+    "rank": "mh_common_high_rank",
     "attack": 220,
     "element": {
       "mh_common_dragon": 250
