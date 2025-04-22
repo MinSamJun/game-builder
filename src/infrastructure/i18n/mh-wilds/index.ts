@@ -22,7 +22,6 @@ import {
   mhWildsSwitchaxesEn,
   mhWildsLancesEn,
   mhwildsWeaponSkillsEn,
-  mhWildsCoatingEn,
   mhWildsShellingTypeEn,
   mhWildsShellingDamageEn,
 } from "./en";
@@ -50,7 +49,6 @@ import {
   mhWildsSwitchaxesJa,
   mhWildsLancesJa,
   mhWildsWeaponSkillsJa,
-  mhWildsCoatingJa,
   mhWildsShellingTypeJa,
   mhWildsShellingDamageJa,
 } from "./ja";
@@ -78,7 +76,6 @@ import {
   mhWildsSwitchaxesKo,
   mhWildsLancesKo,
   mhWildsWeaponSkillsKo,
-  mhWildsCoatingKo,
   mhWildsShellingTypeKo,
   mhWildsShellingDamageKo,
 } from "./ko";
@@ -107,7 +104,6 @@ export const mhWildsEn = {
   mhWilds_switchaxes: mhWildsSwitchaxesEn,
   mhWilds_lances: mhWildsLancesEn,
   mhWilds_weapon_skill: mhwildsWeaponSkillsEn,
-  mhWilds_coating: mhWildsCoatingEn,
   mhWilds_shelling_type: mhWildsShellingTypeEn,
   mhWilds_shelling_damage: mhWildsShellingDamageEn,
 };
@@ -136,7 +132,6 @@ export const mhWildsJa = {
   mhWilds_switchaxes: mhWildsSwitchaxesJa,
   mhWilds_lances: mhWildsLancesJa,
   mhWilds_weapon_skill: mhWildsWeaponSkillsJa,
-  mhWilds_coating: mhWildsCoatingJa,
   mhWilds_shelling_type: mhWildsShellingTypeJa,
   mhWilds_shelling_damage: mhWildsShellingDamageJa,
 };
@@ -165,7 +160,6 @@ export const mhWildsKo = {
   mhWilds_switchaxes: mhWildsSwitchaxesKo,
   mhWilds_lances: mhWildsLancesKo,
   mhWilds_weapon_skill: mhWildsWeaponSkillsKo,
-  mhWilds_coating: mhWildsCoatingKo,
   mhWilds_shelling_type: mhWildsShellingTypeKo,
   mhWilds_shelling_damage: mhWildsShellingDamageKo,
 };

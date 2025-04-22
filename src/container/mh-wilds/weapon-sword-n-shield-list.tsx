@@ -1,18 +1,17 @@
 "use client";
 
 import React from "react";
-import { mhWildsBowsData } from "@/data/mh-wilds";
+import { mhWildsSwordNShieldsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
-import { useI18n } from "@infrastructure/user-i18n";
 
-export function BowList({ searchTerm }: { searchTerm: string }) {
+export function SwordNShieldList({ searchTerm }: { searchTerm: string }) {
   const {
     mhCommonNamespace,
     mhWildsCommonNamespace,
     mhWildsWeaponSkillsNamespace,
-    weaponNamespace: mhWildsBowNamespace,
+    weaponNamespace: mhWildsSwordnshieldNamespace,
     filteredList,
     selectedRank,
     setSelectedRank,
@@ -23,10 +22,11 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsBowsData, "mhWilds_bows", searchTerm);
-
-  const { getNamespaceData } = useI18n();
-  const mhWildsCoatingNamespace = getNamespaceData("mh_coating") ?? {};
+  } = useWeaponList(
+    mhWildsSwordNShieldsData,
+    "mhWilds_sword_N_shield",
+    searchTerm
+  );
 
   React.useEffect(() => {
     setPage(1);
@@ -84,20 +84,11 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
       ) : (
         <div>
           {paginatedData.map(
-            ({
-              name,
-              attack,
-              element,
-              affinity,
-              defense,
-              slots,
-              skills,
-              coating,
-            }) => (
+            ({ name, attack, element, affinity, defense, slots, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
                   <div className="font-semibold">
-                    {mhWildsBowNamespace[name]}
+                    {mhWildsSwordnshieldNamespace[name]}
                   </div>
                   {slots.length > 0 && (
                     <div className="text-sm text-gray-600 font-weight: font-bold">
@@ -137,7 +128,7 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                   </div>
                 </div>
 
-                <div className="grid grid-cols-2 gap-4 text-sm mt-2">
+                <div className="gap-4 text-sm mt-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
                       {mhWildsCommonNamespace?.mhwilds_common_skills}:
@@ -152,18 +143,6 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                           </div>
                         );
                       })
-                    ) : (
-                      <div>{mhCommonNamespace?.mh_common_none}</div>
-                    )}
-                  </div>
-                  <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>{mhWildsCoatingNamespace?.mh_coating}:</strong>
-                    {coating && coating.length > 0 ? (
-                      coating.map((coatingKey) => (
-                        <div key={coatingKey}>
-                          {mhWildsCoatingNamespace[coatingKey] ?? coatingKey}
-                        </div>
-                      ))
                     ) : (
                       <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}

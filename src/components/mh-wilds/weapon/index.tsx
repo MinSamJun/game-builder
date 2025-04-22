@@ -12,6 +12,8 @@ import {
   InsectglavieList,
   LanceList,
   LongswordList,
+  SwitchaxeList,
+  SwordNShieldList,
   BowList,
   LightBowgunList,
   HeavyBowgunList,
@@ -27,6 +29,8 @@ type EquipmentNamespace =
   | "mhWilds_insect_glavies"
   | "mhWilds_lances"
   | "mhWilds_longswords"
+  | "mhWilds_switchaxes"
+  | "mhWilds_sword_N_shield"
   | "mhWilds_bows"
   | "mhWilds_light_bowguns"
   | "mhWilds_heavy_bowguns";
@@ -123,6 +127,16 @@ export function MhWildsWeapon() {
           }`}
         >
           {mhCommonNamespace?.mh_common_huntinghorn}
+        </button>{" "}
+        <button
+          onClick={() => setEquipmentType("mhWilds_switchaxes")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_switchaxes"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_switchaxe}
         </button>
       </div>
       {/* 태도, 한손검, 쌍검, 랜스, 조충곤 */}
@@ -156,7 +170,7 @@ export function MhWildsWeapon() {
           }`}
         >
           {mhCommonNamespace?.mh_common_lance}
-        </button>{" "}
+        </button>
         <button
           onClick={() => setEquipmentType("mhWilds_longswords")}
           className={`px-4 py-2 rounded ${
@@ -166,6 +180,16 @@ export function MhWildsWeapon() {
           }`}
         >
           {mhCommonNamespace?.mh_common_longsword}
+        </button>{" "}
+        <button
+          onClick={() => setEquipmentType("mhWilds_sword_N_shield")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_sword_N_shield"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhCommonNamespace?.mh_common_swordandshield}
         </button>
       </div>
       {/* 라이트 보우건, 헤비 보우건, 활 */}
@@ -219,6 +243,8 @@ export function MhWildsWeapon() {
         <HammerList searchTerm={term} />
       ) : equipmentType === "mhWilds_hunting_horn" ? (
         <HuntingHornList searchTerm={term} />
+      ) : equipmentType === "mhWilds_switchaxes" ? (
+        <SwitchaxeList searchTerm={term} />
       ) : equipmentType === "mhWilds_dualblades" ? (
         <DualbladeList searchTerm={term} />
       ) : equipmentType === "mhWilds_insect_glavies" ? (
@@ -227,6 +253,8 @@ export function MhWildsWeapon() {
         <LanceList searchTerm={term} />
       ) : equipmentType === "mhWilds_longswords" ? (
         <LongswordList searchTerm={term} />
+      ) : equipmentType === "mhWilds_sword_N_shield" ? (
+        <SwordNShieldList searchTerm={term} />
       ) : equipmentType === "mhWilds_bows" ? (
         <BowList searchTerm={term} />
       ) : equipmentType === "mhWilds_light_bowguns" ? (

@@ -1,18 +1,18 @@
 "use client";
 
 import React from "react";
-import { mhWildsBowsData } from "@/data/mh-wilds";
+import { mhWildsSwitchaxesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
 import { useI18n } from "@infrastructure/user-i18n";
 
-export function BowList({ searchTerm }: { searchTerm: string }) {
+export function SwitchaxeList({ searchTerm }: { searchTerm: string }) {
   const {
     mhCommonNamespace,
     mhWildsCommonNamespace,
     mhWildsWeaponSkillsNamespace,
-    weaponNamespace: mhWildsBowNamespace,
+    weaponNamespace: mhWildsSwitchaxeNamespace,
     filteredList,
     selectedRank,
     setSelectedRank,
@@ -23,10 +23,10 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsBowsData, "mhWilds_bows", searchTerm);
+  } = useWeaponList(mhWildsSwitchaxesData, "mhWilds_switchaxes", searchTerm);
 
   const { getNamespaceData } = useI18n();
-  const mhWildsCoatingNamespace = getNamespaceData("mh_coating") ?? {};
+  const mhWildsPhialNamespace = getNamespaceData("mh_phial") ?? {};
 
   React.useEffect(() => {
     setPage(1);
@@ -92,12 +92,12 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
               defense,
               slots,
               skills,
-              coating,
+              phial,
             }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center">
                   <div className="font-semibold">
-                    {mhWildsBowNamespace[name]}
+                    {mhWildsSwitchaxeNamespace[name]}
                   </div>
                   {slots.length > 0 && (
                     <div className="text-sm text-gray-600 font-weight: font-bold">
@@ -157,11 +157,11 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
                     )}
                   </div>
                   <div className="bg-gray-800 text-white rounded p-4">
-                    <strong>{mhWildsCoatingNamespace?.mh_coating}:</strong>
-                    {coating && coating.length > 0 ? (
-                      coating.map((coatingKey) => (
-                        <div key={coatingKey}>
-                          {mhWildsCoatingNamespace[coatingKey] ?? coatingKey}
+                    <strong>{mhWildsPhialNamespace?.mh_phial}:</strong>
+                    {phial && Object.keys(phial).length > 0 ? (
+                      Object.entries(phial).map(([phialKey]) => (
+                        <div key={phialKey}>
+                          {mhWildsPhialNamespace[phialKey] ?? phialKey}
                         </div>
                       ))
                     ) : (

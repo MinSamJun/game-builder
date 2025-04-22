@@ -24,18 +24,6 @@ export const mhWildsShellingDamageKo = {
   mhwilds_shelling_damage_slightly_strong: "조금 강함",
 };
 
-export const mhWildsCoatingKo = {
-  mhwilds_coating: "병",
-  mhwilds_power_coating: "강격병",
-  mhwilds_poison_coating: "독병",
-  mhwilds_exhaust_coating: "멸기병",
-  mhwilds_pierce_coating: "관통병",
-  mhwilds_blast_coating: "폭파병",
-  mhwilds_sleep_coating: "수면병",
-  mhwilds_close_range_coating: "접격병",
-  mhwilds_paralysis_coating: "마비병",
-};
-
 export const mhWildsArmorKo = {
   mhwilds_armor_hope_mask: "호프마스크",
   mhwilds_armor_hope_mail: "호프메일",

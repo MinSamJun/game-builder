@@ -24,18 +24,6 @@ export const mhWildsShellingDamageEn = {
   mhwilds_shelling_damage_slightly_strong: "Slightly Strong",
 };
 
-export const mhWildsCoatingEn = {
-  mhwilds_coating: "Coating",
-  mhwilds_power_coating: "Power Coating",
-  mhwilds_poison_coating: "Poison Coating",
-  mhwilds_exhaust_coating: "Exhaust Coating",
-  mhwilds_pierce_coating: "Pierce Coating",
-  mhwilds_blast_coating: "Blast Coating",
-  mhwilds_sleep_coating: "Sleep Coating",
-  mhwilds_close_range_coating: "Close Range Coating",
-  mhwilds_paralysis_coating: "Paralysis Coating",
-};
-
 export const mhWildsArmorEn = {
   mhwilds_armor_hope_mask: "Hope Mask",
   mhwilds_armor_hope_mail: "Hope Mail",

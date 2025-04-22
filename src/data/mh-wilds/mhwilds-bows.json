@@ -9,7 +9,7 @@
     "defense": 0,
     "slots": [],
     "skills": {},
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -24,7 +24,7 @@
     "skills": {
       "mhwilds_weapon_skill_ballistics": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -40,7 +40,7 @@
       "mhwilds_weapon_skill_ballistics": 1,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -56,7 +56,7 @@
       "mhwilds_weapon_skill_ballistics": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -72,7 +72,7 @@
       "mhwilds_weapon_skill_ballistics": 3,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -89,7 +89,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_power_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -106,7 +106,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_power_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -123,7 +123,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_power_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -141,7 +141,7 @@
       "mhwilds_weapon_skill_focus": 1,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_pierce_coating", "mh_blast_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -159,7 +159,7 @@
       "mhwilds_weapon_skill_focus": 1,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_pierce_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -177,7 +177,7 @@
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_pierce_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -195,7 +195,7 @@
       "mhwilds_weapon_skill_focus": 1,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_pierce_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -213,7 +213,7 @@
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "coating": ["mhwilds_power_coating"],
+    "coating": ["mh_power_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -231,7 +231,7 @@
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "coating": ["mhwilds_power_coating"],
+    "coating": ["mh_power_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -249,7 +249,7 @@
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "coating": ["mhwilds_power_coating"],
+    "coating": ["mh_power_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -267,7 +267,7 @@
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "coating": ["mhwilds_power_coating"],
+    "coating": ["mh_power_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -284,7 +284,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 1
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -301,7 +301,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -318,7 +318,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -335,7 +335,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -352,7 +352,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -367,7 +367,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_pierce_coating", "mh_poison_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -382,7 +382,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_pierce_coating", "mh_poison_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -397,7 +397,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_pierce_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -412,7 +412,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_pierce_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -430,7 +430,7 @@
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_ballistics": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_power_coating", "mh_blast_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -448,7 +448,7 @@
       "mhwilds_weapon_skill_critical_element": 2,
       "mhwilds_weapon_skill_ballistics": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_power_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -466,7 +466,7 @@
       "mhwilds_weapon_skill_critical_element": 2,
       "mhwilds_weapon_skill_ballistics": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_power_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -483,7 +483,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
-    "coating": ["mhwilds_power_coating"],
+    "coating": ["mh_power_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -500,7 +500,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
-    "coating": ["mhwilds_power_coating"],
+    "coating": ["mh_power_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -518,7 +518,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 2,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_pierce_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -536,7 +536,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_pierce_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -554,7 +554,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_pierce_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -571,8 +571,8 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating",
+      "mh_pierce_coating",
+      "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
     "rank": "mhwilds_low_rank"
@@ -591,8 +591,8 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating",
+      "mh_pierce_coating",
+      "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
     "rank": "mhwilds_high_rank"
@@ -611,8 +611,8 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating",
+      "mh_pierce_coating",
+      "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
     "rank": "mhwilds_high_rank"
@@ -631,8 +631,8 @@
       "mhwilds_weapon_skill_focus": 1
     },
     "coating": [
-      "mhwilds_pierce_coating",
-      "mhwilds_poison_coating",
+      "mh_pierce_coating",
+      "mh_poison_coating",
       "mhwilds_sleep_coating"
     ],
     "rank": "mhwilds_high_rank"
@@ -649,7 +649,7 @@
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_power_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -664,7 +664,7 @@
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 2
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_power_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -679,7 +679,7 @@
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_power_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -695,7 +695,7 @@
       "mhwilds_weapon_skill_ballistics": 1,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_close_range_coating", "mh_blast_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -711,7 +711,7 @@
       "mhwilds_weapon_skill_ballistics": 2,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_close_range_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -727,7 +727,7 @@
       "mhwilds_weapon_skill_ballistics": 2,
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_close_range_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -742,7 +742,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 1
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -758,7 +758,7 @@
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_focus": 1
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -774,7 +774,7 @@
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_focus": 2
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -790,7 +790,7 @@
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -806,7 +806,7 @@
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_paralysis_coating"],
+    "coating": ["mh_close_range_coating", "mh_paralysis_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -823,7 +823,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "coating": ["mhwilds_close_range_coating"],
+    "coating": ["mh_close_range_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -840,7 +840,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "coating": ["mhwilds_close_range_coating"],
+    "coating": ["mh_close_range_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -857,7 +857,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -874,7 +874,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -891,7 +891,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -908,7 +908,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -925,7 +925,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_power_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -942,7 +942,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_blast_coating"],
+    "coating": ["mh_power_coating", "mh_blast_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -957,11 +957,7 @@
     "skills": {
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
-    "coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating",
-      "mhwilds_blast_coating"
-    ],
+    "coating": ["mh_power_coating", "mh_poison_coating", "mh_blast_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -978,10 +974,10 @@
       "mhwilds_weapon_skill_charge_master": 1
     },
     "coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating",
-      "mhwilds_paralysis_coating",
-      "mhwilds_blast_coating"
+      "mh_power_coating",
+      "mh_poison_coating",
+      "mh_paralysis_coating",
+      "mh_blast_coating"
     ],
     "rank": "mhwilds_high_rank"
   },
@@ -999,10 +995,10 @@
       "mhwilds_weapon_skill_charge_master": 1
     },
     "coating": [
-      "mhwilds_power_coating",
-      "mhwilds_poison_coating",
-      "mhwilds_paralysis_coating",
-      "mhwilds_blast_coating"
+      "mh_power_coating",
+      "mh_poison_coating",
+      "mh_paralysis_coating",
+      "mh_blast_coating"
     ],
     "rank": "mhwilds_high_rank"
   },
@@ -1020,7 +1016,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_close_range_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1037,7 +1033,7 @@
     "skills": {
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_close_range_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1054,7 +1050,7 @@
     "skills": {
       "mhwilds_weapon_skill_charge_master": 2
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1071,7 +1067,7 @@
     "skills": {
       "mhwilds_weapon_skill_charge_master": 3
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1088,7 +1084,7 @@
     "skills": {
       "mhwilds_weapon_skill_charge_master": 3
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1105,7 +1101,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_low_rank"
   },
   {
@@ -1122,7 +1118,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1139,7 +1135,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "coating": ["mhwilds_close_range_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_close_range_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1156,7 +1152,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1169,7 +1165,7 @@
     "defense": 0,
     "slots": [2, 2, 2],
     "skills": {},
-    "coating": ["mhwilds_close_range_coating"],
+    "coating": ["mh_close_range_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1182,7 +1178,7 @@
     "defense": 0,
     "slots": [2, 2, 2],
     "skills": {},
-    "coating": ["mhwilds_close_range_coating"],
+    "coating": ["mh_close_range_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1195,7 +1191,7 @@
     "defense": 0,
     "slots": [3, 3, 3],
     "skills": {},
-    "coating": ["mhwilds_close_range_coating"],
+    "coating": ["mh_close_range_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1211,7 +1207,7 @@
       "mhwilds_weapon_skill_ballistics": 3,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1226,7 +1222,7 @@
     "skills": {
       "mhwilds_weapon_skill_stamina_thief": 3
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_power_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1243,7 +1239,7 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "coating": ["mhwilds_pierce_coating"],
+    "coating": ["mh_pierce_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1261,7 +1257,7 @@
       "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_pierce_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1279,7 +1275,7 @@
       "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     },
-    "coating": ["mhwilds_pierce_coating", "mhwilds_exhaust_coating"],
+    "coating": ["mh_pierce_coating", "mh_exhaust_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1296,7 +1292,7 @@
     "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   },
   {
@@ -1313,7 +1309,7 @@
     "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "coating": ["mhwilds_power_coating", "mhwilds_poison_coating"],
+    "coating": ["mh_power_coating", "mh_poison_coating"],
     "rank": "mhwilds_high_rank"
   }
 ]

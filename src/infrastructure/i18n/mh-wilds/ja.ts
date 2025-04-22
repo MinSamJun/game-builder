@@ -24,18 +24,6 @@ export const mhWildsShellingDamageJa = {
   mhwilds_shelling_damage_slightly_strong: "やや強い",
 };
 
-export const mhWildsCoatingJa = {
-  mhwilds_coating: "ビン",
-  mhwilds_power_coating: "強撃ビン",
-  mhwilds_poison_coating: "毒ビン",
-  mhwilds_exhaust_coating: "減気ビン",
-  mhwilds_pierce_coating: "貫通ビン",
-  mhwilds_blast_coating: "爆破ビン",
-  mhwilds_sleep_coating: "睡眠ビン",
-  mhwilds_close_range_coating: "接撃ビン",
-  mhwilds_paralysis_coating: "麻痺ビン",
-};
-
 export const mhWildsArmorJa = {
   mhwilds_armor_hope_mask: "ホープマスク",
   mhwilds_armor_hope_mail: "ホープメイル",

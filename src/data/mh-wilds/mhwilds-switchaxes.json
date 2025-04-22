@@ -1,6 +1,6 @@
 [
   {
-    "name": "hope_axe_i",
+    "name": "mhwilds_switchaxe_hope_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -10,12 +10,12 @@
     "defense": 0,
     "slots": [],
     "skills": {},
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "hope_axe_ii",
+    "name": "mhwilds_switchaxe_hope_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -27,12 +27,12 @@
     "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "hope_axe_iii",
+    "name": "mhwilds_switchaxe_hope_axe_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -45,12 +45,12 @@
       "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "hope_axe_iv",
+    "name": "mhwilds_switchaxe_hope_axe_iv",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -63,12 +63,12 @@
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "hope_axe_v",
+    "name": "mhwilds_switchaxe_hope_axe_v",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -81,12 +81,12 @@
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "bone_axe_i",
+    "name": "mhwilds_switchaxe_bone_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -98,12 +98,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 1
     },
-    "Phial": {
-      "mhwilds_exhaust_phial": 150
+    "phial": {
+      "mh_exhaust_phial": 150
     }
   },
   {
-    "name": "bone_axe_ii",
+    "name": "mhwilds_switchaxe_bone_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -116,12 +116,12 @@
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_focus": 1
     },
-    "Phial": {
-      "mhwilds_exhaust_phial": 150
+    "phial": {
+      "mh_exhaust_phial": 150
     }
   },
   {
-    "name": "bone_axe_iii",
+    "name": "mhwilds_switchaxe_bone_axe_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -134,12 +134,12 @@
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Phial": {
-      "mhwilds_exhaust_phial": 200
+    "phial": {
+      "mh_exhaust_phial": 200
     }
   },
   {
-    "name": "bone_axe_iv",
+    "name": "mhwilds_switchaxe_bone_axe_iv",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -152,12 +152,12 @@
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Phial": {
-      "mhwilds_exhaust_phial": 230
+    "phial": {
+      "mh_exhaust_phial": 230
     }
   },
   {
-    "name": "bone_smasher",
+    "name": "mhwilds_switchaxe_bone_smasher",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -170,12 +170,12 @@
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Phial": {
-      "mhwilds_exhaust_phial": 250
+    "phial": {
+      "mh_exhaust_phial": 250
     }
   },
   {
-    "name": "iron_accelerator_i",
+    "name": "mhwilds_switchaxe_iron_accelerator_i",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -187,12 +187,12 @@
     "skills": {
       "mhwilds_weapon_skill_rapid_morph": 1
     },
-    "Phial": {
-      "mhwilds_poison_phial": 180
+    "phial": {
+      "mh_poison_phial": 180
     }
   },
   {
-    "name": "iron_accelerator_ii",
+    "name": "mhwilds_switchaxe_iron_accelerator_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -204,12 +204,12 @@
     "skills": {
       "mhwilds_weapon_skill_rapid_morph": 2
     },
-    "Phial": {
-      "mhwilds_poison_phial": 200
+    "phial": {
+      "mh_poison_phial": 200
     }
   },
   {
-    "name": "iron_accelerator_iii",
+    "name": "mhwilds_switchaxe_iron_accelerator_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -221,12 +221,12 @@
     "skills": {
       "mhwilds_weapon_skill_rapid_morph": 3
     },
-    "Phial": {
-      "mhwilds_poison_phial": 230
+    "phial": {
+      "mh_poison_phial": 230
     }
   },
   {
-    "name": "chrome_accelerator",
+    "name": "mhwilds_switchaxe_chrome_accelerator",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -238,12 +238,12 @@
     "skills": {
       "mhwilds_weapon_skill_rapid_morph": 3
     },
-    "Phial": {
-      "mhwilds_poison_phial": 250
+    "phial": {
+      "mh_poison_phial": 250
     }
   },
   {
-    "name": "barina_hache_i",
+    "name": "mhwilds_switchaxe_barina_hache_i",
     "part": "mhwilds_switchaxe",
     "rarity": 1,
     "rank": "mhwilds_low_rank",
@@ -257,12 +257,12 @@
     "skills": {
       "mhwilds_weapon_skill_critical_draw": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "barina_hache_ii",
+    "name": "mhwilds_switchaxe_barina_hache_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -277,12 +277,12 @@
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "barina_hache_iii",
+    "name": "mhwilds_switchaxe_barina_hache_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -297,12 +297,12 @@
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "barina_hache_iv",
+    "name": "mhwilds_switchaxe_barina_hache_iv",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -317,12 +317,12 @@
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "lala_selenocosmi",
+    "name": "mhwilds_switchaxe_lala_selenocosmi",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -337,12 +337,12 @@
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "golba_vandal_i",
+    "name": "mhwilds_switchaxe_golba_vandal_i",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -355,12 +355,12 @@
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_punishing_draw": 1
     },
-    "Phial": {
-      "mhwilds_paralyse_phial": null
+    "phial": {
+      "mh_paralyse_phial": 150
     }
   },
   {
-    "name": "golba_vandal_ii",
+    "name": "mhwilds_switchaxe_golba_vandal_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -373,12 +373,12 @@
       "mhwilds_weapon_skill_punishing_draw": 2,
       "mhwilds_weapon_skill_critical_draw": 1
     },
-    "Phial": {
-      "mhwilds_paralyse_phial": null
+    "phial": {
+      "mh_paralyse_phial": 180
     }
   },
   {
-    "name": "gundava_vandal",
+    "name": "mhwilds_switchaxe_gundava_vandal",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -391,12 +391,12 @@
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_punishing_draw": 2
     },
-    "Phial": {
-      "mhwilds_paralyse_phial": null
+    "phial": {
+      "mh_paralyse_phial": 200
     }
   },
   {
-    "name": "dosha_fleshhacker_i",
+    "name": "mhwilds_switchaxe_dosha_fleshhacker_i",
     "part": "mhwilds_switchaxe",
     "rarity": 2,
     "rank": "mhwilds_low_rank",
@@ -408,12 +408,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "dosha_fleshhacker_ii",
+    "name": "mhwilds_switchaxe_dosha_fleshhacker_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -425,12 +425,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "dosha_fleshhacker_iii",
+    "name": "mhwilds_switchaxe_dosha_fleshhacker_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -442,12 +442,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "uth_olacha_i",
+    "name": "mhwilds_switchaxe_uth_olacha_i",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -461,12 +461,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "uth_olacha_ii",
+    "name": "mhwilds_switchaxe_uth_olacha_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -480,12 +480,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "uth_olacha_iii",
+    "name": "mhwilds_switchaxe_uth_olacha_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -499,12 +499,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "olacha_of_the_waves",
+    "name": "mhwilds_switchaxe_olacha_of_the_waves",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -518,12 +518,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "windsunder_axe_i",
+    "name": "mhwilds_switchaxe_windsunder_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 3,
     "rank": "mhwilds_low_rank",
@@ -538,12 +538,12 @@
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "windsunder_axe_ii",
+    "name": "mhwilds_switchaxe_windsunder_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -558,12 +558,12 @@
       "mhwilds_weapon_skill_focus": 2,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "windsunder_axe_iii",
+    "name": "mhwilds_switchaxe_windsunder_axe_iii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -578,12 +578,12 @@
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "windsunder_sakibami",
+    "name": "mhwilds_switchaxe_windsunder_sakibami",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -598,12 +598,12 @@
       "mhwilds_weapon_skill_focus": 3,
       "mhwilds_weapon_skill_airborne": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "nu_zhangyu_i",
+    "name": "mhwilds_switchaxe_nu_zhangyu_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -617,12 +617,12 @@
     "skills": {
       "mhwilds_weapon_skill_rapid_morph": 2
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "nu_zhangyu_ii",
+    "name": "mhwilds_switchaxe_nu_zhangyu_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -636,12 +636,12 @@
     "skills": {
       "mhwilds_weapon_skill_rapid_morph": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "abaddonian_zhangyu",
+    "name": "mhwilds_switchaxe_abaddonian_zhangyu",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -655,12 +655,12 @@
     "skills": {
       "mhwilds_weapon_skill_rapid_morph": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "dosha_gorehacker_i",
+    "name": "mhwilds_switchaxe_dosha_gorehacker_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -672,12 +672,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "Phial": {
-      "mhwilds_dragon_phial": null
+    "phial": {
+      "mh_dragon_phial": 320
     }
   },
   {
-    "name": "dosha_gorehacker_ii",
+    "name": "mhwilds_switchaxe_dosha_gorehacker_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -689,12 +689,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "Phial": {
-      "mhwilds_dragon_phial": null
+    "phial": {
+      "mh_dragon_phial": 360
     }
   },
   {
-    "name": "gorehacker_urgahaac",
+    "name": "mhwilds_switchaxe_gorehacker_urgahaac",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -706,12 +706,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "Phial": {
-      "mhwilds_dragon_phial": null
+    "phial": {
+      "mh_dragon_phial": 400
     }
   },
   {
-    "name": "albirath_flamesplitter_i",
+    "name": "mhwilds_switchaxe_albirath_flamesplitter_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -726,12 +726,12 @@
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "albirath_flamesplitter_ii",
+    "name": "mhwilds_switchaxe_albirath_flamesplitter_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -746,12 +746,12 @@
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "albirath_blaze_splitter",
+    "name": "mhwilds_switchaxe_albirath_blaze_splitter",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -766,12 +766,12 @@
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "nihil_switch_axe_i",
+    "name": "mhwilds_switchaxe_nihil_switch_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -785,12 +785,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "nihil_switch_axe_ii",
+    "name": "mhwilds_switchaxe_nihil_switch_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -804,12 +804,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "brutus_s_abolishment",
+    "name": "mhwilds_switchaxe_brutus_s_abolishment",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -823,12 +823,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "g_veldian_securis_i",
+    "name": "mhwilds_switchaxe_g_veldian_securis_i",
     "part": "mhwilds_switchaxe",
     "rarity": 4,
     "rank": "mhwilds_low_rank",
@@ -842,12 +842,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "g_veldian_securis_ii",
+    "name": "mhwilds_switchaxe_g_veldian_securis_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -861,12 +861,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "g_indomitable_perceval",
+    "name": "mhwilds_switchaxe_g_indomitable_perceval",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -880,12 +880,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 2
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "beak_axe_i",
+    "name": "mhwilds_switchaxe_beak_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -899,12 +899,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 2
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "beak_axe_ii",
+    "name": "mhwilds_switchaxe_beak_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -918,12 +918,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "sawbill_axe",
+    "name": "mhwilds_switchaxe_sawbill_axe",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -937,12 +937,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "dragonmaiden_axe_i",
+    "name": "mhwilds_switchaxe_dragonmaiden_axe_i",
     "part": "mhwilds_switchaxe",
     "rarity": 5,
     "rank": "mhwilds_high_rank",
@@ -957,12 +957,12 @@
       "mhwilds_weapon_skill_critical_status": 2,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "dragonmaiden_axe_ii",
+    "name": "mhwilds_switchaxe_dragonmaiden_axe_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -977,12 +977,12 @@
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "grithor_s_landmaker",
+    "name": "mhwilds_switchaxe_grithor_s_landmaker",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -997,12 +997,12 @@
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "morphing_fulgur_i",
+    "name": "mhwilds_switchaxe_morphing_fulgur_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1016,12 +1016,12 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "fulgurswitch_guardiana",
+    "name": "mhwilds_switchaxe_fulgurswitch_guardiana",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1035,12 +1035,12 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "rath_flamesplitter_i",
+    "name": "mhwilds_switchaxe_rath_flamesplitter_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1054,12 +1054,12 @@
     "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "rath_blaze_splitter",
+    "name": "mhwilds_switchaxe_rath_blaze_splitter",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1073,12 +1073,12 @@
     "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "eisenleib_i",
+    "name": "mhwilds_switchaxe_eisenleib_i",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1092,12 +1092,12 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "eisengeist",
+    "name": "mhwilds_switchaxe_eisengeist",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1111,12 +1111,12 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "veldian_securis_i",
+    "name": "mhwilds_switchaxe_veldian_securis_i",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1130,12 +1130,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "artian_saw_i",
+    "name": "mhwilds_switchaxe_artian_saw_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1145,12 +1145,12 @@
     "defense": 0,
     "slots": [2, 2, 2],
     "skills": {},
-    "Phial": {
-      "mhwilds_dragon_phial": null
+    "phial": {
+      "mh_dragon_phial": 120
     }
   },
   {
-    "name": "artian_saw_ii",
+    "name": "mhwilds_switchaxe_artian_saw_ii",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1160,12 +1160,12 @@
     "defense": 0,
     "slots": [2, 2, 2],
     "skills": {},
-    "Phial": {
-      "mhwilds_dragon_phial": null
+    "phial": {
+      "mh_dragon_phial": 120
     }
   },
   {
-    "name": "mundus_altus",
+    "name": "mhwilds_switchaxe_mundus_altus",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1175,12 +1175,12 @@
     "defense": 0,
     "slots": [3, 3, 3],
     "skills": {},
-    "Phial": {
-      "mhwilds_dragon_phial": null
+    "phial": {
+      "mh_dragon_phial": 220
     }
   },
   {
-    "name": "esperanza_axe",
+    "name": "mhwilds_switchaxe_esperanza_axe",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1193,12 +1193,12 @@
       "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "fleshhacker_yaogahaac",
+    "name": "mhwilds_switchaxe_fleshhacker_yaogahaac",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1210,12 +1210,12 @@
     "skills": {
       "mhwilds_weapon_skill_power_prolonger": 3
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "indomitable_perceval",
+    "name": "mhwilds_switchaxe_indomitable_perceval",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1229,12 +1229,12 @@
     "skills": {
       "mhwilds_weapon_skill_focus": 3
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "fond_farewell_i",
+    "name": "mhwilds_switchaxe_fond_farewell_i",
     "part": "mhwilds_switchaxe",
     "rarity": 6,
     "rank": "mhwilds_high_rank",
@@ -1249,12 +1249,12 @@
       "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "parting_slice",
+    "name": "mhwilds_switchaxe_parting_slice",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1269,12 +1269,12 @@
       "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     },
-    "Phial": {
-      "mhwilds_element_phial": null
+    "phial": {
+      "mh_element_phial": null
     }
   },
   {
-    "name": "zoh_mahaiah_i",
+    "name": "mhwilds_switchaxe_zoh_mahaiah_i",
     "part": "mhwilds_switchaxe",
     "rarity": 7,
     "rank": "mhwilds_high_rank",
@@ -1288,12 +1288,12 @@
     "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   },
   {
-    "name": "blazing_mahaiah",
+    "name": "mhwilds_switchaxe_blazing_mahaiah",
     "part": "mhwilds_switchaxe",
     "rarity": 8,
     "rank": "mhwilds_high_rank",
@@ -1307,8 +1307,8 @@
     "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Phial": {
-      "mhwilds_power_phial": null
+    "phial": {
+      "mh_power_phial": null
     }
   }
 ]

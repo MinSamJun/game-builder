@@ -6,7 +6,7 @@ import mhWildsGroupSkillData from "./mhwilds-group-skill.json";
 import mhWildsGreatswordsData from "./mhwilds-greatswords.json";
 import mhWildsDualbladesData from "./mhwilds-dualblades.json";
 import mhWildsLongswordsData from "./mhwilds-longswords.json";
-import mhWildsSwordNShieldsData from "./mhwilds-sword&shields.json";
+import mhWildsSwordNShieldsData from "./mhwilds-sword-n-shields.json";
 import mhWildsHammersData from "./mhwilds-hammers.json";
 import mhWildsHuntingHornsData from "./mhwilds-huntinghorns.json";
 import mhWildsLancesData from "./mhwilds-lances.json";
