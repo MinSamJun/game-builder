@@ -7,7 +7,7 @@ import { mhWildsKo } from "@infrastructure/i18n/mh-wilds";
 
 type WeaponNamespaceKey = keyof typeof mhWildsKo;
 
-export function useWeaponList<
+export function useMhWildsList<
   WeaponEntry extends { name: string; rank: string; rarity: number },
   K extends WeaponNamespaceKey
 >(
@@ -20,7 +20,7 @@ export function useWeaponList<
 
   const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
-  const mhWildsWeaponSkillsNamespace =
+  const useMhWildsListNamespace =
     getNamespaceData(weaponSkillNamespaceKey) ?? {};
   const weaponNamespace = React.useMemo(
     () => getNamespaceData(weaponNamespaceKey) ?? {},
@@ -47,7 +47,7 @@ export function useWeaponList<
   return {
     mhCommonNamespace,
     mhWildsCommonNamespace,
-    mhWildsWeaponSkillsNamespace,
+    useMhWildsListNamespace,
     weaponNamespace,
     filteredList,
     selectedRank,

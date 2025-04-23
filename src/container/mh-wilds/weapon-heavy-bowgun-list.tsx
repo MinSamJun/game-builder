@@ -4,13 +4,13 @@ import React from "react";
 import { mhWildsHeavyBowgunsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
-import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
+import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
 
 export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
   const {
     mhCommonNamespace,
     mhWildsCommonNamespace,
-    mhWildsWeaponSkillsNamespace,
+    useMhWildsListNamespace,
     weaponNamespace: mhWildsHeavybowgunNamespace,
     filteredList,
     selectedRank,
@@ -22,7 +22,7 @@ export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(
+  } = useMhWildsList(
     mhWildsHeavyBowgunsData,
     "mhWilds_heavy_bowguns",
     "mhWilds_weapon_skill",
@@ -128,8 +128,7 @@ export function HeavyBowgunList({ searchTerm }: { searchTerm: string }) {
                     </strong>
                     {skills && Object.entries(skills).length > 0 ? (
                       Object.entries(skills).map(([key, level]) => {
-                        const skillName =
-                          mhWildsWeaponSkillsNamespace[key] ?? key;
+                        const skillName = useMhWildsListNamespace[key] ?? key;
                         return (
                           <div key={key}>
                             {skillName} Lv{level}

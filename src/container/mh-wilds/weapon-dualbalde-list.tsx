@@ -4,13 +4,13 @@ import React from "react";
 import { mhWildsDualbladesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
-import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
+import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
 
 export function DualbladeList({ searchTerm }: { searchTerm: string }) {
   const {
     mhCommonNamespace,
     mhWildsCommonNamespace,
-    mhWildsWeaponSkillsNamespace,
+    useMhWildsListNamespace,
     weaponNamespace: mhWildsDualbladeNamespace,
     filteredList,
     selectedRank,
@@ -22,7 +22,7 @@ export function DualbladeList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(
+  } = useMhWildsList(
     mhWildsDualbladesData,
     "mhWilds_dualblades",
     "mhWilds_weapon_skill",
@@ -140,8 +140,7 @@ export function DualbladeList({ searchTerm }: { searchTerm: string }) {
                     </strong>
                     {skills && Object.entries(skills).length > 0 ? (
                       Object.entries(skills).map(([key, level]) => {
-                        const skillName =
-                          mhWildsWeaponSkillsNamespace[key] ?? key;
+                        const skillName = useMhWildsListNamespace[key] ?? key;
                         return (
                           <div key={key}>
                             {skillName} Lv{level}

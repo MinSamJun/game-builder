@@ -34,7 +34,6 @@ export const SideBarContent = ({
       {segment1 === "mh-wilds" && (
         <PageBlock
           title={mhCommonNamespace?.mh_common_mhWilds}
-          titleHref="/mh-wilds"
           items={[
             {
               pageTitle: mhCommonNamespace?.mh_common_armor_charm,
@@ -47,6 +46,10 @@ export const SideBarContent = ({
             {
               pageTitle: mhCommonNamespace?.mh_common_weapon,
               pageHref: "/mh-wilds/weapon",
+            },
+            {
+              pageTitle: mhCommonNamespace?.mh_common_decoration,
+              pageHref: "/mh-wilds/deco",
             },
           ]}
         />

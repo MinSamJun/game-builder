@@ -1,43 +1,34 @@
 "use client";
 
 import React from "react";
-import { useI18n } from "@infrastructure/user-i18n";
 import { mhWildsArmorData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
-import { usePagination } from "@/hook/use-pageation";
 import { Pagination } from "@infrastructure/common/pagenation";
+import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
 
 export function ArmorList({ searchTerm }: { searchTerm: string }) {
-  const { getNamespaceData } = useI18n();
-
-  const mhCommonNamespace = getNamespaceData("mh_common");
-  const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor") ?? {};
-  const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
-  const mhWildsArmorSkillNamespace =
-    getNamespaceData("mhWilds_armor_skill") ?? {};
-  const mhWildsArmorSeriesSkillNamespace =
-    getNamespaceData("mhWilds_series_name") ?? {};
-  const mhWildsArmorGroupSkillNamespace =
-    getNamespaceData("mhWilds_group_name") ?? {};
-
-  const [selectedPart, setSelectedPart] = React.useState<string | null>(null);
-  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
-
-  const filteredArmorList = mhWildsArmorData.filter(
-    ({ name, part, rank }) =>
-      (!selectedPart || part === selectedPart) &&
-      (!selectedRank || rank === selectedRank) &&
-      (mhWildsArmorNamespace[name] ?? name)
-        .toLowerCase()
-        .includes(searchTerm.toLowerCase())
-  );
-
-  const itemsPerPage = 10;
-  const { page, paginatedData, nextPage, prevPage } = usePagination(
-    filteredArmorList,
-    itemsPerPage,
+  const {
+    mhCommonNamespace,
+    mhWildsCommonNamespace,
+    weaponNamespace: mhWildsArmorNamespace,
+    useMhWildsListNamespace: mhWildsArmorSkillNamespace,
+    filteredList: filteredArmorList,
+    selectedRank,
+    setSelectedRank,
+    page,
+    paginatedData,
+    nextPage,
+    prevPage,
+  } = useMhWildsList(
+    mhWildsArmorData,
+    "mhWilds_armor",
+    "mhWilds_armor_skill",
     searchTerm
   );
+
+  const [selectedPart, setSelectedPart] = React.useState<string | null>(null);
+
+  const itemsPerPage = 10;
 
   return (
     <>
@@ -182,7 +173,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                   <div className="grid grid-cols-3 gap-4 text-sm">
                     <div className="bg-gray-800 text-white rounded p-4">
                       <strong>
-                        {mhWildsmhCommonNamespace?.mhwilds_common_skills} :
+                        {mhWildsCommonNamespace?.mhwilds_common_skills} :
                       </strong>
                       {skills && Object.keys(skills).length ? (
                         Object.entries(skills).map(([skill, level]) => (
@@ -198,13 +189,14 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
 
                     <div className="bg-gray-800 text-white rounded p-4">
                       <strong>
-                        {mhWildsmhCommonNamespace?.mhwilds_common_series_skill}{" "}
-                        :
+                        {mhWildsCommonNamespace?.mhwilds_common_series_skill} :
                       </strong>
                       {seriesSkill && Object.keys(seriesSkill).length ? (
                         Object.entries(seriesSkill).map(([skill]) => (
                           <div key={skill}>
-                            {mhWildsArmorSeriesSkillNamespace[skill] ?? skill}
+                            {mhWildsCommonNamespace[
+                              `mhwilds_series_${skill}`
+                            ] ?? skill}
                           </div>
                         ))
                       ) : (
@@ -214,12 +206,13 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
 
                     <div className="bg-gray-800 text-white rounded p-4">
                       <strong>
-                        {mhWildsmhCommonNamespace?.mhwilds_common_group_skill} :
+                        {mhWildsCommonNamespace?.mhwilds_common_group_skill} :
                       </strong>
                       {groupSkill && Object.keys(groupSkill).length ? (
                         Object.entries(groupSkill).map(([skill]) => (
                           <div key={skill}>
-                            {mhWildsArmorGroupSkillNamespace[skill] ?? skill}
+                            {mhWildsCommonNamespace[`mhwilds_group_${skill}`] ??
+                              skill}
                           </div>
                         ))
                       ) : (

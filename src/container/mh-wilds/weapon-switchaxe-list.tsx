@@ -4,14 +4,14 @@ import React from "react";
 import { mhWildsSwitchaxesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
-import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
+import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
 import { useI18n } from "@infrastructure/user-i18n";
 
 export function SwitchaxeList({ searchTerm }: { searchTerm: string }) {
   const {
     mhCommonNamespace,
     mhWildsCommonNamespace,
-    mhWildsWeaponSkillsNamespace,
+    useMhWildsListNamespace,
     weaponNamespace: mhWildsSwitchaxeNamespace,
     filteredList,
     selectedRank,
@@ -23,7 +23,7 @@ export function SwitchaxeList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(
+  } = useMhWildsList(
     mhWildsSwitchaxesData,
     "mhWilds_switchaxes",
     "mhWilds_weapon_skill",
@@ -153,8 +153,7 @@ export function SwitchaxeList({ searchTerm }: { searchTerm: string }) {
                     </strong>
                     {skills && Object.entries(skills).length > 0 ? (
                       Object.entries(skills).map(([key, level]) => {
-                        const skillName =
-                          mhWildsWeaponSkillsNamespace[key] ?? key;
+                        const skillName = useMhWildsListNamespace[key] ?? key;
                         return (
                           <div key={key}>
                             {skillName} Lv{level}

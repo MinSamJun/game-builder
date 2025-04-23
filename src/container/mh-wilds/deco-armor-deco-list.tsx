@@ -4,7 +4,7 @@ import React from "react";
 import { mhWildsArmorSkillDecorationData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
-import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
+import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
 
 export function ArmorSkillDecorationList({
   searchTerm,
@@ -14,7 +14,7 @@ export function ArmorSkillDecorationList({
   const {
     mhCommonNamespace,
     mhWildsCommonNamespace,
-    mhWildsWeaponSkillsNamespace,
+    useMhWildsListNamespace,
     weaponNamespace: mhWildsArmorSkillDecorationNamespace,
     filteredList,
     selectedRank,
@@ -24,7 +24,7 @@ export function ArmorSkillDecorationList({
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(
+  } = useMhWildsList(
     mhWildsArmorSkillDecorationData,
     "mhWilds_armor_decoration",
     "mhWilds_armor_skill",
@@ -98,8 +98,7 @@ export function ArmorSkillDecorationList({
                   </strong>
                   {skills && Object.entries(skills).length > 0 ? (
                     Object.entries(skills).map(([key, level]) => {
-                      const skillName =
-                        mhWildsWeaponSkillsNamespace[key] ?? key;
+                      const skillName = useMhWildsListNamespace[key] ?? key;
                       return (
                         <div key={key}>
                           {skillName} : {level}
