@@ -23,7 +23,12 @@ export function SwitchaxeList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsSwitchaxesData, "mhWilds_switchaxes", searchTerm);
+  } = useWeaponList(
+    mhWildsSwitchaxesData,
+    "mhWilds_switchaxes",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   const { getNamespaceData } = useI18n();
   const mhWildsPhialNamespace = getNamespaceData("mh_phial") ?? {};

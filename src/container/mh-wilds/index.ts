@@ -21,6 +21,9 @@ import { BowList } from "./weapon-bow-list";
 import { LightBowgunList } from "./weapon-light-bowgun-list";
 import { HeavyBowgunList } from "./weapon-heavy-bowgun-list";
 
+import { WeaponSkillDecorationList } from "./deco-weapon-deco-list";
+import { ArmorSkillDecorationList } from "./deco-armor-deco-list";
+
 export {
   ArmorList,
   CharmList,
@@ -41,4 +44,6 @@ export {
   BowList,
   LightBowgunList,
   HeavyBowgunList,
+  WeaponSkillDecorationList,
+  ArmorSkillDecorationList,
 };

@@ -22,7 +22,12 @@ export function HammerList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsHammersData, "mhWilds_hammers", searchTerm);
+  } = useWeaponList(
+    mhWildsHammersData,
+    "mhWilds_hammers",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   React.useEffect(() => {
     setPage(1);

@@ -52,6 +52,10 @@ export const commonJa = {
   mh_common_sleep_coating: "睡眠ビン",
   mh_common_light_bowgun: "ライトボウガン",
   mh_common_heavy_bowgun: "ヘビィボウガン",
+  mh_common_decoration: "装飾品",
+  mh_common_decoration_slot: "装飾品スロット",
+  mh_common_weapon_decoration: "武器装飾品",
+  mh_common_armor_decoration: "防具装飾品",
 };
 
 export const mhwildsMelodiesJa = {

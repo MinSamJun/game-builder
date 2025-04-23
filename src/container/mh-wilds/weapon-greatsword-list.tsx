@@ -22,7 +22,12 @@ export function GreatswordList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsGreatswordsData, "mhWilds_greatswords", searchTerm);
+  } = useWeaponList(
+    mhWildsGreatswordsData,
+    "mhWilds_greatswords",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   React.useEffect(() => {
     setPage(1);

@@ -2865,7 +2865,7 @@ export const mhWildsArmorDecorationJa = {
   mhwilds_wind_resist_jewel_1: "耐風珠【１】",
 };
 
-export const mhWildsWeaponDecorationEn = {
+export const mhWildsWeaponDecorationJa = {
   mhwilds_artillery_jewel_1: "砲術珠【１】",
   mhwilds_artillery_jewel_2: "砲術珠Ⅱ【２】",
   mhwilds_artillery_jewel_3: "砲術珠Ⅲ【３】",

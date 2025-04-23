@@ -49,6 +49,10 @@ export const commonKo = {
   mh_common_bow: "활",
   mh_common_light_bowgun: "라이트 보우건",
   mh_common_heavy_bowgun: "헤비 보우건",
+  mh_common_decoration: "장식주",
+  mh_common_decoration_slot: "장식주 슬롯",
+  mh_common_weapon_decoration: "무기 장식주",
+  mh_common_armor_decoration: "방어구 장식주",
 };
 
 export const mhwildsMelodiesKo = {

@@ -10,13 +10,18 @@ type WeaponNamespaceKey = keyof typeof mhWildsKo;
 export function useWeaponList<
   WeaponEntry extends { name: string; rank: string; rarity: number },
   K extends WeaponNamespaceKey
->(data: WeaponEntry[], weaponNamespaceKey: K, searchTerm: string) {
+>(
+  data: WeaponEntry[],
+  weaponNamespaceKey: K,
+  weaponSkillNamespaceKey: K,
+  searchTerm: string
+) {
   const { getNamespaceData } = useI18n();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsCommonNamespace = getNamespaceData("mhWilds_common") ?? {};
   const mhWildsWeaponSkillsNamespace =
-    getNamespaceData("mhWilds_weapon_skill") ?? {};
+    getNamespaceData(weaponSkillNamespaceKey) ?? {};
   const weaponNamespace = React.useMemo(
     () => getNamespaceData(weaponNamespaceKey) ?? {},
     [getNamespaceData, weaponNamespaceKey]

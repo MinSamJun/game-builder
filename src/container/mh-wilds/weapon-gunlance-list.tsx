@@ -23,7 +23,12 @@ export function GunlanceList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsGunlancesData, "mhWilds_gunlances", searchTerm);
+  } = useWeaponList(
+    mhWildsGunlancesData,
+    "mhWilds_gunlances",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   const { getNamespaceData } = useI18n();
   const mhWildsShellingTypeNamespace = getNamespaceData(

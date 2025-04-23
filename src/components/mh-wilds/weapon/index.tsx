@@ -76,7 +76,7 @@ export function MhWildsWeapon() {
           日本語
         </button>
       </div>
-      {/* 대검, 해머, 수렵 피리, 건랜스, 슬래시 액스, 차지 액스 */}
+
       <div className="mb-6 flex space-x-4">
         <button
           onClick={() => setEquipmentType("mhWilds_greatswords")}
@@ -139,7 +139,7 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_switchaxe}
         </button>
       </div>
-      {/* 태도, 한손검, 쌍검, 랜스, 조충곤 */}
+
       <div className="mb-6 flex space-x-4">
         <button
           onClick={() => setEquipmentType("mhWilds_dualblades")}
@@ -192,7 +192,7 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_swordandshield}
         </button>
       </div>
-      {/* 라이트 보우건, 헤비 보우건, 활 */}
+
       <div className="mb-6 flex space-x-4">
         <button
           onClick={() => setEquipmentType("mhWilds_bows")}

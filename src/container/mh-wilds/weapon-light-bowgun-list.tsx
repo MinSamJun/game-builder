@@ -25,6 +25,7 @@ export function LightBowgunList({ searchTerm }: { searchTerm: string }) {
   } = useWeaponList(
     mhWildsLightBowgunsData,
     "mhWilds_light_bowguns",
+    "mhWilds_weapon_skill",
     searchTerm
   );
 

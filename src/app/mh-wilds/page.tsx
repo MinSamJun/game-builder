@@ -28,6 +28,10 @@ export default function Mhwilds() {
             pageTitle: mhCommonNamespace?.mh_common_weapon,
             pageHref: "/mh-wilds/weapon",
           },
+          {
+            pageTitle: mhCommonNamespace?.mh_common_decoration,
+            pageHref: "/mh-wilds/deco",
+          },
         ]}
       />
     </main>

@@ -25,6 +25,7 @@ export function SwordNShieldList({ searchTerm }: { searchTerm: string }) {
   } = useWeaponList(
     mhWildsSwordNShieldsData,
     "mhWilds_sword_N_shield",
+    "mhWilds_weapon_skill",
     searchTerm
   );
 

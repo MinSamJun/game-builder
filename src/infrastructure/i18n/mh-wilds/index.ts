@@ -24,6 +24,8 @@ import {
   mhwildsWeaponSkillsEn,
   mhWildsShellingTypeEn,
   mhWildsShellingDamageEn,
+  mhWildsArmorDecorationEn,
+  mhWildsWeaponDecorationEn,
 } from "./en";
 import {
   mhWildsArmorJa,
@@ -51,6 +53,8 @@ import {
   mhWildsWeaponSkillsJa,
   mhWildsShellingTypeJa,
   mhWildsShellingDamageJa,
+  mhWildsArmorDecorationJa,
+  mhWildsWeaponDecorationJa,
 } from "./ja";
 import {
   mhWildsArmorKo,
@@ -78,6 +82,8 @@ import {
   mhWildsWeaponSkillsKo,
   mhWildsShellingTypeKo,
   mhWildsShellingDamageKo,
+  mhWildsArmorDecorationKo,
+  mhWildsWeaponDecorationKo,
 } from "./ko";
 
 export const mhWildsEn = {
@@ -106,6 +112,8 @@ export const mhWildsEn = {
   mhWilds_weapon_skill: mhwildsWeaponSkillsEn,
   mhWilds_shelling_type: mhWildsShellingTypeEn,
   mhWilds_shelling_damage: mhWildsShellingDamageEn,
+  mhWilds_armor_decoration: mhWildsArmorDecorationEn,
+  mhWilds_weapon_decoration: mhWildsWeaponDecorationEn,
 };
 
 export const mhWildsJa = {
@@ -134,6 +142,8 @@ export const mhWildsJa = {
   mhWilds_weapon_skill: mhWildsWeaponSkillsJa,
   mhWilds_shelling_type: mhWildsShellingTypeJa,
   mhWilds_shelling_damage: mhWildsShellingDamageJa,
+  mhWilds_armor_decoration: mhWildsArmorDecorationJa,
+  mhWilds_weapon_decoration: mhWildsWeaponDecorationJa,
 };
 
 export const mhWildsKo = {
@@ -162,4 +172,6 @@ export const mhWildsKo = {
   mhWilds_weapon_skill: mhWildsWeaponSkillsKo,
   mhWilds_shelling_type: mhWildsShellingTypeKo,
   mhWilds_shelling_damage: mhWildsShellingDamageKo,
+  mhWilds_armor_decoration: mhWildsArmorDecorationKo,
+  mhWilds_weapon_decoration: mhWildsWeaponDecorationKo,
 };

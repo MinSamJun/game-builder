@@ -22,7 +22,12 @@ export function LongswordList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsLongswordsData, "mhWilds_longswords", searchTerm);
+  } = useWeaponList(
+    mhWildsLongswordsData,
+    "mhWilds_longswords",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   React.useEffect(() => {
     setPage(1);

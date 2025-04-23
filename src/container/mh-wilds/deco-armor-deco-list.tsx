@@ -1,12 +1,12 @@
 "use client";
 
 import React from "react";
-import { mhWildsWeaponSkillDecorationData } from "@/data/mh-wilds";
+import { mhWildsArmorSkillDecorationData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useWeaponList } from "@infrastructure/mh-common/weapon-list";
 
-export function WeaponSkillDecorationList({
+export function ArmorSkillDecorationList({
   searchTerm,
 }: {
   searchTerm: string;
@@ -15,7 +15,7 @@ export function WeaponSkillDecorationList({
     mhCommonNamespace,
     mhWildsCommonNamespace,
     mhWildsWeaponSkillsNamespace,
-    weaponNamespace: mhWildsWeaponSkillDecorationNamespace,
+    weaponNamespace: mhWildsArmorSkillDecorationNamespace,
     filteredList,
     selectedRank,
     setSelectedRank,
@@ -25,9 +25,9 @@ export function WeaponSkillDecorationList({
     nextPage,
     prevPage,
   } = useWeaponList(
-    mhWildsWeaponSkillDecorationData,
-    "mhWilds_weapon_decoration",
-    "mhWilds_weapon_skill",
+    mhWildsArmorSkillDecorationData,
+    "mhWilds_armor_decoration",
+    "mhWilds_armor_skill",
     searchTerm
   );
 
@@ -81,7 +81,7 @@ export function WeaponSkillDecorationList({
             <div key={name} className="border p-4 rounded shadow space-y-2">
               <div className="flex items-center">
                 <div className="font-semibold">
-                  {mhWildsWeaponSkillDecorationNamespace[name]}
+                  {mhWildsArmorSkillDecorationNamespace[name]}
                 </div>
                 {slotlevel > 0 && (
                   <div className="text-sm text-gray-600 font-weight: font-bold">

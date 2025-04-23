@@ -25,6 +25,7 @@ export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
   } = useWeaponList(
     mhWildsChargebladesData,
     "mhWilds_charge_blades",
+    "mhWilds_weapon_skill",
     searchTerm
   );
 

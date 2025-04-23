@@ -23,7 +23,12 @@ export function BowList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsBowsData, "mhWilds_bows", searchTerm);
+  } = useWeaponList(
+    mhWildsBowsData,
+    "mhWilds_bows",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   const { getNamespaceData } = useI18n();
   const mhWildsCoatingNamespace = getNamespaceData("mh_coating") ?? {};

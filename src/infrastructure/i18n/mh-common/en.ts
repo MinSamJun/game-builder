@@ -49,6 +49,10 @@ export const commonEn = {
   mh_common_bow: "Bow",
   mh_common_light_bowgun: "Light Bowgun",
   mh_common_heavy_bowgun: "Heavy Bowgun",
+  mh_common_decoration: "Decoration",
+  mh_common_decoration_slot: "Decoration Slot",
+  mh_common_weapon_decoration: "Weapon Decoration",
+  mh_common_armor_decoration: "Armor Decoration",
 };
 
 export const mhwildsMelodiesEn = {

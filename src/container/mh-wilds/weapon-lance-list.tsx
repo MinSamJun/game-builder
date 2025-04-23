@@ -22,7 +22,12 @@ export function LanceList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsLancesData, "mhWilds_lances", searchTerm);
+  } = useWeaponList(
+    mhWildsLancesData,
+    "mhWilds_lances",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   React.useEffect(() => {
     setPage(1);

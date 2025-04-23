@@ -25,6 +25,7 @@ export function InsectglavieList({ searchTerm }: { searchTerm: string }) {
   } = useWeaponList(
     mhWildsInsectGlaviesData,
     "mhWilds_insect_glavies",
+    "mhWilds_weapon_skill",
     searchTerm
   );
 

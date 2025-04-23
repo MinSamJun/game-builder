@@ -25,6 +25,7 @@ export function HuntingHornList({ searchTerm }: { searchTerm: string }) {
   } = useWeaponList(
     mhWildsHuntingHornsData,
     "mhWilds_hunting_horn",
+    "mhWilds_weapon_skill",
     searchTerm
   );
 

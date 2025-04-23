@@ -22,7 +22,12 @@ export function DualbladeList({ searchTerm }: { searchTerm: string }) {
     paginatedData,
     nextPage,
     prevPage,
-  } = useWeaponList(mhWildsDualbladesData, "mhWilds_dualblades", searchTerm);
+  } = useWeaponList(
+    mhWildsDualbladesData,
+    "mhWilds_dualblades",
+    "mhWilds_weapon_skill",
+    searchTerm
+  );
 
   React.useEffect(() => {
     setPage(1);
