@@ -5,6 +5,7 @@ import { mhWildsArmorData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
+import { useI18n } from "@infrastructure/user-i18n";
 
 export function ArmorList({ searchTerm }: { searchTerm: string }) {
   const {
@@ -25,6 +26,10 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
     "mhWilds_armor_skill",
     searchTerm
   );
+
+  const { getNamespaceData } = useI18n();
+  const mhWildsSeriesNameNamespace = getNamespaceData("mhWilds_series_name");
+  const mhWildsGroupNameNamespace = getNamespaceData("mhWilds_group_name");
 
   const [selectedPart, setSelectedPart] = React.useState<string | null>(null);
 
@@ -194,9 +199,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                       {seriesSkill && Object.keys(seriesSkill).length ? (
                         Object.entries(seriesSkill).map(([skill]) => (
                           <div key={skill}>
-                            {mhWildsCommonNamespace[
-                              `mhwilds_series_${skill}`
-                            ] ?? skill}
+                            {mhWildsSeriesNameNamespace[`${skill}`] ?? skill}
                           </div>
                         ))
                       ) : (
@@ -211,8 +214,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                       {groupSkill && Object.keys(groupSkill).length ? (
                         Object.entries(groupSkill).map(([skill]) => (
                           <div key={skill}>
-                            {mhWildsCommonNamespace[`mhwilds_group_${skill}`] ??
-                              skill}
+                            {mhWildsGroupNameNamespace[`${skill}`] ?? skill}
                           </div>
                         ))
                       ) : (

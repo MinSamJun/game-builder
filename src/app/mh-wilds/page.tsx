@@ -17,12 +17,12 @@ export default function Mhwilds() {
         title={mhCommonNamespace?.mh_common_mhWilds}
         items={[
           {
-            pageTitle: mhCommonNamespace?.mh_common_armor_charm,
-            pageHref: "/mh-wilds/armor-charm",
-          },
-          {
             pageTitle: mhCommonNamespace?.mh_common_weapon,
             pageHref: "/mh-wilds/weapon",
+          },
+          {
+            pageTitle: mhCommonNamespace?.mh_common_armor_charm,
+            pageHref: "/mh-wilds/armor-charm",
           },
           {
             pageTitle: mhWildsCommonNamespace?.mhwilds_common_skills,
