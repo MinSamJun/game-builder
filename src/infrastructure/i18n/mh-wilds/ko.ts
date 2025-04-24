@@ -8,7 +8,7 @@ export const mhWildsCommonKo = {
   mhwilds_common_skill4: "스킬4",
   mhwilds_common_group_name: "그룹 이름",
   mhwilds_common_group_skill: "그룹 스킬",
-  mhwilds_common_weapon_skill: "무기 스킬",
+  mhWilds_common_weapon_skill: "무기 스킬",
   mhwilds_common_shelling: "포격력",
 };
 

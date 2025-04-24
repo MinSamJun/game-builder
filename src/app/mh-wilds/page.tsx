@@ -21,12 +21,12 @@ export default function Mhwilds() {
             pageHref: "/mh-wilds/armor-charm",
           },
           {
-            pageTitle: mhWildsCommonNamespace?.mhWilds_common_armor_skill,
-            pageHref: "/mh-wilds/armor-charm-skill",
-          },
-          {
             pageTitle: mhCommonNamespace?.mh_common_weapon,
             pageHref: "/mh-wilds/weapon",
+          },
+          {
+            pageTitle: mhWildsCommonNamespace?.mhwilds_common_skills,
+            pageHref: "/mh-wilds/skills",
           },
           {
             pageTitle: mhCommonNamespace?.mh_common_decoration,

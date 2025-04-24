@@ -8,7 +8,7 @@ export const mhWildsCommonEn = {
   mhwilds_common_skill4: "Skill 4",
   mhwilds_common_group_name: "Group Name",
   mhwilds_common_group_skill: "Group Skill",
-  mhwilds_common_weapon_skill: "Weapon Skill",
+  mhWilds_common_weapon_skill: "Weapon Skill",
   mhwilds_common_shelling: "shelling",
 };
 

@@ -3,20 +3,22 @@
 import { useState } from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import {
+  WeaponSkillList,
   ArmorSkillList,
   SeriesSkillList,
   GroupSkillList,
 } from "@/container/mh-wilds";
 
 type EquipmentNamespace =
+  | "mhWilds_weapon_skill"
   | "mhWilds_armor_skill"
   | "mhWilds_series_skill"
   | "mhWilds_group_skill";
 
-export function MhWildsArmorNCharmSkill() {
+export function MhWildsSkills() {
   const { lang, setLang, getNamespaceData } = useI18n();
   const [equipmentType, setEquipmentType] = useState<EquipmentNamespace>(
-    "mhWilds_armor_skill"
+    "mhWilds_weapon_skill"
   );
   const [term, setTerm] = useState("");
 
@@ -57,6 +59,16 @@ export function MhWildsArmorNCharmSkill() {
 
       <div className="mb-6 flex space-x-4">
         <button
+          onClick={() => setEquipmentType("mhWilds_weapon_skill")}
+          className={`px-4 py-2 rounded ${
+            equipmentType === "mhWilds_weapon_skill"
+              ? "bg-green-500 text-white"
+              : "bg-gray-200 text-black"
+          }`}
+        >
+          {mhWildsmhCommonNamespace?.mhWilds_common_weapon_skill}
+        </button>
+        <button
           onClick={() => setEquipmentType("mhWilds_armor_skill")}
           className={`px-4 py-2 rounded ${
             equipmentType === "mhWilds_armor_skill"
@@ -96,7 +108,9 @@ export function MhWildsArmorNCharmSkill() {
         onChange={(e) => setTerm(e.target.value)}
       />
 
-      {equipmentType === "mhWilds_armor_skill" ? (
+      {equipmentType === "mhWilds_weapon_skill" ? (
+        <WeaponSkillList searchTerm={term} />
+      ) : equipmentType === "mhWilds_armor_skill" ? (
         <ArmorSkillList searchTerm={term} />
       ) : equipmentType === "mhWilds_series_skill" ? (
         <SeriesSkillList searchTerm={term} />

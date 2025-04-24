@@ -8,7 +8,7 @@ export const mhWildsCommonJa = {
   mhwilds_common_skill4: "スキル4",
   mhwilds_common_group_name: "グループ名",
   mhwilds_common_group_skill: "グループスキル",
-  mhwilds_common_weapon_skill: "武器スキル",
+  mhWilds_common_weapon_skill: "武器スキル",
   mhwilds_common_shelling: "砲撃力",
 };
 

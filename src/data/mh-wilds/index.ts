@@ -18,7 +18,7 @@ import mhWildsInsectGlaviesData from "./mhwilds-insect-glavies.json";
 import mhWildsBowsData from "./mhwilds-bows.json";
 import mhWildsLightBowgunsData from "./mhwilds-light-bowguns.json";
 import mhWildsHeavyBowgunsData from "./mhwilds-heavy-bowguns.json";
-import mhWildsWeaponSkillsData from "./mhwilds-weapon-skills.json";
+import mhWildsWeaponSkillData from "./mhwilds-weapon-skills.json";
 import mhWildsWeaponSkillDecorationData from "./mhwilds-weapon-decorations.json";
 
 export {
@@ -42,6 +42,6 @@ export {
   mhWildsBowsData,
   mhWildsLightBowgunsData,
   mhWildsHeavyBowgunsData,
-  mhWildsWeaponSkillsData,
+  mhWildsWeaponSkillData,
   mhWildsWeaponSkillDecorationData,
 };
