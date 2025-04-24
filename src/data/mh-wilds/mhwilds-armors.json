@@ -2024,7 +2024,7 @@
     "def": [30, 44, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_ajarakan_helmα",
+    "name": "mhwilds_armor_ajarakan_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2040,7 +2040,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_ajarakan_helmβ",
+    "name": "mhwilds_armor_ajarakan_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2056,7 +2056,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_alloy_helmα",
+    "name": "mhwilds_armor_alloy_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2069,7 +2069,7 @@
     "def": [32, 66, -2, 1, -2, -2, 1]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_helmα",
+    "name": "mhwilds_armor_arkvulcan_helm_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2087,7 +2087,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_helmβ",
+    "name": "mhwilds_armor_arkvulcan_helm_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2104,7 +2104,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_artian_helmα",
+    "name": "mhwilds_armor_artian_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2120,7 +2120,7 @@
     "def": [44, 70, 1, -2, -2, 2, 3]
   },
   {
-    "name": "mhwilds_armor_azuz_headdressα",
+    "name": "mhwilds_armor_azuz_headdress_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2135,7 +2135,7 @@
     "def": [44, 70, 4, 1, 1, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_helmα",
+    "name": "mhwilds_armor_balahara_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2151,7 +2151,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_helmβ",
+    "name": "mhwilds_armor_balahara_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2166,7 +2166,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_barina_headgearα",
+    "name": "mhwilds_armor_barina_headgear_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2182,7 +2182,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_barina_headgearβ",
+    "name": "mhwilds_armor_barina_headgear_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2197,7 +2197,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_battle_helmα",
+    "name": "mhwilds_armor_battle_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2212,7 +2212,7 @@
     "def": [44, 70, 2, -1, -1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_blango_helmα",
+    "name": "mhwilds_armor_blango_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2230,7 +2230,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_blango_helmβ",
+    "name": "mhwilds_armor_blango_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2247,7 +2247,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_bone_helmα",
+    "name": "mhwilds_armor_bone_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2261,7 +2261,7 @@
     "def": [32, 66, 2, 0, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_bulaqchi_specsα",
+    "name": "mhwilds_armor_bulaqchi_specs_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2277,7 +2277,7 @@
     "def": [32, 66, -4, 1, 1, -2, 4]
   },
   {
-    "name": "mhwilds_armor_bulaqchi_specsβ",
+    "name": "mhwilds_armor_bulaqchi_specs_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2292,7 +2292,7 @@
     "def": [32, 66, -4, 1, 1, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_helmα",
+    "name": "mhwilds_armor_g_arkveld_helm_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2310,7 +2310,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_helmβ",
+    "name": "mhwilds_armor_g_arkveld_helm_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2328,7 +2328,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_helmα",
+    "name": "mhwilds_armor_g_doshaguma_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2346,7 +2346,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_helmβ",
+    "name": "mhwilds_armor_g_doshaguma_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2361,7 +2361,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_ebony_helmα",
+    "name": "mhwilds_armor_g_ebony_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2377,7 +2377,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_ebony_helmβ",
+    "name": "mhwilds_armor_g_ebony_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2392,7 +2392,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_helmα",
+    "name": "mhwilds_armor_g_fulgur_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2410,7 +2410,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_helmβ",
+    "name": "mhwilds_armor_g_fulgur_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2425,7 +2425,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_helmα",
+    "name": "mhwilds_armor_g_rathalos_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2443,7 +2443,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_helmβ",
+    "name": "mhwilds_armor_g_rathalos_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2458,7 +2458,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_gore_helmα",
+    "name": "mhwilds_armor_gore_helm_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2476,7 +2476,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gore_helmβ",
+    "name": "mhwilds_armor_gore_helm_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2494,7 +2494,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gravios_helmα",
+    "name": "mhwilds_armor_gravios_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2512,7 +2512,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_gravios_helmβ",
+    "name": "mhwilds_armor_gravios_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2527,7 +2527,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_guild_ace_earringsα",
+    "name": "mhwilds_armor_guild_ace_earrings_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2542,7 +2542,7 @@
     "def": [60, 74, 2, 2, 2, 2, 2]
   },
   {
-    "name": "mhwilds_armor_gypceros_helmα",
+    "name": "mhwilds_armor_gypceros_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2558,7 +2558,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_gypceros_helmβ",
+    "name": "mhwilds_armor_gypceros_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2573,7 +2573,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_high_metal_helmα",
+    "name": "mhwilds_armor_high_metal_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2586,7 +2586,7 @@
     "def": [44, 70, 0, -1, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_headdressα",
+    "name": "mhwilds_armor_hirabami_headdress_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2602,7 +2602,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_headdressβ",
+    "name": "mhwilds_armor_hirabami_headdress_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2617,7 +2617,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hope_maskα",
+    "name": "mhwilds_armor_hope_mask_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2630,7 +2630,7 @@
     "def": [26, 60, 1, 0, 1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_ingot_helmα",
+    "name": "mhwilds_armor_ingot_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2644,7 +2644,7 @@
     "def": [44, 70, -2, 0, 3, -1, 0]
   },
   {
-    "name": "mhwilds_armor_king_beetle_vertexα",
+    "name": "mhwilds_armor_king_beetle_vertex_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2661,7 +2661,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_kunafa_headgearα",
+    "name": "mhwilds_armor_kunafa_headgear_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2677,7 +2677,7 @@
     "def": [44, 70, 1, 1, 4, 1, 1]
   },
   {
-    "name": "mhwilds_armor_kutku_helmα",
+    "name": "mhwilds_armor_kutku_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2693,7 +2693,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_kutku_helmβ",
+    "name": "mhwilds_armor_kutku_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2708,7 +2708,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_butterfly_vertexα",
+    "name": "mhwilds_armor_butterfly_vertex_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2725,7 +2725,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_chainmail_headgearα",
+    "name": "mhwilds_armor_chainmail_headgear_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2738,7 +2738,7 @@
     "def": [26, 60, 0, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_chatacabra_helmα",
+    "name": "mhwilds_armor_chatacabra_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2754,7 +2754,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_chatacabra_helmβ",
+    "name": "mhwilds_armor_chatacabra_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2769,7 +2769,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_comaqchi_accessoryα",
+    "name": "mhwilds_armor_comaqchi_accessory_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2785,7 +2785,7 @@
     "def": [32, 66, -5, 0, 0, 3, 3]
   },
   {
-    "name": "mhwilds_armor_comaqchi_accessoryβ",
+    "name": "mhwilds_armor_comaqchi_accessory_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2800,7 +2800,7 @@
     "def": [32, 66, -5, 0, 0, 3, 3]
   },
   {
-    "name": "mhwilds_armor_commission_helmα",
+    "name": "mhwilds_armor_commission_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2811,7 +2811,7 @@
     "def": [44, 70, 2, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_conga_helmα",
+    "name": "mhwilds_armor_conga_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2827,7 +2827,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_conga_helmβ",
+    "name": "mhwilds_armor_conga_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2842,7 +2842,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardhelmα",
+    "name": "mhwilds_armor_dahaad_shardhelm_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2858,7 +2858,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardhelmβ",
+    "name": "mhwilds_armor_dahaad_shardhelm_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2875,7 +2875,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_damascus_helmα",
+    "name": "mhwilds_armor_damascus_helm_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2889,7 +2889,7 @@
     "def": [56, 72, 4, -2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_death_stench_brainα",
+    "name": "mhwilds_armor_death_stench_brain_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2905,7 +2905,7 @@
     "def": [44, 70, 3, 2, -2, 3, 4]
   },
   {
-    "name": "mhwilds_armor_dober_helmα",
+    "name": "mhwilds_armor_dober_helm_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2919,7 +2919,7 @@
     "def": [56, 72, -2, 0, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_helmα",
+    "name": "mhwilds_armor_doshaguma_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2937,7 +2937,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_helmβ",
+    "name": "mhwilds_armor_doshaguma_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2955,7 +2955,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_dragonking_eyepatchα",
+    "name": "mhwilds_armor_dragonking_eyepatch_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2966,7 +2966,7 @@
     "def": [60, 74, 0, 0, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_duna_wildhelmα",
+    "name": "mhwilds_armor_duna_wildhelm_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -2984,7 +2984,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_duna_wildhelmβ",
+    "name": "mhwilds_armor_duna_wildhelm_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3002,7 +3002,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_expedition_headgearα",
+    "name": "mhwilds_armor_expedition_headgear_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3016,7 +3016,7 @@
     "def": [40, 74, 1, 1, 1, 1, 1]
   },
   {
-    "name": "mhwilds_armor_leather_headgearα",
+    "name": "mhwilds_armor_leather_headgear_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3029,7 +3029,7 @@
     "def": [26, 60, 2, 0, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_melahoa_hatα",
+    "name": "mhwilds_armor_melahoa_hat_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3044,7 +3044,7 @@
     "def": [44, 70, 0, 1, 3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_mimiphytaα",
+    "name": "mhwilds_armor_mimiphyta_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3057,7 +3057,7 @@
     "def": [36, 70, -3, 2, -2, 2, 2]
   },
   {
-    "name": "mhwilds_armor_nerscylla_helmα",
+    "name": "mhwilds_armor_nerscylla_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3073,7 +3073,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_nerscylla_helmβ",
+    "name": "mhwilds_armor_nerscylla_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3088,7 +3088,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_quematrice_helmα",
+    "name": "mhwilds_armor_quematrice_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3104,7 +3104,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_quematrice_helmβ",
+    "name": "mhwilds_armor_quematrice_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3119,7 +3119,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_rathalos_helmα",
+    "name": "mhwilds_armor_rathalos_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3137,7 +3137,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathalos_helmβ",
+    "name": "mhwilds_armor_rathalos_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3155,7 +3155,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_helmα",
+    "name": "mhwilds_armor_rathian_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3171,7 +3171,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_helmβ",
+    "name": "mhwilds_armor_rathian_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3186,7 +3186,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rey_sandhelmα",
+    "name": "mhwilds_armor_rey_sandhelm_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3204,7 +3204,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rey_sandhelmβ",
+    "name": "mhwilds_armor_rey_sandhelm_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3222,7 +3222,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rompopolo_helmα",
+    "name": "mhwilds_armor_rompopolo_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3237,7 +3237,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_rompopolo_helmβ",
+    "name": "mhwilds_armor_rompopolo_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3252,7 +3252,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_sild_hoodα",
+    "name": "mhwilds_armor_sild_hood_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3265,7 +3265,7 @@
     "def": [44, 70, 1, 1, 1, 1, 4]
   },
   {
-    "name": "mhwilds_armor_udra_mirehelmα",
+    "name": "mhwilds_armor_udra_mirehelm_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3283,7 +3283,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_udra_mirehelmβ",
+    "name": "mhwilds_armor_udra_mirehelm_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3301,7 +3301,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_vespoid_helmα",
+    "name": "mhwilds_armor_vespoid_helm_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3317,7 +3317,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_vespoid_helmβ",
+    "name": "mhwilds_armor_vespoid_helm_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3332,7 +3332,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_helmα",
+    "name": "mhwilds_armor_xu_wu_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3350,7 +3350,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_helmβ",
+    "name": "mhwilds_armor_xu_wu_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3367,7 +3367,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_mizutsune_helmα",
+    "name": "mhwilds_armor_mizutsune_helm_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3380,7 +3380,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_mizutsune_helmβ",
+    "name": "mhwilds_armor_mizutsune_helm_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3393,7 +3393,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_numinous_crownα",
+    "name": "mhwilds_armor_numinous_crown_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3406,7 +3406,7 @@
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
-    "name": "mhwilds_armor_numinous_crownβ",
+    "name": "mhwilds_armor_numinous_crown_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_head",
@@ -3419,7 +3419,7 @@
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
-    "name": "mhwilds_armor_ajarakan_mailα",
+    "name": "mhwilds_armor_ajarakan_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3435,7 +3435,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_ajarakan_mailβ",
+    "name": "mhwilds_armor_ajarakan_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3450,7 +3450,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_alloy_mailα",
+    "name": "mhwilds_armor_alloy_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3463,7 +3463,7 @@
     "def": [32, 66, -2, 1, -2, -2, 1]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_mailα",
+    "name": "mhwilds_armor_arkvulcan_mail_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3481,7 +3481,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_mailβ",
+    "name": "mhwilds_armor_arkvulcan_mail_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3496,7 +3496,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_artian_mailα",
+    "name": "mhwilds_armor_artian_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3512,7 +3512,7 @@
     "def": [44, 70, 1, -2, -2, 2, 3]
   },
   {
-    "name": "mhwilds_armor_azuz_apronα",
+    "name": "mhwilds_armor_azuz_apron_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3525,7 +3525,7 @@
     "def": [44, 70, 4, 1, 1, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_mailα",
+    "name": "mhwilds_armor_balahara_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3541,7 +3541,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_mailβ",
+    "name": "mhwilds_armor_balahara_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3556,7 +3556,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_barina_mailα",
+    "name": "mhwilds_armor_barina_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3572,7 +3572,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_barina_mailβ",
+    "name": "mhwilds_armor_barina_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3588,7 +3588,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_battle_mailα",
+    "name": "mhwilds_armor_battle_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3603,7 +3603,7 @@
     "def": [44, 70, 2, -1, -1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_blango_mailα",
+    "name": "mhwilds_armor_blango_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3621,7 +3621,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_blango_mailβ",
+    "name": "mhwilds_armor_blango_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3636,7 +3636,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_bone_mailα",
+    "name": "mhwilds_armor_bone_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3650,7 +3650,7 @@
     "def": [32, 66, 2, 0, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_mailα",
+    "name": "mhwilds_armor_g_arkveld_mail_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3668,7 +3668,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_mailβ",
+    "name": "mhwilds_armor_g_arkveld_mail_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3686,7 +3686,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_mailα",
+    "name": "mhwilds_armor_g_doshaguma_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3704,7 +3704,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_mailβ",
+    "name": "mhwilds_armor_g_doshaguma_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3721,7 +3721,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_ebony_mailα",
+    "name": "mhwilds_armor_g_ebony_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3739,7 +3739,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_ebony_mailβ",
+    "name": "mhwilds_armor_g_ebony_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3756,7 +3756,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_mailα",
+    "name": "mhwilds_armor_g_fulgur_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3774,7 +3774,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_mailβ",
+    "name": "mhwilds_armor_g_fulgur_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3789,7 +3789,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_mailα",
+    "name": "mhwilds_armor_g_rathalos_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3807,7 +3807,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_mailβ",
+    "name": "mhwilds_armor_g_rathalos_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3825,7 +3825,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_gore_mailα",
+    "name": "mhwilds_armor_gore_mail_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3843,7 +3843,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gore_mailβ",
+    "name": "mhwilds_armor_gore_mail_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3860,7 +3860,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gravios_mailα",
+    "name": "mhwilds_armor_gravios_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3878,7 +3878,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_gravios_mailβ",
+    "name": "mhwilds_armor_gravios_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3896,7 +3896,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_guild_ace_mailα",
+    "name": "mhwilds_armor_guild_ace_mail_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3911,7 +3911,7 @@
     "def": [60, 74, 2, 2, 2, 2, 2]
   },
   {
-    "name": "mhwilds_armor_gypceros_mailα",
+    "name": "mhwilds_armor_gypceros_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3927,7 +3927,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_gypceros_mailβ",
+    "name": "mhwilds_armor_gypceros_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3942,7 +3942,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_high_metal_mailα",
+    "name": "mhwilds_armor_high_metal_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3955,7 +3955,7 @@
     "def": [44, 70, 0, -1, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_mailα",
+    "name": "mhwilds_armor_hirabami_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3971,7 +3971,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_mailβ",
+    "name": "mhwilds_armor_hirabami_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -3987,7 +3987,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hope_mailα",
+    "name": "mhwilds_armor_hope_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4000,7 +4000,7 @@
     "def": [26, 60, 1, 0, 1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_ingot_mailα",
+    "name": "mhwilds_armor_ingot_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4014,7 +4014,7 @@
     "def": [44, 70, -2, 0, 3, -1, 0]
   },
   {
-    "name": "mhwilds_armor_king_beetle_thoraxα",
+    "name": "mhwilds_armor_king_beetle_thorax_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4031,7 +4031,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_kranodath_mailα",
+    "name": "mhwilds_armor_kranodath_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4047,7 +4047,7 @@
     "def": [32, 66, 4, -2, 0, -2, 0]
   },
   {
-    "name": "mhwilds_armor_kranodath_mailβ",
+    "name": "mhwilds_armor_kranodath_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4062,7 +4062,7 @@
     "def": [32, 66, 4, -2, 0, -2, 0]
   },
   {
-    "name": "mhwilds_armor_kunafa_cloakα",
+    "name": "mhwilds_armor_kunafa_cloak_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4078,7 +4078,7 @@
     "def": [44, 70, 1, 1, 4, 1, 1]
   },
   {
-    "name": "mhwilds_armor_kutku_mailα",
+    "name": "mhwilds_armor_kutku_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4094,7 +4094,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_kutku_mailβ",
+    "name": "mhwilds_armor_kutku_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4109,7 +4109,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_butterfly_thoraxα",
+    "name": "mhwilds_armor_butterfly_thorax_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4126,7 +4126,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_chainmail_armorα",
+    "name": "mhwilds_armor_chainmail_armor_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4140,7 +4140,7 @@
     "def": [26, 60, 0, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_chatacabra_mailα",
+    "name": "mhwilds_armor_chatacabra_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4156,7 +4156,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_chatacabra_mailβ",
+    "name": "mhwilds_armor_chatacabra_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4171,7 +4171,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_commission_mailα",
+    "name": "mhwilds_armor_commission_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4182,7 +4182,7 @@
     "def": [44, 70, 2, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_conga_mailα",
+    "name": "mhwilds_armor_conga_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4198,7 +4198,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_conga_mailβ",
+    "name": "mhwilds_armor_conga_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4213,7 +4213,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardmailα",
+    "name": "mhwilds_armor_dahaad_shardmail_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4231,7 +4231,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardmailβ",
+    "name": "mhwilds_armor_dahaad_shardmail_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4249,7 +4249,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_damascus_mailα",
+    "name": "mhwilds_armor_damascus_mail_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4263,7 +4263,7 @@
     "def": [56, 72, 4, -2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_death_stench_muscleα",
+    "name": "mhwilds_armor_death_stench_muscle_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4279,7 +4279,7 @@
     "def": [44, 70, 3, 2, -2, 3, 4]
   },
   {
-    "name": "mhwilds_armor_dober_mailα",
+    "name": "mhwilds_armor_dober_mail_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4293,7 +4293,7 @@
     "def": [56, 72, -2, 0, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_mailα",
+    "name": "mhwilds_armor_doshaguma_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4311,7 +4311,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_mailβ",
+    "name": "mhwilds_armor_doshaguma_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4328,7 +4328,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_duna_wildmailα",
+    "name": "mhwilds_armor_duna_wildmail_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4346,7 +4346,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_duna_wildmailβ",
+    "name": "mhwilds_armor_duna_wildmail_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4363,7 +4363,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_leather_mailα",
+    "name": "mhwilds_armor_leather_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4377,7 +4377,7 @@
     "def": [26, 60, 2, 0, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_melahoa_jacketα",
+    "name": "mhwilds_armor_melahoa_jacket_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4390,7 +4390,7 @@
     "def": [44, 70, 0, 1, 3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_nerscylla_mailα",
+    "name": "mhwilds_armor_nerscylla_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4406,7 +4406,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_nerscylla_mailβ",
+    "name": "mhwilds_armor_nerscylla_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4421,7 +4421,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_quematrice_mailα",
+    "name": "mhwilds_armor_quematrice_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4437,7 +4437,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_quematrice_mailβ",
+    "name": "mhwilds_armor_quematrice_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4452,7 +4452,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_rathalos_mailα",
+    "name": "mhwilds_armor_rathalos_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4470,7 +4470,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathalos_mailβ",
+    "name": "mhwilds_armor_rathalos_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4487,7 +4487,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_mailα",
+    "name": "mhwilds_armor_rathian_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4502,7 +4502,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_mailβ",
+    "name": "mhwilds_armor_rathian_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4517,7 +4517,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rey_sandmailα",
+    "name": "mhwilds_armor_rey_sandmail_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4535,7 +4535,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rey_sandmailβ",
+    "name": "mhwilds_armor_rey_sandmail_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4551,7 +4551,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rompopolo_mailα",
+    "name": "mhwilds_armor_rompopolo_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4567,7 +4567,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_rompopolo_mailβ",
+    "name": "mhwilds_armor_rompopolo_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4582,7 +4582,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_sild_coatα",
+    "name": "mhwilds_armor_sild_coat_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4597,7 +4597,7 @@
     "def": [44, 70, 1, 1, 1, 1, 4]
   },
   {
-    "name": "mhwilds_armor_udra_miremailα",
+    "name": "mhwilds_armor_udra_miremail_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4615,7 +4615,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_udra_miremailβ",
+    "name": "mhwilds_armor_udra_miremail_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4632,7 +4632,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_vespoid_mailα",
+    "name": "mhwilds_armor_vespoid_mail_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4648,7 +4648,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_vespoid_mailβ",
+    "name": "mhwilds_armor_vespoid_mail_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4663,7 +4663,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_mailα",
+    "name": "mhwilds_armor_xu_wu_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4680,7 +4680,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_mailβ",
+    "name": "mhwilds_armor_xu_wu_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4693,7 +4693,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_numinous_shroudα",
+    "name": "mhwilds_armor_numinous_shroud_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4706,7 +4706,7 @@
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
-    "name": "mhwilds_armor_numinous_shroudβ",
+    "name": "mhwilds_armor_numinous_shroud_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4717,7 +4717,7 @@
     "def": [68, 94, -2, 2, 2, 2, -4]
   },
   {
-    "name": "mhwilds_armor_mizutsune_mailα",
+    "name": "mhwilds_armor_mizutsune_mail_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4730,7 +4730,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_mizutsune_mailβ",
+    "name": "mhwilds_armor_mizutsune_mail_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_chest",
@@ -4743,7 +4743,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_ajarakan_vambracesα",
+    "name": "mhwilds_armor_ajarakan_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4759,7 +4759,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_ajarakan_vambracesβ",
+    "name": "mhwilds_armor_ajarakan_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4775,7 +4775,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_alloy_vambracesα",
+    "name": "mhwilds_armor_alloy_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4788,7 +4788,7 @@
     "def": [32, 66, -2, 1, -2, -2, 1]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_vambracesα",
+    "name": "mhwilds_armor_arkvulcan_vambraces_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4806,7 +4806,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_vambracesβ",
+    "name": "mhwilds_armor_arkvulcan_vambraces_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4823,7 +4823,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_artian_vambracesα",
+    "name": "mhwilds_armor_artian_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4839,7 +4839,7 @@
     "def": [44, 70, 1, -2, -2, 2, 3]
   },
   {
-    "name": "mhwilds_armor_balahara_vambracesα",
+    "name": "mhwilds_armor_balahara_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4855,7 +4855,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_vambracesβ",
+    "name": "mhwilds_armor_balahara_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4870,7 +4870,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_barina_vambracesα",
+    "name": "mhwilds_armor_barina_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4886,7 +4886,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_barina_vambracesβ",
+    "name": "mhwilds_armor_barina_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4901,7 +4901,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_battle_vambracesα",
+    "name": "mhwilds_armor_battle_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4914,7 +4914,7 @@
     "def": [44, 70, 2, -1, -1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_blango_vambracesα",
+    "name": "mhwilds_armor_blango_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4932,7 +4932,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_blango_vambracesβ",
+    "name": "mhwilds_armor_blango_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4949,7 +4949,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_bone_vambracesα",
+    "name": "mhwilds_armor_bone_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4963,7 +4963,7 @@
     "def": [32, 66, 2, 0, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_butterfly_brachiaα",
+    "name": "mhwilds_armor_butterfly_brachia_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4980,7 +4980,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_vambracesα",
+    "name": "mhwilds_armor_g_arkveld_vambraces_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -4998,7 +4998,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_vambracesβ",
+    "name": "mhwilds_armor_g_arkveld_vambraces_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5013,7 +5013,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_bracesα",
+    "name": "mhwilds_armor_g_doshaguma_braces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5031,7 +5031,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_bracesβ",
+    "name": "mhwilds_armor_g_doshaguma_braces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5046,7 +5046,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_ebony_bracesα",
+    "name": "mhwilds_armor_g_ebony_braces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5064,7 +5064,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_ebony_bracesβ",
+    "name": "mhwilds_armor_g_ebony_braces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5082,7 +5082,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_vambracesα",
+    "name": "mhwilds_armor_g_fulgur_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5098,7 +5098,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_vambracesβ",
+    "name": "mhwilds_armor_g_fulgur_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5115,7 +5115,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_vambracesα",
+    "name": "mhwilds_armor_g_rathalos_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5134,7 +5134,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_vambracesβ",
+    "name": "mhwilds_armor_g_rathalos_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5149,7 +5149,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_gore_vambracesα",
+    "name": "mhwilds_armor_gore_vambraces_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5167,7 +5167,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gore_vambracesβ",
+    "name": "mhwilds_armor_gore_vambraces_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5183,7 +5183,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gravios_vambracesα",
+    "name": "mhwilds_armor_gravios_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5201,7 +5201,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_gravios_vambracesβ",
+    "name": "mhwilds_armor_gravios_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5216,7 +5216,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_guild_ace_vambracesα",
+    "name": "mhwilds_armor_guild_ace_vambraces_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5231,7 +5231,7 @@
     "def": [60, 74, 2, 2, 2, 2, 2]
   },
   {
-    "name": "mhwilds_armor_gypceros_vambracesα",
+    "name": "mhwilds_armor_gypceros_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5247,7 +5247,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_gypceros_vambracesβ",
+    "name": "mhwilds_armor_gypceros_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5262,7 +5262,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_high_metal_bracesα",
+    "name": "mhwilds_armor_high_metal_braces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5275,7 +5275,7 @@
     "def": [44, 70, 0, -1, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_vambracesα",
+    "name": "mhwilds_armor_hirabami_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5291,7 +5291,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_vambracesβ",
+    "name": "mhwilds_armor_hirabami_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5306,7 +5306,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hope_vambracesα",
+    "name": "mhwilds_armor_hope_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5319,7 +5319,7 @@
     "def": [26, 60, 1, 0, 1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_ingot_vambracesα",
+    "name": "mhwilds_armor_ingot_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5333,7 +5333,7 @@
     "def": [44, 70, -2, 0, 3, -1, 0]
   },
   {
-    "name": "mhwilds_armor_king_beetle_brachiaα",
+    "name": "mhwilds_armor_king_beetle_brachia_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5350,7 +5350,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_kutku_vambracesα",
+    "name": "mhwilds_armor_kutku_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5366,7 +5366,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_kutku_vambracesβ",
+    "name": "mhwilds_armor_kutku_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5381,7 +5381,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_chainmail_glovesα",
+    "name": "mhwilds_armor_chainmail_gloves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5395,7 +5395,7 @@
     "def": [26, 60, 0, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_chatacabra_vambracesα",
+    "name": "mhwilds_armor_chatacabra_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5411,7 +5411,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_chatacabra_vambracesβ",
+    "name": "mhwilds_armor_chatacabra_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5426,7 +5426,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_commission_vambracesα",
+    "name": "mhwilds_armor_commission_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5437,7 +5437,7 @@
     "def": [44, 70, 2, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_conga_vambracesα",
+    "name": "mhwilds_armor_conga_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5453,7 +5453,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_conga_vambracesβ",
+    "name": "mhwilds_armor_conga_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5468,7 +5468,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardbracesα",
+    "name": "mhwilds_armor_dahaad_shardbraces_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5486,7 +5486,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardbracesβ",
+    "name": "mhwilds_armor_dahaad_shardbraces_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5504,7 +5504,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_damascus_vambracesα",
+    "name": "mhwilds_armor_damascus_vambraces_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5518,7 +5518,7 @@
     "def": [56, 72, 4, -2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_death_stench_gripα",
+    "name": "mhwilds_armor_death_stench_grip_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5534,7 +5534,7 @@
     "def": [44, 70, 3, 2, -2, 3, 4]
   },
   {
-    "name": "mhwilds_armor_dober_vambracesα",
+    "name": "mhwilds_armor_dober_vambraces_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5548,7 +5548,7 @@
     "def": [56, 72, -2, 0, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_bracesα",
+    "name": "mhwilds_armor_doshaguma_braces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5566,7 +5566,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_bracesβ",
+    "name": "mhwilds_armor_doshaguma_braces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5584,7 +5584,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_duna_wildbracesα",
+    "name": "mhwilds_armor_duna_wildbraces_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5600,7 +5600,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_duna_wildbracesβ",
+    "name": "mhwilds_armor_duna_wildbraces_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5618,7 +5618,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_leather_glovesα",
+    "name": "mhwilds_armor_leather_gloves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5632,7 +5632,7 @@
     "def": [26, 60, 2, 0, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_melahoa_branchα",
+    "name": "mhwilds_armor_melahoa_branch_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5647,7 +5647,7 @@
     "def": [44, 70, 0, 1, 3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_nerscylla_vambracesα",
+    "name": "mhwilds_armor_nerscylla_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5663,7 +5663,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_nerscylla_vambracesβ",
+    "name": "mhwilds_armor_nerscylla_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5678,7 +5678,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_quematrice_bracesα",
+    "name": "mhwilds_armor_quematrice_braces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5694,7 +5694,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_quematrice_bracesβ",
+    "name": "mhwilds_armor_quematrice_braces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5709,7 +5709,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_rathalos_vambracesα",
+    "name": "mhwilds_armor_rathalos_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5727,7 +5727,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathalos_vambracesβ",
+    "name": "mhwilds_armor_rathalos_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5744,7 +5744,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_vambracesα",
+    "name": "mhwilds_armor_rathian_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5760,7 +5760,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_vambracesβ",
+    "name": "mhwilds_armor_rathian_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5776,7 +5776,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rey_sandbracesα",
+    "name": "mhwilds_armor_rey_sandbraces_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5794,7 +5794,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rey_sandbracesβ",
+    "name": "mhwilds_armor_rey_sandbraces_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5811,7 +5811,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rompopolo_vambracesα",
+    "name": "mhwilds_armor_rompopolo_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5827,7 +5827,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_rompopolo_vambracesβ",
+    "name": "mhwilds_armor_rompopolo_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5842,7 +5842,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_talioth_vambracesα",
+    "name": "mhwilds_armor_talioth_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5858,7 +5858,7 @@
     "def": [32, 66, 4, -2, -2, -2, 2]
   },
   {
-    "name": "mhwilds_armor_talioth_vambracesβ",
+    "name": "mhwilds_armor_talioth_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5873,7 +5873,7 @@
     "def": [32, 66, 4, -2, -2, -2, 2]
   },
   {
-    "name": "mhwilds_armor_udra_mirebracesα",
+    "name": "mhwilds_armor_udra_mirebraces_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5891,7 +5891,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_udra_mirebracesβ",
+    "name": "mhwilds_armor_udra_mirebraces_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5909,7 +5909,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_vespoid_vambracesα",
+    "name": "mhwilds_armor_vespoid_vambraces_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5925,7 +5925,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_vespoid_vambracesβ",
+    "name": "mhwilds_armor_vespoid_vambraces_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5940,7 +5940,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_vambracesα",
+    "name": "mhwilds_armor_xu_wu_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5957,7 +5957,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_vambracesβ",
+    "name": "mhwilds_armor_xu_wu_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5974,7 +5974,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_mizutsune_bracesα",
+    "name": "mhwilds_armor_mizutsune_braces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -5987,7 +5987,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_mizutsune_bracesβ",
+    "name": "mhwilds_armor_mizutsune_braces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -6000,7 +6000,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_numinous_vambracesα",
+    "name": "mhwilds_armor_numinous_vambraces_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -6011,7 +6011,7 @@
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
-    "name": "mhwilds_armor_numinous_vambracesβ",
+    "name": "mhwilds_armor_numinous_vambraces_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_arms",
@@ -6024,7 +6024,7 @@
     "def": [68, 94, -2, 2, 2, 0, -1]
   },
   {
-    "name": "mhwilds_armor_ajarakan_coilα",
+    "name": "mhwilds_armor_ajarakan_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6040,7 +6040,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_ajarakan_coilβ",
+    "name": "mhwilds_armor_ajarakan_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6056,7 +6056,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_alloy_coilα",
+    "name": "mhwilds_armor_alloy_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6070,7 +6070,7 @@
     "def": [32, 66, -2, 1, -2, -2, 1]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_coilα",
+    "name": "mhwilds_armor_arkvulcan_coil_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6088,7 +6088,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_coilβ",
+    "name": "mhwilds_armor_arkvulcan_coil_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6106,7 +6106,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_artian_coilα",
+    "name": "mhwilds_armor_artian_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6122,7 +6122,7 @@
     "def": [44, 70, 1, -2, -2, 2, 3]
   },
   {
-    "name": "mhwilds_armor_balahara_coilα",
+    "name": "mhwilds_armor_balahara_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6138,7 +6138,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_coilβ",
+    "name": "mhwilds_armor_balahara_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6153,7 +6153,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_barina_coilα",
+    "name": "mhwilds_armor_barina_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6168,7 +6168,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_barina_coilβ",
+    "name": "mhwilds_armor_barina_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6183,7 +6183,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_battle_coilα",
+    "name": "mhwilds_armor_battle_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6198,7 +6198,7 @@
     "def": [44, 70, 2, -1, -1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_blango_coilα",
+    "name": "mhwilds_armor_blango_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6216,7 +6216,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_blango_coilβ",
+    "name": "mhwilds_armor_blango_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6231,7 +6231,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_bone_coilα",
+    "name": "mhwilds_armor_bone_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6244,7 +6244,7 @@
     "def": [32, 66, 2, 0, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_butterfly_elytraα",
+    "name": "mhwilds_armor_butterfly_elytra_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6261,7 +6261,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_coilα",
+    "name": "mhwilds_armor_g_doshaguma_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6279,7 +6279,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_coilβ",
+    "name": "mhwilds_armor_g_doshaguma_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6294,7 +6294,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_ebony_coilα",
+    "name": "mhwilds_armor_g_ebony_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6312,7 +6312,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_ebony_coilβ",
+    "name": "mhwilds_armor_g_ebony_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6327,7 +6327,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_coilα",
+    "name": "mhwilds_armor_g_fulgur_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6345,7 +6345,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_coilβ",
+    "name": "mhwilds_armor_g_fulgur_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6360,7 +6360,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_coilα",
+    "name": "mhwilds_armor_g_rathalos_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6376,7 +6376,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_coilβ",
+    "name": "mhwilds_armor_g_rathalos_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6393,7 +6393,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_g_seikret_coilα",
+    "name": "mhwilds_armor_g_seikret_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6409,7 +6409,7 @@
     "def": [44, 70, 0, 0, 4, 0, -3]
   },
   {
-    "name": "mhwilds_armor_g_seikret_coilβ",
+    "name": "mhwilds_armor_g_seikret_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6425,7 +6425,7 @@
     "def": [44, 70, 0, 0, 4, 0, -3]
   },
   {
-    "name": "mhwilds_armor_gore_coilα",
+    "name": "mhwilds_armor_gore_coil_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6443,7 +6443,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gore_coilβ",
+    "name": "mhwilds_armor_gore_coil_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6458,7 +6458,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gravios_coilα",
+    "name": "mhwilds_armor_gravios_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6476,7 +6476,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_gravios_coilβ",
+    "name": "mhwilds_armor_gravios_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6492,7 +6492,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_guild_ace_coilα",
+    "name": "mhwilds_armor_guild_ace_coil_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6507,7 +6507,7 @@
     "def": [60, 74, 2, 2, 2, 2, 2]
   },
   {
-    "name": "mhwilds_armor_gypceros_coilα",
+    "name": "mhwilds_armor_gypceros_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6523,7 +6523,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_gypceros_coilβ",
+    "name": "mhwilds_armor_gypceros_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6538,7 +6538,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_high_metal_coilα",
+    "name": "mhwilds_armor_high_metal_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6551,7 +6551,7 @@
     "def": [44, 70, 0, -1, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_coilα",
+    "name": "mhwilds_armor_hirabami_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6566,7 +6566,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_coilβ",
+    "name": "mhwilds_armor_hirabami_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6581,7 +6581,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hope_coilα",
+    "name": "mhwilds_armor_hope_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6595,7 +6595,7 @@
     "def": [26, 60, 1, 0, 1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_ingot_coilα",
+    "name": "mhwilds_armor_ingot_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6609,7 +6609,7 @@
     "def": [44, 70, -2, 0, 3, -1, 0]
   },
   {
-    "name": "mhwilds_armor_king_beetle_elytraα",
+    "name": "mhwilds_armor_king_beetle_elytra_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6626,7 +6626,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_kunafa_sashα",
+    "name": "mhwilds_armor_kunafa_sash_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6642,7 +6642,7 @@
     "def": [44, 70, 1, 1, 4, 1, 1]
   },
   {
-    "name": "mhwilds_armor_kutku_coilα",
+    "name": "mhwilds_armor_kutku_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6658,7 +6658,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_kutku_coilβ",
+    "name": "mhwilds_armor_kutku_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6674,7 +6674,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_chainmail_beltα",
+    "name": "mhwilds_armor_chainmail_belt_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6688,7 +6688,7 @@
     "def": [26, 60, 0, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_chatacabra_coilα",
+    "name": "mhwilds_armor_chatacabra_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6704,7 +6704,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_chatacabra_coilβ",
+    "name": "mhwilds_armor_chatacabra_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6719,7 +6719,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_commission_coilα",
+    "name": "mhwilds_armor_commission_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6730,7 +6730,7 @@
     "def": [44, 70, 2, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_conga_coilα",
+    "name": "mhwilds_armor_conga_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6746,7 +6746,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_conga_coilβ",
+    "name": "mhwilds_armor_conga_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6761,7 +6761,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardcoilα",
+    "name": "mhwilds_armor_dahaad_shardcoil_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6779,7 +6779,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardcoilβ",
+    "name": "mhwilds_armor_dahaad_shardcoil_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6797,7 +6797,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_damascus_coilα",
+    "name": "mhwilds_armor_damascus_coil_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6811,7 +6811,7 @@
     "def": [56, 72, 4, -2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_death_stench_bowelsα",
+    "name": "mhwilds_armor_death_stench_bowels_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6827,7 +6827,7 @@
     "def": [44, 70, 3, 2, -2, 3, 4]
   },
   {
-    "name": "mhwilds_armor_dober_coilα",
+    "name": "mhwilds_armor_dober_coil_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6841,7 +6841,7 @@
     "def": [56, 72, -2, 0, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_coilα",
+    "name": "mhwilds_armor_doshaguma_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6858,7 +6858,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_coilβ",
+    "name": "mhwilds_armor_doshaguma_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6875,7 +6875,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_duna_wildcoilα",
+    "name": "mhwilds_armor_duna_wildcoil_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6893,7 +6893,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_duna_wildcoilβ",
+    "name": "mhwilds_armor_duna_wildcoil_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6908,7 +6908,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_coilα",
+    "name": "mhwilds_armor_g_arkveld_coil_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6926,7 +6926,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_coilβ",
+    "name": "mhwilds_armor_g_arkveld_coil_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6943,7 +6943,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_leather_beltα",
+    "name": "mhwilds_armor_leather_belt_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6956,7 +6956,7 @@
     "def": [26, 60, 2, 0, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_melahoa_foliaα",
+    "name": "mhwilds_armor_melahoa_folia_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6971,7 +6971,7 @@
     "def": [44, 70, 0, 1, 3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_nerscylla_coilα",
+    "name": "mhwilds_armor_nerscylla_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -6987,7 +6987,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_nerscylla_coilβ",
+    "name": "mhwilds_armor_nerscylla_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7002,7 +7002,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_quematrice_coilα",
+    "name": "mhwilds_armor_quematrice_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7018,7 +7018,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_quematrice_coilβ",
+    "name": "mhwilds_armor_quematrice_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7033,7 +7033,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_rathalos_coilα",
+    "name": "mhwilds_armor_rathalos_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7051,7 +7051,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathalos_coilβ",
+    "name": "mhwilds_armor_rathalos_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7068,7 +7068,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_coilα",
+    "name": "mhwilds_armor_rathian_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7084,7 +7084,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_coilβ",
+    "name": "mhwilds_armor_rathian_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7099,7 +7099,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rey_sandcoilα",
+    "name": "mhwilds_armor_rey_sandcoil_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7117,7 +7117,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rey_sandcoilβ",
+    "name": "mhwilds_armor_rey_sandcoil_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7135,7 +7135,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rompopolo_coilα",
+    "name": "mhwilds_armor_rompopolo_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7151,7 +7151,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_rompopolo_coilβ",
+    "name": "mhwilds_armor_rompopolo_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7166,7 +7166,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_suja_sashα",
+    "name": "mhwilds_armor_suja_sash_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7179,7 +7179,7 @@
     "def": [44, 70, 1, 1, 1, 4, 1]
   },
   {
-    "name": "mhwilds_armor_udra_mirecoilα",
+    "name": "mhwilds_armor_udra_mirecoil_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7197,7 +7197,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_udra_mirecoilβ",
+    "name": "mhwilds_armor_udra_mirecoil_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7214,7 +7214,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_vespoid_coilα",
+    "name": "mhwilds_armor_vespoid_coil_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7230,7 +7230,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_vespoid_coilβ",
+    "name": "mhwilds_armor_vespoid_coil_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7245,7 +7245,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_coilα",
+    "name": "mhwilds_armor_xu_wu_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7261,7 +7261,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_coilβ",
+    "name": "mhwilds_armor_xu_wu_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7279,7 +7279,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_numinous_overlayα",
+    "name": "mhwilds_armor_numinous_overlay_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7292,7 +7292,7 @@
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
-    "name": "mhwilds_armor_numinous_overlayβ",
+    "name": "mhwilds_armor_numinous_overlay_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7303,7 +7303,7 @@
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
-    "name": "mhwilds_armor_mizutsune_coilα",
+    "name": "mhwilds_armor_mizutsune_coil_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7316,7 +7316,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_mizutsune_coilβ",
+    "name": "mhwilds_armor_mizutsune_coil_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_waist",
@@ -7329,7 +7329,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_ajarakan_greavesα",
+    "name": "mhwilds_armor_ajarakan_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7345,7 +7345,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_ajarakan_greavesβ",
+    "name": "mhwilds_armor_ajarakan_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7360,7 +7360,7 @@
     "def": [48, 74, 3, -3, 1, -2, 0]
   },
   {
-    "name": "mhwilds_armor_alloy_greavesα",
+    "name": "mhwilds_armor_alloy_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7374,7 +7374,7 @@
     "def": [32, 66, -2, 1, -2, -2, 1]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_greavesα",
+    "name": "mhwilds_armor_arkvulcan_greaves_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7392,7 +7392,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_arkvulcan_greavesβ",
+    "name": "mhwilds_armor_arkvulcan_greaves_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7410,7 +7410,7 @@
     "def": [66, 80, 2, 0, -1, 0, -3]
   },
   {
-    "name": "mhwilds_armor_artian_greavesα",
+    "name": "mhwilds_armor_artian_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7426,7 +7426,7 @@
     "def": [44, 70, 1, -2, -2, 2, 3]
   },
   {
-    "name": "mhwilds_armor_azuz_pantsα",
+    "name": "mhwilds_armor_azuz_pants_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7439,7 +7439,7 @@
     "def": [44, 70, 4, 1, 1, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_greavesα",
+    "name": "mhwilds_armor_balahara_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7455,7 +7455,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_balahara_greavesβ",
+    "name": "mhwilds_armor_balahara_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7470,7 +7470,7 @@
     "def": [38, 72, -1, 2, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_barina_greavesα",
+    "name": "mhwilds_armor_barina_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7486,7 +7486,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_barina_greavesβ",
+    "name": "mhwilds_armor_barina_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7501,7 +7501,7 @@
     "def": [36, 70, -3, 3, 0, 0, 3]
   },
   {
-    "name": "mhwilds_armor_battle_greavesα",
+    "name": "mhwilds_armor_battle_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7516,7 +7516,7 @@
     "def": [44, 70, 2, -1, -1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_blango_greavesα",
+    "name": "mhwilds_armor_blango_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7534,7 +7534,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_blango_greavesβ",
+    "name": "mhwilds_armor_blango_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7549,7 +7549,7 @@
     "def": [48, 74, -4, 1, 0, 4, 0]
   },
   {
-    "name": "mhwilds_armor_bone_greavesα",
+    "name": "mhwilds_armor_bone_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7562,7 +7562,7 @@
     "def": [32, 66, 2, 0, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_butterfly_cruraα",
+    "name": "mhwilds_armor_butterfly_crura_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7579,7 +7579,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_greavesβ",
+    "name": "mhwilds_armor_g_arkveld_greaves_β",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7597,7 +7597,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_greavesα",
+    "name": "mhwilds_armor_g_doshaguma_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7615,7 +7615,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_doshaguma_greavesβ",
+    "name": "mhwilds_armor_g_doshaguma_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7633,7 +7633,7 @@
     "def": [48, 74, -3, 2, -1, -2, 2]
   },
   {
-    "name": "mhwilds_armor_g_ebony_greavesα",
+    "name": "mhwilds_armor_g_ebony_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7651,7 +7651,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_ebony_greavesβ",
+    "name": "mhwilds_armor_g_ebony_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7669,7 +7669,7 @@
     "def": [48, 74, -2, -3, -2, -2, 4]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_greavesα",
+    "name": "mhwilds_armor_g_fulgur_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7687,7 +7687,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_fulgur_greavesβ",
+    "name": "mhwilds_armor_g_fulgur_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7705,7 +7705,7 @@
     "def": [48, 74, -1, -1, 2, -3, -2]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_greavesα",
+    "name": "mhwilds_armor_g_rathalos_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7723,7 +7723,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_g_rathalos_greavesβ",
+    "name": "mhwilds_armor_g_rathalos_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7739,7 +7739,7 @@
     "def": [48, 74, 3, 1, -2, 1, -5]
   },
   {
-    "name": "mhwilds_armor_gajau_bootsα",
+    "name": "mhwilds_armor_gajau_boots_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7755,7 +7755,7 @@
     "def": [44, 70, 0, 5, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_gore_greavesα",
+    "name": "mhwilds_armor_gore_greaves_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7773,7 +7773,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gore_greavesβ",
+    "name": "mhwilds_armor_gore_greaves_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7789,7 +7789,7 @@
     "def": [60, 76, -2, 3, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_gravios_greavesα",
+    "name": "mhwilds_armor_gravios_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7807,7 +7807,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_gravios_greavesβ",
+    "name": "mhwilds_armor_gravios_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7825,7 +7825,7 @@
     "def": [52, 78, 4, -3, 1, 0, -2]
   },
   {
-    "name": "mhwilds_armor_guild_ace_bootsα",
+    "name": "mhwilds_armor_guild_ace_boots_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7840,7 +7840,7 @@
     "def": [60, 74, 2, 2, 2, 2, 2]
   },
   {
-    "name": "mhwilds_armor_gypceros_greavesα",
+    "name": "mhwilds_armor_gypceros_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7856,7 +7856,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_gypceros_greavesβ",
+    "name": "mhwilds_armor_gypceros_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7872,7 +7872,7 @@
     "def": [36, 70, -4, 3, 4, -1, 1]
   },
   {
-    "name": "mhwilds_armor_high_metal_greavesα",
+    "name": "mhwilds_armor_high_metal_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7885,7 +7885,7 @@
     "def": [44, 70, 0, -1, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_greavesα",
+    "name": "mhwilds_armor_hirabami_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7901,7 +7901,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hirabami_greavesβ",
+    "name": "mhwilds_armor_hirabami_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7916,7 +7916,7 @@
     "def": [38, 72, -3, 2, -2, 3, 0]
   },
   {
-    "name": "mhwilds_armor_hope_greavesα",
+    "name": "mhwilds_armor_hope_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7929,7 +7929,7 @@
     "def": [26, 60, 1, 0, 1, 0, 0]
   },
   {
-    "name": "mhwilds_armor_ingot_greavesα",
+    "name": "mhwilds_armor_ingot_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7943,7 +7943,7 @@
     "def": [44, 70, -2, 0, 3, -1, 0]
   },
   {
-    "name": "mhwilds_armor_king_beetle_cruraα",
+    "name": "mhwilds_armor_king_beetle_crura_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7960,7 +7960,7 @@
     "def": [44, 70, -1, -1, 2, 0, 2]
   },
   {
-    "name": "mhwilds_armor_kunafa_chapsα",
+    "name": "mhwilds_armor_kunafa_chaps_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7976,7 +7976,7 @@
     "def": [44, 70, 1, 1, 4, 1, 1]
   },
   {
-    "name": "mhwilds_armor_kutku_greavesα",
+    "name": "mhwilds_armor_kutku_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -7992,7 +7992,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_kutku_greavesβ",
+    "name": "mhwilds_armor_kutku_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8008,7 +8008,7 @@
     "def": [36, 70, 3, 0, -2, -4, 2]
   },
   {
-    "name": "mhwilds_armor_chainmail_pantsα",
+    "name": "mhwilds_armor_chainmail_pants_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8021,7 +8021,7 @@
     "def": [26, 60, 0, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_chatacabra_greavesα",
+    "name": "mhwilds_armor_chatacabra_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8037,7 +8037,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_chatacabra_greavesβ",
+    "name": "mhwilds_armor_chatacabra_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8052,7 +8052,7 @@
     "def": [36, 70, 1, 2, -3, -1, 1]
   },
   {
-    "name": "mhwilds_armor_commission_greavesα",
+    "name": "mhwilds_armor_commission_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8063,7 +8063,7 @@
     "def": [44, 70, 2, 2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_conga_greavesα",
+    "name": "mhwilds_armor_conga_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8079,7 +8079,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_conga_greavesβ",
+    "name": "mhwilds_armor_conga_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8094,7 +8094,7 @@
     "def": [36, 70, -3, 1, 1, -1, 2]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardgreavesα",
+    "name": "mhwilds_armor_dahaad_shardgreaves_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8112,7 +8112,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_dahaad_shardgreavesβ",
+    "name": "mhwilds_armor_dahaad_shardgreaves_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8127,7 +8127,7 @@
     "def": [60, 76, -3, 2, -1, 2, -1]
   },
   {
-    "name": "mhwilds_armor_damascus_greavesα",
+    "name": "mhwilds_armor_damascus_greaves_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8141,7 +8141,7 @@
     "def": [56, 72, 4, -2, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_death_stench_heelα",
+    "name": "mhwilds_armor_death_stench_heel_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8157,7 +8157,7 @@
     "def": [44, 70, 3, 2, -2, 3, 4]
   },
   {
-    "name": "mhwilds_armor_dober_greavesα",
+    "name": "mhwilds_armor_dober_greaves_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8171,7 +8171,7 @@
     "def": [56, 72, -2, 0, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_greavesα",
+    "name": "mhwilds_armor_doshaguma_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8189,7 +8189,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_doshaguma_greavesβ",
+    "name": "mhwilds_armor_doshaguma_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8207,7 +8207,7 @@
     "def": [48, 74, -3, 2, -1, -1, 4]
   },
   {
-    "name": "mhwilds_armor_duna_wildgreavesα",
+    "name": "mhwilds_armor_duna_wildgreaves_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8225,7 +8225,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_duna_wildgreavesβ",
+    "name": "mhwilds_armor_duna_wildgreaves_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8242,7 +8242,7 @@
     "def": [60, 76, -1, 4, -3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_g_arkveld_greavesα",
+    "name": "mhwilds_armor_g_arkveld_greaves_α",
     "rarity": 8,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8260,7 +8260,7 @@
     "def": [66, 80, 2, 0, -1, 0, -4]
   },
   {
-    "name": "mhwilds_armor_leather_pantsα",
+    "name": "mhwilds_armor_leather_pants_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8274,7 +8274,7 @@
     "def": [26, 60, 2, 0, 0, 0, 0]
   },
   {
-    "name": "mhwilds_armor_melahoa_rootsα",
+    "name": "mhwilds_armor_melahoa_roots_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8287,7 +8287,7 @@
     "def": [44, 70, 0, 1, 3, 0, 0]
   },
   {
-    "name": "mhwilds_armor_nerscylla_greavesα",
+    "name": "mhwilds_armor_nerscylla_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8303,7 +8303,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_nerscylla_greavesβ",
+    "name": "mhwilds_armor_nerscylla_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8318,7 +8318,7 @@
     "def": [38, 72, -2, 2, -2, 1, 2]
   },
   {
-    "name": "mhwilds_armor_piragill_greavesα",
+    "name": "mhwilds_armor_piragill_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8334,7 +8334,7 @@
     "def": [32, 66, -3, 4, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_piragill_greavesβ",
+    "name": "mhwilds_armor_piragill_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8349,7 +8349,7 @@
     "def": [32, 66, -3, 4, -3, 1, 1]
   },
   {
-    "name": "mhwilds_armor_quematrice_greavesα",
+    "name": "mhwilds_armor_quematrice_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8365,7 +8365,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_quematrice_greavesβ",
+    "name": "mhwilds_armor_quematrice_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8380,7 +8380,7 @@
     "def": [36, 70, 2, -3, 0, -1, 0]
   },
   {
-    "name": "mhwilds_armor_rathalos_greavesα",
+    "name": "mhwilds_armor_rathalos_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8398,7 +8398,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathalos_greavesβ",
+    "name": "mhwilds_armor_rathalos_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8415,7 +8415,7 @@
     "def": [48, 74, 3, 1, -2, 1, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_greavesα",
+    "name": "mhwilds_armor_rathian_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8431,7 +8431,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rathian_greavesβ",
+    "name": "mhwilds_armor_rathian_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8447,7 +8447,7 @@
     "def": [38, 72, 2, 0, -2, 0, -3]
   },
   {
-    "name": "mhwilds_armor_rey_sandgreavesα",
+    "name": "mhwilds_armor_rey_sandgreaves_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8465,7 +8465,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rey_sandgreavesβ",
+    "name": "mhwilds_armor_rey_sandgreaves_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8482,7 +8482,7 @@
     "def": [60, 76, 0, -2, 4, -3, 0]
   },
   {
-    "name": "mhwilds_armor_rompopolo_greavesα",
+    "name": "mhwilds_armor_rompopolo_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8498,7 +8498,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_rompopolo_greavesβ",
+    "name": "mhwilds_armor_rompopolo_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8513,7 +8513,7 @@
     "def": [36, 70, 0, -3, 0, 0, 1]
   },
   {
-    "name": "mhwilds_armor_udra_miregreavesα",
+    "name": "mhwilds_armor_udra_miregreaves_α",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8531,7 +8531,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_udra_miregreavesβ",
+    "name": "mhwilds_armor_udra_miregreaves_β",
     "rarity": 7,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8549,7 +8549,7 @@
     "def": [60, 76, 5, -4, 0, 1, 0]
   },
   {
-    "name": "mhwilds_armor_vespoid_greavesα",
+    "name": "mhwilds_armor_vespoid_greaves_α",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8565,7 +8565,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_vespoid_greavesβ",
+    "name": "mhwilds_armor_vespoid_greaves_β",
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8580,7 +8580,7 @@
     "def": [32, 66, -2, 1, 1, 1, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_greavesα",
+    "name": "mhwilds_armor_xu_wu_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8598,7 +8598,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_xu_wu_greavesβ",
+    "name": "mhwilds_armor_xu_wu_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8615,7 +8615,7 @@
     "def": [48, 74, 1, 1, 1, -3, 2]
   },
   {
-    "name": "mhwilds_armor_mizutsune_greavesα",
+    "name": "mhwilds_armor_mizutsune_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8628,7 +8628,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_mizutsune_greavesβ",
+    "name": "mhwilds_armor_mizutsune_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8639,7 +8639,7 @@
     "def": [48, 74, 0, 2, -3, 1, -1]
   },
   {
-    "name": "mhwilds_armor_numinous_greavesα",
+    "name": "mhwilds_armor_numinous_greaves_α",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8652,7 +8652,7 @@
     "def": [68, 94, -2, 2, 2, 0, -4]
   },
   {
-    "name": "mhwilds_armor_numinous_greavesβ",
+    "name": "mhwilds_armor_numinous_greaves_β",
     "rarity": 6,
     "rank": "mh_common_high_rank",
     "part": "mhwilds_legs",
@@ -8663,5 +8663,151 @@
     },
     "groupSkill": {},
     "def": [68, 94, -2, 2, 2, 0, -4]
+  },
+
+  {
+    "name": "mhwilds_armor_clerk_visor_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_head",
+    "skills": {
+      "mhwilds_armor_skill_divine_blessing": 2,
+      "mhwilds_armor_skill_recovery_up": 1,
+      "mhwilds_armor_skill_palico_rally": 2
+    },
+    "slots": [2, 1, "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [48, 82, 2, 2, 2, 2, 2]
+  },
+  {
+    "name": "mhwilds_armor_clerk_suit_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_chest",
+    "skills": {
+      "mhwilds_armor_skill_divine_blessing": 1,
+      "mhwilds_armor_skill_survival_expert": 2
+    },
+    "slots": [2, 1, "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [48, 82, 2, 2, 2, 2, 2]
+  },
+  {
+    "name": "mhwilds_armor_clerk_vambraces_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_arms",
+    "skills": {
+      "mhwilds_armor_skill_survival_expert": 1,
+      "mhwilds_armor_skill_tool_specialist": 2,
+      "mhwilds_armor_skill_palico_rally": 1
+    },
+    "slots": [2, 1, "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [48, 82, 2, 2, 2, 2, 2]
+  },
+  {
+    "name": "mhwilds_armor_clerk_belt_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_waist",
+    "skills": {
+      "mhwilds_armor_skill_recovery_up": 2,
+      "mhwilds_armor_skill_tool_specialist": 2
+    },
+    "slots": [1, "-", "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [48, 82, 2, 2, 2, 2, 2]
+  },
+  {
+    "name": "mhwilds_armor_clerk_shoes_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_legs",
+    "skills": {
+      "mhwilds_armor_skill_tool_specialist": 1,
+      "mhwilds_armor_skill_palico_rally": 2
+    },
+    "slots": [2, 2, "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [48, 82, 2, 2, 2, 2, 2]
+  },
+
+  {
+    "name": "mhwilds_armor_guild_cross_circlet_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_head",
+    "skills": {
+      "mhwilds_armor_skill_flinch_free": 1,
+      "mhwilds_armor_skill_bind_resistance": 3,
+      "mhwilds_armor_skill_earplugs": 1
+    },
+    "slots": [1, "-", "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [36, 70, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "mhwilds_armor_guild_cross_suit_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_chest",
+    "skills": {
+      "mhwilds_armor_skill_tremor_resistance": 1,
+      "mhwilds_armor_skill_earplugs": 1
+    },
+    "slots": [2, 1, "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [36, 70, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "mhwilds_armor_guild_cross_vambraces_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_arms",
+    "skills": {
+      "mhwilds_armor_skill_flinch_free": 2,
+      "mhwilds_armor_skill_tremor_resistance": 1,
+      "mhwilds_armor_skill_bind_resistance": 1
+    },
+    "slots": [2, "-", "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [36, 70, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "mhwilds_armor_guild_cross_coil_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_waist",
+    "skills": {
+      "mhwilds_armor_skill_windproof": 2,
+      "mhwilds_armor_skill_earplugs": 1
+    },
+    "slots": [2, "-", "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [36, 70, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "mhwilds_armor_guild_cross_boots_α",
+    "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "part": "mhwilds_legs",
+    "skills": {
+      "mhwilds_armor_skill_tremor_resistance": 1,
+      "mhwilds_armor_skill_windproof": 1
+    },
+    "slots": [2, 2, "-"],
+    "seriesSkill": {},
+    "groupSkill": {},
+    "def": [36, 70, 0, 0, 0, 0, 0]
   }
 ]
