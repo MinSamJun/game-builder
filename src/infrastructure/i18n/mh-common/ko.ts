@@ -2,6 +2,7 @@ export const commonKo = {
   mh_common_none: "없음",
   mh_common_mhWilds: "몬스터 헌터 : 와일즈",
   mh_common_mhWilds_planner: "몬스터 헌터 : 와일즈 - 빌드 플래너",
+  mh_common_simulator: "시뮬레이터",
   mh_common_next_page: "다음 페이지",
   mh_common_prev_page: "이전 페이지",
   mh_common_low_rank: "하위",

@@ -17,6 +17,10 @@ export default function Mhwilds() {
         title={mhCommonNamespace?.mh_common_mhWilds}
         items={[
           {
+            pageTitle: mhCommonNamespace?.mh_common_simulator,
+            pageHref: "/mh-wilds/simulator",
+          },
+          {
             pageTitle: mhCommonNamespace?.mh_common_weapon,
             pageHref: "/mh-wilds/weapon",
           },

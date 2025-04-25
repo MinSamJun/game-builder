@@ -2,6 +2,7 @@ export const commonEn = {
   mh_common_none: "None",
   mh_common_mhWilds: "Monster Hunter : Wilds",
   mh_common_mhWilds_planner: "Monster Hunter : Wilds - Build Planner",
+  mh_common_simulator: "Simulator",
   mh_common_next_page: "Next Page",
   mh_common_prev_page: "Previous Page",
   mh_common_low_rank: "Low Rank",

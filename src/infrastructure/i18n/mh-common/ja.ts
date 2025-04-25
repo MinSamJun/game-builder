@@ -2,6 +2,7 @@ export const commonJa = {
   mh_common_none: "なし",
   mh_common_mhWilds: "モンスターハンター : ワイルズ",
   mh_common_mhWilds_planner: "モンスターハンター : ワイルズ - ビルドプランナー",
+  mh_common_simulator: "シミュレーター",
   mh_common_next_page: "次のページ",
   mh_common_prev_page: "前のページ",
   mh_common_low_rank: "下位",
