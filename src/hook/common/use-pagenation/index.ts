@@ -1,19 +1,19 @@
-import { useEffect, useState, useMemo } from "react";
+import React from "react";
 
 export function usePagination<T>(
   data: T[],
   itemsPerPage: number,
   searchTerm: string
 ) {
-  const [page, setPage] = useState(1);
+  const [page, setPage] = React.useState(1);
 
-  useEffect(() => {
+  React.useEffect(() => {
     setPage(1);
   }, [searchTerm]);
 
   const totalPages = Math.ceil(data.length / itemsPerPage);
 
-  const paginatedData = useMemo(
+  const paginatedData = React.useMemo(
     () => data.slice((page - 1) * itemsPerPage, page * itemsPerPage),
     [data, page, itemsPerPage]
   );
