@@ -4,7 +4,7 @@ import React from "react";
 import { mhWildsChargebladesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
-import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
+import { useMhWildsList } from "@hook/mh-common/weapon-list";
 
 export function ChargeBladeList({ searchTerm }: { searchTerm: string }) {
   const {

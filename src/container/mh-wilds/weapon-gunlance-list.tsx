@@ -4,7 +4,7 @@ import React from "react";
 import { mhWildsGunlancesData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
-import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
+import { useMhWildsList } from "@hook/mh-common/weapon-list";
 import { useI18n } from "@infrastructure/user-i18n";
 
 export function GunlanceList({ searchTerm }: { searchTerm: string }) {
