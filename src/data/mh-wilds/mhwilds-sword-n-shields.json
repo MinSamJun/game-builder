@@ -1,6 +1,6 @@
 [
   {
-    "name": "mhwilds_hope_sword_i",
+    "name": "mhwilds_swordshield_hope_sword_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
@@ -12,7 +12,7 @@
     "skills": {}
   },
   {
-    "name": "mhwilds_hope_sword_ii",
+    "name": "mhwilds_swordshield_hope_sword_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "name": "mhwilds_hope_sword_iii",
+    "name": "mhwilds_swordshield_hope_sword_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
     "rank": "mh_common_low_rank",
@@ -41,7 +41,7 @@
     }
   },
   {
-    "name": "mhwilds_hope_sword_iv",
+    "name": "mhwilds_swordshield_hope_sword_iv",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -56,7 +56,7 @@
     }
   },
   {
-    "name": "mhwilds_hope_sword_v",
+    "name": "mhwilds_swordshield_hope_sword_v",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -71,7 +71,7 @@
     }
   },
   {
-    "name": "mhwilds_rey_kuara_i",
+    "name": "mhwilds_swordshield_rey_kuara_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
     "rank": "mh_common_low_rank",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "name": "mhwilds_rey_kuara_ii",
+    "name": "mhwilds_swordshield_rey_kuara_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -105,7 +105,7 @@
     }
   },
   {
-    "name": "mhwilds_rey_kuara_iii",
+    "name": "mhwilds_swordshield_rey_kuara_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -122,7 +122,7 @@
     }
   },
   {
-    "name": "mhwilds_kuara_clairsword",
+    "name": "mhwilds_swordshield_kuara_clairsword",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -139,7 +139,7 @@
     }
   },
   {
-    "name": "mhwilds_sucher-ankh_i",
+    "name": "mhwilds_swordshield_sucher-ankh_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -155,7 +155,7 @@
     }
   },
   {
-    "name": "mhwilds_jager-ankh",
+    "name": "mhwilds_swordshield_jager-ankh",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -171,7 +171,7 @@
     }
   },
   {
-    "name": "mhwilds_barina_dague_i",
+    "name": "mhwilds_swordshield_barina_dague_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
@@ -187,7 +187,7 @@
     }
   },
   {
-    "name": "mhwilds_barina_dague_ii",
+    "name": "mhwilds_swordshield_barina_dague_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
     "rank": "mh_common_low_rank",
@@ -204,7 +204,7 @@
     }
   },
   {
-    "name": "mhwilds_barina_dague_iii",
+    "name": "mhwilds_swordshield_barina_dague_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -221,7 +221,7 @@
     }
   },
   {
-    "name": "mhwilds_barina_dague_iv",
+    "name": "mhwilds_swordshield_barina_dague_iv",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -238,7 +238,7 @@
     }
   },
   {
-    "name": "mhwilds_lala_acanthopelm",
+    "name": "mhwilds_swordshield_lala_acanthopelm",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -255,7 +255,7 @@
     }
   },
   {
-    "name": "mhwilds_quematrice_cuchillo_i",
+    "name": "mhwilds_swordshield_quematrice_cuchillo_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
@@ -271,7 +271,7 @@
     }
   },
   {
-    "name": "mhwilds_quematrice_cuchillo_ii",
+    "name": "mhwilds_swordshield_quematrice_cuchillo_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
     "rank": "mh_common_low_rank",
@@ -287,7 +287,7 @@
     }
   },
   {
-    "name": "mhwilds_quematrice_cuchillo_iii",
+    "name": "mhwilds_swordshield_quematrice_cuchillo_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -303,7 +303,7 @@
     }
   },
   {
-    "name": "mhwilds_quematrice_cuchillo_iv",
+    "name": "mhwilds_swordshield_quematrice_cuchillo_iv",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -319,7 +319,7 @@
     }
   },
   {
-    "name": "mhwilds_firetrail_fornax",
+    "name": "mhwilds_swordshield_firetrail_fornax",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -335,7 +335,7 @@
     }
   },
   {
-    "name": "mhwilds_gravios_syphos_i",
+    "name": "mhwilds_swordshield_gravios_syphos_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -351,7 +351,7 @@
     }
   },
   {
-    "name": "mhwilds_titan_s_armament",
+    "name": "mhwilds_swordshield_titan_s_armament",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -367,7 +367,7 @@
     }
   },
   {
-    "name": "mhwilds_iron_beater_i",
+    "name": "mhwilds_swordshield_iron_beater_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 2,
     "rank": "mh_common_low_rank",
@@ -381,7 +381,7 @@
     }
   },
   {
-    "name": "mhwilds_iron_beater_ii",
+    "name": "mhwilds_swordshield_iron_beater_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
@@ -395,7 +395,7 @@
     }
   },
   {
-    "name": "mhwilds_iron_beater_iii",
+    "name": "mhwilds_swordshield_iron_beater_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -409,7 +409,7 @@
     }
   },
   {
-    "name": "mhwilds_smithy_s_pride",
+    "name": "mhwilds_swordshield_smithy_s_pride",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -423,7 +423,7 @@
     }
   },
   {
-    "name": "mhwilds_jin_dhaklab_i",
+    "name": "mhwilds_swordshield_jin_dhaklab_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -439,7 +439,7 @@
     }
   },
   {
-    "name": "mhwilds_precipice_mateptro",
+    "name": "mhwilds_swordshield_precipice_mateptro",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -455,7 +455,7 @@
     }
   },
   {
-    "name": "mhwilds_albirath_edge_i",
+    "name": "mhwilds_swordshield_albirath_edge_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
@@ -472,7 +472,7 @@
     }
   },
   {
-    "name": "mhwilds_albirath_edge_ii",
+    "name": "mhwilds_swordshield_albirath_edge_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -489,7 +489,7 @@
     }
   },
   {
-    "name": "mhwilds_melting_point",
+    "name": "mhwilds_swordshield_melting_point",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "name": "mhwilds_heat_edge_i",
+    "name": "mhwilds_swordshield_heat_edge_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -522,7 +522,7 @@
     }
   },
   {
-    "name": "mhwilds_corona",
+    "name": "mhwilds_swordshield_corona",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -538,7 +538,7 @@
     }
   },
   {
-    "name": "mhwilds_princess_rapier_i",
+    "name": "mhwilds_swordshield_princess_rapier_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -555,7 +555,7 @@
     }
   },
   {
-    "name": "mhwilds_princess_rapier_ii",
+    "name": "mhwilds_swordshield_princess_rapier_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "name": "mhwilds_queen_rapier",
+    "name": "mhwilds_swordshield_queen_rapier",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -589,7 +589,7 @@
     }
   },
   {
-    "name": "mhwilds_scaly_sword_i",
+    "name": "mhwilds_swordshield_scaly_sword_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
     "rank": "mh_common_low_rank",
@@ -605,7 +605,7 @@
     }
   },
   {
-    "name": "mhwilds_scaly_sword_ii",
+    "name": "mhwilds_swordshield_scaly_sword_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -621,7 +621,7 @@
     }
   },
   {
-    "name": "mhwilds_scaly_sword_iii",
+    "name": "mhwilds_swordshield_scaly_sword_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -637,7 +637,7 @@
     }
   },
   {
-    "name": "mhwilds_nerskiller",
+    "name": "mhwilds_swordshield_nerskiller",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -653,7 +653,7 @@
     }
   },
   {
-    "name": "mhwilds_balahara_blade_i",
+    "name": "mhwilds_swordshield_balahara_blade_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 2,
     "rank": "mh_common_low_rank",
@@ -669,7 +669,7 @@
     }
   },
   {
-    "name": "mhwilds_balahara_blade_ii",
+    "name": "mhwilds_swordshield_balahara_blade_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
@@ -685,7 +685,7 @@
     }
   },
   {
-    "name": "mhwilds_balahara_blade_iii",
+    "name": "mhwilds_swordshield_balahara_blade_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -701,7 +701,7 @@
     }
   },
   {
-    "name": "mhwilds_balahara_blade_iv",
+    "name": "mhwilds_swordshield_balahara_blade_iv",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -717,7 +717,7 @@
     }
   },
   {
-    "name": "mhwilds_sandsea_katduva",
+    "name": "mhwilds_swordshield_sandsea_katduva",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -733,7 +733,7 @@
     }
   },
   {
-    "name": "mhwilds_bone_kukri_i",
+    "name": "mhwilds_swordshield_bone_kukri_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
@@ -747,7 +747,7 @@
     }
   },
   {
-    "name": "mhwilds_bone_kukri_ii",
+    "name": "mhwilds_swordshield_bone_kukri_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 2,
     "rank": "mh_common_low_rank",
@@ -762,7 +762,7 @@
     }
   },
   {
-    "name": "mhwilds_bone_kukri_iii",
+    "name": "mhwilds_swordshield_bone_kukri_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
@@ -777,7 +777,7 @@
     }
   },
   {
-    "name": "mhwilds_bone_kukri_iv",
+    "name": "mhwilds_swordshield_bone_kukri_iv",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "name": "mhwilds_chief_kukri",
+    "name": "mhwilds_swordshield_chief_kukri",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -807,7 +807,7 @@
     }
   },
   {
-    "name": "mhwilds_rending_fulgur_i",
+    "name": "mhwilds_swordshield_rending_fulgur_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -823,7 +823,7 @@
     }
   },
   {
-    "name": "mhwilds_fulgursword_guardiana",
+    "name": "mhwilds_swordshield_fulgursword_guardiana",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -839,7 +839,7 @@
     }
   },
   {
-    "name": "mhwilds_venom_s_pain_i",
+    "name": "mhwilds_swordshield_venom_s_pain_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -856,7 +856,7 @@
     }
   },
   {
-    "name": "mhwilds_venom_s_pain_ii",
+    "name": "mhwilds_swordshield_venom_s_pain_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -873,7 +873,7 @@
     }
   },
   {
-    "name": "mhwilds_viperine_saber",
+    "name": "mhwilds_swordshield_viperine_saber",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -890,7 +890,7 @@
     }
   },
   {
-    "name": "mhwilds_ajara_saber_i",
+    "name": "mhwilds_swordshield_ajara_saber_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
     "rank": "mh_common_low_rank",
@@ -906,7 +906,7 @@
     }
   },
   {
-    "name": "mhwilds_ajara_saber_ii",
+    "name": "mhwilds_swordshield_ajara_saber_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -922,7 +922,7 @@
     }
   },
   {
-    "name": "mhwilds_ajara-subinda",
+    "name": "mhwilds_swordshield_ajara-subinda",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -938,7 +938,7 @@
     }
   },
   {
-    "name": "mhwilds_snow-white_jambiya_i",
+    "name": "mhwilds_swordshield_snow-white_jambiya_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -955,7 +955,7 @@
     }
   },
   {
-    "name": "mhwilds_snow_lion_jambiya",
+    "name": "mhwilds_swordshield_snow_lion_jambiya",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -972,7 +972,7 @@
     }
   },
   {
-    "name": "mhwilds_chata_club_i",
+    "name": "mhwilds_swordshield_chata_club_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
@@ -986,7 +986,7 @@
     }
   },
   {
-    "name": "mhwilds_chata_club_ii",
+    "name": "mhwilds_swordshield_chata_club_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
     "rank": "mh_common_low_rank",
@@ -1000,7 +1000,7 @@
     }
   },
   {
-    "name": "mhwilds_chata_club_iii",
+    "name": "mhwilds_swordshield_chata_club_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
@@ -1014,7 +1014,7 @@
     }
   },
   {
-    "name": "mhwilds_chata_club_iv",
+    "name": "mhwilds_swordshield_chata_club_iv",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -1029,7 +1029,7 @@
     }
   },
   {
-    "name": "mhwilds_nihil_sword_i",
+    "name": "mhwilds_swordshield_nihil_sword_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "name": "mhwilds_nihil_sword_ii",
+    "name": "mhwilds_swordshield_nihil_sword_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -1061,7 +1061,7 @@
     }
   },
   {
-    "name": "mhwilds_cordayle_s_revocation",
+    "name": "mhwilds_swordshield_cordayle_s_revocation",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -1077,7 +1077,7 @@
     }
   },
   {
-    "name": "mhwilds_g_veldian_mucro_i",
+    "name": "mhwilds_swordshield_g_veldian_mucro_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
@@ -1093,7 +1093,7 @@
     }
   },
   {
-    "name": "mhwilds_g_veldian_mucro_ii",
+    "name": "mhwilds_swordshield_g_veldian_mucro_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -1109,7 +1109,7 @@
     }
   },
   {
-    "name": "mhwilds_g_guiding_artorius",
+    "name": "mhwilds_swordshield_g_guiding_artorius",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -1125,7 +1125,7 @@
     }
   },
   {
-    "name": "mhwilds_veldian_mucro_i",
+    "name": "mhwilds_swordshield_veldian_mucro_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -1141,7 +1141,7 @@
     }
   },
   {
-    "name": "mhwilds_artian_sword_i",
+    "name": "mhwilds_swordshield_artian_sword_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -1153,7 +1153,7 @@
     "skills": {}
   },
   {
-    "name": "mhwilds_artian_sword_ii",
+    "name": "mhwilds_swordshield_artian_sword_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -1165,7 +1165,7 @@
     "skills": {}
   },
   {
-    "name": "mhwilds_verdoloto",
+    "name": "mhwilds_swordshield_verdoloto",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -1177,7 +1177,7 @@
     "skills": {}
   },
   {
-    "name": "mhwilds_esperanza_sword",
+    "name": "mhwilds_swordshield_esperanza_sword",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -1192,7 +1192,7 @@
     }
   },
   {
-    "name": "mhwilds_shrouded_katalo",
+    "name": "mhwilds_swordshield_shrouded_katalo",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -1207,7 +1207,7 @@
     }
   },
   {
-    "name": "mhwilds_guiding_artorius",
+    "name": "mhwilds_swordshield_guiding_artorius",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -1223,7 +1223,7 @@
     }
   },
   {
-    "name": "mhwilds_hana_no_nagoriwo",
+    "name": "mhwilds_swordshield_hana_no_nagoriwo",
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
@@ -1240,7 +1240,7 @@
     }
   },
   {
-    "name": "mhwilds_kurenawi_ougi",
+    "name": "mhwilds_swordshield_kurenawi_ougi",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
@@ -1257,7 +1257,7 @@
     }
   },
   {
-    "name": "mhwilds_zoh_mikal_i",
+    "name": "mhwilds_swordshield_zoh_mikal_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
@@ -1273,7 +1273,7 @@
     }
   },
   {
-    "name": "mhwilds_blazing_mikal",
+    "name": "mhwilds_swordshield_blazing_mikal",
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",

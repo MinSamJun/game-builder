@@ -5,6 +5,7 @@ import { mhWildsArmorSkillDecorationData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useMhWildsList } from "@/hook/mh-common/use-mh-wilds-list";
+import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 
 export function ArmorSkillDecorationList({
   searchTerm,
@@ -36,41 +37,7 @@ export function ArmorSkillDecorationList({
 
   return (
     <>
-      <div className="flex flex-wrap gap-2 mb-4">
-        <button
-          onClick={() =>
-            setSelectedRank(
-              selectedRank === "mh_common_low_rank"
-                ? null
-                : "mh_common_low_rank"
-            )
-          }
-          className={`px-3 py-1 rounded border ${
-            selectedRank === "mh_common_low_rank"
-              ? "bg-blue-500 text-white"
-              : "bg-white text-gray-700"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_low_rank ?? "Low Rank"}
-        </button>
-
-        <button
-          onClick={() =>
-            setSelectedRank(
-              selectedRank === "mh_common_high_rank"
-                ? null
-                : "mh_common_high_rank"
-            )
-          }
-          className={`px-3 py-1 rounded border ${
-            selectedRank === "mh_common_high_rank"
-              ? "bg-blue-500 text-white"
-              : "bg-white text-gray-700"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_high_rank ?? "High Rank"}
-        </button>
-      </div>
+      {useMhSelectRank(selectedRank, setSelectedRank)}
 
       {filteredList.length === 0 ? (
         <NoResults />

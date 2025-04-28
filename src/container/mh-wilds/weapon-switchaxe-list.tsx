@@ -6,6 +6,7 @@ import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useMhWildsList } from "@/hook/mh-common/use-mh-wilds-list";
 import { useI18n } from "@infrastructure/user-i18n";
+import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 
 export function SwitchaxeList({ searchTerm }: { searchTerm: string }) {
   const {
@@ -39,55 +40,10 @@ export function SwitchaxeList({ searchTerm }: { searchTerm: string }) {
 
   return (
     <>
-      <div className="flex flex-wrap gap-2 mb-4">
-        <button
-          onClick={() =>
-            setSelectedRank(
-              selectedRank === "mh_common_low_rank"
-                ? null
-                : "mh_common_low_rank"
-            )
-          }
-          className={`px-3 py-1 rounded border ${
-            selectedRank === "mh_common_low_rank"
-              ? "bg-blue-500 text-white"
-              : "bg-white text-gray-700"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_low_rank ?? "Low Rank"}
-        </button>
-
-        <button
-          onClick={() =>
-            setSelectedRank(
-              selectedRank === "mh_common_high_rank"
-                ? null
-                : "mh_common_high_rank"
-            )
-          }
-          className={`px-3 py-1 rounded border ${
-            selectedRank === "mh_common_high_rank"
-              ? "bg-blue-500 text-white"
-              : "bg-white text-gray-700"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_high_rank ?? "High Rank"}
-        </button>
-
-        <label
-          htmlFor="finalOnlyCheckbox"
-          className="flex items-center gap-2 ml-4 text-sm"
-        >
-          <input
-            id="finalOnlyCheckbox"
-            type="checkbox"
-            checked={isFinalOnly}
-            onChange={() => setIsFinalOnly(!isFinalOnly)}
-          />
-          {mhCommonNamespace?.mh_common_final_only ?? "final only"}
-        </label>
-      </div>
-
+      {useMhSelectRank(selectedRank, setSelectedRank, {
+        isFinalOnly,
+        setIsFinalOnly,
+      })}
       {filteredList.length === 0 ? (
         <NoResults />
       ) : (
