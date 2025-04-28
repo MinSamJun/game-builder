@@ -5,7 +5,7 @@ import { useI18n } from "@infrastructure/user-i18n";
 import {
   WeaponSkillDecorationList,
   ArmorSkillDecorationList,
-} from "@/container/mh-wilds";
+} from "@container/mh-wilds/decoration";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 type EquipmentNamespace =
   | "mhWilds_weapon_decoration"

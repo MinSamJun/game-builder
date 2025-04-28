@@ -13,7 +13,6 @@ export function WeaponSkillDecorationList({
 }) {
   const {
     mhCommonNamespace,
-    mhWildsCommonNamespace,
     useMhWildsListNamespace,
     weaponNamespace: mhWildsWeaponSkillDecorationNamespace,
     filteredList,
@@ -93,9 +92,6 @@ export function WeaponSkillDecorationList({
 
               <div className="gap-4 text-sm mt-2">
                 <div className="bg-gray-800 text-white rounded p-4">
-                  <strong>
-                    {mhWildsCommonNamespace?.mhwilds_common_skills}:
-                  </strong>
                   {skills && Object.entries(skills).length > 0 ? (
                     Object.entries(skills).map(([key, level]) => {
                       const skillName = useMhWildsListNamespace[key] ?? key;

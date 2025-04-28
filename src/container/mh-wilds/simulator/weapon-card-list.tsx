@@ -83,6 +83,7 @@ export function WeaponCardList() {
   return (
     <div className="p-4 space-y-6">
       <LanguageSelector />
+
       <WeaponSkillSelector
         selectedSkills={selectedSkills}
         onSkillChange={handleSkillChange}
