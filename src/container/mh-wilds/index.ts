@@ -21,8 +21,8 @@ import { BowList } from "./weapon-bow-list";
 import { LightBowgunList } from "./weapon-light-bowgun-list";
 import { HeavyBowgunList } from "./weapon-heavy-bowgun-list";
 
-import { WeaponSkillDecorationList } from "./deco-weapon-deco-list";
-import { ArmorSkillDecorationList } from "./deco-armor-deco-list";
+import { WeaponSkillDecorationList } from "./decoration/deco-weapon-deco-list";
+import { ArmorSkillDecorationList } from "./decoration/deco-armor-deco-list";
 import { WeaponSkillList } from "./weapon-skill-list";
 
 export {
