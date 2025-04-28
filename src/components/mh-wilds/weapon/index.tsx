@@ -18,6 +18,7 @@ import {
   LightBowgunList,
   HeavyBowgunList,
 } from "@/container/mh-wilds";
+import { useSelectLanguage } from "@/hook/common/use-select-language";
 
 type EquipmentNamespace =
   | "mhWilds_greatswords"
@@ -36,7 +37,8 @@ type EquipmentNamespace =
   | "mhWilds_heavy_bowguns";
 
 export function MhWildsWeapon() {
-  const { lang, setLang, getNamespaceData } = useI18n();
+  const { getNamespaceData } = useI18n();
+  const { LanguageSelector } = useSelectLanguage();
   const [equipmentType, setEquipmentType] = useState<EquipmentNamespace>(
     "mhWilds_greatswords"
   );
@@ -50,32 +52,7 @@ export function MhWildsWeapon() {
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
-      <div className="mb-6 flex space-x-4">
-        <button
-          onClick={() => setLang("ko")}
-          className={`px-4 py-2 rounded ${
-            lang === "ko" ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
-          }`}
-        >
-          한국어
-        </button>
-        <button
-          onClick={() => setLang("en")}
-          className={`px-4 py-2 rounded ${
-            lang === "en" ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
-          }`}
-        >
-          English
-        </button>
-        <button
-          onClick={() => setLang("ja")}
-          className={`px-4 py-2 rounded ${
-            lang === "ja" ? "bg-blue-500 text-white" : "bg-gray-200 text-black"
-          }`}
-        >
-          日本語
-        </button>
-      </div>
+      <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">
         <button
