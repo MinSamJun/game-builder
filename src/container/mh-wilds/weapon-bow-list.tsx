@@ -4,7 +4,7 @@ import React from "react";
 import { mhWildsBowsData } from "@/data/mh-wilds";
 import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
-import { useMhWildsList } from "@hook/mh-common/weapon-list";
+import { useMhWildsList } from "@/hook/mh-common/use-mh-wilds-list";
 import { useI18n } from "@infrastructure/user-i18n";
 
 export function BowList({ searchTerm }: { searchTerm: string }) {
