@@ -18,20 +18,18 @@
         "name": "next"
       }
     ],
+    "baseUrl": "./src",
     "paths": {
-      "@/*": ["./src/*"],
-      "@infrastructure/*": ["./src/infrastructure/*"],
-      "@i18n/*": ["./src/i18n/*"],
-      "@config/*": ["./src/config/*"],
-      "@types/*": ["./src/types/*"],
-      "@utils/*": ["./src/utils/*"],
-      "@components/*": ["./src/components/*"],
-      "@container/*": ["./src/container/*"],
-      "@hooks/*": ["./src/hooks/*"],
-      "@pages/*": ["./src/pages/*"],
-      "@styles/*": ["./src/styles/*"],
-      "@data/*": ["./src/data/*"],
-      "@hook/*": ["./src/hook/*"]
+      "@/*": ["./*"],
+      "@infrastructure/*": ["infrastructure/*"],
+      "@components/*": ["components/*"],
+      "@container/*": ["container/*"],
+      "@data/*": ["data/*"],
+      "@hook/*": ["hook/*"],
+      "@utils/*": ["utils/*"],
+      "@i18n/*": ["infrastructure/i18n/*"],
+      "@types/*": ["types/*"],
+      "@config/*": ["config/*"]
     }
   },
   "include": [
