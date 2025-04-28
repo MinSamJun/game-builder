@@ -2817,6 +2817,7 @@ export const mhWildsWeaponSkillTypeJa = {
   mhwilds_weapon_skill_type_sharpness: "斬れ味",
   mhwilds_weapon_skill_type_gunner: "ガンナー",
   mhwilds_weapon_skill_type_resource: "資源",
+  mhwilds_weapon_skill_type_bow: "활",
   mhwilds_weapon_skill_type_bowguns: "ボウガン",
   mhwilds_weapon_skill_type_etc: "その他",
 };

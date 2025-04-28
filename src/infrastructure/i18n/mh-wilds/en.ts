@@ -2878,6 +2878,7 @@ export const mhWildsWeaponSkillTypeEn = {
   mhwilds_weapon_skill_type_sharpness: "Sharpness",
   mhwilds_weapon_skill_type_gunner: "Gunner",
   mhwilds_weapon_skill_type_resource: "Resource",
+  mhwilds_weapon_skill_type_bow: "Bow",
   mhwilds_weapon_skill_type_bowguns: "Bowguns",
   mhwilds_weapon_skill_type_etc: "Other",
 };

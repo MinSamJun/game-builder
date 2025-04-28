@@ -2923,6 +2923,7 @@ export const mhWildsWeaponSkillTypeKo = {
   mhwilds_weapon_skill_type_sharpness: "예리도",
   mhwilds_weapon_skill_type_gunner: "거너",
   mhwilds_weapon_skill_type_resource: "자원",
+  mhwilds_weapon_skill_type_bow: "활",
   mhwilds_weapon_skill_type_bowguns: "보우건",
   mhwilds_weapon_skill_type_etc: "기타",
 };
