@@ -4,6 +4,7 @@ import React from "react";
 import { mhWildsGreatswordsData } from "@/data/mh-wilds";
 import { useI18n } from "@infrastructure/user-i18n";
 import { WeaponSkillSelector } from "./weapon-skill-selector";
+import { useSelectLanguage } from "@/hook/common/use-select-language";
 
 type Weapon = {
   name: string;
@@ -20,6 +21,7 @@ type Weapon = {
 
 export function WeaponCardList() {
   const { getNamespaceData } = useI18n();
+  const { LanguageSelector } = useSelectLanguage();
   const mhWildsGreatswordsNamespace = getNamespaceData("mhWilds_greatswords");
 
   const [page, setPage] = React.useState(1);
@@ -80,6 +82,7 @@ export function WeaponCardList() {
 
   return (
     <div className="p-4 space-y-6">
+      <LanguageSelector />
       <WeaponSkillSelector
         selectedSkills={selectedSkills}
         onSkillChange={handleSkillChange}

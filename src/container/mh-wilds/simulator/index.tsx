@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { WeaponCardList } from "@/components/mh-wilds/simulator/weapon-card-list";
+import { WeaponCardList } from "@/container/mh-wilds/simulator/weapon-card-list";
 
 export function SimulatorContainer() {
   return (
