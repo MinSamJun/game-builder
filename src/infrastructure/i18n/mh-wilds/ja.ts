@@ -2808,6 +2808,19 @@ export const mhWildsWeaponSkillsJa = {
     "灼熱化Lv0：固定50ダメージ\n灼熱化Lv1：固定60ダメージ＋火30\n灼熱化Lv2：固定80ダメージ＋火80",
 };
 
+export const mhWildsWeaponSkillTypeJa = {
+  mhwilds_weapon_skill_type_damage: "ダメージ",
+  mhwilds_weapon_skill_type_element: "属性",
+  mhwilds_weapon_skill_type_status: "状態異常",
+  mhwilds_weapon_skill_type_affinity: "会心",
+  mhwilds_weapon_skill_type_guard: "ガード",
+  mhwilds_weapon_skill_type_sharpness: "斬れ味",
+  mhwilds_weapon_skill_type_gunner: "ガンナー",
+  mhwilds_weapon_skill_type_resource: "資源",
+  mhwilds_weapon_skill_type_bowguns: "ボウガン",
+  mhwilds_weapon_skill_type_etc: "その他",
+};
+
 export const mhWildsArmorDecorationJa = {
   mhwilds_adapt_jewel_1: "適応珠【１】",
   mhwilds_ambush_jewel_2: "奇襲珠【２】",

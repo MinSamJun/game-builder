@@ -2869,6 +2869,19 @@ export const mhwildsWeaponSkillsEn = {
     "Scorcher Lv0: 50 fixed damage\nScorcher Lv1: 60 fixed + 30 fire damage\nScorcher Lv2: 80 fixed + 80 fire damage",
 };
 
+export const mhWildsWeaponSkillTypeEn = {
+  mhwilds_weapon_skill_type_damage: "Damage",
+  mhwilds_weapon_skill_type_element: "Element",
+  mhwilds_weapon_skill_type_status: "Status",
+  mhwilds_weapon_skill_type_affinity: "Affinity",
+  mhwilds_weapon_skill_type_guard: "Guard",
+  mhwilds_weapon_skill_type_sharpness: "Sharpness",
+  mhwilds_weapon_skill_type_gunner: "Gunner",
+  mhwilds_weapon_skill_type_resource: "Resource",
+  mhwilds_weapon_skill_type_bowguns: "Bowguns",
+  mhwilds_weapon_skill_type_etc: "Other",
+};
+
 export const mhWildsArmorDecorationEn = {
   mhwilds_adapt_jewel_1: "Adapt Jewel [1]",
   mhwilds_ambush_jewel_2: "Ambush Jewel [2]",

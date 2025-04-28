@@ -2753,6 +2753,7 @@ export const mhWildsWeaponSkillsKo = {
   mhwilds_weapon_skill_rapid_fire_up: "속사 강화",
   mhwilds_weapon_skill_rapid_fire_up_: "라이트 보우건의 속사 피해량 강화",
   mhwilds_weapon_skill_rapid_fire_up_i: "5%",
+  mhwilds_weapon_skill_rapid_fire_up_ii: "10%",
 
   mhwilds_weapon_skill_opening_shot: "퍼스트샷",
   mhwilds_weapon_skill_opening_shot_:
@@ -2911,6 +2912,19 @@ export const mhWildsWeaponSkillsKo = {
     "1~3 번째 타격에 33%/50%/100% 확률로 추가 대미지를 준다. (효과가 발동되면 확률 초기화)\n작열화와 함께 사용시 작열화는 발동하지 않고 추가 대미지",
   mhwilds_weapon_skill_whiteflame_torrent_i:
     "작열화0레벨 : 50 고정피해\n작열화1레벨 60 고정피해 + 30 불피해\n작열화2레벨 80 고정피해 + 80 화염피해",
+};
+
+export const mhWildsWeaponSkillTypeKo = {
+  mhwilds_weapon_skill_type_damage: "피해량",
+  mhwilds_weapon_skill_type_element: "속성",
+  mhwilds_weapon_skill_type_status: "상태이상",
+  mhwilds_weapon_skill_type_affinity: "회심",
+  mhwilds_weapon_skill_type_guard: "가드",
+  mhwilds_weapon_skill_type_sharpness: "예리도",
+  mhwilds_weapon_skill_type_gunner: "거너",
+  mhwilds_weapon_skill_type_resource: "자원",
+  mhwilds_weapon_skill_type_bowguns: "보우건",
+  mhwilds_weapon_skill_type_etc: "기타",
 };
 
 export const mhWildsArmorDecorationKo = {
