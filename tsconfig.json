@@ -39,7 +39,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "src/hook/use-pageation"
+    "src/hook/use-pagenation"
   ],
   "exclude": ["node_modules"]
 }

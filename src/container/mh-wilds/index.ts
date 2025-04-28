@@ -11,7 +11,7 @@ import { HammerList } from "./weapon-hammer-list";
 import { HuntingHornList } from "./weapon-huntinghorn-list";
 import { SwitchaxeList } from "./weapon-switchaxe-list";
 
-import { DualbladeList } from "./weapon-dualbalde-list";
+import { DualbladesList } from "./weapon-dualbaldes-list";
 import { InsectglavieList } from "./weapon-insectglavie-list";
 import { LanceList } from "./weapon-lance-list";
 import { LongswordList } from "./weapon-longsword-list";
@@ -37,7 +37,7 @@ export {
   HammerList,
   HuntingHornList,
   SwitchaxeList,
-  DualbladeList,
+  DualbladesList,
   InsectglavieList,
   LanceList,
   LongswordList,

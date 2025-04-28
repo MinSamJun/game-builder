@@ -8,7 +8,7 @@ import {
   GunlanceList,
   HammerList,
   HuntingHornList,
-  DualbladeList,
+  DualbladesList,
   InsectglavieList,
   LanceList,
   LongswordList,
@@ -246,7 +246,7 @@ export function MhWildsWeapon() {
       ) : equipmentType === "mhWilds_switchaxes" ? (
         <SwitchaxeList searchTerm={term} />
       ) : equipmentType === "mhWilds_dualblades" ? (
-        <DualbladeList searchTerm={term} />
+        <DualbladesList searchTerm={term} />
       ) : equipmentType === "mhWilds_insect_glavies" ? (
         <InsectglavieList searchTerm={term} />
       ) : equipmentType === "mhWilds_lances" ? (

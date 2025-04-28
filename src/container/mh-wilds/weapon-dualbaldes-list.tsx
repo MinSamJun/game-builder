@@ -6,7 +6,7 @@ import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useMhWildsList } from "@infrastructure/mh-common/weapon-list";
 
-export function DualbladeList({ searchTerm }: { searchTerm: string }) {
+export function DualbladesList({ searchTerm }: { searchTerm: string }) {
   const {
     mhCommonNamespace,
     mhWildsCommonNamespace,

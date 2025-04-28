@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
-import { usePagination } from "@/hook/use-pageation";
+import { usePagination } from "@/hook/use-pagenation";
 import { mhWildsKo } from "@infrastructure/i18n/mh-wilds";
 
 type WeaponNamespaceKey = keyof typeof mhWildsKo;
