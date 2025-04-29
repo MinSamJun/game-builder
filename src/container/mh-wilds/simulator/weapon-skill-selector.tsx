@@ -20,13 +20,13 @@ export function WeaponSkillSelector({
   );
 
   const skillsByCategory = React.useMemo(() => {
-    return mhWildsWeaponSkillData.reduce((acc, skill) => {
+    return mhWildsWeaponSkillData.reduce((categoryName, skill) => {
       const category = skill.category || "mhwilds_weapon_skill_type_etc";
-      if (!acc[category]) {
-        acc[category] = [];
+      if (!categoryName[category]) {
+        categoryName[category] = [];
       }
-      acc[category].push(skill);
-      return acc;
+      categoryName[category].push(skill);
+      return categoryName;
     }, {} as Record<string, typeof mhWildsWeaponSkillData>);
   }, []);
 
@@ -56,7 +56,7 @@ export function WeaponSkillSelector({
                     onChange={(e) => onSkillChange(skill.name, e.target.value)}
                   >
                     <option className="text-black" value="">
-                      선택하세요
+                      ----
                     </option>
                     {Object.entries(skill.skills).map(([level, skillId]) => (
                       <option
