@@ -29,8 +29,8 @@ export function WeaponSkillSelector({
       "mhwilds_weapon_skill_type_gunner",
       "mhwilds_weapon_skill_type_bow",
       "mhwilds_weapon_skill_type_bowguns",
-      "mhwilds_weapon_skill_type_guard",
       "mhwilds_weapon_skill_type_resource",
+      "mhwilds_weapon_skill_type_guard",
       "mhwilds_weapon_skill_type_etc",
     ],
     []
