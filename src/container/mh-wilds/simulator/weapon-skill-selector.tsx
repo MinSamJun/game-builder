@@ -19,16 +19,35 @@ export function WeaponSkillSelector({
     "mhWilds_weapon_skill_type"
   );
 
+  const categories = React.useMemo(
+    () => [
+      "mhwilds_weapon_skill_type_damage",
+      "mhwilds_weapon_skill_type_affinity",
+      "mhwilds_weapon_skill_type_element",
+      "mhwilds_weapon_skill_type_status",
+      "mhwilds_weapon_skill_type_sharpness",
+      "mhwilds_weapon_skill_type_gunner",
+      "mhwilds_weapon_skill_type_bow",
+      "mhwilds_weapon_skill_type_bowguns",
+      "mhwilds_weapon_skill_type_guard",
+      "mhwilds_weapon_skill_type_resource",
+      "mhwilds_weapon_skill_type_etc",
+    ],
+    []
+  );
+
   const skillsByCategory = React.useMemo(() => {
-    return mhWildsWeaponSkillData.reduce((categoryName, skill) => {
-      const category = skill.category || "mhwilds_weapon_skill_type_etc";
-      if (!categoryName[category]) {
-        categoryName[category] = [];
-      }
-      categoryName[category].push(skill);
-      return categoryName;
-    }, {} as Record<string, typeof mhWildsWeaponSkillData>);
-  }, []);
+    const result: Record<string, typeof mhWildsWeaponSkillData> = {};
+
+    categories.forEach((category) => {
+      result[category] = mhWildsWeaponSkillData.filter(
+        (skill) =>
+          (skill.category || "mhwilds_weapon_skill_type_etc") === category
+      );
+    });
+
+    return result;
+  }, [categories]);
 
   return (
     <div className="container mx-auto p-4">
@@ -41,7 +60,7 @@ export function WeaponSkillSelector({
             <h3 className="text-xl font-semibold">
               {mhWildsWeaponSkillTypeNamespace[category] ?? category}
             </h3>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
               {skills.map((skill) => (
                 <div
                   key={skill.name}
