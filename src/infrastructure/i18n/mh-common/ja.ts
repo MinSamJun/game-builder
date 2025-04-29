@@ -57,6 +57,8 @@ export const commonJa = {
   mh_common_decoration_slot: "装飾品スロット",
   mh_common_weapon_decoration: "武器装飾品",
   mh_common_armor_decoration: "防具装飾品",
+  mh_common_slots_skills_value: "スロット + スキル",
+  mh_common_expected_attack: "期待攻撃力",
 };
 
 export const mhwildsMelodiesJa = {

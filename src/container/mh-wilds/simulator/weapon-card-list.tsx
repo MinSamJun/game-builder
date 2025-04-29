@@ -22,7 +22,9 @@ type Weapon = {
 export function WeaponCardList() {
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
+
   const mhWildsGreatswordsNamespace = getNamespaceData("mhWilds_greatswords");
+  const mhCommonNamespace = getNamespaceData("mh_common");
 
   const [page, setPage] = React.useState(1);
   const [itemsPerPage] = React.useState(10);
@@ -30,6 +32,7 @@ export function WeaponCardList() {
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
   >({});
+  const [isSearching, setIsSearching] = React.useState(false);
 
   const calculateExpectedAttack = (
     attack: number,
@@ -45,27 +48,56 @@ export function WeaponCardList() {
     }
   };
 
+  const calculateSlotsAndSkillsValue = (weapon: Weapon): number => {
+    const slotsValue = weapon.slots.reduce((sum, slot) => sum + slot, 0);
+    const skillsValue = Object.values(weapon.skills).reduce(
+      (sum, level) => sum + level,
+      0
+    );
+    return slotsValue + skillsValue;
+  };
+
   const weaponsWithExpectedAttack = React.useMemo(() => {
     return (mhWildsGreatswordsData as Weapon[]).map((weapon) => {
       const expectedAttack = calculateExpectedAttack(
         weapon.attack,
         weapon.affinity
       );
-      return { ...weapon, expectedAttack };
+      const slotsAndSkillsValue = calculateSlotsAndSkillsValue(weapon);
+      return { ...weapon, expectedAttack, slotsAndSkillsValue };
     });
   }, []);
 
   const filteredWeapons = React.useMemo(() => {
+    if (!isSearching) return [];
     return weaponsWithExpectedAttack.filter((weapon) => {
       return Object.entries(selectedSkills).every(([skill, level]) => {
         return (weapon.skills[skill] ?? 0) >= Number(level);
       });
     });
-  }, [selectedSkills, weaponsWithExpectedAttack]);
+  }, [selectedSkills, weaponsWithExpectedAttack, isSearching]);
+
+  const [sortType, setSortType] = React.useState<
+    "slotsAndSkillsValue" | "expectedAttack" | null
+  >("slotsAndSkillsValue");
 
   const sortedWeapons = React.useMemo(() => {
-    return filteredWeapons.sort((a, b) => b.expectedAttack - a.expectedAttack);
-  }, [filteredWeapons]);
+    if (!sortType) return filteredWeapons;
+
+    return filteredWeapons.sort((a, b) => {
+      if (sortType === "expectedAttack") {
+        if (b.expectedAttack !== a.expectedAttack) {
+          return b.expectedAttack - a.expectedAttack;
+        }
+        return b.slotsAndSkillsValue - a.slotsAndSkillsValue;
+      } else {
+        if (b.slotsAndSkillsValue !== a.slotsAndSkillsValue) {
+          return b.slotsAndSkillsValue - a.slotsAndSkillsValue;
+        }
+        return b.expectedAttack - a.expectedAttack;
+      }
+    });
+  }, [filteredWeapons, sortType]);
 
   const paginatedData = sortedWeapons.slice(0, page * itemsPerPage);
 
@@ -88,6 +120,49 @@ export function WeaponCardList() {
         selectedSkills={selectedSkills}
         onSkillChange={handleSkillChange}
       />
+
+      <div className="flex flex-wrap gap-2 mb-4">
+        <div className="flex flex-wrap gap-2 mb-4">
+          <button
+            onClick={() =>
+              setSortType(
+                sortType === "slotsAndSkillsValue"
+                  ? null
+                  : "slotsAndSkillsValue"
+              )
+            }
+            className={`px-3 py-1 rounded border ${
+              sortType === "slotsAndSkillsValue"
+                ? "bg-blue-500 text-white"
+                : "bg-white text-gray-700"
+            }`}
+          >
+            {mhCommonNamespace.mh_common_slots_skills_value}
+          </button>
+
+          <button
+            onClick={() =>
+              setSortType(
+                sortType === "expectedAttack" ? null : "expectedAttack"
+              )
+            }
+            className={`px-3 py-1 rounded border ${
+              sortType === "expectedAttack"
+                ? "bg-blue-500 text-white"
+                : "bg-white text-gray-700"
+            }`}
+          >
+            {mhCommonNamespace.mh_common_expected_attack}
+          </button>
+        </div>
+      </div>
+
+      <button
+        onClick={() => setIsSearching(true)}
+        className="w-full p-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition-colors"
+      >
+        {mhCommonNamespace.mh_common_weapon_search}
+      </button>
       <div>
         {paginatedData.map((weapon) => (
           <div
@@ -97,14 +172,21 @@ export function WeaponCardList() {
             <div className="font-semibold">
               {mhWildsGreatswordsNamespace[weapon.name] ?? weapon.name}
             </div>
-            <div>기대 공격력: {weapon.expectedAttack.toFixed(2)}</div>
+            <div>
+              {mhCommonNamespace.mh_common_expected_attack}:{" "}
+              {weapon.expectedAttack.toFixed(2)}
+            </div>
+            <div>
+              {mhCommonNamespace.mh_common_slots_skills_value}:{" "}
+              {weapon.slotsAndSkillsValue}
+            </div>
           </div>
         ))}
       </div>
 
       {filteredWeapons.length > paginatedData.length && (
         <button onClick={loadMoreWeapons} className="w-full p-2 border mt-4">
-          더 보기
+          {mhCommonNamespace.mh_common_next_page}
         </button>
       )}
     </div>
