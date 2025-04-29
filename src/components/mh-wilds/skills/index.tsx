@@ -7,7 +7,7 @@ import {
   ArmorSkillList,
   SeriesSkillList,
   GroupSkillList,
-} from "@/container/mh-wilds";
+} from "@/container/mh-wilds/skills";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 
 type EquipmentNamespace =

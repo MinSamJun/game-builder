@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { mhWildsGreatswordsData } from "@/data/mh-wilds";
+import { mhWildsGreatswordsData } from "@/data/mh-wilds/weapons";
 import { useI18n } from "@infrastructure/user-i18n";
 import { WeaponSkillSelector } from "./weapon-skill-selector";
 import { useSelectLanguage } from "@/hook/common/use-select-language";

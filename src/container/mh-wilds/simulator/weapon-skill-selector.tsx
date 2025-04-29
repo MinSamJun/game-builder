@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { mhWildsWeaponSkillData } from "@/data/mh-wilds";
+import { mhWildsWeaponSkillData } from "@/data/mh-wilds/skills";
 import { useI18n } from "@infrastructure/user-i18n";
 
 interface WeaponSkillSelectorProps {

@@ -17,7 +17,7 @@ import {
   BowList,
   LightBowgunList,
   HeavyBowgunList,
-} from "@/container/mh-wilds";
+} from "@/container/mh-wilds/weapons";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 
 type EquipmentNamespace =
