@@ -12,45 +12,32 @@ import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import { WeaponType } from "@/types/mh-common/weapon-type";
+import {
+  MhWildsWeaponWithPhial,
+  MhWildsWeaponWithKinsectLevel,
+  MhWildsWeaponWithCoating,
+} from "@/types/mh-wilds/weapon";
 
-interface BaseWeapon {
-  name: string;
-  part: string;
-  rarity: number;
-  rank: string;
-  attack: number;
-  element: Record<string, number> | string | null;
-  affinity: number;
-  defense: number;
-  slots: string[];
-  skills: Record<string, number>;
-}
+type Weapon =
+  | MhWildsWeaponWithPhial
+  | MhWildsWeaponWithKinsectLevel
+  | MhWildsWeaponWithCoating;
 
-interface WeaponWithPhial extends BaseWeapon {
-  phial: Record<string, string | null>;
-}
-
-interface WeaponWithKinsectLevel extends BaseWeapon {
-  kinsectlevel: number;
-}
-
-interface WeaponWithCoating extends BaseWeapon {
-  coating: string[];
-}
-
-type Weapon = WeaponWithPhial | WeaponWithKinsectLevel | WeaponWithCoating;
-
-function isWeaponWithPhial(weapon: Weapon): weapon is WeaponWithPhial {
+function isMhWildsWeaponWithPhial(
+  weapon: Weapon
+): weapon is MhWildsWeaponWithPhial {
   return "phial" in weapon;
 }
 
-function isWeaponWithKinsectLevel(
+function isMhWildsWeaponWithKinsectLevel(
   weapon: Weapon
-): weapon is WeaponWithKinsectLevel {
+): weapon is MhWildsWeaponWithKinsectLevel {
   return "kinsectlevel" in weapon;
 }
 
-function isWeaponWithCoating(weapon: Weapon): weapon is WeaponWithCoating {
+function isMhWildsWeaponWithCoating(
+  weapon: Weapon
+): weapon is MhWildsWeaponWithCoating {
   return "coating" in weapon;
 }
 
@@ -77,11 +64,11 @@ export function SingleResourceWeaponsList({
   const selectedWeaponData = React.useMemo(() => {
     switch (weaponType) {
       case "mhWilds_switchaxes":
-        return mhWildsSwitchaxesData as unknown as WeaponWithPhial[];
+        return mhWildsSwitchaxesData;
       case "mhWilds_insect_glavies":
-        return mhWildsInsectGlaviesData as unknown as WeaponWithKinsectLevel[];
+        return mhWildsInsectGlaviesData;
       case "mhWilds_bows":
-        return mhWildsBowsData as unknown as WeaponWithCoating[];
+        return mhWildsBowsData;
       default:
         return [];
     }
@@ -118,7 +105,7 @@ export function SingleResourceWeaponsList({
   const renderSpecialResource = (weapon: Weapon) => {
     switch (weaponType) {
       case "mhWilds_bows":
-        if (isWeaponWithCoating(weapon)) {
+        if (isMhWildsWeaponWithCoating(weapon)) {
           return (
             <div className="bg-gray-800 text-white rounded p-4">
               <strong>{mhWildsCoatingNamespace?.mh_coating}:</strong>
@@ -136,7 +123,7 @@ export function SingleResourceWeaponsList({
         }
         return null;
       case "mhWilds_insect_glavies":
-        if (isWeaponWithKinsectLevel(weapon)) {
+        if (isMhWildsWeaponWithKinsectLevel(weapon)) {
           return (
             <div className="bg-gray-800 text-white rounded p-4">
               <strong>
@@ -148,7 +135,7 @@ export function SingleResourceWeaponsList({
         }
         return null;
       case "mhWilds_switchaxes":
-        if (isWeaponWithPhial(weapon)) {
+        if (isMhWildsWeaponWithPhial(weapon)) {
           return (
             <div className="bg-gray-800 text-white rounded p-4">
               <strong>{mhWildsPhialNamespace?.mh_phial}:</strong>
