@@ -1,0 +1,15 @@
+export type WeaponType =
+  | "mhWilds_greatswords"
+  | "mhWilds_hammers"
+  | "mhWilds_longswords"
+  | "mhWilds_sword_N_shield"
+  | "mhWilds_dualblades"
+  | "mhWilds_lances"
+  | "mhWilds_hunting_horn"
+  | "mhWilds_gunlances"
+  | "mhWilds_switchaxes"
+  | "mhWilds_charge_blades"
+  | "mhWilds_insect_glavies"
+  | "mhWilds_bows"
+  | "mhWilds_light_bowguns"
+  | "mhWilds_heavy_bowguns";

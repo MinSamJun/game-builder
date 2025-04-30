@@ -3,38 +3,18 @@
 import { useState } from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import {
-  GreatswordList,
   ChargeBladeList,
   GunlanceList,
-  HammerList,
   HuntingHornList,
-  DualbladesList,
   InsectglavieList,
-  LanceList,
-  LongswordList,
   SwitchaxeList,
-  SwordNShieldList,
   BowList,
   LightBowgunList,
   HeavyBowgunList,
+  CommonWeaponsList,
 } from "@/container/mh-wilds/weapons";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
-
-type WeaponType =
-  | "mhWilds_greatswords"
-  | "mhWilds_hammers"
-  | "mhWilds_hunting_horn"
-  | "mhWilds_gunlances"
-  | "mhWilds_switchaxes"
-  | "mhWilds_charge_blades"
-  | "mhWilds_longswords"
-  | "mhWilds_sword_N_shield"
-  | "mhWilds_dualblades"
-  | "mhWilds_lances"
-  | "mhWilds_insect_glavies"
-  | "mhWilds_bows"
-  | "mhWilds_light_bowguns"
-  | "mhWilds_heavy_bowguns";
+import { WeaponType } from "@/types/mh-common/weapon-type";
 
 export function MhWildsWeapon() {
   const { getNamespaceData } = useI18n();
@@ -210,28 +190,23 @@ export function MhWildsWeapon() {
         value={term}
         onChange={(e) => setTerm(e.target.value)}
       />
-      {weaponType === "mhWilds_greatswords" ? (
-        <GreatswordList searchTerm={term} />
+      {weaponType === "mhWilds_greatswords" ||
+      weaponType === "mhWilds_hammers" ||
+      weaponType === "mhWilds_longswords" ||
+      weaponType === "mhWilds_sword_N_shield" ||
+      weaponType === "mhWilds_dualblades" ||
+      weaponType === "mhWilds_lances" ? (
+        <CommonWeaponsList searchTerm={term} weaponType={weaponType} />
       ) : weaponType === "mhWilds_charge_blades" ? (
         <ChargeBladeList searchTerm={term} />
       ) : weaponType === "mhWilds_gunlances" ? (
         <GunlanceList searchTerm={term} />
-      ) : weaponType === "mhWilds_hammers" ? (
-        <HammerList searchTerm={term} />
       ) : weaponType === "mhWilds_hunting_horn" ? (
         <HuntingHornList searchTerm={term} />
       ) : weaponType === "mhWilds_switchaxes" ? (
         <SwitchaxeList searchTerm={term} />
-      ) : weaponType === "mhWilds_dualblades" ? (
-        <DualbladesList searchTerm={term} />
       ) : weaponType === "mhWilds_insect_glavies" ? (
         <InsectglavieList searchTerm={term} />
-      ) : weaponType === "mhWilds_lances" ? (
-        <LanceList searchTerm={term} />
-      ) : weaponType === "mhWilds_longswords" ? (
-        <LongswordList searchTerm={term} />
-      ) : weaponType === "mhWilds_sword_N_shield" ? (
-        <SwordNShieldList searchTerm={term} />
       ) : weaponType === "mhWilds_bows" ? (
         <BowList searchTerm={term} />
       ) : weaponType === "mhWilds_light_bowguns" ? (
