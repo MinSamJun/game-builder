@@ -43,7 +43,9 @@ type Decoration = {
   rarity: number;
   rank: string;
   slotlevel: number;
-  skills: Record<string, number>;
+  skills: {
+    [key: string]: number | undefined;
+  };
 };
 
 type WeaponType =
@@ -68,6 +70,9 @@ export function WeaponCardList() {
 
   const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsWeaponSkillNamespace = getNamespaceData("mhWilds_weapon_skill");
+  const mhWildsWeaponDecorationNamespace = getNamespaceData(
+    "mhWilds_weapon_decoration"
+  );
 
   const [weaponType, setWeaponType] = React.useState<WeaponType>(
     "mhWilds_greatswords"
@@ -399,11 +404,38 @@ export function WeaponCardList() {
                 </span>
               ))}
               {weaponDecorations[weapon.name]?.map((deco, index) => (
-                <span key={`deco-${index}`} className="mr-2 text-blue-600">
-                  {mhWildsWeaponSkillNamespace[deco.skill] ?? deco.skill}{" "}
-                  {deco.level}
-                </span>
+                <>
+                  <span key={`deco-${index}`} className="mr-2 text-blue-600">
+                    {mhWildsWeaponSkillNamespace[deco.skill] ?? deco.skill}{" "}
+                    {deco.level}
+                  </span>
+                  ,{" "}
+                </>
               ))}
+            </div>
+            <div>
+              {mhCommonNamespace.mh_common_decorations}
+              {mhCommonNamespace.mh_common_decoration} :{" "}
+              {weaponDecorations[weapon.name]?.map((deco, index) => {
+                const decoration = mhWildsWeaponSkillDecorationData.find(
+                  (d) =>
+                    (d as unknown as Decoration).skills[deco.skill] ===
+                    deco.level
+                ) as unknown as Decoration | undefined;
+                return (
+                  <>
+                    <span
+                      key={`deco-detail-${index}`}
+                      className="mr-2 text-blue-600"
+                    >
+                      {decoration
+                        ? mhWildsWeaponDecorationNamespace[decoration.name] ??
+                          decoration.name
+                        : `${deco.skill} ${deco.level}`}
+                    </span>
+                  </>
+                );
+              })}
             </div>
           </div>
         ))}
