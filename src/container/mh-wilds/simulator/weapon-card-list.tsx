@@ -110,51 +110,24 @@ export function WeaponCardList() {
   };
 
   const weaponsWithExpectedAttack = React.useMemo(() => {
-    let weaponData: Weapon[] = [];
-    switch (weaponType) {
-      case "mhWilds_greatswords":
-        weaponData = mhWildsGreatswordsData as Weapon[];
-        break;
-      case "mhWilds_dualblades":
-        weaponData = mhWildsDualbladesData as Weapon[];
-        break;
-      case "mhWilds_longswords":
-        weaponData = mhWildsLongswordsData as Weapon[];
-        break;
-      case "mhWilds_sword_N_shield":
-        weaponData = mhWildsSwordNShieldsData as Weapon[];
-        break;
-      case "mhWilds_hammers":
-        weaponData = mhWildsHammersData as Weapon[];
-        break;
-      case "mhWilds_hunting_horn":
-        weaponData = mhWildsHuntingHornsData as unknown as Weapon[];
-        break;
-      case "mhWilds_lances":
-        weaponData = mhWildsLancesData as Weapon[];
-        break;
-      case "mhWilds_gunlances":
-        weaponData = mhWildsGunlancesData as unknown as Weapon[];
-        break;
-      case "mhWilds_switchaxes":
-        weaponData = mhWildsSwitchaxesData as unknown as Weapon[];
-        break;
-      case "mhWilds_charge_blades":
-        weaponData = mhWildsChargebladesData as Weapon[];
-        break;
-      case "mhWilds_insect_glavies":
-        weaponData = mhWildsInsectGlaviesData as unknown as Weapon[];
-        break;
-      case "mhWilds_bows":
-        weaponData = mhWildsBowsData as unknown as Weapon[];
-        break;
-      case "mhWilds_light_bowguns":
-        weaponData = mhWildsLightBowgunsData as unknown as Weapon[];
-        break;
-      case "mhWilds_heavy_bowguns":
-        weaponData = mhWildsHeavyBowgunsData as unknown as Weapon[];
-        break;
-    }
+    const weaponDataMap: Record<WeaponType, Weapon[]> = {
+      mhWilds_greatswords: mhWildsGreatswordsData as Weapon[],
+      mhWilds_dualblades: mhWildsDualbladesData as Weapon[],
+      mhWilds_longswords: mhWildsLongswordsData as Weapon[],
+      mhWilds_sword_N_shield: mhWildsSwordNShieldsData as Weapon[],
+      mhWilds_hammers: mhWildsHammersData as Weapon[],
+      mhWilds_hunting_horn: mhWildsHuntingHornsData as unknown as Weapon[],
+      mhWilds_lances: mhWildsLancesData as Weapon[],
+      mhWilds_gunlances: mhWildsGunlancesData as unknown as Weapon[],
+      mhWilds_switchaxes: mhWildsSwitchaxesData as unknown as Weapon[],
+      mhWilds_charge_blades: mhWildsChargebladesData as Weapon[],
+      mhWilds_insect_glavies: mhWildsInsectGlaviesData as unknown as Weapon[],
+      mhWilds_bows: mhWildsBowsData as unknown as Weapon[],
+      mhWilds_light_bowguns: mhWildsLightBowgunsData as unknown as Weapon[],
+      mhWilds_heavy_bowguns: mhWildsHeavyBowgunsData as unknown as Weapon[],
+    };
+
+    const weaponData = weaponDataMap[weaponType] || [];
 
     return weaponData.map((weapon) => {
       const expectedAttack = calculateExpectedAttack(
@@ -265,186 +238,50 @@ export function WeaponCardList() {
     }));
   };
 
+  const weaponButtonGroups = [
+    [
+      { type: "mhWilds_greatswords", label: "mh_common_greatsword" },
+      { type: "mhWilds_hammers", label: "mh_common_hammer" },
+      { type: "mhWilds_hunting_horn", label: "mh_common_huntinghorn" },
+      { type: "mhWilds_gunlances", label: "mh_common_gunlance" },
+      { type: "mhWilds_switchaxes", label: "mh_common_switchaxe" },
+      { type: "mhWilds_charge_blades", label: "mh_common_chargeblade" },
+    ],
+    [
+      { type: "mhWilds_longswords", label: "mh_common_longsword" },
+      { type: "mhWilds_sword_N_shield", label: "mh_common_swordandshield" },
+      { type: "mhWilds_dualblades", label: "mh_common_dualblade" },
+      { type: "mhWilds_lances", label: "mh_common_lance" },
+      { type: "mhWilds_insect_glavies", label: "mh_common_insectglavie" },
+    ],
+    [
+      { type: "mhWilds_bows", label: "mh_common_bow" },
+      { type: "mhWilds_light_bowguns", label: "mh_common_light_bowgun" },
+      { type: "mhWilds_heavy_bowguns", label: "mh_common_heavy_bowgun" },
+    ],
+  ];
+
   return (
     <div className="p-4 space-y-6">
       <LanguageSelector />
 
-      <div className="mb-6 flex space-x-4">
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_greatswords");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_greatswords"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_greatsword}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_hammers");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_hammers"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_hammer}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_hunting_horn");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_hunting_horn"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_huntinghorn}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_gunlances");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_gunlances"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_gunlance}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_switchaxes");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_switchaxes"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_switchaxe}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_charge_blades");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_charge_blades"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_chargeblade}
-        </button>
-      </div>
-
-      <div className="mb-6 flex space-x-4">
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_longswords");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_longswords"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_longsword}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_sword_N_shield");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_sword_N_shield"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_swordandshield}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_dualblades");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_dualblades"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_dualblade}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_lances");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_lances"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_lance}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_insect_glavies");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_insect_glavies"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_insectglavie}
-        </button>
-      </div>
-
-      <div className="mb-6 flex space-x-4">
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_bows");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_bows"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_bow}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_light_bowguns");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_light_bowguns"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_light_bowgun}
-        </button>
-        <button
-          onClick={() => {
-            setWeaponType("mhWilds_heavy_bowguns");
-          }}
-          className={`px-4 py-2 rounded ${
-            weaponType === "mhWilds_heavy_bowguns"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_heavy_bowgun}
-        </button>
-      </div>
+      {weaponButtonGroups.map((group, groupIndex) => (
+        <div key={groupIndex} className="mb-6 flex space-x-4">
+          {group.map(({ type, label }) => (
+            <button
+              key={type}
+              onClick={() => setWeaponType(type as WeaponType)}
+              className={`px-4 py-2 rounded ${
+                weaponType === type
+                  ? "bg-green-500 text-white"
+                  : "bg-gray-200 text-black"
+              }`}
+            >
+              {mhCommonNamespace?.[label]}
+            </button>
+          ))}
+        </div>
+      ))}
 
       <WeaponSkillSelector
         selectedSkills={selectedSkills}
