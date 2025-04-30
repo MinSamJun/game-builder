@@ -20,7 +20,7 @@ import {
 } from "@/container/mh-wilds/weapons";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 
-type EquipmentNamespace =
+type WeaponType =
   | "mhWilds_greatswords"
   | "mhWilds_hammers"
   | "mhWilds_hunting_horn"
@@ -39,7 +39,7 @@ type EquipmentNamespace =
 export function MhWildsWeapon() {
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
-  const [equipmentType, setEquipmentType] = useState<EquipmentNamespace>(
+  const [weaponType, setWeaponType] = useState<WeaponType>(
     "mhWilds_greatswords"
   );
   const [term, setTerm] = useState("");
@@ -56,9 +56,9 @@ export function MhWildsWeapon() {
 
       <div className="mb-6 flex space-x-4">
         <button
-          onClick={() => setEquipmentType("mhWilds_greatswords")}
+          onClick={() => setWeaponType("mhWilds_greatswords")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_greatswords"
+            weaponType === "mhWilds_greatswords"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -66,9 +66,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_greatsword}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_hammers")}
+          onClick={() => setWeaponType("mhWilds_hammers")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_hammers"
+            weaponType === "mhWilds_hammers"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -76,9 +76,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_hammer}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_hunting_horn")}
+          onClick={() => setWeaponType("mhWilds_hunting_horn")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_hunting_horn"
+            weaponType === "mhWilds_hunting_horn"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -86,9 +86,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_huntinghorn}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_gunlances")}
+          onClick={() => setWeaponType("mhWilds_gunlances")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_gunlances"
+            weaponType === "mhWilds_gunlances"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -96,9 +96,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_gunlance}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_switchaxes")}
+          onClick={() => setWeaponType("mhWilds_switchaxes")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_switchaxes"
+            weaponType === "mhWilds_switchaxes"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -106,9 +106,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_switchaxe}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_charge_blades")}
+          onClick={() => setWeaponType("mhWilds_charge_blades")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_charge_blades"
+            weaponType === "mhWilds_charge_blades"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -119,9 +119,9 @@ export function MhWildsWeapon() {
 
       <div className="mb-6 flex space-x-4">
         <button
-          onClick={() => setEquipmentType("mhWilds_longswords")}
+          onClick={() => setWeaponType("mhWilds_longswords")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_longswords"
+            weaponType === "mhWilds_longswords"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -129,9 +129,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_longsword}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_sword_N_shield")}
+          onClick={() => setWeaponType("mhWilds_sword_N_shield")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_sword_N_shield"
+            weaponType === "mhWilds_sword_N_shield"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -139,9 +139,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_swordandshield}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_dualblades")}
+          onClick={() => setWeaponType("mhWilds_dualblades")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_dualblades"
+            weaponType === "mhWilds_dualblades"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -149,9 +149,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_dualblade}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_lances")}
+          onClick={() => setWeaponType("mhWilds_lances")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_lances"
+            weaponType === "mhWilds_lances"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -159,9 +159,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_lance}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_insect_glavies")}
+          onClick={() => setWeaponType("mhWilds_insect_glavies")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_insect_glavies"
+            weaponType === "mhWilds_insect_glavies"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -172,9 +172,9 @@ export function MhWildsWeapon() {
 
       <div className="mb-6 flex space-x-4">
         <button
-          onClick={() => setEquipmentType("mhWilds_bows")}
+          onClick={() => setWeaponType("mhWilds_bows")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_bows"
+            weaponType === "mhWilds_bows"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -182,9 +182,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_bow}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_light_bowguns")}
+          onClick={() => setWeaponType("mhWilds_light_bowguns")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_light_bowguns"
+            weaponType === "mhWilds_light_bowguns"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -192,9 +192,9 @@ export function MhWildsWeapon() {
           {mhCommonNamespace?.mh_common_light_bowgun}
         </button>
         <button
-          onClick={() => setEquipmentType("mhWilds_heavy_bowguns")}
+          onClick={() => setWeaponType("mhWilds_heavy_bowguns")}
           className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_heavy_bowguns"
+            weaponType === "mhWilds_heavy_bowguns"
               ? "bg-green-500 text-white"
               : "bg-gray-200 text-black"
           }`}
@@ -210,33 +210,33 @@ export function MhWildsWeapon() {
         value={term}
         onChange={(e) => setTerm(e.target.value)}
       />
-      {equipmentType === "mhWilds_greatswords" ? (
+      {weaponType === "mhWilds_greatswords" ? (
         <GreatswordList searchTerm={term} />
-      ) : equipmentType === "mhWilds_charge_blades" ? (
+      ) : weaponType === "mhWilds_charge_blades" ? (
         <ChargeBladeList searchTerm={term} />
-      ) : equipmentType === "mhWilds_gunlances" ? (
+      ) : weaponType === "mhWilds_gunlances" ? (
         <GunlanceList searchTerm={term} />
-      ) : equipmentType === "mhWilds_hammers" ? (
+      ) : weaponType === "mhWilds_hammers" ? (
         <HammerList searchTerm={term} />
-      ) : equipmentType === "mhWilds_hunting_horn" ? (
+      ) : weaponType === "mhWilds_hunting_horn" ? (
         <HuntingHornList searchTerm={term} />
-      ) : equipmentType === "mhWilds_switchaxes" ? (
+      ) : weaponType === "mhWilds_switchaxes" ? (
         <SwitchaxeList searchTerm={term} />
-      ) : equipmentType === "mhWilds_dualblades" ? (
+      ) : weaponType === "mhWilds_dualblades" ? (
         <DualbladesList searchTerm={term} />
-      ) : equipmentType === "mhWilds_insect_glavies" ? (
+      ) : weaponType === "mhWilds_insect_glavies" ? (
         <InsectglavieList searchTerm={term} />
-      ) : equipmentType === "mhWilds_lances" ? (
+      ) : weaponType === "mhWilds_lances" ? (
         <LanceList searchTerm={term} />
-      ) : equipmentType === "mhWilds_longswords" ? (
+      ) : weaponType === "mhWilds_longswords" ? (
         <LongswordList searchTerm={term} />
-      ) : equipmentType === "mhWilds_sword_N_shield" ? (
+      ) : weaponType === "mhWilds_sword_N_shield" ? (
         <SwordNShieldList searchTerm={term} />
-      ) : equipmentType === "mhWilds_bows" ? (
+      ) : weaponType === "mhWilds_bows" ? (
         <BowList searchTerm={term} />
-      ) : equipmentType === "mhWilds_light_bowguns" ? (
+      ) : weaponType === "mhWilds_light_bowguns" ? (
         <LightBowgunList searchTerm={term} />
-      ) : equipmentType === "mhWilds_heavy_bowguns" ? (
+      ) : weaponType === "mhWilds_heavy_bowguns" ? (
         <HeavyBowgunList searchTerm={term} />
       ) : (
         <div className="text-center py-8 text-gray-500">
