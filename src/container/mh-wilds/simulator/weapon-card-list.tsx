@@ -350,7 +350,8 @@ export function WeaponCardList() {
           {mhCommonNamespace.mh_common_remaining_slots}
         </button>
 
-        <button
+        {/* 예리도 추가 이후에 주석풀기 */}
+        {/* <button
           onClick={() =>
             setSortType(sortType === "expectedAttack" ? null : "expectedAttack")
           }
@@ -361,7 +362,7 @@ export function WeaponCardList() {
           }`}
         >
           {mhCommonNamespace.mh_common_expected_attack}
-        </button>
+        </button> */}
       </div>
 
       <button
@@ -380,10 +381,11 @@ export function WeaponCardList() {
             <div className="font-semibold">
               {mhWildsTargedWeaponNamespace[weapon.name] ?? weapon.name}
             </div>
-            <div>
+            {/* 예리도 추가 이후에 주석 풀기 */}
+            {/* <div>
               {mhCommonNamespace.mh_common_expected_attack}:{" "}
               {weapon.expectedAttack?.toFixed(2) ?? "N/A"}
-            </div>
+            </div> */}
             <div>
               {mhCommonNamespace.mh_common_slots}:{" "}
               {getAvailableSlots(weapon).map((slot, index) => (
