@@ -4,6 +4,7 @@ import React from "react";
 import {
   mhWildsGreatswordsData,
   mhWildsDualbladesData,
+  mhWildsChargebladesData,
   mhWildsLongswordsData,
   mhWildsSwordNShieldsData,
   mhWildsHammersData,
@@ -48,6 +49,8 @@ export function CommonWeaponsList({
         return mhWildsHammersData;
       case "mhWilds_lances":
         return mhWildsLancesData;
+      case "mhWilds_charge_blades":
+        return mhWildsChargebladesData;
       default:
         return [];
     }

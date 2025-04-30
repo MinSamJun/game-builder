@@ -3,7 +3,6 @@
 import { useState } from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import {
-  ChargeBladeList,
   GunlanceList,
   HuntingHornList,
   InsectglavieList,
@@ -195,10 +194,9 @@ export function MhWildsWeapon() {
       weaponType === "mhWilds_longswords" ||
       weaponType === "mhWilds_sword_N_shield" ||
       weaponType === "mhWilds_dualblades" ||
-      weaponType === "mhWilds_lances" ? (
+      weaponType === "mhWilds_lances" ||
+      weaponType === "mhWilds_charge_blades" ? (
         <CommonWeaponsList searchTerm={term} weaponType={weaponType} />
-      ) : weaponType === "mhWilds_charge_blades" ? (
-        <ChargeBladeList searchTerm={term} />
       ) : weaponType === "mhWilds_gunlances" ? (
         <GunlanceList searchTerm={term} />
       ) : weaponType === "mhWilds_hunting_horn" ? (

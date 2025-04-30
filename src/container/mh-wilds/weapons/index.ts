@@ -1,4 +1,3 @@
-import { ChargeBladeList } from "./weapon-charge-blade-list";
 import { GunlanceList } from "./weapon-gunlance-list";
 import { HuntingHornList } from "./weapon-huntinghorn-list";
 import { SwitchaxeList } from "./weapon-switchaxe-list";
@@ -12,7 +11,6 @@ import { HeavyBowgunList } from "./weapon-heavy-bowgun-list";
 import { CommonWeaponsList } from "./common-weapons-list";
 
 export {
-  ChargeBladeList,
   GunlanceList,
   HuntingHornList,
   SwitchaxeList,
