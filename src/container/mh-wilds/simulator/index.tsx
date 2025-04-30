@@ -1,3 +1,3 @@
-import { WeaponCardList } from "@/container/mh-wilds/simulator/weapon-card-list";
+import { WeaponSimulator } from "@/container/mh-wilds/simulator/weapon-simulator";
 
-export { WeaponCardList };
+export { WeaponSimulator };

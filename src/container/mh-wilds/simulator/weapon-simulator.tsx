@@ -64,7 +64,7 @@ type WeaponType =
   | "mhWilds_light_bowguns"
   | "mhWilds_heavy_bowguns";
 
-export function WeaponCardList() {
+export function WeaponSimulator() {
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
 

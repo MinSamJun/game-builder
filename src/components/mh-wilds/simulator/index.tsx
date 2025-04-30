@@ -1,7 +1,7 @@
 "use client";
 
-import { WeaponCardList } from "@/container/mh-wilds/simulator";
+import { WeaponSimulator } from "@/container/mh-wilds/simulator";
 
 export function MhWildsSimulator() {
-  return <WeaponCardList />;
+  return <WeaponSimulator />;
 }
