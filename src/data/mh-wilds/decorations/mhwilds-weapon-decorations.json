@@ -568,7 +568,7 @@
     "rarity": 4,
     "rank": "mh_common_low_rank",
     "slotlevel": 2,
-    "skills": { "mhwilds_weapon_skill_charge_up": 2 }
+    "skills": { "mhwilds_weapon_skill_charge_up": 1 }
   },
   {
     "name": "mhwilds_charge_up_attack_jewel_3",
@@ -1059,7 +1059,7 @@
     "rarity": 4,
     "rank": "mh_common_low_rank",
     "slotlevel": 2,
-    "skills": { "mhwilds_weapon_skill_exhaust_functionality": 2 }
+    "skills": { "mhwilds_weapon_skill_exhaust_functionality": 1 }
   },
   {
     "name": "mhwilds_draw_jewel_1",
@@ -2100,7 +2100,7 @@
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "slotlevel": 2,
-    "skills": { "mhwilds_weapon_skill_poison_duration_up": 2 }
+    "skills": { "mhwilds_weapon_skill_poison_duration_up": 1 }
   },
   {
     "name": "mhwilds_poison_attack_jewel_3",
@@ -2669,7 +2669,7 @@
     "rarity": 5,
     "rank": "mh_common_high_rank",
     "slotlevel": 3,
-    "skills": { "mhwilds_weapon_skill_spreadpower_shots": 1 }
+    "skills": { "mhwilds_weapon_skill_spread_power_shots": 1 }
   },
   {
     "name": "mhwilds_stream_jewel_1",

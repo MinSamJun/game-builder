@@ -1140,7 +1140,7 @@ export const mhWildsArmorSkillKo = {
   mhwilds_armor_skill_palico_rally_iv: "동반자의 공격력과 방어력이1.2배",
   mhwilds_armor_skill_palico_rally_v: "동반자의 공격력과 방어력이1.25배",
 
-  mhwilds_armor_skill_heroics: "재난 대처 능력력",
+  mhwilds_armor_skill_heroics: "재난대처능력",
   mhwilds_armor_skill_heroics_:
     "체력이 최대치의 35% 이하일 때공격력과 방어력이 오른다.",
   mhwilds_armor_skill_heroics_i: "방어력+50",
@@ -1168,7 +1168,7 @@ export const mhWildsArmorSkillKo = {
   mhwilds_armor_skill_foray_iv: "기초 공격력 +12, 회심률 +15%",
   mhwilds_armor_skill_foray_v: "기초 공격력 +15, 회심률 +20%",
 
-  mhwilds_armor_skill_coalescence: "전화 위복",
+  mhwilds_armor_skill_coalescence: "전화위복",
   mhwilds_armor_skill_coalescence_:
     "상태이상, 속성 피해를 해제하면 30초간 상태이상 축적치가 1.15배 증가, 속성 공격력도도증가한다\n무기1 : 대검, 해머, 수렵 피리, 건랜스, 슬래시 액스, 차지 액스\n무기2 : 태도, 한손검, 쌍검, 랜스, 조충곤, 라이트 보우건, 헤비 보우건, 활",
   mhwilds_armor_skill_coalescence_i: "무기1 : 1.1배, 무기2 : 1.05배",

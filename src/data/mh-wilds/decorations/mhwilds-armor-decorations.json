@@ -197,7 +197,7 @@
     "rarity": 4,
     "rank": "mh_common_low_rank",
     "slotlevel": 2,
-    "skills": { "mhwilds_armor_skill_peak_performance": 2 }
+    "skills": { "mhwilds_armor_skill_peak_performance": 1 }
   },
   {
     "name": "mhwilds_flayer_jewel_3",
@@ -301,7 +301,7 @@
     "rarity": 4,
     "rank": "mh_common_low_rank",
     "slotlevel": 2,
-    "skills": { "mhwilds_armor_skill_evade_extender": 2 }
+    "skills": { "mhwilds_armor_skill_evade_extender": 1 }
   },
   {
     "name": "mhwilds_leap_jewel_1",
