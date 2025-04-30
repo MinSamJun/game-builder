@@ -54,9 +54,10 @@ export const commonKo = {
   mh_common_decoration_slot: "장식주 슬롯",
   mh_common_weapon_decoration: "무기 장식주",
   mh_common_armor_decoration: "방어구 장식주",
-  mh_common_slots_skills_value: "슬롯 + 스킬",
+  mh_common_remaining_slots: "남은 슬롯",
   mh_common_expected_attack: "기대 공격력",
   mh_common_weapon_search: "무기 검색",
+  mh_common_skills: "스킬",
 };
 
 export const mhwildsMelodiesKo = {

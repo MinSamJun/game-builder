@@ -67,6 +67,7 @@ export function WeaponCardList() {
   const { LanguageSelector } = useSelectLanguage();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
+  const mhWildsWeaponSkillNamespace = getNamespaceData("mhWilds_weapon_skill");
 
   const [weaponType, setWeaponType] = React.useState<WeaponType>(
     "mhWilds_greatswords"
@@ -101,12 +102,12 @@ export function WeaponCardList() {
   };
 
   const calculateSlotsAndSkillsValue = (weapon: Weapon): number => {
-    const slotValue = weapon.slots.reduce((sum, slot) => sum + slot, 0);
-    const skillValue = Object.values(weapon.skills).reduce(
+    const totalSlots = weapon.slots.reduce((sum, slot) => sum + slot, 0);
+    const usedSlots = Object.values(weapon.skills).reduce(
       (sum, level) => sum + level,
       0
     );
-    return slotValue + skillValue;
+    return totalSlots - usedSlots;
   };
 
   const weaponsWithExpectedAttack = React.useMemo(() => {
@@ -144,7 +145,12 @@ export function WeaponCardList() {
     selectedSkills: Record<string, string>
   ) {
     const combinedSkills = { ...weapon.skills };
-    const availableSlots = [...weapon.slots].sort((a, b) => a - b);
+    const availableSlots = [...weapon.slots].sort((a, b) => b - a);
+    const usedDecorations: {
+      skill: string;
+      level: number;
+      slotLevel: number;
+    }[] = [];
 
     const remainingSkills = Object.entries(selectedSkills)
       .map(([skill, level]) => ({
@@ -153,58 +159,93 @@ export function WeaponCardList() {
       }))
       .filter((item) => item.neededLevel > 0);
 
-    for (const slotLevel of availableSlots) {
-      let bestFit: { skill: string; value: number } | null = null;
+    for (const skillObj of remainingSkills) {
+      if (skillObj.neededLevel <= 0) continue;
 
-      for (const skillObj of remainingSkills) {
-        const decorations = (
-          mhWildsWeaponSkillDecorationData as unknown as Decoration[]
-        ).filter(
-          (deco) => deco.slotlevel <= slotLevel && deco.skills[skillObj.skill]
+      const decorations = (
+        mhWildsWeaponSkillDecorationData as unknown as Decoration[]
+      )
+        .filter((deco) => deco.skills[skillObj.skill])
+        .sort(
+          (a, b) =>
+            (b.skills[skillObj.skill] ?? 0) - (a.skills[skillObj.skill] ?? 0)
         );
 
-        if (decorations.length > 0) {
-          const bestDeco = decorations.reduce((best, deco) =>
-            (deco.skills[skillObj.skill] ?? 0) >
-            (best.skills[skillObj.skill] ?? 0)
-              ? deco
-              : best
-          );
+      for (const deco of decorations) {
+        const skillLevel = deco.skills[skillObj.skill] ?? 0;
+        if (skillLevel === 0) continue;
 
-          if (
-            !bestFit ||
-            (bestDeco.skills[skillObj.skill] ?? 0) > bestFit.value
-          ) {
-            bestFit = {
-              skill: skillObj.skill,
-              value: bestDeco.skills[skillObj.skill] ?? 0,
-            };
-          }
-        }
-      }
-
-      if (bestFit) {
-        const targetSkill = remainingSkills.find(
-          (s) => s.skill === bestFit!.skill
+        const slotIndex = availableSlots.findIndex(
+          (slot) => slot >= deco.slotlevel
         );
-        if (targetSkill) {
-          targetSkill.neededLevel -= bestFit.value;
+
+        if (slotIndex !== -1) {
+          const slotLevel = availableSlots[slotIndex];
+          usedDecorations.push({
+            skill: skillObj.skill,
+            level: skillLevel,
+            slotLevel: slotLevel,
+          });
+          availableSlots.splice(slotIndex, 1);
+          skillObj.neededLevel -= skillLevel;
+          if (skillObj.neededLevel <= 0) break;
         }
       }
     }
 
-    return remainingSkills.every((s) => s.neededLevel <= 0);
+    return {
+      canFulfill: remainingSkills.every((s) => s.neededLevel <= 0),
+      usedDecorations,
+    };
   }
 
   const [filteredWeapons, setFilteredWeapons] = React.useState<Weapon[]>([]);
+  const [weaponDecorations, setWeaponDecorations] = React.useState<
+    Record<string, { skill: string; level: number; slotLevel: number }[]>
+  >({});
 
   const handleSearch = () => {
     setWeaponNamespace(weaponType);
     const filtered = weaponsWithExpectedAttack.filter((weapon) => {
-      return canFulfillSkillsWithDecorations(weapon, selectedSkills);
+      const result = canFulfillSkillsWithDecorations(weapon, selectedSkills);
+      if (result.canFulfill) {
+        setWeaponDecorations((prev) => ({
+          ...prev,
+          [weapon.name]: result.usedDecorations,
+        }));
+      }
+      return result.canFulfill;
     });
     setFilteredWeapons(filtered);
     setPage(1);
+  };
+
+  const calculateRemainingSlots = (weapon: Weapon): number => {
+    const totalSlots = weapon.slots.reduce((sum, slot) => sum + slot, 0);
+    const usedSlots =
+      weaponDecorations[weapon.name]?.reduce(
+        (sum, deco) => sum + deco.slotLevel,
+        0
+      ) ?? 0;
+    return totalSlots - usedSlots;
+  };
+
+  const getAvailableSlots = (weapon: Weapon): (number | "X")[] => {
+    const slots = [...weapon.slots].sort((a, b) => b - a);
+    const usedDecorations = weaponDecorations[weapon.name] || [];
+
+    const usedSlots = new Array(slots.length).fill(false);
+
+    for (const deco of usedDecorations) {
+      for (let i = 0; i < slots.length; i++) {
+        if (!usedSlots[i] && slots[i] >= deco.slotLevel) {
+          usedSlots[i] = true;
+          break;
+        }
+      }
+    }
+
+    return slots.map((slot, index) => (usedSlots[index] ? "X" : slot));
   };
 
   const sortedWeapons = React.useMemo(() => {
@@ -301,7 +342,7 @@ export function WeaponCardList() {
               : "bg-white text-gray-700"
           }`}
         >
-          {mhCommonNamespace.mh_common_slots_skills_value}
+          {mhCommonNamespace.mh_common_remaining_slots}
         </button>
 
         <button
@@ -339,8 +380,30 @@ export function WeaponCardList() {
               {weapon.expectedAttack?.toFixed(2) ?? "N/A"}
             </div>
             <div>
-              {mhCommonNamespace.mh_common_slots_skills_value}:{" "}
-              {weapon.slotsAndSkillsValue ?? "N/A"}
+              {mhCommonNamespace.mh_common_slots}:{" "}
+              {getAvailableSlots(weapon).map((slot, index) => (
+                <span key={index} className="mr-1">
+                  {slot}
+                </span>
+              ))}
+            </div>{" "}
+            <div>
+              {mhCommonNamespace.mh_common_remaining_slots}:{" "}
+              {calculateRemainingSlots(weapon)}
+            </div>
+            <div>
+              {mhCommonNamespace.mh_common_skills}:{" "}
+              {Object.entries(weapon.skills).map(([skill, level]) => (
+                <span key={skill} className="mr-2">
+                  {mhWildsWeaponSkillNamespace[skill] ?? skill} {level}
+                </span>
+              ))}
+              {weaponDecorations[weapon.name]?.map((deco, index) => (
+                <span key={`deco-${index}`} className="mr-2 text-blue-600">
+                  {mhWildsWeaponSkillNamespace[deco.skill] ?? deco.skill}{" "}
+                  {deco.level}
+                </span>
+              ))}
             </div>
           </div>
         ))}
