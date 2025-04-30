@@ -5,12 +5,10 @@ import { useI18n } from "@infrastructure/user-i18n";
 import {
   GunlanceList,
   HuntingHornList,
-  InsectglavieList,
-  SwitchaxeList,
-  BowList,
   LightBowgunList,
   HeavyBowgunList,
   CommonWeaponsList,
+  SingleResourceWeaponsList,
 } from "@/container/mh-wilds/weapons";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 import { WeaponType } from "@/types/mh-common/weapon-type";
@@ -197,16 +195,14 @@ export function MhWildsWeapon() {
       weaponType === "mhWilds_lances" ||
       weaponType === "mhWilds_charge_blades" ? (
         <CommonWeaponsList searchTerm={term} weaponType={weaponType} />
+      ) : weaponType === "mhWilds_switchaxes" ||
+        weaponType === "mhWilds_insect_glavies" ||
+        weaponType === "mhWilds_bows" ? (
+        <SingleResourceWeaponsList searchTerm={term} weaponType={weaponType} />
       ) : weaponType === "mhWilds_gunlances" ? (
         <GunlanceList searchTerm={term} />
       ) : weaponType === "mhWilds_hunting_horn" ? (
         <HuntingHornList searchTerm={term} />
-      ) : weaponType === "mhWilds_switchaxes" ? (
-        <SwitchaxeList searchTerm={term} />
-      ) : weaponType === "mhWilds_insect_glavies" ? (
-        <InsectglavieList searchTerm={term} />
-      ) : weaponType === "mhWilds_bows" ? (
-        <BowList searchTerm={term} />
       ) : weaponType === "mhWilds_light_bowguns" ? (
         <LightBowgunList searchTerm={term} />
       ) : weaponType === "mhWilds_heavy_bowguns" ? (
