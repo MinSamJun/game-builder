@@ -91,6 +91,7 @@ export function WeaponCardList() {
   const [sortType, setSortType] = React.useState<
     "slotsAndSkillsValue" | "expectedAttack" | null
   >("slotsAndSkillsValue");
+  const [isFinalOnly, setIsFinalOnly] = React.useState(true);
 
   const calculateExpectedAttack = (
     attack: number,
@@ -135,15 +136,17 @@ export function WeaponCardList() {
 
     const weaponData = weaponDataMap[weaponType] || [];
 
-    return weaponData.map((weapon) => {
-      const expectedAttack = calculateExpectedAttack(
-        weapon.attack,
-        weapon.affinity
-      );
-      const slotsAndSkillsValue = calculateSlotsAndSkillsValue(weapon);
-      return { ...weapon, expectedAttack, slotsAndSkillsValue };
-    });
-  }, [weaponType]);
+    return weaponData
+      .filter((weapon) => !isFinalOnly || weapon.rarity === 8)
+      .map((weapon) => {
+        const expectedAttack = calculateExpectedAttack(
+          weapon.attack,
+          weapon.affinity
+        );
+        const slotsAndSkillsValue = calculateSlotsAndSkillsValue(weapon);
+        return { ...weapon, expectedAttack, slotsAndSkillsValue };
+      });
+  }, [weaponType, isFinalOnly]);
 
   function canFulfillSkillsWithDecorations(
     weapon: Weapon,
@@ -363,6 +366,17 @@ export function WeaponCardList() {
         >
           {mhCommonNamespace.mh_common_expected_attack}
         </button> */}
+        <div className="flex items-center space-x-4 mb-4">
+          <label className="flex items-center space-x-2">
+            <input
+              type="checkbox"
+              checked={isFinalOnly}
+              onChange={(e) => setIsFinalOnly(e.target.checked)}
+              className="form-checkbox h-5 w-5 text-blue-600"
+            />
+            <span>{mhCommonNamespace?.mh_common_final_only}</span>
+          </label>
+        </div>
       </div>
 
       <button
