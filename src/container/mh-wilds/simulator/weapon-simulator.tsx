@@ -420,13 +420,13 @@ export function WeaponSimulator() {
                 </span>
               ))}
               {weaponDecorations[weapon.name]?.map((deco, index) => (
-                <>
-                  <span key={`deco-${index}`} className="mr-2 text-blue-600">
+                <React.Fragment key={`deco-${index}`}>
+                  <span className="mr-2 text-blue-600">
                     {mhWildsWeaponSkillNamespace[deco.skill] ?? deco.skill}{" "}
                     {deco.level}
                   </span>
                   ,{" "}
-                </>
+                </React.Fragment>
               ))}
             </div>
             <div>
@@ -439,17 +439,15 @@ export function WeaponSimulator() {
                     deco.level
                 ) as unknown as Decoration | undefined;
                 return (
-                  <>
-                    <span
-                      key={`deco-detail-${index}`}
-                      className="mr-2 text-blue-600"
-                    >
-                      {decoration
-                        ? mhWildsWeaponDecorationNamespace[decoration.name] ??
-                          decoration.name
-                        : `${deco.skill} ${deco.level}`}
-                    </span>
-                  </>
+                  <span
+                    key={`deco-detail-${index}`}
+                    className="mr-2 text-blue-600"
+                  >
+                    {decoration
+                      ? mhWildsWeaponDecorationNamespace[decoration.name] ??
+                        decoration.name
+                      : `${deco.skill} ${deco.level}`}
+                  </span>
                 );
               })}
             </div>
