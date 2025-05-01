@@ -22,31 +22,12 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { WeaponSkillSelector } from "./weapon-skill-selector";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 import { mhWildsWeaponSkillData } from "@/data/mh-wilds/skills";
+import type { MhWildsBaseWeapon } from "@/types/mh-wilds/weapon";
+import type { Decoration } from "@/types/mh-wilds/decoration";
 
-type Weapon = {
-  name: string;
-  part: string;
-  rarity: number;
-  rank: string;
-  attack: number;
-  element: Record<string, number> | null;
-  affinity: number;
-  defense: number;
-  slots: number[];
-  skills: Record<string, number>;
+type Weapon = MhWildsBaseWeapon & {
   expectedAttack: number;
   slotsAndSkillsValue: number;
-};
-
-type Decoration = {
-  name: string;
-  type: string;
-  rarity: number;
-  rank: string;
-  slotlevel: number;
-  skills: {
-    [key: string]: number | undefined;
-  };
 };
 
 type WeaponType =
