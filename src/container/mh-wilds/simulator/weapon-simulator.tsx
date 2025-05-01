@@ -21,6 +21,7 @@ import { mhWildsWeaponSkillDecorationData } from "@/data/mh-wilds/decorations";
 import { useI18n } from "@infrastructure/user-i18n";
 import { WeaponSkillSelector } from "./weapon-skill-selector";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
+import { mhWildsWeaponSkillData } from "@/data/mh-wilds/skills";
 
 type Weapon = {
   name: string;
@@ -63,6 +64,15 @@ type WeaponType =
   | "mhWilds_bows"
   | "mhWilds_light_bowguns"
   | "mhWilds_heavy_bowguns";
+
+function getMaxSkillLevel(skillName: string): number {
+  const skillData = mhWildsWeaponSkillData.find(
+    (skill) => skill.name === skillName
+  );
+  if (!skillData) return 0;
+  const levels = Object.keys(skillData.skills).map(Number);
+  return Math.max(...levels);
+}
 
 export function WeaponSimulator() {
   const { getNamespaceData } = useI18n();
@@ -162,10 +172,14 @@ export function WeaponSimulator() {
     }[] = [];
 
     const remainingSkills = Object.entries(selectedSkills)
-      .map(([skill, level]) => ({
-        skill,
-        neededLevel: Number(level) - (mergedSkills[skill] ?? 0),
-      }))
+      .map(([skill, level]) => {
+        const maxLevel = getMaxSkillLevel(skill);
+        const selectedLevel = Math.min(Number(level), maxLevel);
+        return {
+          skill,
+          neededLevel: selectedLevel - (mergedSkills[skill] ?? 0),
+        };
+      })
       .filter((item) => item.neededLevel > 0);
 
     const addedSkillLevelMap: Record<string, number> = {};
@@ -199,10 +213,11 @@ export function WeaponSimulator() {
             slotLevel: slotLevel,
           });
           availableSlots.splice(slotIndex, 1);
-          skillObj.neededLevel -= skillLevel;
+          const appliedLevel = Math.min(skillObj.neededLevel, skillLevel);
+          skillObj.neededLevel -= appliedLevel;
 
           addedSkillLevelMap[skillObj.skill] =
-            (addedSkillLevelMap[skillObj.skill] || 0) + skillLevel;
+            (addedSkillLevelMap[skillObj.skill] || 0) + appliedLevel;
 
           if (skillObj.neededLevel <= 0) break;
         }
