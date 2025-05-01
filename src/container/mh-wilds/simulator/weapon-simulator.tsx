@@ -153,7 +153,7 @@ export function WeaponSimulator() {
     weapon: Weapon,
     selectedSkills: Record<string, string>
   ) {
-    const combinedSkills = { ...weapon.skills };
+    const mergedSkills = { ...weapon.skills };
     const availableSlots = [...weapon.slots].sort((a, b) => b - a);
     const usedDecorations: {
       skill: string;
@@ -164,9 +164,11 @@ export function WeaponSimulator() {
     const remainingSkills = Object.entries(selectedSkills)
       .map(([skill, level]) => ({
         skill,
-        neededLevel: Number(level) - (combinedSkills[skill] ?? 0),
+        neededLevel: Number(level) - (mergedSkills[skill] ?? 0),
       }))
       .filter((item) => item.neededLevel > 0);
+
+    const addedSkillLevelMap: Record<string, number> = {};
 
     for (const skillObj of remainingSkills) {
       if (skillObj.neededLevel <= 0) continue;
@@ -198,14 +200,28 @@ export function WeaponSimulator() {
           });
           availableSlots.splice(slotIndex, 1);
           skillObj.neededLevel -= skillLevel;
+
+          addedSkillLevelMap[skillObj.skill] =
+            (addedSkillLevelMap[skillObj.skill] || 0) + skillLevel;
+
           if (skillObj.neededLevel <= 0) break;
         }
       }
     }
 
+    const mergedDecorations = Object.entries(addedSkillLevelMap).map(
+      ([skill, addedLevel]) => ({
+        skill,
+        level: addedLevel,
+        slotLevel: usedDecorations
+          .filter((d) => d.skill === skill)
+          .reduce((sum, d) => sum + d.slotLevel, 0),
+      })
+    );
+
     return {
       canFulfill: remainingSkills.every((s) => s.neededLevel <= 0),
-      usedDecorations,
+      usedDecorations: mergedDecorations,
     };
   }
 
@@ -426,9 +442,12 @@ export function WeaponSimulator() {
             <div>
               {mhCommonNamespace.mh_common_skills}:{" "}
               {Object.entries(weapon.skills).map(([skill, level]) => (
-                <span key={skill} className="mr-2">
-                  {mhWildsWeaponSkillNamespace[skill] ?? skill} {level}
-                </span>
+                <React.Fragment key={`deco-${level}`}>
+                  <span key={skill} className="mr-2">
+                    {mhWildsWeaponSkillNamespace[skill] ?? skill} {level}
+                  </span>
+                  ,{" "}
+                </React.Fragment>
               ))}
               {weaponDecorations[weapon.name]?.map((deco, index) => (
                 <React.Fragment key={`deco-${index}`}>
