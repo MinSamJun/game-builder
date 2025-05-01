@@ -442,7 +442,7 @@ export function WeaponSimulator() {
             <div>
               {mhCommonNamespace.mh_common_skills}:{" "}
               {Object.entries(weapon.skills).map(([skill, level]) => (
-                <React.Fragment key={`deco-${level}`}>
+                <React.Fragment key={`deco-${skill}-${level}`}>
                   <span key={skill} className="mr-2">
                     {mhWildsWeaponSkillNamespace[skill] ?? skill} {level}
                   </span>
@@ -450,7 +450,7 @@ export function WeaponSimulator() {
                 </React.Fragment>
               ))}
               {weaponDecorations[weapon.name]?.map((deco, index) => (
-                <React.Fragment key={`deco-${index}`}>
+                <React.Fragment key={`deco-${deco}-${index}`}>
                   <span className="mr-2 text-blue-600">
                     {mhWildsWeaponSkillNamespace[deco.skill] ?? deco.skill}{" "}
                     {deco.level}
