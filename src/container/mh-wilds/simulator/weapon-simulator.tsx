@@ -55,11 +55,12 @@ export function WeaponSimulator() {
     Record<string, string>
   >({});
 
-  const handleSkillChange = (skillName: string, skillLevel: string) => {
-    setSelectedSkills((prev) => ({
-      ...prev,
-      [skillName]: skillLevel,
-    }));
+  const handleSkillChange = (skillName: string, level: string) => {
+    setSelectedSkills((prev) => ({ ...prev, [skillName]: level }));
+  };
+
+  const resetAllSkills = () => {
+    setSelectedSkills({});
   };
 
   const weaponButtonGroups = [
@@ -110,6 +111,7 @@ export function WeaponSimulator() {
       <WeaponSkillSelector
         selectedSkills={selectedSkills}
         onSkillChange={handleSkillChange}
+        onResetAllSkills={resetAllSkills}
       />
     </div>
   );
