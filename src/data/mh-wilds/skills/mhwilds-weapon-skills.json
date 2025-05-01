@@ -120,7 +120,9 @@
   {
     "name": "mhwilds_weapon_skill_opening_shot",
     "skills": {
-      "1": "mhwilds_weapon_skill_opening_shot_i"
+      "1": "mhwilds_weapon_skill_opening_shot_i",
+      "2": "mhwilds_weapon_skill_opening_shot_ii",
+      "3": "mhwilds_weapon_skill_opening_shot_iii"
     },
     "category": "mhwilds_weapon_skill_type_bowguns"
   },
