@@ -2753,7 +2753,6 @@ export const mhWildsWeaponSkillsKo = {
   mhwilds_weapon_skill_rapid_fire_up: "속사 강화",
   mhwilds_weapon_skill_rapid_fire_up_: "라이트 보우건의 속사 피해량 강화",
   mhwilds_weapon_skill_rapid_fire_up_i: "5%",
-  mhwilds_weapon_skill_rapid_fire_up_ii: "10%",
 
   mhwilds_weapon_skill_opening_shot: "퍼스트샷",
   mhwilds_weapon_skill_opening_shot_:
