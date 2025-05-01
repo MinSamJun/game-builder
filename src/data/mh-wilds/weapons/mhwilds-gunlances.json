@@ -10,7 +10,7 @@
     "defense": 0,
     "slots": [],
     "skills": {},
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -27,7 +27,7 @@
     "skills": {
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -45,7 +45,7 @@
       "mhwilds_weapon_skill_critical_eye": 1,
       "mhwilds_weapon_skill_speed_sharpening": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -63,7 +63,7 @@
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -81,7 +81,7 @@
       "mhwilds_weapon_skill_speed_sharpening": 2,
       "mhwilds_weapon_skill_critical_eye": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -98,7 +98,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -116,7 +116,7 @@
       "mhwilds_weapon_skill_attack_boost": 1,
       "mhwilds_weapon_skill_guard": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -134,7 +134,7 @@
       "mhwilds_weapon_skill_guard": 2,
       "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -152,7 +152,7 @@
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -170,7 +170,7 @@
       "mhwilds_weapon_skill_guard": 3,
       "mhwilds_weapon_skill_attack_boost": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -187,7 +187,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard_up": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -204,7 +204,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -221,7 +221,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard_up": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -238,7 +238,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -257,7 +257,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -276,7 +276,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -295,7 +295,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -314,7 +314,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -333,7 +333,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -352,7 +352,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -371,7 +371,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -390,7 +390,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -409,7 +409,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -428,7 +428,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -447,7 +447,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -466,7 +466,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -485,7 +485,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -504,7 +504,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -524,7 +524,7 @@
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -544,7 +544,7 @@
       "mhwilds_weapon_skill_critical_draw": 1,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -564,7 +564,7 @@
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -584,7 +584,7 @@
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_critical_status": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -604,7 +604,7 @@
       "mhwilds_weapon_skill_offensive_guard": 1,
       "mhwilds_weapon_skill_load_shells": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -624,7 +624,7 @@
       "mhwilds_weapon_skill_load_shells": 2,
       "mhwilds_weapon_skill_offensive_guard": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -644,7 +644,7 @@
       "mhwilds_weapon_skill_load_shells": 2,
       "mhwilds_weapon_skill_offensive_guard": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -664,7 +664,7 @@
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -684,7 +684,7 @@
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -704,7 +704,7 @@
       "mhwilds_weapon_skill_critical_element": 1,
       "mhwilds_weapon_skill_masters_touch": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -723,7 +723,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -742,7 +742,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -761,7 +761,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -780,7 +780,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -799,7 +799,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -819,7 +819,7 @@
       "mhwilds_weapon_skill_punishing_draw": 2,
       "mhwilds_weapon_skill_critical_draw": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -839,7 +839,7 @@
       "mhwilds_weapon_skill_critical_draw": 2,
       "mhwilds_weapon_skill_punishing_draw": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -859,7 +859,7 @@
       "mhwilds_weapon_skill_punishing_draw": 3,
       "mhwilds_weapon_skill_critical_draw": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -879,7 +879,7 @@
       "mhwilds_weapon_skill_critical_status": 2,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -899,7 +899,7 @@
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -919,7 +919,7 @@
       "mhwilds_weapon_skill_critical_status": 3,
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -938,7 +938,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -957,7 +957,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -976,7 +976,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -995,7 +995,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard_up": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -1014,7 +1014,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1033,7 +1033,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_boost": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1052,7 +1052,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1071,7 +1071,7 @@
     "skills": {
       "mhwilds_weapon_skill_critical_element": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1090,7 +1090,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1109,7 +1109,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -1128,7 +1128,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -1147,7 +1147,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -1166,7 +1166,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -1185,7 +1185,7 @@
     "skills": {
       "mhwilds_weapon_skill_offensive_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_weak"
     }
   },
@@ -1200,7 +1200,7 @@
     "defense": 0,
     "slots": [2, 2, 2],
     "skills": {},
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1215,7 +1215,7 @@
     "defense": 0,
     "slots": [2, 2, 2],
     "skills": {},
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1230,7 +1230,7 @@
     "defense": 0,
     "slots": [3, 3, 3],
     "skills": {},
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1248,7 +1248,7 @@
       "mhwilds_weapon_skill_critical_eye": 2,
       "mhwilds_weapon_skill_speed_sharpening": 2
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1267,7 +1267,7 @@
     "skills": {
       "mhwilds_weapon_skill_guard": 3
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_long": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1287,7 +1287,7 @@
       "mhwilds_weapon_skill_slicked_blade": 2,
       "mhwilds_weapon_skill_critical_element": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1307,7 +1307,7 @@
       "mhwilds_weapon_skill_slicked_blade": 3,
       "mhwilds_weapon_skill_critical_element": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_wide": "mhwilds_shelling_damage_normal"
     }
   },
@@ -1326,7 +1326,7 @@
     "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   },
@@ -1345,7 +1345,7 @@
     "skills": {
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
-    "Shelling": {
+    "shelling": {
       "mhwilds_shelling_type_normal": "mhwilds_shelling_damage_slightly_strong"
     }
   }

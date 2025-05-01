@@ -13,31 +13,29 @@ import { Pagination } from "@infrastructure/common/pagenation";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import { WeaponType } from "@/types/mh-common/weapon-type";
 import {
-  MhWildsWeaponWithPhial,
-  MhWildsWeaponWithKinsectLevel,
-  MhWildsWeaponWithCoating,
+  MhWildsWeaponSwitchaxe,
+  MhWildsWeaponInsectglavie,
+  MhWildsWeaponBow,
 } from "@/types/mh-wilds/weapon";
 
 type Weapon =
-  | MhWildsWeaponWithPhial
-  | MhWildsWeaponWithKinsectLevel
-  | MhWildsWeaponWithCoating;
+  | MhWildsWeaponSwitchaxe
+  | MhWildsWeaponInsectglavie
+  | MhWildsWeaponBow;
 
-function isMhWildsWeaponWithPhial(
+function isMhWildsWeaponSwitchaxe(
   weapon: Weapon
-): weapon is MhWildsWeaponWithPhial {
+): weapon is MhWildsWeaponSwitchaxe {
   return "phial" in weapon;
 }
 
-function isMhWildsWeaponWithKinsectLevel(
+function isMhWildsWeaponInsectglavie(
   weapon: Weapon
-): weapon is MhWildsWeaponWithKinsectLevel {
+): weapon is MhWildsWeaponInsectglavie {
   return "kinsectlevel" in weapon;
 }
 
-function isMhWildsWeaponWithCoating(
-  weapon: Weapon
-): weapon is MhWildsWeaponWithCoating {
+function isMhWildsWeaponBow(weapon: Weapon): weapon is MhWildsWeaponBow {
   return "coating" in weapon;
 }
 
@@ -105,7 +103,7 @@ export function SingleResourceWeaponsList({
   const renderSpecialResource = (weapon: Weapon) => {
     switch (weaponType) {
       case "mhWilds_bows":
-        if (isMhWildsWeaponWithCoating(weapon)) {
+        if (isMhWildsWeaponBow(weapon)) {
           return (
             <div className="bg-gray-800 text-white rounded p-4">
               <strong>{mhWildsCoatingNamespace?.mh_coating}:</strong>
@@ -123,7 +121,7 @@ export function SingleResourceWeaponsList({
         }
         return null;
       case "mhWilds_insect_glavies":
-        if (isMhWildsWeaponWithKinsectLevel(weapon)) {
+        if (isMhWildsWeaponInsectglavie(weapon)) {
           return (
             <div className="bg-gray-800 text-white rounded p-4">
               <strong>
@@ -135,7 +133,7 @@ export function SingleResourceWeaponsList({
         }
         return null;
       case "mhWilds_switchaxes":
-        if (isMhWildsWeaponWithPhial(weapon)) {
+        if (isMhWildsWeaponSwitchaxe(weapon)) {
           return (
             <div className="bg-gray-800 text-white rounded p-4">
               <strong>{mhWildsPhialNamespace?.mh_phial}:</strong>

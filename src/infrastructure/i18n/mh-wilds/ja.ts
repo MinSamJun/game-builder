@@ -12,13 +12,13 @@ export const mhWildsCommonJa = {
   mhwilds_common_shelling: "砲撃力",
 };
 
-export const mhWildsShellingTypeJa = {
+export const mhWildsshellingTypeJa = {
   mhwilds_shelling_type_normal: "通常型",
   mhwilds_shelling_type_wide: "放射型",
   mhwilds_shelling_type_long: "拡散型",
 };
 
-export const mhWildsShellingDamageJa = {
+export const mhWildsshellingDamageJa = {
   mhwilds_shelling_damage_slightly_weak: "やや弱い",
   mhwilds_shelling_damage_normal: "通常",
   mhwilds_shelling_damage_slightly_strong: "やや強い",

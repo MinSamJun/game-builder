@@ -32,10 +32,10 @@ export function GunlanceList({ searchTerm }: { searchTerm: string }) {
   );
 
   const { getNamespaceData } = useI18n();
-  const mhWildsShellingTypeNamespace = getNamespaceData(
+  const mhWildsshellingTypeNamespace = getNamespaceData(
     "mhWilds_shelling_type"
   );
-  const mhWildsShellingDamageNamespace = getNamespaceData(
+  const mhWildsshellingDamageNamespace = getNamespaceData(
     "mhWilds_shelling_damage"
   );
 
@@ -63,7 +63,7 @@ export function GunlanceList({ searchTerm }: { searchTerm: string }) {
               defense,
               slots,
               skills,
-              Shelling,
+              shelling,
             }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
                 <div className="flex items-center justify-between">
@@ -128,14 +128,14 @@ export function GunlanceList({ searchTerm }: { searchTerm: string }) {
                   <div className="bg-gray-800 text-white rounded p-4">
                     <strong>
                       {mhWildsCommonNamespace?.mhwilds_common_shelling ??
-                        "Shelling"}
+                        "shelling"}
                     </strong>
-                    {Shelling && Object.entries(Shelling).length > 0 ? (
-                      Object.entries(Shelling).map(([typeKey, damageKey]) => {
+                    {shelling && Object.entries(shelling).length > 0 ? (
+                      Object.entries(shelling).map(([typeKey, damageKey]) => {
                         const typeName =
-                          mhWildsShellingTypeNamespace[typeKey] ?? typeKey;
+                          mhWildsshellingTypeNamespace[typeKey] ?? typeKey;
                         const damageName =
-                          mhWildsShellingDamageNamespace[damageKey] ??
+                          mhWildsshellingDamageNamespace[damageKey] ??
                           damageKey;
                         return (
                           <div key={typeKey}>

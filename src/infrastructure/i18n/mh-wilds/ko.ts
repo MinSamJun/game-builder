@@ -12,13 +12,13 @@ export const mhWildsCommonKo = {
   mhwilds_common_shelling: "포격력",
 };
 
-export const mhWildsShellingTypeKo = {
+export const mhWildsshellingTypeKo = {
   mhwilds_shelling_type_normal: "일반형",
   mhwilds_shelling_type_wide: "방사형",
   mhwilds_shelling_type_long: "확산형",
 };
 
-export const mhWildsShellingDamageKo = {
+export const mhWildsshellingDamageKo = {
   mhwilds_shelling_damage_slightly_weak: "조금 약함",
   mhwilds_shelling_damage_normal: "보통",
   mhwilds_shelling_damage_slightly_strong: "조금 강함",

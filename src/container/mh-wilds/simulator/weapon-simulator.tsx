@@ -1,4 +1,3 @@
-// src/components/mh-wilds/weapon-simulator.tsx
 "use client";
 
 import React from "react";
@@ -40,6 +39,25 @@ type WeaponType =
   | "mhWilds_bows"
   | "mhWilds_light_bowguns"
   | "mhWilds_heavy_bowguns";
+
+const weaponTypeToDataMap: Record<WeaponType, Weapon[]> = {
+  mhWilds_greatswords: mhWildsGreatswordsData as Weapon[],
+  mhWilds_hammers: mhWildsHammersData as Weapon[],
+  mhWilds_hunting_horn: mhWildsHuntingHornsData as Weapon[],
+  mhWilds_gunlances: mhWildsGunlancesData as Weapon[],
+  mhWilds_switchaxes: mhWildsSwitchaxesData as Weapon[],
+  mhWilds_charge_blades: mhWildsChargebladesData as Weapon[],
+  mhWilds_longswords: mhWildsLongswordsData as Weapon[],
+  mhWilds_sword_N_shield: mhWildsSwordNShieldsData as Weapon[],
+  mhWilds_dualblades: mhWildsDualbladesData as Weapon[],
+  mhWilds_lances: mhWildsLancesData as Weapon[],
+  mhWilds_insect_glavies: mhWildsInsectGlaviesData as Weapon[],
+  mhWilds_bows: mhWildsBowsData as Weapon[],
+  mhWilds_light_bowguns: mhWildsLightBowgunsData as Weapon[],
+  mhWilds_heavy_bowguns: mhWildsHeavyBowgunsData as Weapon[],
+};
+
+const currentWeaponData = weaponTypeToDataMap[weaponType];
 
 export function WeaponSimulator() {
   const { getNamespaceData } = useI18n();

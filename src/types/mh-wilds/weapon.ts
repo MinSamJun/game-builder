@@ -19,14 +19,41 @@ type PhialType =
   | "mh_element_phial"
   | "mh_dragon_phial";
 
-export interface MhWildsWeaponWithPhial extends MhWildsBaseWeapon {
+export interface MhWildsWeaponSwitchaxe extends MhWildsBaseWeapon {
   phial: { [PhialName in PhialType]?: number | null };
 }
 
-export interface MhWildsWeaponWithKinsectLevel extends MhWildsBaseWeapon {
+export interface MhWildsWeaponInsectglavie extends MhWildsBaseWeapon {
   kinsectlevel: number;
 }
 
-export interface MhWildsWeaponWithCoating extends MhWildsBaseWeapon {
+export interface MhWildsWeaponBow extends MhWildsBaseWeapon {
   coating: string[];
+}
+
+export interface MhWildsWeaponHuntinghorn extends MhWildsBaseWeapon {
+  notes: number[];
+  echoBubbles: string;
+}
+
+type ShellingType = {
+  mhwilds_shelling_type_normal?: string;
+  mhwilds_shelling_type_wide?: string;
+  mhwilds_shelling_type_long?: string;
+};
+
+export interface MhWildsWeaponGunlance extends MhWildsBaseWeapon {
+  shelling: ShellingType;
+}
+
+export interface MhWildsWeaponLightBowgun extends MhWildsBaseWeapon {
+  ammo: Record<string, string>;
+  customModes: Record<string, string>;
+}
+
+export interface MhWildsWeaponHeavyBowgun extends MhWildsBaseWeapon {
+  ammo: Record<string, string>;
+  customModes: Record<string, string>;
+  specializationType: Record<string, number>;
+  ignitionGaugeRecovery: number | null;
 }

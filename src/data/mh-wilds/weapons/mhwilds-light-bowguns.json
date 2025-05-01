@@ -10,7 +10,7 @@
     "slots": [],
     "skills": {},
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -26,7 +26,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -43,7 +43,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -60,7 +60,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -77,7 +77,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -93,7 +93,7 @@
       "mhwilds_weapon_skill_ballistics": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -109,7 +109,7 @@
       "mhwilds_weapon_skill_ballistics": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -125,7 +125,7 @@
       "mhwilds_weapon_skill_ballistics": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -141,7 +141,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -157,7 +157,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -174,7 +174,7 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -191,7 +191,7 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -208,7 +208,7 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -225,7 +225,7 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -241,7 +241,7 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -257,7 +257,7 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -273,7 +273,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -289,7 +289,7 @@
       "mhwilds_weapon_skill_slugger": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -305,7 +305,7 @@
       "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -321,7 +321,7 @@
       "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -337,7 +337,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -353,7 +353,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -369,7 +369,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -385,7 +385,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -401,7 +401,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -417,7 +417,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -434,7 +434,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -451,7 +451,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -468,7 +468,7 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -484,7 +484,7 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -500,7 +500,7 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -516,7 +516,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -533,7 +533,7 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -550,7 +550,7 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -566,7 +566,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -582,7 +582,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -599,7 +599,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -616,7 +616,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -633,7 +633,7 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -649,7 +649,7 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -666,7 +666,7 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -683,7 +683,7 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -700,7 +700,7 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -717,7 +717,7 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -733,7 +733,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -749,7 +749,7 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -765,7 +765,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -781,7 +781,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -797,7 +797,7 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -813,7 +813,7 @@
       "mhwilds_weapon_skill_artillery": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -829,7 +829,7 @@
       "mhwilds_weapon_skill_artillery": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -845,7 +845,7 @@
       "mhwilds_weapon_skill_artillery": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -861,7 +861,7 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -877,7 +877,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -893,7 +893,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -910,7 +910,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -927,7 +927,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -944,7 +944,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -961,7 +961,7 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -977,7 +977,7 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_low_rank"
   },
   {
@@ -993,7 +993,7 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1009,7 +1009,7 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1025,7 +1025,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1039,7 +1039,7 @@
     "slots": [2, 2, 2],
     "skills": {},
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1053,7 +1053,7 @@
     "slots": [2, 2, 2],
     "skills": {},
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1067,7 +1067,7 @@
     "slots": [3, 3, 3],
     "skills": {},
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1084,7 +1084,7 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1100,7 +1100,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1116,7 +1116,7 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1133,7 +1133,7 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1150,7 +1150,7 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1166,7 +1166,7 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   },
   {
@@ -1182,7 +1182,7 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "ammo": {},
-    "custom mods": {},
+    "customModes": {},
     "rank": "mh_common_high_rank"
   }
 ]
