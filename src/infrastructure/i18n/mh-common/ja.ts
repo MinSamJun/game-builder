@@ -60,6 +60,7 @@ export const commonJa = {
   mh_common_remaining_slots: "残りスロット",
   mh_common_expected_attack: "期待攻撃力",
   mh_common_skills: "スキル",
+  mh_common_use_max_decorations: "最大装飾品使用",
 };
 
 export const mhwildsMelodiesJa = {

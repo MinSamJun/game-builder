@@ -92,6 +92,7 @@ export function WeaponSimulator() {
     "slotsAndSkillsValue" | "expectedAttack" | null
   >("slotsAndSkillsValue");
   const [isFinalOnly, setIsFinalOnly] = React.useState(true);
+  const [useMaxDecorations, setUseMaxDecorations] = React.useState(false);
 
   const calculateExpectedAttack = (
     attack: number,
@@ -174,9 +175,10 @@ export function WeaponSimulator() {
         mhWildsWeaponSkillDecorationData as unknown as Decoration[]
       )
         .filter((deco) => deco.skills[skillObj.skill])
-        .sort(
-          (a, b) =>
-            (b.skills[skillObj.skill] ?? 0) - (a.skills[skillObj.skill] ?? 0)
+        .sort((a, b) =>
+          useMaxDecorations
+            ? (b.skills[skillObj.skill] ?? 0) - (a.skills[skillObj.skill] ?? 0)
+            : (a.skills[skillObj.skill] ?? 0) - (b.skills[skillObj.skill] ?? 0)
         );
 
       for (const deco of decorations) {
@@ -375,6 +377,15 @@ export function WeaponSimulator() {
               className="form-checkbox h-5 w-5 text-blue-600"
             />
             <span>{mhCommonNamespace?.mh_common_final_only}</span>
+          </label>
+          <label className="flex items-center space-x-2">
+            <input
+              type="checkbox"
+              checked={useMaxDecorations}
+              onChange={(e) => setUseMaxDecorations(e.target.checked)}
+              className="form-checkbox h-5 w-5 text-blue-600"
+            />
+            <span>{mhCommonNamespace?.mh_common_use_max_decorations}</span>
           </label>
         </div>
       </div>

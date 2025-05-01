@@ -57,6 +57,7 @@ export const commonEn = {
   mh_common_remaining_slots: "Remaining Slots",
   mh_common_expected_attack: "Expected Attack",
   mh_common_skills: "Skills",
+  mh_common_use_max_decorations: "Use Max Decorations",
 };
 
 export const mhwildsMelodiesEn = {
