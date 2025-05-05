@@ -195,6 +195,14 @@ export function WeaponSimulator() {
           >
             <div key={weapon.name} className="p-2 border rounded">
               {mhWildsWeaponNamespace?.[weapon.name]}
+              {weapon.slots.length > 0 && (
+                <>
+                  {" "}
+                  <span className="text-xs text-gray-500">
+                    {weapon.slots.join(" / ")}
+                  </span>
+                </>
+              )}
             </div>
             <div className="gap-4 text-sm mt-2">
               <div className="bg-gray-800 text-white rounded p-4">
