@@ -20,27 +20,12 @@ import {
 import { useI18n } from "@infrastructure/user-i18n";
 import { WeaponSkillSelector } from "./weapon-skill-selector";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
-import type { MhWildsBaseWeapon } from "@/types/mh-wilds/weapon";
+import type { MhWildsBaseWeapon } from "@/types/mh-wilds";
+import type { WeaponType } from "@/types/mh-common";
 
 type Weapon = MhWildsBaseWeapon;
 
-type WeaponType =
-  | "mhWilds_greatswords"
-  | "mhWilds_hammers"
-  | "mhWilds_hunting_horn"
-  | "mhWilds_gunlances"
-  | "mhWilds_switchaxes"
-  | "mhWilds_charge_blades"
-  | "mhWilds_longswords"
-  | "mhWilds_sword_N_shield"
-  | "mhWilds_dualblades"
-  | "mhWilds_lances"
-  | "mhWilds_insect_glavies"
-  | "mhWilds_bows"
-  | "mhWilds_light_bowguns"
-  | "mhWilds_heavy_bowguns";
-
-const weaponNamespaceMap: Record<WeaponType, string> = {
+const weaponNamespaceMap: Record<WeaponType, WeaponType> = {
   mhWilds_greatswords: "mhWilds_greatswords",
   mhWilds_hammers: "mhWilds_hammers",
   mhWilds_hunting_horn: "mhWilds_hunting_horn",
