@@ -3,7 +3,7 @@ import React from "react";
 export function usePagination<T>(
   data: T[],
   itemsPerPage: number,
-  searchTerm: string
+  searchTerm?: string
 ) {
   const [page, setPage] = React.useState(1);
 

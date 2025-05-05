@@ -74,7 +74,6 @@ export function WeaponSimulator() {
     Record<string, string>
   >({});
   const [page, setPage] = React.useState(1);
-  const [searchTerm, setSearchTerm] = React.useState("");
 
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
@@ -126,8 +125,7 @@ export function WeaponSimulator() {
   const itemsPerPage = 10;
   const { paginatedData, nextPage, prevPage } = usePagination(
     filteredWeaponData,
-    itemsPerPage,
-    searchTerm
+    itemsPerPage
   );
 
   React.useEffect(() => {
