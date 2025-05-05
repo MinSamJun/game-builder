@@ -64,8 +64,12 @@ export function WeaponSimulator() {
   const [weaponType, setWeaponType] = React.useState<WeaponType>(
     "mhWilds_greatswords"
   );
-  const [isFinalOnly, setIsFinalOnly] = React.useState(false);
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
+  const [isFinalOnly, setIsFinalOnly] = React.useState(false);
+  const [isSearched, setIsSearched] = React.useState(false);
+  const [searchSkills, setSearchSkills] = React.useState<
+    Record<string, string>
+  >({});
 
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
@@ -74,7 +78,6 @@ export function WeaponSimulator() {
   const mhWildsWeaponNamespace = getNamespaceData(
     weaponNamespaceMap[weaponType]
   );
-  const mhWildsCommonNamespace = getNamespaceData("mhWilds_common");
   const useMhWildsListNamespace = getNamespaceData("mhWilds_weapon_skill");
 
   const [selectedSkills, setSelectedSkills] = React.useState<
@@ -89,13 +92,20 @@ export function WeaponSimulator() {
     setSelectedSkills({});
   };
 
+  const handleSearch = () => {
+    setSearchSkills(selectedSkills);
+    setIsSearched(true);
+  };
+
   const filteredWeaponData = React.useMemo(() => {
+    if (!isSearched) return [];
+
     return weaponTypeToDataMap[weaponType].filter((weapon) => {
       const matchRank = !selectedRank || weapon.rank === selectedRank;
       const matchFinal =
         !isFinalOnly || weapon.rarity === 4 || weapon.rarity === 8;
 
-      const matchSkills = Object.entries(selectedSkills).every(
+      const matchSkills = Object.entries(searchSkills).every(
         ([skillName, levelStr]) => {
           const requiredLevel = parseInt(levelStr, 10);
           const weaponLevel = weapon.skills?.[skillName] ?? 0;
@@ -105,7 +115,11 @@ export function WeaponSimulator() {
 
       return matchRank && matchFinal && matchSkills;
     });
-  }, [weaponType, isFinalOnly, selectedRank, selectedSkills]);
+  }, [weaponType, isFinalOnly, selectedRank, searchSkills, isSearched]);
+
+  React.useEffect(() => {
+    setIsSearched(false);
+  }, [weaponType]);
 
   const weaponButtonGroups = [
     [
@@ -163,6 +177,15 @@ export function WeaponSimulator() {
         isFinalOnly,
         setIsFinalOnly,
       })}
+
+      <div className="mb-4">
+        <button
+          onClick={handleSearch}
+          className="w-full p-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        >
+          {mhCommonNamespace?.mh_common_weapon_search}
+        </button>
+      </div>
 
       <div className="grid grid-cols-1 gap-2">
         {filteredWeaponData.map((weapon) => (
