@@ -23,6 +23,9 @@ import { useSelectLanguage } from "@/hook/common/use-select-language";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import type { MhWildsBaseWeapon } from "@/types/mh-wilds";
 import type { WeaponType } from "@/types/mh-common";
+import { NoResults } from "@container/common/no-results";
+import { usePagination } from "@/hook/common/use-pagenation";
+import { Pagination } from "@infrastructure/common/pagenation";
 
 type Weapon = MhWildsBaseWeapon;
 
@@ -70,6 +73,8 @@ export function WeaponSimulator() {
   const [searchSkills, setSearchSkills] = React.useState<
     Record<string, string>
   >({});
+  const [page, setPage] = React.useState(1);
+  const [searchTerm, setSearchTerm] = React.useState("");
 
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
@@ -105,21 +110,39 @@ export function WeaponSimulator() {
       const matchFinal =
         !isFinalOnly || weapon.rarity === 4 || weapon.rarity === 8;
 
-      const matchSkills = Object.entries(searchSkills).every(
-        ([skillName, levelStr]) => {
+      const matchSkills =
+        Object.keys(searchSkills).length === 0 ||
+        Object.entries(searchSkills).every(([skillName, levelStr]) => {
+          if (!levelStr) return true;
           const requiredLevel = parseInt(levelStr, 10);
           const weaponLevel = weapon.skills?.[skillName] ?? 0;
           return weaponLevel >= requiredLevel;
-        }
-      );
+        });
 
       return matchRank && matchFinal && matchSkills;
     });
   }, [weaponType, isFinalOnly, selectedRank, searchSkills, isSearched]);
 
+  const itemsPerPage = 10;
+  const { paginatedData, nextPage, prevPage } = usePagination(
+    filteredWeaponData,
+    itemsPerPage,
+    searchTerm
+  );
+
   React.useEffect(() => {
     setIsSearched(false);
+    setPage(1);
   }, [weaponType]);
+
+  const handlePageChange = (newPage: number) => {
+    setPage(newPage);
+    if (newPage > page) {
+      nextPage();
+    } else {
+      prevPage();
+    }
+  };
 
   const weaponButtonGroups = [
     [
@@ -188,7 +211,7 @@ export function WeaponSimulator() {
       </div>
 
       <div className="grid grid-cols-1 gap-2">
-        {filteredWeaponData.map((weapon) => (
+        {paginatedData.map((weapon) => (
           <div
             key={weapon.name}
             className="border p-4 rounded shadow space-y-2"
@@ -223,6 +246,20 @@ export function WeaponSimulator() {
           </div>
         ))}
       </div>
+
+      {filteredWeaponData.length === 0 && isSearched ? (
+        <NoResults />
+      ) : (
+        filteredWeaponData.length > itemsPerPage && (
+          <Pagination
+            currentPage={page}
+            totalItems={filteredWeaponData.length}
+            itemsPerPage={itemsPerPage}
+            onPrev={() => handlePageChange(page - 1)}
+            onNext={() => handlePageChange(page + 1)}
+          />
+        )
+      )}
     </div>
   );
 }
