@@ -75,14 +75,6 @@ export function WeaponSimulator() {
     weaponNamespaceMap[weaponType]
   );
 
-  const currentWeaponData = React.useMemo(() => {
-    return weaponTypeToDataMap[weaponType].filter(
-      (weapon) =>
-        (!selectedRank || weapon.rank === selectedRank) &&
-        (!isFinalOnly || weapon.rarity === 4 || weapon.rarity === 8)
-    );
-  }, [weaponType, isFinalOnly, selectedRank]);
-
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
   >({});
@@ -94,6 +86,24 @@ export function WeaponSimulator() {
   const resetAllSkills = () => {
     setSelectedSkills({});
   };
+
+  const filteredWeaponData = React.useMemo(() => {
+    return weaponTypeToDataMap[weaponType].filter((weapon) => {
+      const matchRank = !selectedRank || weapon.rank === selectedRank;
+      const matchFinal =
+        !isFinalOnly || weapon.rarity === 4 || weapon.rarity === 8;
+
+      const matchSkills = Object.entries(selectedSkills).every(
+        ([skillName, levelStr]) => {
+          const requiredLevel = parseInt(levelStr, 10);
+          const weaponLevel = weapon.skills?.[skillName] ?? 0;
+          return weaponLevel >= requiredLevel;
+        }
+      );
+
+      return matchRank && matchFinal && matchSkills;
+    });
+  }, [weaponType, isFinalOnly, selectedRank, selectedSkills]);
 
   const weaponButtonGroups = [
     [
@@ -153,7 +163,7 @@ export function WeaponSimulator() {
       })}
 
       <div className="grid grid-cols-1 gap-2">
-        {currentWeaponData.map((weapon) => (
+        {filteredWeaponData.map((weapon) => (
           <div key={weapon.name} className="p-2 border rounded">
             {mhWildsWeaponNamespace?.[weapon.name]}
           </div>
