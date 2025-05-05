@@ -40,6 +40,23 @@ type WeaponType =
   | "mhWilds_light_bowguns"
   | "mhWilds_heavy_bowguns";
 
+const weaponNamespaceMap: Record<WeaponType, string> = {
+  mhWilds_greatswords: "mhWilds_greatswords",
+  mhWilds_hammers: "mhWilds_hammers",
+  mhWilds_hunting_horn: "mhWilds_hunting_horn",
+  mhWilds_gunlances: "mhWilds_gunlances",
+  mhWilds_switchaxes: "mhWilds_switchaxes",
+  mhWilds_charge_blades: "mhWilds_charge_blades",
+  mhWilds_longswords: "mhWilds_longswords",
+  mhWilds_sword_N_shield: "mhWilds_sword_N_shield",
+  mhWilds_dualblades: "mhWilds_dualblades",
+  mhWilds_lances: "mhWilds_lances",
+  mhWilds_insect_glavies: "mhWilds_insect_glavies",
+  mhWilds_bows: "mhWilds_bows",
+  mhWilds_light_bowguns: "mhWilds_light_bowguns",
+  mhWilds_heavy_bowguns: "mhWilds_heavy_bowguns",
+};
+
 const weaponTypeToDataMap: Record<WeaponType, Weapon[]> = {
   mhWilds_greatswords: mhWildsGreatswordsData as Weapon[],
   mhWilds_hammers: mhWildsHammersData as Weapon[],
@@ -57,17 +74,20 @@ const weaponTypeToDataMap: Record<WeaponType, Weapon[]> = {
   mhWilds_heavy_bowguns: mhWildsHeavyBowgunsData as Weapon[],
 };
 
-const currentWeaponData = weaponTypeToDataMap[weaponType];
-
 export function WeaponSimulator() {
+  const [weaponType, setWeaponType] = React.useState<WeaponType>(
+    "mhWilds_greatswords"
+  );
+
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
-
-  const [weaponType, setWeaponType] = React.useState<WeaponType>(
-    "mhWilds_greatswords"
+  const mhWildsWeaponNamespace = getNamespaceData(
+    weaponNamespaceMap[weaponType]
   );
+
+  const currentWeaponData = weaponTypeToDataMap[weaponType];
 
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
@@ -131,6 +151,14 @@ export function WeaponSimulator() {
         onSkillChange={handleSkillChange}
         onResetAllSkills={resetAllSkills}
       />
+
+      <div className="grid grid-cols-1 gap-2">
+        {currentWeaponData.map((weapon) => (
+          <div key={weapon.name} className="p-2 border rounded">
+            {mhWildsWeaponNamespace?.[weapon.name]}
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
