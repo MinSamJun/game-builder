@@ -20,6 +20,7 @@ import {
 import { useI18n } from "@infrastructure/user-i18n";
 import { WeaponSkillSelector } from "./weapon-skill-selector";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
+import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import type { MhWildsBaseWeapon } from "@/types/mh-wilds";
 import type { WeaponType } from "@/types/mh-common";
 
@@ -63,6 +64,8 @@ export function WeaponSimulator() {
   const [weaponType, setWeaponType] = React.useState<WeaponType>(
     "mhWilds_greatswords"
   );
+  const [isFinalOnly, setIsFinalOnly] = React.useState(false);
+  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
 
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
@@ -72,7 +75,13 @@ export function WeaponSimulator() {
     weaponNamespaceMap[weaponType]
   );
 
-  const currentWeaponData = weaponTypeToDataMap[weaponType];
+  const currentWeaponData = React.useMemo(() => {
+    return weaponTypeToDataMap[weaponType].filter(
+      (weapon) =>
+        (!selectedRank || weapon.rank === selectedRank) &&
+        (!isFinalOnly || weapon.rarity === 4 || weapon.rarity === 8)
+    );
+  }, [weaponType, isFinalOnly, selectedRank]);
 
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
@@ -136,6 +145,12 @@ export function WeaponSimulator() {
         onSkillChange={handleSkillChange}
         onResetAllSkills={resetAllSkills}
       />
+
+      {useMhSelectRank(selectedRank, setSelectedRank, {
+        showMasterRank: false,
+        isFinalOnly,
+        setIsFinalOnly,
+      })}
 
       <div className="grid grid-cols-1 gap-2">
         {currentWeaponData.map((weapon) => (
