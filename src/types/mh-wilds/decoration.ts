@@ -4,7 +4,5 @@ export type Decoration = {
   rarity: number;
   rank: string;
   slotlevel: number;
-  skills: {
-    [key: string]: number | undefined;
-  };
+  skills: Record<string, number>;
 };
