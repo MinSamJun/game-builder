@@ -8,7 +8,7 @@ export function useSelectLanguage() {
 
   const LanguageSelector = useCallback(
     () => (
-      <div className="mb-6 flex space-x-4">
+      <div className="mb-6 flex space-x-4 justify-end">
         <button
           onClick={() => setLang("ko")}
           className={`px-4 py-2 rounded ${
