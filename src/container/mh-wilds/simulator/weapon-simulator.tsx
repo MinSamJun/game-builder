@@ -73,7 +73,6 @@ export function WeaponSimulator() {
   const [searchSkills, setSearchSkills] = React.useState<
     Record<string, string>
   >({});
-  const [page, setPage] = React.useState(1);
 
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
@@ -123,24 +122,14 @@ export function WeaponSimulator() {
   }, [weaponType, isFinalOnly, selectedRank, searchSkills, isSearched]);
 
   const itemsPerPage = 10;
-  const { paginatedData, nextPage, prevPage } = usePagination(
+  const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
     filteredWeaponData,
     itemsPerPage
   );
 
   React.useEffect(() => {
-    setIsSearched(false);
     setPage(1);
-  }, [weaponType]);
-
-  const handlePageChange = (newPage: number) => {
-    setPage(newPage);
-    if (newPage > page) {
-      nextPage();
-    } else {
-      prevPage();
-    }
-  };
+  }, [filteredWeaponData, setPage]);
 
   const weaponButtonGroups = [
     [
@@ -207,56 +196,55 @@ export function WeaponSimulator() {
           {mhCommonNamespace?.mh_common_weapon_search}
         </button>
       </div>
-
-      <div className="grid grid-cols-1 gap-2">
-        {paginatedData.map((weapon) => (
-          <div
-            key={weapon.name}
-            className="border p-4 rounded shadow space-y-2"
-          >
-            <div key={weapon.name} className="p-2 border rounded">
-              {mhWildsWeaponNamespace?.[weapon.name]}
-              {weapon.slots.length > 0 && (
-                <>
-                  {" "}
-                  <span className="text-xs text-gray-500">
-                    {weapon.slots.join(" / ")}
-                  </span>
-                </>
-              )}
-            </div>
-            <div className="gap-4 text-sm mt-2">
-              <div className="bg-gray-800 text-white rounded p-4">
-                {weapon.skills && Object.entries(weapon.skills).length > 0 ? (
-                  Object.entries(weapon.skills).map(([key, level]) => {
-                    const skillName = useMhWildsListNamespace[key] ?? key;
-                    return (
-                      <div key={key}>
-                        {skillName} Lv{level}
-                      </div>
-                    );
-                  })
-                ) : (
-                  <div>{mhCommonNamespace?.mh_common_none}</div>
-                )}
-              </div>
-            </div>
-          </div>
-        ))}
-      </div>
-
       {filteredWeaponData.length === 0 && isSearched ? (
         <NoResults />
       ) : (
-        filteredWeaponData.length > itemsPerPage && (
-          <Pagination
-            currentPage={page}
-            totalItems={filteredWeaponData.length}
-            itemsPerPage={itemsPerPage}
-            onPrev={() => handlePageChange(page - 1)}
-            onNext={() => handlePageChange(page + 1)}
-          />
-        )
+        <div className="grid grid-cols-1 gap-2">
+          {paginatedData.map((weapon) => (
+            <div
+              key={weapon.name}
+              className="border p-4 rounded shadow space-y-2"
+            >
+              <div key={weapon.name} className="p-2 border rounded">
+                {mhWildsWeaponNamespace?.[weapon.name]}
+                {weapon.slots.length > 0 && (
+                  <>
+                    {" "}
+                    <span className="text-xs text-gray-500">
+                      {weapon.slots.join(" / ")}
+                    </span>
+                  </>
+                )}
+              </div>
+              <div className="gap-4 text-sm mt-2">
+                <div className="bg-gray-800 text-white rounded p-4">
+                  {weapon.skills && Object.entries(weapon.skills).length > 0 ? (
+                    Object.entries(weapon.skills).map(([key, level]) => {
+                      const skillName = useMhWildsListNamespace[key] ?? key;
+                      return (
+                        <div key={key}>
+                          {skillName} Lv{level}
+                        </div>
+                      );
+                    })
+                  ) : (
+                    <div>{mhCommonNamespace?.mh_common_none}</div>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      {filteredWeaponData.length > itemsPerPage && (
+        <Pagination
+          currentPage={page}
+          totalItems={filteredWeaponData.length}
+          itemsPerPage={itemsPerPage}
+          onPrev={prevPage}
+          onNext={nextPage}
+        />
       )}
     </div>
   );
