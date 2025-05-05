@@ -47,20 +47,20 @@ const weaponNamespaceMap: Record<WeaponType, WeaponType> = {
 };
 
 const weaponTypeToDataMap: Record<WeaponType, Weapon[]> = {
-  mhWilds_greatswords: mhWildsGreatswordsData as Weapon[],
-  mhWilds_hammers: mhWildsHammersData as Weapon[],
-  mhWilds_hunting_horn: mhWildsHuntingHornsData as Weapon[],
-  mhWilds_gunlances: mhWildsGunlancesData as Weapon[],
-  mhWilds_switchaxes: mhWildsSwitchaxesData as Weapon[],
-  mhWilds_charge_blades: mhWildsChargebladesData as Weapon[],
-  mhWilds_longswords: mhWildsLongswordsData as Weapon[],
-  mhWilds_sword_N_shield: mhWildsSwordNShieldsData as Weapon[],
-  mhWilds_dualblades: mhWildsDualbladesData as Weapon[],
-  mhWilds_lances: mhWildsLancesData as Weapon[],
-  mhWilds_insect_glavies: mhWildsInsectGlaviesData as Weapon[],
-  mhWilds_bows: mhWildsBowsData as Weapon[],
-  mhWilds_light_bowguns: mhWildsLightBowgunsData as Weapon[],
-  mhWilds_heavy_bowguns: mhWildsHeavyBowgunsData as Weapon[],
+  mhWilds_greatswords: mhWildsGreatswordsData,
+  mhWilds_hammers: mhWildsHammersData,
+  mhWilds_hunting_horn: mhWildsHuntingHornsData,
+  mhWilds_gunlances: mhWildsGunlancesData,
+  mhWilds_switchaxes: mhWildsSwitchaxesData,
+  mhWilds_charge_blades: mhWildsChargebladesData,
+  mhWilds_longswords: mhWildsLongswordsData,
+  mhWilds_sword_N_shield: mhWildsSwordNShieldsData,
+  mhWilds_dualblades: mhWildsDualbladesData,
+  mhWilds_lances: mhWildsLancesData,
+  mhWilds_insect_glavies: mhWildsInsectGlaviesData,
+  mhWilds_bows: mhWildsBowsData,
+  mhWilds_light_bowguns: mhWildsLightBowgunsData,
+  mhWilds_heavy_bowguns: mhWildsHeavyBowgunsData,
 };
 
 export function WeaponSimulator() {
