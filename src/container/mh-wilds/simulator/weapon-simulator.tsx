@@ -74,6 +74,8 @@ export function WeaponSimulator() {
   const mhWildsWeaponNamespace = getNamespaceData(
     weaponNamespaceMap[weaponType]
   );
+  const mhWildsCommonNamespace = getNamespaceData("mhWilds_common");
+  const useMhWildsListNamespace = getNamespaceData("mhWilds_weapon_skill");
 
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
@@ -164,8 +166,29 @@ export function WeaponSimulator() {
 
       <div className="grid grid-cols-1 gap-2">
         {filteredWeaponData.map((weapon) => (
-          <div key={weapon.name} className="p-2 border rounded">
-            {mhWildsWeaponNamespace?.[weapon.name]}
+          <div
+            key={weapon.name}
+            className="border p-4 rounded shadow space-y-2"
+          >
+            <div key={weapon.name} className="p-2 border rounded">
+              {mhWildsWeaponNamespace?.[weapon.name]}
+            </div>
+            <div className="gap-4 text-sm mt-2">
+              <div className="bg-gray-800 text-white rounded p-4">
+                {weapon.skills && Object.entries(weapon.skills).length > 0 ? (
+                  Object.entries(weapon.skills).map(([key, level]) => {
+                    const skillName = useMhWildsListNamespace[key] ?? key;
+                    return (
+                      <div key={key}>
+                        {skillName} Lv{level}
+                      </div>
+                    );
+                  })
+                ) : (
+                  <div>{mhCommonNamespace?.mh_common_none}</div>
+                )}
+              </div>
+            </div>
           </div>
         ))}
       </div>
