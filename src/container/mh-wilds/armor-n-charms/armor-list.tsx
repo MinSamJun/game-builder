@@ -17,7 +17,6 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
     selectedRank,
     setSelectedRank,
     page,
-    paginatedData,
     nextPage,
     prevPage,
   } = useMhWildsList(
@@ -35,9 +34,20 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
 
   const itemsPerPage = 10;
 
+  const filteredByPart = React.useMemo(() => {
+    if (!selectedPart) return filteredArmorList;
+    return filteredArmorList.filter((armor) => armor.part === selectedPart);
+  }, [filteredArmorList, selectedPart]);
+
+  const finalPaginatedData = React.useMemo(() => {
+    const startIndex = (page - 1) * itemsPerPage;
+    const endIndex = startIndex + itemsPerPage;
+    return filteredByPart.slice(startIndex, endIndex);
+  }, [filteredByPart, page, itemsPerPage]);
+
   return (
     <>
-      {paginatedData.length === 0 ? (
+      {finalPaginatedData.length === 0 ? (
         <NoResults />
       ) : (
         <>
@@ -162,7 +172,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
               </button>
             </div>
 
-            {paginatedData.map(
+            {finalPaginatedData.map(
               ({ name, skills, slots, seriesSkill, groupSkill, def }) => (
                 <div key={name} className="border p-4 rounded shadow space-y-2">
                   <div className="flex  items-center">
@@ -242,7 +252,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                 </div>
               )
             )}
-            {filteredArmorList.length > paginatedData.length && (
+            {filteredArmorList.length > finalPaginatedData.length && (
               <Pagination
                 currentPage={page}
                 totalItems={filteredArmorList.length}
