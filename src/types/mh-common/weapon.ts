@@ -3,6 +3,7 @@ export type MhCommonBaseWeapon = {
   part: string;
   rarity: number;
   rank: string;
+  final: boolean;
   attack: number;
   element: Record<string, number> | null;
   affinity: number;

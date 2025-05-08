@@ -3,6 +3,8 @@
     "name": "mhwilds_lightbowgun_hope_rifle_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 1,
+    "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 89,
     "element": null,
     "affinity": 0,
@@ -10,13 +12,14 @@
     "slots": [],
     "skills": {},
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 1,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 99,
     "element": null,
     "affinity": 0,
@@ -26,13 +29,14 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 129,
     "element": null,
     "affinity": 0,
@@ -43,13 +47,14 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_iv",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 159,
     "element": null,
     "affinity": 0,
@@ -60,13 +65,14 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hope_rifle_v",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 189,
     "element": null,
     "affinity": 0,
@@ -77,13 +83,14 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_kut_ku_anger_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 0,
@@ -93,13 +100,14 @@
       "mhwilds_weapon_skill_ballistics": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_kut_ku_anger_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 209,
     "element": null,
     "affinity": 0,
@@ -109,13 +117,14 @@
       "mhwilds_weapon_skill_ballistics": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_kut_ku_counterattack",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 219,
     "element": null,
     "affinity": 0,
@@ -125,13 +134,14 @@
       "mhwilds_weapon_skill_ballistics": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_faulnisschleuder_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 20,
@@ -141,13 +151,14 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_wahnschleuder",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 199,
     "element": null,
     "affinity": 20,
@@ -157,13 +168,14 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_rey_szelatya_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 139,
     "element": null,
     "affinity": 0,
@@ -174,13 +186,14 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_rey_szelatya_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 169,
     "element": null,
     "affinity": 0,
@@ -191,13 +204,14 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_rey_szelatya_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 199,
     "element": null,
     "affinity": 0,
@@ -208,13 +222,14 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_szelatya_clairgun",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 219,
     "element": null,
     "affinity": 0,
@@ -225,13 +240,14 @@
       "mhwilds_weapon_skill_slugger": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_dosha_faithbreaker_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 139,
     "element": null,
     "affinity": -5,
@@ -241,13 +257,14 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_dosha_faithbreaker_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": -5,
@@ -257,13 +274,14 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_dosha_faithbreaker_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 209,
     "element": null,
     "affinity": -5,
@@ -273,13 +291,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_dosha_gigasbreaker_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 189,
     "element": null,
     "affinity": -15,
@@ -289,13 +308,14 @@
       "mhwilds_weapon_skill_slugger": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_dosha_gigasbreaker_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 219,
     "element": null,
     "affinity": -15,
@@ -305,13 +325,14 @@
       "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_gigasbreaker_urbolkule",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 249,
     "element": null,
     "affinity": -15,
@@ -321,13 +342,14 @@
       "mhwilds_weapon_skill_slugger": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_chain_blitz_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 119,
     "element": null,
     "affinity": 0,
@@ -337,13 +359,14 @@
       "mhwilds_weapon_skill_tetrad_shot": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_chain_blitz_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 159,
     "element": null,
     "affinity": 0,
@@ -353,13 +376,14 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_chain_blitz_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 189,
     "element": null,
     "affinity": 0,
@@ -369,13 +393,14 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_high_chain_blitz",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 219,
     "element": null,
     "affinity": 0,
@@ -385,13 +410,14 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_titan_launcher_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 209,
     "element": null,
     "affinity": -15,
@@ -401,13 +427,14 @@
       "mhwilds_weapon_skill_special_ammo_boost": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_titan_panzer",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 239,
     "element": null,
     "affinity": -15,
@@ -417,13 +444,14 @@
       "mhwilds_weapon_skill_special_ammo_boost": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_g_rathling_gun_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 159,
     "element": null,
     "affinity": 15,
@@ -434,13 +462,14 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_g_rathling_gun_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 15,
@@ -451,13 +480,14 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_white_rathling_phoenix",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 209,
     "element": null,
     "affinity": 15,
@@ -468,13 +498,14 @@
       "mhwilds_weapon_skill_ballistics": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_rathling_gun_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 10,
@@ -484,13 +515,14 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_rathling_phoenix",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 199,
     "element": null,
     "affinity": 10,
@@ -500,13 +532,14 @@
       "mhwilds_weapon_skill_critical_boost": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_assault_conga_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 119,
     "element": null,
     "affinity": 5,
@@ -516,13 +549,14 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_assault_conga_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 169,
     "element": null,
     "affinity": 5,
@@ -533,13 +567,14 @@
       "mhwilds_weapon_skill_special_ammo_boost": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_combat_conga",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 219,
     "element": null,
     "affinity": 5,
@@ -550,13 +585,14 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_tail_string_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 199,
     "element": null,
     "affinity": -10,
@@ -566,13 +602,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_tail_catapult",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 229,
     "element": null,
     "affinity": -10,
@@ -582,13 +619,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_valkyrie_fire_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 159,
     "element": null,
     "affinity": 15,
@@ -599,13 +637,14 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_valkyrie_fire_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 189,
     "element": null,
     "affinity": 15,
@@ -616,13 +655,14 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_valkyrie_flame",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 209,
     "element": null,
     "affinity": 15,
@@ -633,13 +673,14 @@
       "mhwilds_weapon_skill_poison_duration_up": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 1,
+    "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 109,
     "element": null,
     "affinity": 0,
@@ -649,13 +690,14 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 2,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 129,
     "element": null,
     "affinity": 0,
@@ -666,13 +708,14 @@
       "mhwilds_weapon_skill_opening_shot": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 169,
     "element": null,
     "affinity": 0,
@@ -683,13 +726,14 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_hunter_s_rifle_iv",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 199,
     "element": null,
     "affinity": 0,
@@ -700,13 +744,14 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_power_rifle",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 229,
     "element": null,
     "affinity": 0,
@@ -717,13 +762,14 @@
       "mhwilds_weapon_skill_attack_boost": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_felling_fulgur_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 15,
@@ -733,13 +779,14 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_fulgursnipe_guardiana",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 209,
     "element": null,
     "affinity": 15,
@@ -749,13 +796,14 @@
       "mhwilds_weapon_skill_critical_element": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_chthonian_gunfire_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 139,
     "element": null,
     "affinity": 10,
@@ -765,13 +813,14 @@
       "mhwilds_weapon_skill_tetrad_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_chthonian_gunfire_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 169,
     "element": null,
     "affinity": 10,
@@ -781,13 +830,14 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_bequeathed_animus",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 209,
     "element": null,
     "affinity": 10,
@@ -797,13 +847,14 @@
       "mhwilds_weapon_skill_tetrad_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_ajara_shellgun_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 129,
     "element": null,
     "affinity": 10,
@@ -813,13 +864,14 @@
       "mhwilds_weapon_skill_artillery": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_ajara_shellgun_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 10,
@@ -829,13 +881,14 @@
       "mhwilds_weapon_skill_artillery": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_ajara_angaja",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 209,
     "element": null,
     "affinity": 10,
@@ -845,13 +898,14 @@
       "mhwilds_weapon_skill_artillery": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_nu_chobotnice_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 169,
     "element": null,
     "affinity": -15,
@@ -861,13 +915,14 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_nu_chobotnice_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 209,
     "element": null,
     "affinity": -15,
@@ -877,13 +932,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_abaddonian_chobotnice",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 229,
     "element": null,
     "affinity": -15,
@@ -893,13 +949,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_windshear_light_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 139,
     "element": null,
     "affinity": 0,
@@ -910,13 +967,14 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_windshear_light_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 169,
     "element": null,
     "affinity": 0,
@@ -927,13 +985,14 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_windshear_light_iii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 199,
     "element": null,
     "affinity": 0,
@@ -944,13 +1003,14 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_windshear_uchibami",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 219,
     "element": null,
     "affinity": 0,
@@ -961,13 +1021,14 @@
       "mhwilds_weapon_skill_airborne": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_g_veldian_impetum_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 159,
     "element": null,
     "affinity": -10,
@@ -977,13 +1038,14 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_low_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_g_veldian_impetum_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 199,
     "element": null,
     "affinity": -10,
@@ -993,13 +1055,14 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_g_expiating_caius",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 229,
     "element": null,
     "affinity": -10,
@@ -1009,13 +1072,14 @@
       "mhwilds_weapon_skill_opening_shot": 2
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_veldian_impetum_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 0,
@@ -1025,13 +1089,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_artian_blaster_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 169,
     "element": null,
     "affinity": 5,
@@ -1039,13 +1104,14 @@
     "slots": [2, 2, 2],
     "skills": {},
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_artian_blaster_ii",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 5,
@@ -1053,13 +1119,14 @@
     "slots": [2, 2, 2],
     "skills": {},
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_animilater",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 189,
     "element": null,
     "affinity": 5,
@@ -1067,13 +1134,14 @@
     "slots": [3, 3, 3],
     "skills": {},
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_esperanza_rifle",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 209,
     "element": null,
     "affinity": 0,
@@ -1084,13 +1152,14 @@
       "mhwilds_weapon_skill_critical_eye": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_faithbreaker_leibolkule",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 239,
     "element": null,
     "affinity": -5,
@@ -1100,13 +1169,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_expiating_caius",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 199,
     "element": null,
     "affinity": 0,
@@ -1116,13 +1186,14 @@
       "mhwilds_weapon_skill_opening_shot": 3
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_desolate_mist_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 179,
     "element": null,
     "affinity": 5,
@@ -1133,13 +1204,14 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_nifl_mist",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 209,
     "element": null,
     "affinity": 15,
@@ -1150,13 +1222,14 @@
       "mhwilds_weapon_skill_critical_element": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_zoh_kaiah_i",
     "part": "mhwilds_lightbowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 209,
     "element": null,
     "affinity": 5,
@@ -1166,13 +1239,14 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   },
   {
     "name": "mhwilds_lightbowgun_blazing_kaiah",
     "part": "mhwilds_lightbowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 219,
     "element": null,
     "affinity": 5,
@@ -1182,7 +1256,6 @@
       "mhwilds_weapon_skill_whiteflame_torrent": 1
     },
     "ammo": {},
-    "customModes": {},
-    "rank": "mh_common_high_rank"
+    "customModes": {}
   }
 ]

@@ -4,6 +4,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -16,6 +17,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -29,7 +31,8 @@
     "name": "mhwilds_swordshield_hope_sword_iii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -45,6 +48,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -60,6 +64,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -74,7 +79,8 @@
     "name": "mhwilds_swordshield_rey_kuara_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 140,
     "element": {
       "mh_common_thunder": 120
@@ -92,6 +98,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_thunder": 150
@@ -109,6 +116,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_thunder": 170
@@ -126,6 +134,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_thunder": 200
@@ -143,6 +152,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_dragon": 160
@@ -159,6 +169,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_dragon": 200
@@ -175,6 +186,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": {
       "mh_common_paralysis": 100
@@ -190,7 +202,8 @@
     "name": "mhwilds_swordshield_barina_dague_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 120,
     "element": {
       "mh_common_paralysis": 120
@@ -208,6 +221,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_paralysis": 150
@@ -225,6 +239,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_paralysis": 170
@@ -242,6 +257,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_paralysis": 200
@@ -259,6 +275,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": {
       "mh_common_fire": 100
@@ -274,7 +291,8 @@
     "name": "mhwilds_swordshield_quematrice_cuchillo_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 140,
     "element": {
       "mh_common_fire": 120
@@ -291,6 +309,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_fire": 140
@@ -307,6 +326,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_fire": 160
@@ -323,6 +343,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_fire": 180
@@ -339,6 +360,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_blast": 190
@@ -355,6 +377,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_blast": 250
@@ -371,6 +394,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -385,6 +409,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -399,6 +424,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -413,6 +439,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -427,6 +454,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_ice": 320
@@ -443,6 +471,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_ice": 350
@@ -459,6 +488,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_fire": 120
@@ -476,6 +506,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 170
@@ -493,6 +524,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_fire": 200
@@ -510,6 +542,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 210
@@ -526,6 +559,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_fire": 250
@@ -542,6 +576,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_poison": 120
@@ -559,6 +594,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_poison": 150
@@ -576,6 +612,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_poison": 180
@@ -592,7 +629,8 @@
     "name": "mhwilds_swordshield_scaly_sword_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 120,
     "element": {
       "mh_common_sleep": 120
@@ -609,6 +647,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_sleep": 150
@@ -625,6 +664,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_sleep": 170
@@ -641,6 +681,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_sleep": 200
@@ -657,6 +698,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 110,
     "element": {
       "mh_common_water": 100
@@ -673,6 +715,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_water": 120
@@ -689,6 +732,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 150
@@ -705,6 +749,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_water": 170
@@ -721,6 +766,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_water": 200
@@ -737,6 +783,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -751,6 +798,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -766,6 +814,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -781,6 +830,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -796,6 +846,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -811,6 +862,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_thunder": 210
@@ -827,6 +879,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_thunder": 250
@@ -843,6 +896,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_poison": 160
@@ -860,6 +914,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_poison": 190
@@ -877,6 +932,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_poison": 250
@@ -893,7 +949,8 @@
     "name": "mhwilds_swordshield_ajara_saber_i",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": {
       "mh_common_blast": 120
@@ -910,6 +967,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_blast": 150
@@ -926,6 +984,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_blast": 180
@@ -942,6 +1001,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_ice": 140
@@ -959,6 +1019,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_ice": 180
@@ -976,6 +1037,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -989,7 +1051,8 @@
     "name": "mhwilds_swordshield_chata_club_ii",
     "part": "mhWilds_sword_N_shield",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": null,
     "affinity": 0,
@@ -1004,6 +1067,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 0,
@@ -1018,6 +1082,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1033,6 +1098,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 120
@@ -1049,6 +1115,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_water": 150
@@ -1065,6 +1132,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_water": 180
@@ -1081,6 +1149,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_dragon": 120
@@ -1097,6 +1166,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_dragon": 150
@@ -1113,6 +1183,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_dragon": 180
@@ -1129,6 +1200,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_dragon": 220
@@ -1145,6 +1217,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1157,6 +1230,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1169,6 +1243,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1181,6 +1256,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1196,6 +1272,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -1211,6 +1288,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_dragon": 250
@@ -1227,6 +1305,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_water": 180
@@ -1244,6 +1323,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_water": 230
@@ -1261,6 +1341,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_dragon": 100
@@ -1277,6 +1358,7 @@
     "part": "mhWilds_sword_N_shield",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_dragon": 150

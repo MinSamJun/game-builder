@@ -3,6 +3,8 @@
     "name": "mhwilds_heavybowgun_hope_cannon_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
+    "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -12,13 +14,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -30,13 +33,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -49,13 +53,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_iv",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -68,13 +73,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_hope_cannon_v",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -87,13 +93,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -105,13 +112,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": null,
     "affinity": 0,
@@ -123,13 +131,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 0,
@@ -141,13 +150,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_chata_sheller_iv",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -159,13 +169,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_power_stinger",
     "part": "mhwilds_heavybowgun",
     "rarity": 2,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 120,
     "element": null,
     "affinity": 5,
@@ -177,13 +188,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_power_stinger_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -196,13 +208,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_wild_stinger",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 5,
@@ -215,13 +228,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_uth_dalgap_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": -15,
@@ -233,13 +247,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_uth_dalgap_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": -15,
@@ -251,13 +266,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_uth_dalgap_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 220,
     "element": null,
     "affinity": -15,
@@ -269,13 +285,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_dalgap_of_the_waves",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": null,
     "affinity": -15,
@@ -287,13 +304,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_rompo_sniper_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 140,
     "element": null,
     "affinity": 0,
@@ -305,13 +323,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_rompo_sniper_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -323,13 +342,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_rompo_sniper_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -341,13 +361,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_rompo_latrotox",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -359,13 +380,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_ner_bustergun_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 3,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 120,
     "element": null,
     "affinity": 10,
@@ -378,13 +400,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_ner_bustergun_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": null,
     "affinity": 15,
@@ -397,13 +420,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_ner_bustergun_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 15,
@@ -416,13 +440,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_buster_blaster",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": null,
     "affinity": 15,
@@ -435,13 +460,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_nu_muneo_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": -15,
@@ -453,13 +479,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_nu_muneo_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": -15,
@@ -471,13 +498,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_abaddonian_muneo",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": -15,
@@ -489,13 +517,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_jin_dhaphal_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -507,13 +536,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_precipice_malmiam",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -525,13 +555,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_iron_assault_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 2,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -543,13 +574,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_iron_assault_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -561,13 +593,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_iron_assault_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -579,13 +612,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_steel_assault",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -597,13 +631,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 1,
+    "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -615,13 +650,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 2,
+    "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -634,13 +670,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_iii",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -653,13 +690,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_bone_shooter_iv",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -672,13 +710,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_heavy_shooter",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -691,13 +730,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_yian_kut_ku_cannon_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 0,
@@ -709,13 +749,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_yian_kut_ku_cannon_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -727,13 +768,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_super_kut_ku_cannon",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -745,13 +787,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_tankmage_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 0,
@@ -763,13 +806,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_tankmage_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -781,13 +825,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_tanksorcerer",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -799,13 +844,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_queen_s_longfire_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 5,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 15,
@@ -818,13 +864,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_queen_s_longfire_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 15,
@@ -837,13 +884,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_queen_s_farflier",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 15,
@@ -856,13 +904,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_grounding_fulgur_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 15,
@@ -874,13 +923,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_fulgurblast_guardiana",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 15,
@@ -892,13 +942,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_gravios_howl_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": -15,
@@ -910,13 +961,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_gravios_gigahowl",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": null,
     "affinity": -15,
@@ -928,13 +980,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_todlicher_abzug_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 20,
@@ -946,13 +999,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_ableben_abzug",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": null,
     "affinity": 20,
@@ -964,13 +1018,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_g_veldian_tormentum_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 4,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": -10,
@@ -982,13 +1037,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_low_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_g_veldian_tormentum_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": -10,
@@ -1000,13 +1056,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_g_aeternal_palamedes",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": null,
     "affinity": -10,
@@ -1018,13 +1075,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_veldian_tormentum_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -1036,13 +1094,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_artian_sheller_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1052,13 +1111,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_artian_sheller_ii",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1068,13 +1128,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_greifen",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1084,13 +1145,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_esperanza_cannon",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1103,13 +1165,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_shrouded_muktana",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -1121,13 +1184,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_aeternal_palamedes",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -1139,13 +1203,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_cirrus_blaster_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 6,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 15,
@@ -1158,13 +1223,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_mountainous_roar",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 15,
@@ -1177,13 +1243,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_zoh_mitran_i",
     "part": "mhwilds_heavybowgun",
     "rarity": 7,
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": 5,
@@ -1195,13 +1262,14 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   },
   {
     "name": "mhwilds_heavybowgun_blazing_mitran",
     "part": "mhwilds_heavybowgun",
     "rarity": 8,
+    "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 5,
@@ -1213,7 +1281,6 @@
     "ammo": {},
     "customModes": {},
     "ignitionGaugeRecovery": null,
-    "specializationType": {},
-    "rank": "mh_common_high_rank"
+    "specializationType": {}
   }
 ]

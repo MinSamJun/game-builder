@@ -74,9 +74,9 @@ export function SingleResourceWeaponsList({
 
   const filteredList = React.useMemo(() => {
     return selectedWeaponData.filter(
-      ({ name, rank, rarity }) =>
+      ({ name, rank, final }) =>
         (!selectedRank || rank === selectedRank) &&
-        (!isFinalOnly || rarity === 4 || rarity === 8) &&
+        (!isFinalOnly || final) &&
         (weaponNamespace[name] ?? name)
           .toLowerCase()
           .includes(searchTerm.toLowerCase())

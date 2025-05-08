@@ -4,6 +4,7 @@
     "part": "mhwilds_hammers",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -16,6 +17,7 @@
     "part": "mhwilds_hammers",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -29,7 +31,8 @@
     "name": "mhwilds_hammers_hope_hammer_iii",
     "part": "mhwilds_hammers",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -45,6 +48,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -60,6 +64,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -75,6 +80,7 @@
     "part": "mhwilds_hammers",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -89,6 +95,7 @@
     "part": "mhwilds_hammers",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -104,6 +111,7 @@
     "part": "mhwilds_hammers",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -119,6 +127,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -134,6 +143,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -149,6 +159,7 @@
     "part": "mhwilds_hammers",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -163,6 +174,7 @@
     "part": "mhwilds_hammers",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -177,6 +189,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -191,6 +204,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -205,6 +219,7 @@
     "part": "mhwilds_hammers",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -218,7 +233,8 @@
     "name": "mhwilds_hammers_chata_clobberer_ii",
     "part": "mhwilds_hammers",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": null,
     "affinity": 0,
@@ -234,6 +250,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 0,
@@ -249,6 +266,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -264,6 +282,7 @@
     "part": "mhwilds_hammers",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 110,
     "element": {
       "mh_common_water": 160
@@ -280,6 +299,7 @@
     "part": "mhwilds_hammers",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_water": 200
@@ -296,6 +316,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 230
@@ -312,6 +333,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_water": 270
@@ -328,6 +350,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_water": 300
@@ -343,7 +366,8 @@
     "name": "mhwilds_hammers_rompo_wrecker_i",
     "part": "mhwilds_hammers",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 140,
     "element": {
       "mh_common_poison": 170
@@ -360,6 +384,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_poison": 240
@@ -376,6 +401,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_poison": 270
@@ -392,6 +418,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_poison": 300
@@ -407,7 +434,8 @@
     "name": "mhwilds_hammers_cluster_hammer_i",
     "part": "mhwilds_hammers",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 120,
     "element": {
       "mh_common_sleep": 150
@@ -425,6 +453,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_sleep": 210
@@ -442,6 +471,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_sleep": 270
@@ -459,6 +489,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_sleep": 300
@@ -476,6 +507,7 @@
     "part": "mhwilds_hammers",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_fire": 200
@@ -493,6 +525,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_fire": 270
@@ -510,6 +543,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_fire": 300
@@ -527,6 +561,7 @@
     "part": "mhwilds_hammers",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_fire": 210
@@ -544,6 +579,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 260
@@ -561,6 +597,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_fire": 300
@@ -578,6 +615,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_ice": 470
@@ -594,6 +632,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_ice": 500
@@ -610,6 +649,7 @@
     "part": "mhwilds_hammers",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 160
@@ -626,6 +666,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_water": 210
@@ -642,6 +683,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_water": 250
@@ -658,6 +700,7 @@
     "part": "mhwilds_hammers",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_dragon": 160
@@ -674,6 +717,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_dragon": 210
@@ -690,6 +734,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_dragon": 250
@@ -706,6 +751,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 410
@@ -722,6 +768,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_fire": 470
@@ -738,6 +785,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_fire": 500
@@ -754,6 +802,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_poison": 310
@@ -771,6 +820,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_poison": 340
@@ -788,6 +838,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_poison": 400
@@ -805,6 +856,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_thunder": 390
@@ -821,6 +873,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_thunder": 450
@@ -837,6 +890,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_ice": 210
@@ -853,6 +907,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_ice": 250
@@ -869,6 +924,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_blast": 340
@@ -885,6 +941,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 250,
     "element": {
       "mh_common_blast": 400
@@ -901,6 +958,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 340
@@ -917,6 +975,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_fire": 400
@@ -933,6 +992,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_dragon": 270
@@ -949,6 +1009,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_dragon": 300
@@ -965,6 +1026,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_dragon": 320
@@ -981,6 +1043,7 @@
     "part": "mhwilds_hammers",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": {
       "mh_common_paralysis": 150
@@ -996,7 +1059,8 @@
     "name": "mhwilds_hammers_jail_hammer_ii",
     "part": "mhwilds_hammers",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 140,
     "element": {
       "mh_common_paralysis": 170
@@ -1013,6 +1077,7 @@
     "part": "mhwilds_hammers",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_paralysis": 200
@@ -1029,6 +1094,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_paralysis": 220
@@ -1045,6 +1111,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_paralysis": 250
@@ -1061,6 +1128,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1073,6 +1141,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1085,6 +1154,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1097,6 +1167,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1112,6 +1183,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -1127,6 +1199,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_dragon": 350
@@ -1143,6 +1216,7 @@
     "part": "mhwilds_hammers",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_water": 300
@@ -1160,6 +1234,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_water": 350
@@ -1177,6 +1252,7 @@
     "part": "mhwilds_hammers",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_dragon": 200
@@ -1193,6 +1269,7 @@
     "part": "mhwilds_hammers",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_dragon": 250

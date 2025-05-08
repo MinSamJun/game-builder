@@ -68,7 +68,7 @@ export function WeaponSimulator() {
     "mhWilds_greatswords"
   );
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
-  const [isFinalOnly, setIsFinalOnly] = React.useState(false);
+  const [isFinalOnly, setIsFinalOnly] = React.useState(true);
   const [isSearched, setIsSearched] = React.useState(false);
   const [searchSkills, setSearchSkills] = React.useState<
     Record<string, string>
@@ -105,8 +105,7 @@ export function WeaponSimulator() {
 
     return weaponTypeToDataMap[weaponType].filter((weapon) => {
       const matchRank = !selectedRank || weapon.rank === selectedRank;
-      const matchFinal =
-        !isFinalOnly || weapon.rarity === 4 || weapon.rarity === 8;
+      const matchFinal = !isFinalOnly || weapon.final;
 
       const matchSkills =
         Object.keys(searchSkills).length === 0 ||

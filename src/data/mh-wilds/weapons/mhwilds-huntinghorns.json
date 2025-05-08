@@ -4,6 +4,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -18,6 +19,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -33,7 +35,8 @@
     "name": "hope_horn_iii",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -51,6 +54,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -68,6 +72,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -85,6 +90,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -101,6 +107,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -118,6 +125,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -135,6 +143,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -152,6 +161,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -169,6 +179,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -186,6 +197,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -203,6 +215,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 0,
@@ -220,6 +233,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -237,6 +251,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 110,
     "element": null,
     "affinity": 5,
@@ -253,6 +268,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 5,
@@ -270,6 +286,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 5,
@@ -287,6 +304,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 110,
     "element": {
       "mh_common_water": 160
@@ -305,6 +323,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_water": 200
@@ -323,6 +342,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 230
@@ -341,6 +361,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_water": 270
@@ -359,6 +380,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_water": 300
@@ -377,6 +399,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 140,
     "element": null,
     "affinity": -5,
@@ -393,6 +416,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": -5,
@@ -410,6 +434,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": -5,
@@ -426,7 +451,8 @@
     "name": "rey_perun_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 140,
     "element": {
       "mh_common_thunder": 180
@@ -446,6 +472,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_thunder": 230
@@ -465,6 +492,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_thunder": 270
@@ -484,6 +512,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_thunder": 300
@@ -502,7 +531,8 @@
     "name": "ajara_reverberator_i",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": {
       "mh_common_blast": 140
@@ -521,6 +551,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_blast": 190
@@ -539,6 +570,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_blast": 250
@@ -557,6 +589,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": -15,
@@ -574,6 +607,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 220,
     "element": null,
     "affinity": -15,
@@ -591,6 +625,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 250,
     "element": null,
     "affinity": -15,
@@ -608,6 +643,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_fire": 210
@@ -627,6 +663,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_fire": 260
@@ -646,6 +683,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_fire": 300
@@ -665,6 +703,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_ice": 470
@@ -683,6 +722,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_ice": 500
@@ -701,6 +741,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 160
@@ -720,6 +761,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_water": 210
@@ -739,6 +781,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_water": 250
@@ -758,6 +801,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_dragon": 160
@@ -776,6 +820,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_dragon": 210
@@ -794,6 +839,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_dragon": 250
@@ -812,6 +858,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_fire": 410
@@ -831,6 +878,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 220,
     "element": {
       "mh_common_fire": 470
@@ -850,6 +898,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_fire": 500
@@ -869,6 +918,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_poison": 310
@@ -888,6 +938,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_poison": 340
@@ -907,6 +958,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_poison": 400
@@ -926,6 +978,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_poison": 190
@@ -945,6 +998,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_poison": 220
@@ -964,6 +1018,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_poison": 250
@@ -983,6 +1038,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_thunder": 340
@@ -1001,6 +1057,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_thunder": 400
@@ -1019,6 +1076,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 340
@@ -1037,6 +1095,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_fire": 400
@@ -1055,6 +1114,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_dragon": 270
@@ -1073,6 +1133,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_dragon": 300
@@ -1091,6 +1152,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_dragon": 370
@@ -1110,6 +1172,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 90,
     "element": {
       "mh_common_paralysis": 150
@@ -1127,7 +1190,8 @@
     "name": "sonic_horn_ii",
     "part": "mhwilds_hunting_horn",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 120,
     "element": {
       "mh_common_paralysis": 210
@@ -1147,6 +1211,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_paralysis": 310
@@ -1166,6 +1231,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_paralysis": 370
@@ -1185,6 +1251,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_paralysis": 400
@@ -1204,6 +1271,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1218,6 +1286,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1232,6 +1301,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1246,6 +1316,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1263,6 +1334,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": null,
     "affinity": -5,
@@ -1280,6 +1352,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_dragon": 400
@@ -1299,6 +1372,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 15,
@@ -1316,6 +1390,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 15,
@@ -1333,6 +1408,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_dragon": 200
@@ -1351,6 +1427,7 @@
     "part": "mhwilds_hunting_horn",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_dragon": 250

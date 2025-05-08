@@ -4,6 +4,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 90,
     "element": null,
     "affinity": 0,
@@ -16,6 +17,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": null,
     "affinity": 0,
@@ -29,7 +31,8 @@
     "name": "mhwilds_dualblades_hope_daggers_iii",
     "part": "mhwilds_dualblades",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -45,6 +48,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -60,6 +64,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -75,6 +80,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 110,
     "element": null,
     "affinity": 0,
@@ -89,6 +95,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 130,
     "element": null,
     "affinity": 0,
@@ -104,6 +111,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 0,
@@ -119,6 +127,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": null,
     "affinity": 0,
@@ -134,6 +143,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": null,
     "affinity": 0,
@@ -149,6 +159,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 120,
     "element": null,
     "affinity": 0,
@@ -163,6 +174,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": null,
     "affinity": 0,
@@ -177,6 +189,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": null,
     "affinity": 0,
@@ -191,6 +204,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 0,
@@ -205,6 +219,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": {
       "mh_common_fire": 70
@@ -220,7 +235,8 @@
     "name": "mhwilds_dualblades_quematrice_silexes_ii",
     "part": "mhwilds_dualblades",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 140,
     "element": {
       "mh_common_fire": 90
@@ -237,6 +253,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_fire": 110
@@ -253,6 +270,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_fire": 130
@@ -269,6 +287,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_fire": 150
@@ -285,6 +304,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 1,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 100,
     "element": {
       "mh_common_paralysis": 60
@@ -300,7 +320,8 @@
     "name": "mhwilds_dualblades_barina_faucilles_ii",
     "part": "mhwilds_dualblades",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 120,
     "element": {
       "mh_common_paralysis": 80
@@ -318,6 +339,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 150,
     "element": {
       "mh_common_paralysis": 110
@@ -335,6 +357,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_paralysis": 130
@@ -352,6 +375,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_paralysis": 150
@@ -369,6 +393,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 120,
     "element": null,
     "affinity": 5,
@@ -384,6 +409,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -399,6 +425,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": null,
     "affinity": 5,
@@ -414,6 +441,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 2,
     "rank": "mh_common_low_rank",
+    "final": true,
     "attack": 140,
     "element": null,
     "affinity": -5,
@@ -428,6 +456,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": -5,
@@ -442,6 +471,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": null,
     "affinity": -5,
@@ -455,7 +485,8 @@
     "name": "mhwilds_dualblades_uth_ngarpatu_i",
     "part": "mhwilds_dualblades",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 100
@@ -472,6 +503,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_water": 140
@@ -488,6 +520,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 220,
     "element": {
       "mh_common_water": 170
@@ -504,6 +537,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_water": 200
@@ -519,7 +553,8 @@
     "name": "mhwilds_dualblades_ajara_twin_edges_i",
     "part": "mhwilds_dualblades",
     "rarity": 3,
-    "rank": "mh_common_low_rank",
+    "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 130,
     "element": {
       "mh_common_blast": 90
@@ -536,6 +571,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_blast": 120
@@ -552,6 +588,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_blast": 150
@@ -568,6 +605,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": -15,
@@ -582,6 +620,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 220,
     "element": null,
     "affinity": -15,
@@ -596,6 +635,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 250,
     "element": null,
     "affinity": -15,
@@ -610,6 +650,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_fire": 90
@@ -627,6 +668,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 120
@@ -644,6 +686,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_fire": 150
@@ -661,6 +704,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 190,
     "element": {
       "mh_common_ice": 270
@@ -677,6 +721,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_ice": 300
@@ -693,6 +738,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 140,
     "element": {
       "mh_common_dragon": 140
@@ -709,6 +755,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_dragon": 170
@@ -725,6 +772,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_dragon": 200
@@ -741,6 +789,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 170,
     "element": {
       "mh_common_dragon": 90
@@ -757,6 +806,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_dragon": 120
@@ -773,6 +823,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_dragon": 150
@@ -789,6 +840,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 180
@@ -805,6 +857,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_fire": 220
@@ -821,6 +874,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_fire": 250
@@ -837,6 +891,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 5,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_poison": 140
@@ -853,6 +908,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_poison": 170
@@ -869,6 +925,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_poison": 200
@@ -885,6 +942,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_thunder": 160
@@ -901,6 +959,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_thunder": 200
@@ -917,6 +976,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_ice": 110
@@ -933,6 +993,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 230,
     "element": {
       "mh_common_ice": 150
@@ -949,6 +1010,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_blast": 170
@@ -965,6 +1027,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": {
       "mh_common_blast": 200
@@ -981,6 +1044,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_fire": 160
@@ -997,6 +1061,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_fire": 200
@@ -1013,6 +1078,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_dragon": 120
@@ -1029,6 +1095,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_dragon": 150
@@ -1045,6 +1112,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 200,
     "element": {
       "mh_common_dragon": 160
@@ -1061,6 +1129,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 4,
     "rank": "mh_common_low_rank",
+    "final": false,
     "attack": 130,
     "element": {
       "mh_common_water": 140
@@ -1077,6 +1146,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 160,
     "element": {
       "mh_common_water": 170
@@ -1093,6 +1163,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 200,
     "element": {
       "mh_common_water": 200
@@ -1109,6 +1180,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": null,
     "affinity": 0,
@@ -1124,6 +1196,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 170,
     "element": null,
     "affinity": 5,
@@ -1136,6 +1209,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": null,
     "affinity": 5,
@@ -1148,6 +1222,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 190,
     "element": null,
     "affinity": 5,
@@ -1160,6 +1235,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 240,
     "element": null,
     "affinity": -5,
@@ -1174,6 +1250,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_dragon": 200
@@ -1190,6 +1267,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 6,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 180,
     "element": {
       "mh_common_water": 130
@@ -1207,6 +1285,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 210,
     "element": {
       "mh_common_water": 190
@@ -1224,6 +1303,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 7,
     "rank": "mh_common_high_rank",
+    "final": false,
     "attack": 210,
     "element": {
       "mh_common_dragon": 100
@@ -1240,6 +1320,7 @@
     "part": "mhwilds_dualblades",
     "rarity": 8,
     "rank": "mh_common_high_rank",
+    "final": true,
     "attack": 220,
     "element": {
       "mh_common_dragon": 140

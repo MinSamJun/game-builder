@@ -8,7 +8,12 @@ import { mhWildsKo } from "@infrastructure/i18n/mh-wilds";
 type WeaponNamespaceKey = keyof typeof mhWildsKo;
 
 export function useMhWildsList<
-  WeaponEntry extends { name: string; rank: string; rarity: number },
+  WeaponEntry extends {
+    name: string;
+    rank: string;
+    rarity: number;
+    final?: boolean;
+  },
   K extends WeaponNamespaceKey
 >(
   data: WeaponEntry[],
@@ -32,9 +37,9 @@ export function useMhWildsList<
 
   const filteredList = React.useMemo(() => {
     return data.filter(
-      ({ name, rank, rarity }) =>
+      ({ name, rank, final }) =>
         (!selectedRank || rank === selectedRank) &&
-        (!isFinalOnly || rarity === 4 || rarity === 8) &&
+        (!isFinalOnly || final) &&
         (weaponNamespace[name] ?? name)
           .toLowerCase()
           .includes(searchTerm.toLowerCase())
