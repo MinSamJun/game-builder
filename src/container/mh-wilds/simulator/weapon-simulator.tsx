@@ -154,6 +154,12 @@ export function WeaponSimulator() {
     ],
   ];
 
+  const rankSelector = useMhSelectRank(selectedRank, setSelectedRank, {
+    showMasterRank: false,
+    isFinalOnly,
+    setIsFinalOnly,
+  });
+
   return (
     <div className="p-4 space-y-6">
       <LanguageSelector />
@@ -182,11 +188,7 @@ export function WeaponSimulator() {
         onResetAllSkills={resetAllSkills}
       />
 
-      {useMhSelectRank(selectedRank, setSelectedRank, {
-        showMasterRank: false,
-        isFinalOnly,
-        setIsFinalOnly,
-      })}
+      {rankSelector}
 
       <div className="mb-4">
         <button

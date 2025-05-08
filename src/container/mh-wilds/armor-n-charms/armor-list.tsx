@@ -6,6 +6,7 @@ import { NoResults } from "@container/common/no-results";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { useMhWildsList } from "@/hook/mh-common/use-mh-wilds-list";
 import { useI18n } from "@infrastructure/user-i18n";
+import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 
 export function ArmorList({ searchTerm }: { searchTerm: string }) {
   const {
@@ -34,6 +35,20 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
 
   const itemsPerPage = 10;
 
+  const armorPartButtonGroups = [
+    [
+      { type: "mhwilds_head", label: "mh_common_head" },
+      { type: "mhwilds_chest", label: "mh_common_chest" },
+      { type: "mhwilds_arms", label: "mh_common_arms" },
+      { type: "mhwilds_waist", label: "mh_common_waist" },
+      { type: "mhwilds_legs", label: "mh_common_legs" },
+    ],
+  ];
+
+  const rankSelector = useMhSelectRank(selectedRank, setSelectedRank, {
+    showMasterRank: false,
+  });
+
   const filteredByPart = React.useMemo(() => {
     if (!selectedPart) return filteredArmorList;
     return filteredArmorList.filter((armor) => armor.part === selectedPart);
@@ -52,125 +67,27 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
       ) : (
         <>
           <div>
-            <div className="flex flex-wrap gap-2 mb-4">
-              <button
-                key={"mhwilds_head"}
-                onClick={() =>
-                  setSelectedPart(
-                    selectedPart === "mhwilds_head" ? null : "mhwilds_head"
-                  )
-                }
-                className={`px-3 py-1 rounded border ${
-                  selectedPart === "mhwilds_head"
-                    ? "bg-blue-500 text-white"
-                    : "bg-white text-gray-700"
-                }`}
-              >
-                {mhCommonNamespace?.mh_common_head}
-              </button>
+            {armorPartButtonGroups.map((group, groupIndex) => (
+              <div key={groupIndex} className="flex flex-wrap gap-2 mb-4">
+                {group.map(({ type, label }) => (
+                  <button
+                    key={type}
+                    onClick={() =>
+                      setSelectedPart(selectedPart === type ? null : type)
+                    }
+                    className={`px-3 py-1 rounded border ${
+                      selectedPart === type
+                        ? "bg-blue-500 text-white"
+                        : "bg-white text-gray-700"
+                    }`}
+                  >
+                    {mhCommonNamespace?.[label]}
+                  </button>
+                ))}
+              </div>
+            ))}
 
-              <button
-                key={"mhwilds_chest"}
-                onClick={() =>
-                  setSelectedPart(
-                    selectedPart === "mhwilds_chest" ? null : "mhwilds_chest"
-                  )
-                }
-                className={`px-3 py-1 rounded border ${
-                  selectedPart === "mhwilds_chest"
-                    ? "bg-blue-500 text-white"
-                    : "bg-white text-gray-700"
-                }`}
-              >
-                {mhCommonNamespace?.mh_common_chest}
-              </button>
-
-              <button
-                key={"mhwilds_arms"}
-                onClick={() =>
-                  setSelectedPart(
-                    selectedPart === "mhwilds_arms" ? null : "mhwilds_arms"
-                  )
-                }
-                className={`px-3 py-1 rounded border ${
-                  selectedPart === "mhwilds_arms"
-                    ? "bg-blue-500 text-white"
-                    : "bg-white text-gray-700"
-                }`}
-              >
-                {mhCommonNamespace?.mh_common_arms}
-              </button>
-
-              <button
-                key={"mhwilds_waist"}
-                onClick={() =>
-                  setSelectedPart(
-                    selectedPart === "mhwilds_waist" ? null : "mhwilds_waist"
-                  )
-                }
-                className={`px-3 py-1 rounded border ${
-                  selectedPart === "mhwilds_waist"
-                    ? "bg-blue-500 text-white"
-                    : "bg-white text-gray-700"
-                }`}
-              >
-                {mhCommonNamespace?.mh_common_waist}
-              </button>
-
-              <button
-                key={"mhwilds_legs"}
-                onClick={() =>
-                  setSelectedPart(
-                    selectedPart === "mhwilds_legs" ? null : "mhwilds_legs"
-                  )
-                }
-                className={`px-3 py-1 rounded border ${
-                  selectedPart === "mhwilds_legs"
-                    ? "bg-blue-500 text-white"
-                    : "bg-white text-gray-700"
-                }`}
-              >
-                {mhCommonNamespace?.mh_common_legs}
-              </button>
-            </div>
-
-            <div className="flex flex-wrap gap-2 mb-4">
-              <button
-                key={"mh_common_low_rank"}
-                onClick={() =>
-                  setSelectedRank(
-                    selectedRank === "mh_common_low_rank"
-                      ? null
-                      : "mh_common_low_rank"
-                  )
-                }
-                className={`px-3 py-1 rounded border ${
-                  selectedRank === "mh_common_low_rank"
-                    ? "bg-blue-500 text-white"
-                    : "bg-white text-gray-700"
-                }`}
-              >
-                {mhCommonNamespace?.mh_common_low_rank}
-              </button>
-
-              <button
-                key={"mh_common_high_rank"}
-                onClick={() =>
-                  setSelectedRank(
-                    selectedRank === "mh_common_high_rank"
-                      ? null
-                      : "mh_common_high_rank"
-                  )
-                }
-                className={`px-3 py-1 rounded border ${
-                  selectedRank === "mh_common_high_rank"
-                    ? "bg-blue-500 text-white"
-                    : "bg-white text-gray-700"
-                }`}
-              >
-                {mhCommonNamespace?.mh_common_high_rank}
-              </button>
-            </div>
+            {rankSelector}
 
             {finalPaginatedData.map(
               ({ name, skills, slots, seriesSkill, groupSkill, def }) => (

@@ -12,6 +12,13 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
   const mhWildsCharmNamespace = getNamespaceData("mhWilds_charm");
   const mhWildsCharmSkillNamespace = getNamespaceData("mhWilds_armor_skill");
 
+  const rankButtonGroups = [
+    [
+      { type: "mh_common_low_rank", label: "mh_common_low_rank" },
+      { type: "mh_common_high_rank", label: "mh_common_high_rank" },
+    ],
+  ];
+
   const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
   const filteredCharmList = mhWildsCharmData.filter(
     ({ name, rank }) =>
@@ -27,42 +34,25 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
         <NoResults />
       ) : (
         <>
-          <div className="flex flex-wrap gap-2 mb-4">
-            <button
-              key={"mh_common_low_rank"}
-              onClick={() =>
-                setSelectedRank(
-                  selectedRank === "mh_common_low_rank"
-                    ? null
-                    : "mh_common_low_rank"
-                )
-              }
-              className={`px-3 py-1 rounded border ${
-                selectedRank === "mh_common_low_rank"
-                  ? "bg-blue-500 text-white"
-                  : "bg-white text-gray-700"
-              }`}
-            >
-              {mhCommonNamespace?.mh_common_low_rank}
-            </button>
-            <button
-              key={"mh_common_high_rank"}
-              onClick={() =>
-                setSelectedRank(
-                  selectedRank === "mh_common_high_rank"
-                    ? null
-                    : "mh_common_high_rank"
-                )
-              }
-              className={`px-3 py-1 rounded border ${
-                selectedRank === "mh_common_high_rank"
-                  ? "bg-blue-500 text-white"
-                  : "bg-white text-gray-700"
-              }`}
-            >
-              {mhCommonNamespace?.mh_common_high_rank}
-            </button>
-          </div>
+          {rankButtonGroups.map((group, groupIndex) => (
+            <div key={groupIndex} className="flex flex-wrap gap-2 mb-4">
+              {group.map(({ type, label }) => (
+                <button
+                  key={type}
+                  onClick={() =>
+                    setSelectedRank(selectedRank === type ? null : type)
+                  }
+                  className={`px-3 py-1 rounded border ${
+                    selectedRank === type
+                      ? "bg-blue-500 text-white"
+                      : "bg-white text-gray-700"
+                  }`}
+                >
+                  {mhCommonNamespace?.[label]}
+                </button>
+              ))}
+            </div>
+          ))}
           <div className=" gap-4 text-sm">
             {filteredCharmList.map(({ name, skills }) => (
               <div key={name} className="border p-4 rounded shadow space-y-2">
