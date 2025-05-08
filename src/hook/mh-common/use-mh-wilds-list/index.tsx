@@ -8,13 +8,19 @@ import { mhWildsKo } from "@infrastructure/i18n/mh-wilds";
 type WeaponNamespaceKey = keyof typeof mhWildsKo;
 
 export function useMhWildsList<
-  WeaponEntry extends { name: string; rank: string; rarity: number },
+  WeaponEntry extends {
+    name: string;
+    rank: string;
+    rarity: number;
+    part?: string;
+  },
   K extends WeaponNamespaceKey
 >(
   data: WeaponEntry[],
   weaponNamespaceKey: K,
   weaponSkillNamespaceKey: K,
-  searchTerm: string
+  searchTerm: string,
+  selectedPart: string | null
 ) {
   const { getNamespaceData } = useI18n();
 
@@ -32,14 +38,22 @@ export function useMhWildsList<
 
   const filteredList = React.useMemo(() => {
     return data.filter(
-      ({ name, rank, rarity }) =>
+      ({ name, rank, rarity, part }) =>
         (!selectedRank || rank === selectedRank) &&
         (!isFinalOnly || rarity === 4 || rarity === 8) &&
+        (!selectedPart || part === selectedPart) &&
         (weaponNamespace[name] ?? name)
           .toLowerCase()
           .includes(searchTerm.toLowerCase())
     );
-  }, [data, selectedRank, isFinalOnly, weaponNamespace, searchTerm]);
+  }, [
+    data,
+    selectedRank,
+    isFinalOnly,
+    selectedPart,
+    weaponNamespace,
+    searchTerm,
+  ]);
 
   const itemsPerPage = 10;
   const pagination = usePagination(filteredList, itemsPerPage, searchTerm);

@@ -21,13 +21,13 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { WeaponSkillSelector } from "./weapon-skill-selector";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
-import type { MhWildsBaseWeapon } from "@/types/mh-wilds";
+import type { MhCommonBaseWeapon } from "@/types/mh-common";
 import type { WeaponType } from "@/types/mh-common";
 import { NoResults } from "@container/common/no-results";
 import { usePagination } from "@/hook/common/use-pagenation";
 import { Pagination } from "@infrastructure/common/pagenation";
 
-type Weapon = MhWildsBaseWeapon;
+type Weapon = MhCommonBaseWeapon;
 
 const weaponNamespaceMap: Record<WeaponType, WeaponType> = {
   mhWilds_greatswords: "mhWilds_greatswords",

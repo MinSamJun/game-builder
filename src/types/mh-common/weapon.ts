@@ -1,4 +1,4 @@
-export type MhWildsBaseWeapon = {
+export type MhCommonBaseWeapon = {
   name: string;
   part: string;
   rarity: number;
@@ -19,19 +19,19 @@ type PhialType =
   | "mh_element_phial"
   | "mh_dragon_phial";
 
-export interface MhWildsWeaponSwitchaxe extends MhWildsBaseWeapon {
+export interface MhWildsWeaponSwitchaxe extends MhCommonBaseWeapon {
   phial: { [PhialName in PhialType]?: number | null };
 }
 
-export interface MhWildsWeaponInsectglavie extends MhWildsBaseWeapon {
+export interface MhWildsWeaponInsectglavie extends MhCommonBaseWeapon {
   kinsectlevel: number;
 }
 
-export interface MhWildsWeaponBow extends MhWildsBaseWeapon {
+export interface MhWildsWeaponBow extends MhCommonBaseWeapon {
   coating: string[];
 }
 
-export interface MhWildsWeaponHuntinghorn extends MhWildsBaseWeapon {
+export interface MhWildsWeaponHuntinghorn extends MhCommonBaseWeapon {
   notes: number[];
   echoBubbles: string;
 }
@@ -42,16 +42,16 @@ type ShellingType = {
   mhwilds_shelling_type_long?: string;
 };
 
-export interface MhWildsWeaponGunlance extends MhWildsBaseWeapon {
+export interface MhWildsWeaponGunlance extends MhCommonBaseWeapon {
   shelling: ShellingType;
 }
 
-export interface MhWildsWeaponLightBowgun extends MhWildsBaseWeapon {
+export interface MhWildsWeaponLightBowgun extends MhCommonBaseWeapon {
   ammo: Record<string, string>;
   customModes: Record<string, string>;
 }
 
-export interface MhWildsWeaponHeavyBowgun extends MhWildsBaseWeapon {
+export interface MhWildsWeaponHeavyBowgun extends MhCommonBaseWeapon {
   ammo: Record<string, string>;
   customModes: Record<string, string>;
   specializationType: Record<string, number>;

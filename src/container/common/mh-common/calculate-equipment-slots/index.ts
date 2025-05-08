@@ -1,8 +1,8 @@
-import type { MhWildsBaseWeapon } from "@/types/mh-wilds/weapon";
+import type { MhCommonBaseWeapon } from "@/types/mh-common/weapon";
 import type { Decoration } from "@/types/mh-common";
 
 export function calculateEquipmentSlots(
-  weapon: MhWildsBaseWeapon,
+  weapon: MhCommonBaseWeapon,
   decorations: Decoration[]
 ): Record<string, number> {
   const result: Record<string, number> = { ...weapon.skills };

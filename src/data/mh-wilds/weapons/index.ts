@@ -14,7 +14,7 @@ import mhWildsLightBowgunsDataRaw from "./mhwilds-light-bowguns.json";
 import mhWildsHeavyBowgunsDataRaw from "./mhwilds-heavy-bowguns.json";
 
 import {
-  MhWildsBaseWeapon,
+  MhCommonBaseWeapon,
   MhWildsWeaponSwitchaxe,
   MhWildsWeaponInsectglavie,
   MhWildsWeaponBow,
@@ -22,26 +22,26 @@ import {
   MhWildsWeaponGunlance,
   MhWildsWeaponLightBowgun,
   MhWildsWeaponHeavyBowgun,
-} from "@/types/mh-wilds/weapon";
+} from "@/types/mh-common/weapon";
 
 export const mhWildsGreatswordsData =
-  mhWildsGreatswordsDataRaw as MhWildsBaseWeapon[];
+  mhWildsGreatswordsDataRaw as MhCommonBaseWeapon[];
 
 export const mhWildsDualbladesData =
-  mhWildsDualbladesDataRaw as MhWildsBaseWeapon[];
+  mhWildsDualbladesDataRaw as MhCommonBaseWeapon[];
 
 export const mhWildsLongswordsData =
-  mhWildsLongswordsDataRaw as MhWildsBaseWeapon[];
+  mhWildsLongswordsDataRaw as MhCommonBaseWeapon[];
 
 export const mhWildsSwordNShieldsData =
-  mhWildsSwordNShieldsDataRaw as MhWildsBaseWeapon[];
+  mhWildsSwordNShieldsDataRaw as MhCommonBaseWeapon[];
 
-export const mhWildsHammersData = mhWildsHammersDataRaw as MhWildsBaseWeapon[];
+export const mhWildsHammersData = mhWildsHammersDataRaw as MhCommonBaseWeapon[];
 
-export const mhWildsLancesData = mhWildsLancesDataRaw as MhWildsBaseWeapon[];
+export const mhWildsLancesData = mhWildsLancesDataRaw as MhCommonBaseWeapon[];
 
 export const mhWildsChargebladesData =
-  mhWildsChargebladesDataRaw as MhWildsBaseWeapon[];
+  mhWildsChargebladesDataRaw as MhCommonBaseWeapon[];
 
 export const mhWildsSwitchaxesData =
   mhWildsSwitchaxesDataRaw as MhWildsWeaponSwitchaxe[];

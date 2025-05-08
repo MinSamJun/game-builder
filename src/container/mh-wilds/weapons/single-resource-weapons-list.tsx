@@ -16,7 +16,7 @@ import {
   MhWildsWeaponSwitchaxe,
   MhWildsWeaponInsectglavie,
   MhWildsWeaponBow,
-} from "@/types/mh-wilds/weapon";
+} from "@/types/mh-common/weapon";
 
 type Weapon =
   | MhWildsWeaponSwitchaxe
