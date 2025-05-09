@@ -90,7 +90,7 @@ export function WeaponSkillSelector({
           onClick={onResetAllSkills}
           className="text-sm px-4 py-2 border rounded hover:bg-gray-100"
         >
-          초기화
+          초기화 아이콘으로 대체하기
         </button>
       </div>
     </div>

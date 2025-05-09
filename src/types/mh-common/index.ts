@@ -1,8 +1,8 @@
 import type { WeaponType } from "./weapon-type";
 import type { Decoration } from "./decoration";
-import type { ArmorSet } from "../mh-common/armor-set";
-import type { MhCommonBaseWeapon } from "../mh-common/weapon";
-import type { SkillMap, ArmorPart, Armor } from "../mh-common/armor";
+import type { ArmorSet } from "./armor-set";
+import type { MhCommonBaseWeapon } from "./weapon";
+import type { SkillMap, ArmorPart, Armor } from "./armor";
 
 export type {
   WeaponType,

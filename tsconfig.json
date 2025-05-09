@@ -29,7 +29,9 @@
       "@utils/*": ["utils/*"],
       "@i18n/*": ["infrastructure/i18n/*"],
       "@types/*": ["types/*"],
-      "@config/*": ["config/*"]
+      "@config/*": ["config/*"],
+      "@mh-common/*": ["container/mh-common/*"],
+      "@mh-wilds/*": ["container/mh-wilds/*"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
