@@ -3,6 +3,7 @@
 import React from "react";
 import { mhWildsWeaponSkillData } from "@/data/mh-wilds/skills";
 import { useI18n } from "@infrastructure/user-i18n";
+import { IoRefresh } from "react-icons/io5";
 
 const CATEGORIES = [
   "mhwilds_weapon_skill_type_damage",
@@ -88,9 +89,9 @@ export function WeaponSkillSelector({
         </div>
         <button
           onClick={onResetAllSkills}
-          className="text-sm px-4 py-2 border rounded hover:bg-gray-100"
+          className="flex items-center gap-2 text-sm px-4 py-2 border rounded hover:bg-gray-100"
         >
-          초기화 아이콘으로 대체하기
+          <IoRefresh className="w-5 h-5" />
         </button>
       </div>
     </div>
