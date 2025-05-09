@@ -80,6 +80,7 @@ export function WeaponSimulator() {
   const [searchSkills, setSearchSkills] = React.useState<
     Record<string, string>
   >({});
+  const [excludeComplexDeco, setExcludeComplexDeco] = React.useState(false);
 
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
@@ -111,8 +112,13 @@ export function WeaponSimulator() {
   };
 
   const decorations = React.useMemo(() => {
+    if (excludeComplexDeco) {
+      return mhWildsWeaponSkillDecorationData.filter(
+        (deco) => Object.keys(deco.skills).length <= 1
+      );
+    }
     return mhWildsWeaponSkillDecorationData;
-  }, []);
+  }, [excludeComplexDeco]);
 
   const numericSearchSkills = React.useMemo(() => {
     const result: Record<string, number> = {};
@@ -223,6 +229,21 @@ export function WeaponSimulator() {
       />
 
       {rankSelector}
+
+      <div className="flex items-center gap-2 text-sm mb-4">
+        <label
+          htmlFor="excludeComplexDecoCheckbox"
+          className="flex items-center gap-2"
+        >
+          <input
+            id="excludeComplexDecoCheckbox"
+            type="checkbox"
+            checked={excludeComplexDeco}
+            onChange={() => setExcludeComplexDeco((prev) => !prev)}
+          />
+          {mhCommonNamespace?.mh_common_exclude_complex_deco ?? "복합주 제외"}
+        </label>
+      </div>
 
       <div className="mb-4">
         <button
