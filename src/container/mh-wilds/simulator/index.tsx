@@ -283,7 +283,6 @@ export function WeaponSimulator() {
                     decorationCombinations[0].length > 0 && (
                       <div className="grid grid-cols-3 gap-2">
                         {decorationCombinations.map((combination, index) => {
-                          // 장식주 개수 계산
                           const decorationCounts = combination.reduce(
                             (acc, dec) => {
                               acc[dec.name] = (acc[dec.name] || 0) + 1;
@@ -292,13 +291,11 @@ export function WeaponSimulator() {
                             {} as Record<string, number>
                           );
 
-                          // 사용된 슬롯 계산
                           const usedSlots = combination.map(
                             (dec) => dec.slotlevel
                           );
                           const remainingSlots = [...weapon.slots];
 
-                          // 장식주를 슬롯 레벨별로 그룹화하고 가장 작은 슬롯부터 사용
                           const slotGroups = usedSlots.reduce(
                             (acc, slotLevel) => {
                               acc[slotLevel] = (acc[slotLevel] || 0) + 1;
