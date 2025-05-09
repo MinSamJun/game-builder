@@ -67,7 +67,9 @@ export function WeaponSimulator() {
   const [weaponType, setWeaponType] = React.useState<WeaponType>(
     "mhWilds_greatswords"
   );
-  const [selectedRank, setSelectedRank] = React.useState<string | null>(null);
+  const [selectedRank, setSelectedRank] = React.useState<string | null>(
+    "mh_common_high_rank"
+  );
   const [isFinalOnly, setIsFinalOnly] = React.useState(true);
   const [isSearched, setIsSearched] = React.useState(false);
   const [searchSkills, setSearchSkills] = React.useState<
