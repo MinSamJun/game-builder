@@ -1,6 +1,14 @@
 import type { Decoration } from "@/types/mh-common";
 
-export const mhWildsArmorSkillDecorationData: Decoration[] = [
+export const mhWildsArmorSkillDecorationDataRaw: Decoration[] = [
+  {
+    name: "dummy_armor_decoration",
+    type: "0",
+    rarity: 9999,
+    rank: "0",
+    slotlevel: 9999,
+    skills: {},
+  },
   {
     name: "mhwilds_adapt_jewel_1",
     type: "mhwilds_armor_decoration",
@@ -528,13 +536,5 @@ export const mhWildsArmorSkillDecorationData: Decoration[] = [
     rank: "mh_common_low_rank",
     slotlevel: 1,
     skills: { mhwilds_armor_skill_windproof: 1 },
-  },
-  {
-    name: "dummy_armor_decoration",
-    type: "0",
-    rarity: 9999,
-    rank: "0",
-    slotlevel: 9999,
-    skills: {},
   },
 ];
