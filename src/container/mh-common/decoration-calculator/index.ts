@@ -26,11 +26,14 @@ export const calculateDecorationCombinations = (
     return [[]];
   }
 
-  const availableDecorations = decorations.filter(
-    (dec) =>
-      Object.keys(remainingRequiredSkills).some((skill) => dec.skills[skill]) &&
-      slots.some((slot) => slot >= dec.slotlevel)
-  );
+  const availableDecorations = decorations
+    .filter(
+      (dec) =>
+        Object.keys(remainingRequiredSkills).some(
+          (skill) => dec.skills[skill]
+        ) && slots.some((slot) => slot >= dec.slotlevel)
+    )
+    .sort((a, b) => a.slotlevel - b.slotlevel);
 
   const generateCombinations = (
     remainingSlots: number[],
