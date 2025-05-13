@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import { ArmorList, CharmList } from "@/container/mh-wilds/armor-n-charms";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
@@ -11,8 +11,8 @@ export function MhWildsArmorNCharm() {
   const { getNamespaceData } = useI18n();
   const { LanguageSelector } = useSelectLanguage();
   const [equipmentType, setEquipmentType] =
-    useState<EquipmentNamespace>("mhWilds_armor");
-  const [term, setTerm] = useState("");
+    React.useState<EquipmentNamespace>("mhWilds_armor");
+  const [term, setTerm] = React.useState("");
 
   const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common");
