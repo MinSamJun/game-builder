@@ -14,8 +14,8 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
 
   const rankButtonGroups = [
     [
-      { type: "mh_common_low_rank", label: "mh_common_low_rank" },
-      { type: "mh_common_high_rank", label: "mh_common_high_rank" },
+      { type: "mh_common_low_rank", namespace: "mh_common_low_rank" },
+      { type: "mh_common_high_rank", namespace: "mh_common_high_rank" },
     ],
   ];
 
@@ -36,7 +36,7 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
         <>
           {rankButtonGroups.map((group, groupIndex) => (
             <div key={groupIndex} className="flex flex-wrap gap-2 mb-4">
-              {group.map(({ type, label }) => (
+              {group.map(({ type, namespace }) => (
                 <button
                   key={type}
                   onClick={() =>
@@ -48,7 +48,7 @@ export function CharmList({ searchTerm }: { searchTerm: string }) {
                       : "bg-white text-gray-700"
                   }`}
                 >
-                  {mhCommonNamespace?.[label]}
+                  {mhCommonNamespace?.[namespace]}
                 </button>
               ))}
             </div>

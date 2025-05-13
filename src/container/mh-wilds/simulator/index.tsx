@@ -173,24 +173,24 @@ export function WeaponSimulator() {
 
   const weaponButtonGroups = [
     [
-      { type: "mhWilds_greatswords", label: "mh_common_greatsword" },
-      { type: "mhWilds_hammers", label: "mh_common_hammer" },
-      { type: "mhWilds_hunting_horn", label: "mh_common_huntinghorn" },
-      { type: "mhWilds_gunlances", label: "mh_common_gunlance" },
-      { type: "mhWilds_switchaxes", label: "mh_common_switchaxe" },
-      { type: "mhWilds_charge_blades", label: "mh_common_chargeblade" },
+      { type: "mhWilds_greatswords", namespace: "mh_common_greatsword" },
+      { type: "mhWilds_hammers", namespace: "mh_common_hammer" },
+      { type: "mhWilds_hunting_horn", namespace: "mh_common_huntinghorn" },
+      { type: "mhWilds_gunlances", namespace: "mh_common_gunlance" },
+      { type: "mhWilds_switchaxes", namespace: "mh_common_switchaxe" },
+      { type: "mhWilds_charge_blades", namespace: "mh_common_chargeblade" },
     ],
     [
-      { type: "mhWilds_longswords", label: "mh_common_longsword" },
-      { type: "mhWilds_sword_N_shield", label: "mh_common_swordandshield" },
-      { type: "mhWilds_dualblades", label: "mh_common_dualblade" },
-      { type: "mhWilds_lances", label: "mh_common_lance" },
-      { type: "mhWilds_insect_glavies", label: "mh_common_insectglavie" },
+      { type: "mhWilds_longswords", namespace: "mh_common_longsword" },
+      { type: "mhWilds_sword_N_shield", namespace: "mh_common_swordandshield" },
+      { type: "mhWilds_dualblades", namespace: "mh_common_dualblade" },
+      { type: "mhWilds_lances", namespace: "mh_common_lance" },
+      { type: "mhWilds_insect_glavies", namespace: "mh_common_insectglavie" },
     ],
     [
-      { type: "mhWilds_bows", label: "mh_common_bow" },
-      { type: "mhWilds_light_bowguns", label: "mh_common_light_bowgun" },
-      { type: "mhWilds_heavy_bowguns", label: "mh_common_heavy_bowgun" },
+      { type: "mhWilds_bows", namespace: "mh_common_bow" },
+      { type: "mhWilds_light_bowguns", namespace: "mh_common_light_bowgun" },
+      { type: "mhWilds_heavy_bowguns", namespace: "mh_common_heavy_bowgun" },
     ],
   ];
 
@@ -206,7 +206,7 @@ export function WeaponSimulator() {
 
       {weaponButtonGroups.map((group, groupIndex) => (
         <div key={groupIndex} className="mb-6 flex space-x-4">
-          {group.map(({ type, label }) => (
+          {group.map(({ type, namespace }) => (
             <button
               key={type}
               onClick={() => setWeaponType(type as WeaponType)}
@@ -216,7 +216,7 @@ export function WeaponSimulator() {
                   : "bg-gray-200 text-black"
               }`}
             >
-              {mhCommonNamespace?.[label]}
+              {mhCommonNamespace?.[namespace]}
             </button>
           ))}
         </div>

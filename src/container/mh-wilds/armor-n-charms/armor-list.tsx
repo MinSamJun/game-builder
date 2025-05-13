@@ -37,11 +37,11 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
 
   const armorPartButtonGroups = [
     [
-      { type: "mhwilds_head", label: "mh_common_head" },
-      { type: "mhwilds_chest", label: "mh_common_chest" },
-      { type: "mhwilds_arms", label: "mh_common_arms" },
-      { type: "mhwilds_waist", label: "mh_common_waist" },
-      { type: "mhwilds_legs", label: "mh_common_legs" },
+      { type: "mhwilds_head", namespace: "mh_common_head" },
+      { type: "mhwilds_chest", namespace: "mh_common_chest" },
+      { type: "mhwilds_arms", namespace: "mh_common_arms" },
+      { type: "mhwilds_waist", namespace: "mh_common_waist" },
+      { type: "mhwilds_legs", namespace: "mh_common_legs" },
     ],
   ];
 
@@ -69,7 +69,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
           <div>
             {armorPartButtonGroups.map((group, groupIndex) => (
               <div key={groupIndex} className="flex flex-wrap gap-2 mb-4">
-                {group.map(({ type, label }) => (
+                {group.map(({ type, namespace }) => (
                   <button
                     key={type}
                     onClick={() =>
@@ -81,7 +81,7 @@ export function ArmorList({ searchTerm }: { searchTerm: string }) {
                         : "bg-white text-gray-700"
                     }`}
                   >
-                    {mhCommonNamespace?.[label]}
+                    {mhCommonNamespace?.[namespace]}
                   </button>
                 ))}
               </div>

@@ -26,6 +26,13 @@ export function MhWildsSkills() {
 
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common");
 
+  const skillButtonGroups = [
+    { type: "mhWilds_weapon_skill", namespace: "mhWilds_common_weapon_skill" },
+    { type: "mhWilds_armor_skill", namespace: "mhWilds_common_armor_skill" },
+    { type: "mhWilds_series_skill", namespace: "mhwilds_common_series_skill" },
+    { type: "mhWilds_group_skill", namespace: "mhwilds_common_group_skill" },
+  ];
+
   return (
     <div className="container mx-auto p-4">
       <div className="text-2xl font-bold mb-6">
@@ -34,46 +41,19 @@ export function MhWildsSkills() {
       <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">
-        <button
-          onClick={() => setEquipmentType("mhWilds_weapon_skill")}
-          className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_weapon_skill"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhWildsmhCommonNamespace?.mhWilds_common_weapon_skill}
-        </button>
-        <button
-          onClick={() => setEquipmentType("mhWilds_armor_skill")}
-          className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_armor_skill"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhWildsmhCommonNamespace?.mhWilds_common_armor_skill}
-        </button>
-        <button
-          onClick={() => setEquipmentType("mhWilds_series_skill")}
-          className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_series_skill"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhWildsmhCommonNamespace?.mhwilds_common_series_skill}
-        </button>
-        <button
-          onClick={() => setEquipmentType("mhWilds_group_skill")}
-          className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_group_skill"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhWildsmhCommonNamespace?.mhwilds_common_group_skill}
-        </button>
+        {skillButtonGroups.map(({ type, namespace }) => (
+          <button
+            key={type}
+            onClick={() => setEquipmentType(type as EquipmentNamespace)}
+            className={`px-4 py-2 rounded ${
+              equipmentType === type
+                ? "bg-green-500 text-white"
+                : "bg-gray-200 text-black"
+            }`}
+          >
+            {mhWildsmhCommonNamespace?.[namespace]}
+          </button>
+        ))}
       </div>
 
       <input
