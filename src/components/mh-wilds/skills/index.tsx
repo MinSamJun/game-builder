@@ -38,6 +38,7 @@ export function MhWildsSkills() {
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
+
       <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">

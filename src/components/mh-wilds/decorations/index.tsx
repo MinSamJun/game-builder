@@ -22,34 +22,39 @@ export function MhWildsDecoList() {
   const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common");
 
+  const decorationButtonGroups = [
+    {
+      type: "mhWilds_weapon_decoration",
+      namespace: "mh_common_weapon_decoration",
+    },
+    {
+      type: "mhWilds_armor_decoration",
+      namespace: "mh_common_armor_decoration",
+    },
+  ];
+
   return (
     <div className="container mx-auto p-4">
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
+
       <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">
-        <button
-          onClick={() => setEquipmentType("mhWilds_weapon_decoration")}
-          className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_weapon_decoration"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_weapon_decoration}
-        </button>
-        <button
-          onClick={() => setEquipmentType("mhWilds_armor_decoration")}
-          className={`px-4 py-2 rounded ${
-            equipmentType === "mhWilds_armor_decoration"
-              ? "bg-green-500 text-white"
-              : "bg-gray-200 text-black"
-          }`}
-        >
-          {mhCommonNamespace?.mh_common_armor_decoration}
-        </button>
+        {decorationButtonGroups.map(({ type, namespace }) => (
+          <button
+            key={type}
+            onClick={() => setEquipmentType(type as EquipmentNamespace)}
+            className={`px-4 py-2 rounded ${
+              equipmentType === type
+                ? "bg-green-500 text-white"
+                : "bg-gray-200 text-black"
+            }`}
+          >
+            {mhCommonNamespace?.[namespace]}
+          </button>
+        ))}
       </div>
 
       <input
