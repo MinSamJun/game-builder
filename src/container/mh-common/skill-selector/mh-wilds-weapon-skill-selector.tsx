@@ -6,44 +6,43 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { IoRefresh } from "react-icons/io5";
 
 const CATEGORIES = [
-  "mhwilds_weapon_skill_type_damage",
-  "mhwilds_weapon_skill_type_affinity",
-  "mhwilds_weapon_skill_type_element",
-  "mhwilds_weapon_skill_type_status",
-  "mhwilds_weapon_skill_type_sharpness",
-  "mhwilds_weapon_skill_type_gunner",
-  "mhwilds_weapon_skill_type_bow",
-  "mhwilds_weapon_skill_type_bowguns",
-  "mhwilds_weapon_skill_type_resource",
-  "mhwilds_weapon_skill_type_guard",
-  "mhwilds_weapon_skill_type_etc",
+  "mhwilds_skill_type_damage",
+  "mhwilds_skill_type_affinity",
+  "mhwilds_skill_type_element",
+  "mhwilds_skill_type_status",
+  "mhwilds_skill_type_sharpness",
+  "mhwilds_skill_type_gunner",
+  "mhwilds_skill_type_bow",
+  "mhwilds_skill_type_bowguns",
+  "mhwilds_skill_type_resource",
+  "mhwilds_skill_type_guard",
+  "mhwilds_skill_type_etc",
 ];
 
-interface WeaponSkillSelectorProps {
+interface MhWildsSkillSelectorProps {
   selectedSkills: Record<string, string>;
   onSkillChange: (skillName: string, level: string) => void;
   onResetAllSkills: () => void;
 }
 
-export function WeaponSkillSelector({
+export function MhWildsWeaponSkillSelector({
   selectedSkills,
   onSkillChange,
   onResetAllSkills,
-}: WeaponSkillSelectorProps) {
+}: MhWildsSkillSelectorProps) {
   const { getNamespaceData } = useI18n();
-  const skillNs = getNamespaceData("mhWilds_weapon_skill") ?? {};
-  const typeNs = getNamespaceData("mhWilds_weapon_skill_type") ?? {};
+  const skillNamespace = getNamespaceData("mhWilds_weapon_skill") ?? {};
+  const typeNamespace = getNamespaceData("mhWilds_skill_type") ?? {};
 
   return (
     <div className="container mx-auto p-4">
       <div className="text-2xl font-bold mb-6">
-        {skillNs.mhWilds_weapon_skills}
+        {skillNamespace.mhWilds_weapon_skills}
       </div>
       <div className="space-y-8">
         {CATEGORIES.map((category) => {
           const skills = mhWildsWeaponSkillData.filter(
-            (skill) =>
-              (skill.category ?? "mhwilds_weapon_skill_type_etc") === category
+            (skill) => (skill.category ?? "mhwilds_skill_type_etc") === category
           );
 
           if (skills.length === 0) return null;
@@ -51,7 +50,7 @@ export function WeaponSkillSelector({
           return (
             <div key={category} className="space-y-4">
               <h3 className="text-xl font-semibold">
-                {typeNs[category] ?? category}
+                {typeNamespace[category] ?? category}
               </h3>
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
                 {skills.map((skill) => (
@@ -60,7 +59,7 @@ export function WeaponSkillSelector({
                     className="space-y-2 p-4 border rounded-lg"
                   >
                     <div className="font-semibold">
-                      {skillNs[skill.name] ?? skill.name}
+                      {skillNamespace[skill.name] ?? skill.name}
                     </div>
                     <select
                       className="border p-2 rounded w-full"
@@ -74,7 +73,7 @@ export function WeaponSkillSelector({
                       </option>
                       {Object.entries(skill.skills).map(([level, id]) => (
                         <option key={id} value={level} className="text-black">
-                          {skillNs[level] ?? level}
+                          {skillNamespace[level] ?? level}
                         </option>
                       ))}
                     </select>
@@ -85,7 +84,7 @@ export function WeaponSkillSelector({
           );
         })}
         <div className="text-2xl font-bold">
-          {skillNs.mhWilds_weapon_skills}
+          {skillNamespace.mhWilds_weapon_skills}
         </div>
         <button
           onClick={onResetAllSkills}

@@ -18,7 +18,7 @@ import {
   mhWildsHeavyBowgunsData,
 } from "@/data/mh-wilds/weapons";
 import { useI18n } from "@infrastructure/user-i18n";
-import { WeaponSkillSelector } from "@mh-common/weapon-skill-selector";
+import { MhWildsWeaponSkillSelector } from "@/container/mh-common/skill-selector";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import type { MhCommonBaseWeapon } from "@/types/mh-common";
 import type { WeaponType } from "@/types/mh-common";
@@ -218,7 +218,7 @@ export function WeaponSimulator() {
         </div>
       ))}
 
-      <WeaponSkillSelector
+      <MhWildsWeaponSkillSelector
         selectedSkills={selectedSkills}
         onSkillChange={handleSkillChange}
         onResetAllSkills={resetAllSkills}

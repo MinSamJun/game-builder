@@ -38,6 +38,11 @@ export function MhWildsSimulator() {
           <button
             key={type}
             onClick={() => setEquipmentType(type as EquipmentNamespace)}
+            className={`px-4 py-2 rounded ${
+              equipmentType === type
+                ? "bg-green-500 text-white"
+                : "bg-gray-200 text-black"
+            }`}
           >
             {mhCommonNamespace?.[namespace]}
           </button>
