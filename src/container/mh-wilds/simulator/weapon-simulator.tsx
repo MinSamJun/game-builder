@@ -237,7 +237,7 @@ export function WeaponSimulator() {
             checked={excludeComplexDeco}
             onChange={() => setExcludeComplexDeco((prev) => !prev)}
           />
-          {mhCommonNamespace?.mh_common_exclude_complex_deco ?? "복합주 제외"}
+          {mhCommonNamespace?.mh_common_exclude_complex_deco}
         </label>
       </div>
 

@@ -56,8 +56,11 @@ export const commonEn = {
   mh_common_armor_decoration: "Armor Decoration",
   mh_common_remaining_slots: "Remaining Slots",
   mh_common_expected_attack: "Expected Attack",
+  mh_common_weapon_search: "Weapon Search",
+  mh_common_armor_search: "Armor Search",
   mh_common_skills: "Skills",
   mh_common_use_max_decorations: "Use Max Decorations",
+  mh_common_exclude_complex_deco: "Exclude Complex Deco",
 };
 
 export const mhwildsMelodiesEn = {

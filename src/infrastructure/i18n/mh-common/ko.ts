@@ -57,8 +57,10 @@ export const commonKo = {
   mh_common_remaining_slots: "남은 슬롯",
   mh_common_expected_attack: "기대 공격력",
   mh_common_weapon_search: "무기 검색",
+  mh_common_armor_search: "방어구 검색",
   mh_common_skills: "스킬",
   mh_common_use_max_decorations: "최대 장식품 사용",
+  mh_common_exclude_complex_deco: "복합주 제외",
 };
 
 export const mhwildsMelodiesKo = {

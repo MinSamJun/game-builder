@@ -59,8 +59,11 @@ export const commonJa = {
   mh_common_armor_decoration: "防具装飾品",
   mh_common_remaining_slots: "残りスロット",
   mh_common_expected_attack: "期待攻撃力",
+  mh_common_weapon_search: "武器検索",
+  mh_common_armor_search: "防具検索",
   mh_common_skills: "スキル",
   mh_common_use_max_decorations: "最大装飾品使用",
+  mh_common_exclude_complex_deco: "複合装飾品除外",
 };
 
 export const mhwildsMelodiesJa = {
