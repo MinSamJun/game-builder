@@ -2808,18 +2808,25 @@ export const mhWildsWeaponSkillsJa = {
     "灼熱化Lv0：固定50ダメージ\n灼熱化Lv1：固定60ダメージ＋火30\n灼熱化Lv2：固定80ダメージ＋火80",
 };
 
-export const mhWildsWeaponSkillTypeJa = {
-  mhwilds_weapon_skill_type_damage: "ダメージ",
-  mhwilds_weapon_skill_type_element: "属性",
-  mhwilds_weapon_skill_type_status: "状態異常",
-  mhwilds_weapon_skill_type_affinity: "会心",
-  mhwilds_weapon_skill_type_guard: "ガード",
-  mhwilds_weapon_skill_type_sharpness: "斬れ味",
-  mhwilds_weapon_skill_type_gunner: "ガンナー",
-  mhwilds_weapon_skill_type_resource: "資源",
-  mhwilds_weapon_skill_type_bow: "활",
-  mhwilds_weapon_skill_type_bowguns: "ボウガン",
-  mhwilds_weapon_skill_type_etc: "その他",
+export const mhWildsSkillTypeJa = {
+  mhwilds_skill_type_damage: "ダメージ",
+  mhwilds_skill_type_element: "属性",
+  mhwilds_skill_type_status: "状態異常",
+  mhwilds_skill_type_affinity: "会心",
+  mhwilds_skill_type_guard: "ガード",
+  mhwilds_skill_type_sharpness: "斬れ味",
+  mhwilds_skill_type_gunner: "ガンナー",
+  mhwilds_skill_type_resource: "資源",
+  mhwilds_skill_type_bow: "활",
+  mhwilds_skill_type_bowguns: "ボウガン",
+  mhwilds_skill_type_etc: "その他",
+  mhwilds_skill_type_damage_reduce: "ダメージ減少",
+  mhwilds_skill_type_status_reduce: "状態異常減少",
+  mhwilds_skill_type_environment: "環境",
+  mhwilds_skill_type_recovery: "回復",
+  mhwilds_skill_type_action: "アクション",
+  mhwilds_skill_type_support: "サポート",
+  mhwilds_skill_type_item: "アイテム",
 };
 
 export const mhWildsArmorDecorationJa = {

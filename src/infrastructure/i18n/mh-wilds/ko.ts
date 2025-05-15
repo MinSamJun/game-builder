@@ -2913,18 +2913,25 @@ export const mhWildsWeaponSkillsKo = {
     "작열화0레벨 : 50 고정피해\n작열화1레벨 60 고정피해 + 30 불피해\n작열화2레벨 80 고정피해 + 80 화염피해",
 };
 
-export const mhWildsWeaponSkillTypeKo = {
-  mhwilds_weapon_skill_type_damage: "피해량",
-  mhwilds_weapon_skill_type_element: "속성",
-  mhwilds_weapon_skill_type_status: "상태이상",
-  mhwilds_weapon_skill_type_affinity: "회심",
-  mhwilds_weapon_skill_type_guard: "가드",
-  mhwilds_weapon_skill_type_sharpness: "예리도",
-  mhwilds_weapon_skill_type_gunner: "거너",
-  mhwilds_weapon_skill_type_resource: "자원",
-  mhwilds_weapon_skill_type_bow: "활",
-  mhwilds_weapon_skill_type_bowguns: "보우건",
-  mhwilds_weapon_skill_type_etc: "기타",
+export const mhWildsSkillTypeKo = {
+  mhwilds_skill_type_damage: "피해량",
+  mhwilds_skill_type_element: "속성",
+  mhwilds_skill_type_status: "상태이상",
+  mhwilds_skill_type_affinity: "회심",
+  mhwilds_skill_type_guard: "가드",
+  mhwilds_skill_type_sharpness: "예리도",
+  mhwilds_skill_type_gunner: "거너",
+  mhwilds_skill_type_resource: "자원",
+  mhwilds_skill_type_bow: "활",
+  mhwilds_skill_type_bowguns: "보우건",
+  mhwilds_skill_type_etc: "기타",
+  mhwilds_skill_type_damage_reduce: "피해량 감소",
+  mhwilds_skill_type_status_reduce: "상태이상 감소",
+  mhwilds_skill_type_environment: "환경",
+  mhwilds_skill_type_recovery: "회복",
+  mhwilds_skill_type_action: "액션",
+  mhwilds_skill_type_support: "서포트",
+  mhwilds_skill_type_item: "아이템",
 };
 
 export const mhWildsArmorDecorationKo = {

@@ -1395,6 +1395,13 @@ export const mhWildsGroupSkillEn = {
   mhwilds_group_skill_ward_of_wyveria: "Ward of Wyveria",
   mhwilds_group_skill_foragers_luck: "Forager's Luck",
   mhwilds_group_skill_luck: "Luck",
+  mhwilds_group_skill_damage_reduce: "Damage Reduce",
+  mhwilds_group_skill_status_reduce: "Status Reduce",
+  mhwilds_group_skill_environment: "Environment",
+  mhwilds_group_skill_recovery: "Recovery",
+  mhwilds_skill_type_action: "Action",
+  mhwilds_skill_type_support: "Support",
+  mhwilds_skill_type_item: "Item",
 };
 
 export const mhWildsGreatswordsEn = {
@@ -2869,18 +2876,18 @@ export const mhwildsWeaponSkillsEn = {
     "Scorcher Lv0: 50 fixed damage\nScorcher Lv1: 60 fixed + 30 fire damage\nScorcher Lv2: 80 fixed + 80 fire damage",
 };
 
-export const mhWildsWeaponSkillTypeEn = {
-  mhwilds_weapon_skill_type_damage: "Damage",
-  mhwilds_weapon_skill_type_element: "Element",
-  mhwilds_weapon_skill_type_status: "Status",
-  mhwilds_weapon_skill_type_affinity: "Affinity",
-  mhwilds_weapon_skill_type_guard: "Guard",
-  mhwilds_weapon_skill_type_sharpness: "Sharpness",
-  mhwilds_weapon_skill_type_gunner: "Gunner",
-  mhwilds_weapon_skill_type_resource: "Resource",
-  mhwilds_weapon_skill_type_bow: "Bow",
-  mhwilds_weapon_skill_type_bowguns: "Bowguns",
-  mhwilds_weapon_skill_type_etc: "Other",
+export const mhWildsSkillTypeEn = {
+  mhwilds_skill_type_damage: "Damage",
+  mhwilds_skill_type_element: "Element",
+  mhwilds_skill_type_status: "Status",
+  mhwilds_skill_type_affinity: "Affinity",
+  mhwilds_skill_type_guard: "Guard",
+  mhwilds_skill_type_sharpness: "Sharpness",
+  mhwilds_skill_type_gunner: "Gunner",
+  mhwilds_skill_type_resource: "Resource",
+  mhwilds_skill_type_bow: "Bow",
+  mhwilds_skill_type_bowguns: "Bowguns",
+  mhwilds_skill_type_etc: "Other",
 };
 
 export const mhWildsArmorDecorationEn = {

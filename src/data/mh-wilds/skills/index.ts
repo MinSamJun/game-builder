@@ -1,5 +1,5 @@
-import mhWildsArmorSkillData from "./mhwilds-armor-skills.json";
-import mhWildsWeaponSkillData from "./mhwilds-weapon-skills.json";
+import { mhWildsArmorSkillData } from "./mhwilds-armor-skills";
+import { mhWildsWeaponSkillData } from "./mhwilds-weapon-skills";
 import mhWildsSeriesSkillData from "./mhwilds-series-skills.json";
 import mhWildsGroupSkillData from "./mhwilds-group-skills.json";
 
