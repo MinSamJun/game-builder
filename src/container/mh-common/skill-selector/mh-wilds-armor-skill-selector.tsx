@@ -7,9 +7,9 @@ import { IoRefresh } from "react-icons/io5";
 
 const CATEGORIES = [
   "mhwilds_skill_type_damage",
-  "mhwilds_skill_type_status",
   "mhwilds_skill_type_affinity",
   "mhwilds_skill_type_element",
+  "mhwilds_skill_type_status",
   "mhwilds_skill_type_damage_reduce",
   "mhwilds_skill_type_status_reduce",
   "mhwilds_skill_type_recovery",

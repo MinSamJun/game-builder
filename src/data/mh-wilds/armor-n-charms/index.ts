@@ -1,4 +1,4 @@
-import mhWildsArmorData from "./mhwilds-armors.json";
-import mhWildsCharmData from "./mhwilds-charm.json";
+import { mhWildsArmorData } from "./mhwilds-armors";
+import { mhWildsCharmData } from "./mhwilds-charm";
 
 export { mhWildsArmorData, mhWildsCharmData };
