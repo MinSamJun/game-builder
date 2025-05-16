@@ -41,7 +41,7 @@ export const mhWildsArmorSkillData: MhCommonSkill[] = [
       "2": "mhwilds_armor_skill_counterstrike_ii",
       "3": "mhwilds_armor_skill_counterstrike_iii",
     },
-    category: "mhwilds_skill_type_status",
+    category: "mhwilds_skill_type_element_n_status",
   },
   {
     name: "mhwilds_armor_skill_weakness_exploit",
@@ -70,7 +70,7 @@ export const mhWildsArmorSkillData: MhCommonSkill[] = [
       "2": "mhwilds_armor_skill_convert_element_ii",
       "3": "mhwilds_armor_skill_convert_element_iii",
     },
-    category: "mhwilds_skill_type_element",
+    category: "mhwilds_skill_type_element_n_status",
   },
   {
     name: "mhwilds_armor_skill_defense_boost",
@@ -386,7 +386,7 @@ export const mhWildsArmorSkillData: MhCommonSkill[] = [
       "2": "mhwilds_armor_skill_coalescence_ii",
       "3": "mhwilds_armor_skill_coalescence_iii",
     },
-    category: "mhwilds_skill_type_element",
+    category: "mhwilds_skill_type_element_n_status",
   },
   {
     name: "mhwilds_armor_skill_ambush",
@@ -413,7 +413,7 @@ export const mhWildsArmorSkillData: MhCommonSkill[] = [
       "2": "mhwilds_armor_skill_elemental_absorption_ii",
       "3": "mhwilds_armor_skill_elemental_absorption_iii",
     },
-    category: "mhwilds_skill_type_element",
+    category: "mhwilds_skill_type_element_n_status",
   },
   {
     name: "mhwilds_armor_skill_evade_window",

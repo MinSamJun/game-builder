@@ -2812,6 +2812,7 @@ export const mhWildsSkillTypeJa = {
   mhwilds_skill_type_damage: "ダメージ",
   mhwilds_skill_type_element: "属性",
   mhwilds_skill_type_status: "状態異常",
+  mhwilds_skill_type_element_n_status: "属性&状態異常",
   mhwilds_skill_type_affinity: "会心",
   mhwilds_skill_type_guard: "ガード",
   mhwilds_skill_type_sharpness: "斬れ味",

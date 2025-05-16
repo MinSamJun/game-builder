@@ -2917,6 +2917,7 @@ export const mhWildsSkillTypeKo = {
   mhwilds_skill_type_damage: "피해량",
   mhwilds_skill_type_element: "속성",
   mhwilds_skill_type_status: "상태이상",
+  mhwilds_skill_type_element_n_status: "속성&상태이상",
   mhwilds_skill_type_affinity: "회심",
   mhwilds_skill_type_guard: "가드",
   mhwilds_skill_type_sharpness: "예리도",

@@ -2880,6 +2880,7 @@ export const mhWildsSkillTypeEn = {
   mhwilds_skill_type_damage: "Damage",
   mhwilds_skill_type_element: "Element",
   mhwilds_skill_type_status: "Status",
+  mhwilds_skill_type_element_n_status: "Element & Status",
   mhwilds_skill_type_affinity: "Affinity",
   mhwilds_skill_type_guard: "Guard",
   mhwilds_skill_type_sharpness: "Sharpness",
