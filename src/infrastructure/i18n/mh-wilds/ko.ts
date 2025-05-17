@@ -668,7 +668,7 @@ export const mhWildsArmorKo = {
   mhwilds_armor_numinous_greaves_α: "무구한 용화 α",
   mhwilds_armor_numinous_crown_β: "무구한 용관 β",
   mhwilds_armor_numinous_shroud_β: "무구한 용갑옷 β",
-  mhwilds_armor_numinous_vambraces_β: "무구한 용갑 α",
+  mhwilds_armor_numinous_vambraces_β: "무구한 용갑 β",
   mhwilds_armor_numinous_overlay_β: "무구한 용대 β",
   mhwilds_armor_numinous_greaves_β: "무구한 용화 β",
 
