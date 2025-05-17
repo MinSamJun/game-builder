@@ -4,7 +4,7 @@ import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import {
   WeaponSimulator,
-  ArmorSimulator,
+  ArmorNCharmSimulator,
 } from "@/container/mh-wilds/simulator";
 import { useSelectLanguage } from "@/hook/common/use-select-language";
 
@@ -52,7 +52,7 @@ export function MhWildsSimulator() {
       {equipmentType === "mhWilds_weapon" ? (
         <WeaponSimulator />
       ) : equipmentType === "mhWilds_armor" ? (
-        <ArmorSimulator />
+        <ArmorNCharmSimulator />
       ) : (
         <div className="text-center py-8 text-gray-500">
           {mhWildsmhCommonNamespace?.mhwilds_common_noResults}

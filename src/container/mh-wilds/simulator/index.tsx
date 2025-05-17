@@ -1,4 +1,4 @@
 import { WeaponSimulator } from "./weapon-simulator";
-import { ArmorSimulator } from "./armor-simulator";
+import { ArmorNCharmSimulator } from "./armor-n-charm-simulator";
 
-export { WeaponSimulator, ArmorSimulator };
+export { WeaponSimulator, ArmorNCharmSimulator };

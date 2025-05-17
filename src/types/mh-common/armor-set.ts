@@ -6,7 +6,7 @@ export interface ArmorSet {
   arms: Armor;
   waist: Armor;
   legs: Armor;
-  charm?: Armor;
-  totalSkills: SkillMap;
-  totalDefense: number[];
+  charm: Armor;
+  totalSkills?: SkillMap;
+  totalDefense?: number[];
 }
