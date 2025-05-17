@@ -29,7 +29,7 @@ import { mhWildsWeaponSkillDecorationData } from "@/data/mh-wilds/decorations";
 import {
   calculateDecorationCombinations,
   calculateTotalSkills,
-} from "@mh-common/decoration-calculator";
+} from "@/utils/mh-wilds/decoration-calculator";
 
 type Weapon = MhCommonBaseWeapon;
 

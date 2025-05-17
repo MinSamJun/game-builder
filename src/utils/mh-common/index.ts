@@ -1,3 +1,3 @@
-import { calculateExpectedAttack } from "./simulator-utils";
+import { calculateExpectedAttack } from "./calculate-expected-attack";
 
 export { calculateExpectedAttack };
