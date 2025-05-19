@@ -33,7 +33,17 @@ export const calculateDecorationCombinations = (
           (skill) => dec.skills[skill]
         ) && slots.some((slot) => slot >= dec.slotlevel)
     )
-    .sort((a, b) => a.slotlevel - b.slotlevel);
+    .sort((a, b) => {
+      const aSkillLevel = Object.values(a.skills).reduce(
+        (sum, level) => sum + level,
+        0
+      );
+      const bSkillLevel = Object.values(b.skills).reduce(
+        (sum, level) => sum + level,
+        0
+      );
+      return bSkillLevel - aSkillLevel;
+    });
 
   const generateCombinations = (
     remainingSlots: number[],
@@ -67,12 +77,18 @@ export const calculateDecorationCombinations = (
           newSkills[skill] = (newSkills[skill] || 0) + level;
         });
 
-        generateCombinations(
-          newRemainingSlots,
-          [...currentCombination, dec],
-          i,
-          newSkills
+        const isPromising = Object.entries(remainingRequiredSkills).some(
+          ([skill, level]) => (newSkills[skill] || 0) >= level
         );
+
+        if (isPromising) {
+          generateCombinations(
+            newRemainingSlots,
+            [...currentCombination, dec],
+            i,
+            newSkills
+          );
+        }
       }
     }
   };
