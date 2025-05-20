@@ -5,10 +5,11 @@ import { useI18n } from "@infrastructure/user-i18n";
 import { MhWildsArmorSkillSelector } from "@/container/mh-common/skill-selector";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import {
-  mhWildsArmorData,
-  mhWildsCharmData,
   mhWildsEmptyArmorData,
+  mhWildsSlotonlyArmorData,
+  mhWildsArmorData,
   mhWildsEmptyCharmData,
+  mhWildsCharmData,
 } from "@/data/mh-wilds/armor-n-charms";
 import type { ArmorSet, Armor } from "@/types/mh-common";
 import { usePagination } from "@/hook/common/use-pagenation";
@@ -23,6 +24,8 @@ export function ArmorNCharmSimulator() {
   const { getNamespaceData } = useI18n();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
+  const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor");
+  const mhWildsCharmNamespace = getNamespaceData("mhWilds_charm");
 
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
@@ -61,66 +64,66 @@ export function ArmorNCharmSimulator() {
   });
 
   const getAllArmorNCharmCombinations = (): ArmorSet[] => {
-    const headArmors = mhWildsArmorData.filter(
-      (armor) => armor.part === "mhwilds_head" && armor.rank === selectedRank
+    const hasSelectedSkills = Object.entries(selectedSkills).some(
+      ([, level]) => level && level !== "---"
     );
-    const chestArmors = mhWildsArmorData.filter(
-      (armor) => armor.part === "mhwilds_chest" && armor.rank === selectedRank
-    );
-    const armArmors = mhWildsArmorData.filter(
-      (armor) => armor.part === "mhwilds_arms" && armor.rank === selectedRank
-    );
-    const waistArmors = mhWildsArmorData.filter(
-      (armor) => armor.part === "mhwilds_waist" && armor.rank === selectedRank
-    );
-    const legArmors = mhWildsArmorData.filter(
-      (armor) => armor.part === "mhwilds_legs" && armor.rank === selectedRank
-    );
-    const charms = mhWildsCharmData.filter(
+
+    if (hasSelectedSkills) {
+      return [];
+    }
+
+    const mhwilds_armor_parts = [
+      "mhwilds_head",
+      "mhwilds_chest",
+      "mhwilds_arms",
+      "mhwilds_waist",
+      "mhwilds_legs",
+    ];
+
+    const armorData = mhWildsEmptyArmorData;
+    const charmData = mhWildsEmptyCharmData;
+
+    const availableArmors = mhwilds_armor_parts.map((part) => {
+      return armorData.filter(
+        (armor) => armor.part === part && armor.rank === selectedRank
+      );
+    });
+
+    const [headArmors, chestArmors, armArmors, waistArmors, legArmors] =
+      availableArmors;
+
+    const emptyCharms = charmData.filter(
       (charm) => charm.rank === selectedRank
     );
 
-    const result: ArmorSet[] = [];
-    const maxCombinations = 15;
-
-    //for (const charm of charms) {
-    // for (const chest of chestArmors) {
-    //   for (const arms of armArmors) {
-    //     for (const waist of waistArmors) {
-    //       for (const legs of legArmors) {
-    //         for (const head of headArmors) {
-    //           result.push({
-    //             charm: charm as Armor,
-    //             head: head as Armor,
-    //             chest: chest as Armor,
-    //             arms: arms as Armor,
-    //             waist: waist as Armor,
-    //             legs: legs as Armor,
-    //           });
-    //         }
-    //       }
-    //     }
-    //   }
-    // }
-    for (let i = 0; i < maxCombinations; i++) {
-      const head = headArmors[Math.floor(Math.random() * headArmors.length)];
-      const chest = chestArmors[Math.floor(Math.random() * chestArmors.length)];
-      const arms = armArmors[Math.floor(Math.random() * armArmors.length)];
-      const waist = waistArmors[Math.floor(Math.random() * waistArmors.length)];
-      const legs = legArmors[Math.floor(Math.random() * legArmors.length)];
-      const charm = charms[Math.floor(Math.random() * charms.length)];
-
-      result.push({
-        head: head as Armor,
-        chest: chest as Armor,
-        arms: arms as Armor,
-        waist: waist as Armor,
-        legs: legs as Armor,
-        charm: charm as Armor,
-      });
+    if (emptyCharms.length === 0) {
+      return [];
     }
 
-    return result;
+    const combinations: ArmorSet[] = [];
+
+    emptyCharms.forEach((charm) => {
+      headArmors.forEach((head) => {
+        chestArmors.forEach((chest) => {
+          armArmors.forEach((arms) => {
+            waistArmors.forEach((waist) => {
+              legArmors.forEach((legs) => {
+                combinations.push({
+                  charm: charm as Armor,
+                  head: head as Armor,
+                  chest: chest as Armor,
+                  arms: arms as Armor,
+                  waist: waist as Armor,
+                  legs: legs as Armor,
+                });
+              });
+            });
+          });
+        });
+      });
+    });
+
+    return combinations;
   };
 
   return (
@@ -148,22 +151,28 @@ export function ArmorNCharmSimulator() {
           {paginatedData.map((combination, index) => (
             <div key={index} className="border p-4 rounded shadow space-y-2">
               <div className="p-2 border rounded">
-                <div className="font-bold">{combination.head.name}</div>
+                {mhWildsArmorNamespace?.[combination.head.name]}
+                {combination.head.name}
               </div>
               <div className="p-2 border rounded">
-                <div className="font-bold">{combination.chest.name}</div>
+                {mhWildsArmorNamespace?.[combination.chest.name]}
+                {combination.chest.name}
               </div>
               <div className="p-2 border rounded">
-                <div className="font-bold">{combination.arms.name}</div>
+                {mhWildsArmorNamespace?.[combination.arms.name]}
+                {combination.arms.name}
               </div>
               <div className="p-2 border rounded">
-                <div className="font-bold">{combination.waist.name}</div>
+                {mhWildsArmorNamespace?.[combination.waist.name]}
+                {combination.waist.name}
               </div>
               <div className="p-2 border rounded">
-                <div className="font-bold">{combination.legs.name}</div>
+                {mhWildsArmorNamespace?.[combination.legs.name]}
+                {combination.legs.name}
               </div>
               <div className="p-2 border rounded">
-                <div className="font-bold">{combination.charm.name}</div>
+                {mhWildsCharmNamespace?.[combination.charm.name]}
+                {combination.charm.name}
               </div>
             </div>
           ))}
