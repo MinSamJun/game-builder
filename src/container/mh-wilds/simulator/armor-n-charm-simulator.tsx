@@ -81,19 +81,19 @@ export function ArmorNCharmSimulator() {
     const result: ArmorSet[] = [];
     const maxCombinations = 15;
 
-    //   for (const head of headArmors) {
+    //for (const charm of charms) {
     // for (const chest of chestArmors) {
     //   for (const arms of armArmors) {
     //     for (const waist of waistArmors) {
     //       for (const legs of legArmors) {
-    //         for (const charm of charms) {
+    //         for (const head of headArmors) {
     //           result.push({
+    //             charm: charm as Armor,
     //             head: head as Armor,
     //             chest: chest as Armor,
     //             arms: arms as Armor,
     //             waist: waist as Armor,
     //             legs: legs as Armor,
-    //             charm: charm as Armor,
     //           });
     //         }
     //       }

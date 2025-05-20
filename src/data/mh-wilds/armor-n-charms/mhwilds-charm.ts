@@ -1476,3 +1476,27 @@ export const mhWildsCharmData: MhWildsCharm[] = [
     skills: { mhwilds_armor_skill_convert_element: 2 },
   },
 ];
+
+export const mhWildsEmptyCharmData: MhWildsCharm[] = [
+  {
+    name: "mhwilds_charm_empty_low",
+    rarity: 1,
+    rank: "mh_common_low_rank",
+    part: "mhwilds_charm",
+    skills: {},
+  },
+  {
+    name: "mhwilds_charm_empty_high",
+    rarity: 5,
+    rank: "mh_common_high_rank",
+    part: "mhwilds_charm",
+    skills: {},
+  },
+  {
+    name: "mhwilds_charm_empty_master",
+    rarity: 9,
+    rank: "mh_common_master_rank",
+    part: "mhwilds_charm",
+    skills: {},
+  },
+];
