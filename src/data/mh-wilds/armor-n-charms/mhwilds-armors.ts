@@ -8926,7 +8926,9 @@ export const mhWildsEmptyArmorData: MhWildsArmor[] = [
     groupSkill: {},
     def: [0, 0, 0, 0, 0, 0, 0],
   },
+];
 
+export const mhWildsSlotonlyArmorData: MhWildsArmor[] = [
   {
     name: "mhwilds_armor_1_head_high",
     rarity: 5,

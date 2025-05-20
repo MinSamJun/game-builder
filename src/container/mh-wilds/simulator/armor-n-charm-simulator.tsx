@@ -7,6 +7,8 @@ import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import {
   mhWildsArmorData,
   mhWildsCharmData,
+  mhWildsEmptyArmorData,
+  mhWildsEmptyCharmData,
 } from "@/data/mh-wilds/armor-n-charms";
 import type { ArmorSet, Armor } from "@/types/mh-common";
 import { usePagination } from "@/hook/common/use-pagenation";

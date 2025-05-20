@@ -1,4 +1,14 @@
-import { mhWildsArmorData } from "./mhwilds-armors";
-import { mhWildsCharmData } from "./mhwilds-charm";
+import {
+  mhWildsArmorData,
+  mhWildsEmptyArmorData,
+  mhWildsSlotonlyArmorData,
+} from "./mhwilds-armors";
+import { mhWildsCharmData, mhWildsEmptyCharmData } from "./mhwilds-charm";
 
-export { mhWildsArmorData, mhWildsCharmData };
+export {
+  mhWildsArmorData,
+  mhWildsEmptyArmorData,
+  mhWildsSlotonlyArmorData,
+  mhWildsCharmData,
+  mhWildsEmptyCharmData,
+};
