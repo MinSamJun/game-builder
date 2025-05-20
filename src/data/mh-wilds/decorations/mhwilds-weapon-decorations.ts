@@ -1,14 +1,6 @@
 import type { Decoration } from "@/types/mh-common";
 
-export const mhWildsWeaponSkillDecorationDataRaw: Decoration[] = [
-  {
-    name: "dummy_weapon_decoration",
-    type: "0",
-    rarity: 9999,
-    rank: "0",
-    slotlevel: 9999,
-    skills: {},
-  },
+export const mhWildsWeaponSkillDecorationData: Decoration[] = [
   {
     name: "mhwilds_artillery_jewel_1",
     type: "mhwilds_weapon_decoration",
@@ -2887,5 +2879,15 @@ export const mhWildsWeaponSkillDecorationDataRaw: Decoration[] = [
     rank: "mh_common_high_rank",
     slotlevel: 3,
     skills: { mhwilds_weapon_skill_poison_attack: 3 },
+  },
+];
+export const mhWildsWeaponSkillDecorationDataDummy: Decoration[] = [
+  {
+    name: "dummy_weapon_decoration",
+    type: "0",
+    rarity: 9999,
+    rank: "0",
+    slotlevel: 9999,
+    skills: {},
   },
 ];
