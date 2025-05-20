@@ -128,10 +128,14 @@ export function WeaponSimulator() {
     return result;
   }, [searchSkills]);
 
+  const memoizedWeaponData = React.useMemo(() => {
+    return weaponTypeToDataMap[weaponType];
+  }, [weaponType]);
+
   const filteredWeaponData = React.useMemo(() => {
     if (!isSearched) return [];
 
-    return weaponTypeToDataMap[weaponType].filter((weapon) => {
+    return memoizedWeaponData.filter((weapon) => {
       const matchRank = !selectedRank || weapon.rank === selectedRank;
       const matchFinal = !isFinalOnly || weapon.final;
 
@@ -151,12 +155,12 @@ export function WeaponSimulator() {
       return matchRank && matchFinal && hasMatchingCombination;
     });
   }, [
-    weaponType,
     isFinalOnly,
     selectedRank,
     numericSearchSkills,
     isSearched,
     decorations,
+    memoizedWeaponData,
   ]);
 
   const itemsPerPage = 10;
