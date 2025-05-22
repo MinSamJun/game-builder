@@ -8,7 +8,6 @@ import {
   SeriesSkillList,
   GroupSkillList,
 } from "@/container/mh-wilds/skills";
-import { useSelectLanguage } from "@/hook/common/use-select-language";
 
 type EquipmentNamespace =
   | "mhWilds_weapon_skill"
@@ -18,7 +17,6 @@ type EquipmentNamespace =
 
 export function MhWildsSkills() {
   const { getNamespaceData } = useI18n();
-  const { LanguageSelector } = useSelectLanguage();
   const [equipmentType, setEquipmentType] = useState<EquipmentNamespace>(
     "mhWilds_weapon_skill"
   );
@@ -38,8 +36,6 @@ export function MhWildsSkills() {
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
-
-      <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">
         {skillButtonGroups.map(({ type, namespace }) => (

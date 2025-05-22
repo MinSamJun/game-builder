@@ -3,13 +3,11 @@
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import { ArmorList, CharmList } from "@/container/mh-wilds/armor-n-charms";
-import { useSelectLanguage } from "@/hook/common/use-select-language";
 
 type EquipmentNamespace = "mhWilds_armor" | "mhWilds_charm";
 
 export function MhWildsArmorNCharm() {
   const { getNamespaceData } = useI18n();
-  const { LanguageSelector } = useSelectLanguage();
   const [equipmentType, setEquipmentType] =
     React.useState<EquipmentNamespace>("mhWilds_armor");
   const [term, setTerm] = React.useState("");
@@ -27,8 +25,6 @@ export function MhWildsArmorNCharm() {
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
-
-      <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">
         {armorButtonGroups.map(({ type, namespace }) => (

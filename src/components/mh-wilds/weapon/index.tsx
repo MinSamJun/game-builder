@@ -10,12 +10,10 @@ import {
   CommonWeaponsList,
   SingleResourceWeaponsList,
 } from "@/container/mh-wilds/weapons";
-import { useSelectLanguage } from "@/hook/common/use-select-language";
 import { WeaponType } from "@/types/mh-common/weapon-type";
 
 export function MhWildsWeapon() {
   const { getNamespaceData } = useI18n();
-  const { LanguageSelector } = useSelectLanguage();
   const [weaponType, setWeaponType] = useState<WeaponType>(
     "mhWilds_greatswords"
   );
@@ -52,8 +50,6 @@ export function MhWildsWeapon() {
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
-
-      <LanguageSelector />
 
       {weaponButtonGroups.map((group, groupIndex) => (
         <div key={groupIndex} className="mb-6 flex space-x-4">

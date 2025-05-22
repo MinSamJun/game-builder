@@ -6,14 +6,13 @@ import {
   WeaponSkillDecorationList,
   ArmorSkillDecorationList,
 } from "@/container/mh-wilds/decorations";
-import { useSelectLanguage } from "@/hook/common/use-select-language";
+
 type EquipmentNamespace =
   | "mhWilds_weapon_decoration"
   | "mhWilds_armor_decoration";
 
 export function MhWildsDecoList() {
   const { getNamespaceData } = useI18n();
-  const { LanguageSelector } = useSelectLanguage();
   const [equipmentType, setEquipmentType] = useState<EquipmentNamespace>(
     "mhWilds_weapon_decoration"
   );
@@ -38,8 +37,6 @@ export function MhWildsDecoList() {
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
-
-      <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">
         {decorationButtonGroups.map(({ type, namespace }) => (

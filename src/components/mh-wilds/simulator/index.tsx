@@ -6,13 +6,11 @@ import {
   WeaponSimulator,
   ArmorNCharmSimulator,
 } from "@/container/mh-wilds/simulator";
-import { useSelectLanguage } from "@/hook/common/use-select-language";
 
 type EquipmentNamespace = "mhWilds_weapon" | "mhWilds_armor";
 
 export function MhWildsSimulator() {
   const { getNamespaceData } = useI18n();
-  const { LanguageSelector } = useSelectLanguage();
 
   const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsmhCommonNamespace = getNamespaceData("mhWilds_common");
@@ -30,8 +28,6 @@ export function MhWildsSimulator() {
       <div className="text-2xl font-bold mb-6">
         {mhWildsmhCommonNamespace?.mhWilds_planner}
       </div>
-
-      <LanguageSelector />
 
       <div className="mb-6 flex space-x-4">
         {equipmentButtonGroups.map(({ type, namespace }) => (
