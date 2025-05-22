@@ -6,10 +6,7 @@ import { MhWildsArmorSkillSelector } from "@/container/mh-common/skill-selector"
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import {
   mhWildsEmptyArmorData,
-  mhWildsSlotonlyArmorData,
-  mhWildsArmorData,
   mhWildsEmptyCharmData,
-  mhWildsCharmData,
 } from "@/data/mh-wilds/armor-n-charms";
 import type { ArmorSet, Armor } from "@/types/mh-common";
 import { usePagination } from "@/hook/common/use-pagenation";
