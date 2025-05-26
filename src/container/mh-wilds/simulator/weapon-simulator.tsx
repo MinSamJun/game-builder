@@ -19,6 +19,7 @@ import {
 } from "@/data/mh-wilds/weapons";
 import { useI18n } from "@infrastructure/user-i18n";
 import { MhWildsWeaponSkillSelector } from "@/container/mh-common/skill-selector";
+import { mhWildsWeaponSkillData } from "@/data/mh-wilds/skills";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import type { MhCommonBaseWeapon } from "@/types/mh-common";
 import type { WeaponType } from "@/types/mh-common";
@@ -91,6 +92,7 @@ export function WeaponSimulator() {
   const mhWildsWeaponDecorationNamespace = getNamespaceData(
     "mhWilds_weapon_decoration"
   );
+  const typeNamespace = getNamespaceData("mhWilds_skill_type") ?? {};
 
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
@@ -202,6 +204,20 @@ export function WeaponSimulator() {
     setIsFinalOnly,
   });
 
+  const CATEGORIES = [
+    "mhwilds_skill_type_damage",
+    "mhwilds_skill_type_affinity",
+    "mhwilds_skill_type_element",
+    "mhwilds_skill_type_status",
+    "mhwilds_skill_type_sharpness",
+    "mhwilds_skill_type_gunner",
+    "mhwilds_skill_type_bow",
+    "mhwilds_skill_type_bowguns",
+    "mhwilds_skill_type_resource",
+    "mhwilds_skill_type_guard",
+    "mhwilds_skill_type_etc",
+  ];
+
   return (
     <div className="p-4 space-y-6">
       {weaponButtonGroups.map((group, groupIndex) => (
@@ -288,11 +304,31 @@ export function WeaponSimulator() {
                 <div className="gap-4 text-sm mt-2 space-y-2">
                   <div className="bg-gray-800 text-white rounded p-4">
                     {Object.entries(totalSkills).length > 0 ? (
-                      Object.entries(totalSkills).map(([key, level]) => {
-                        const skillName = useMhWildsListNamespace[key] ?? key;
+                      CATEGORIES.map((category) => {
+                        const categorizedSkills = mhWildsWeaponSkillData
+                          .filter(
+                            (skill) =>
+                              (skill.category ?? "mhwilds_skill_type_etc") ===
+                              category
+                          )
+                          .filter((skill) => skill.name in totalSkills);
+
+                        if (categorizedSkills.length === 0) return null;
+
                         return (
-                          <div key={key}>
-                            {skillName} Lv{level}
+                          <div className="mb-4" key={category}>
+                            <div className="text-xs font-bold mb-1">
+                              {typeNamespace?.[category] ?? category}
+                            </div>
+                            <ul>
+                              {categorizedSkills.map((skill) => (
+                                <li key={skill.name}>
+                                  {useMhWildsListNamespace?.[skill.name] ??
+                                    skill.name}{" "}
+                                  Lv {totalSkills[skill.name]}
+                                </li>
+                              ))}
+                            </ul>
                           </div>
                         );
                       })

@@ -3,6 +3,7 @@
 import React from "react";
 import { useI18n } from "@infrastructure/user-i18n";
 import { MhWildsArmorSkillSelector } from "@/container/mh-common/skill-selector";
+import { mhWildsArmorSkillData } from "@/data/mh-wilds/skills";
 import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import {
   mhWildsEmptyArmorData,
@@ -14,6 +15,21 @@ import { Pagination } from "@infrastructure/common/pagenation";
 import { NoResults } from "@container/common/no-results";
 
 export function ArmorNCharmSimulator() {
+  const CATEGORIES: string[] = [
+    "mhwilds_skill_type_damage",
+    "mhwilds_skill_type_affinity",
+    "mhwilds_skill_type_element_n_status",
+    "mhwilds_skill_type_damage_reduce",
+    "mhwilds_skill_type_status_reduce",
+    "mhwilds_skill_type_recovery",
+    "mhwilds_skill_type_resource",
+    "mhwilds_skill_type_action",
+    "mhwilds_skill_type_support",
+    "mhwilds_skill_type_item",
+    "mhwilds_skill_type_environment",
+    "mhwilds_skill_type_etc",
+  ];
+
   const [selectedRank, setSelectedRank] = React.useState<string | null>(
     "mh_common_high_rank"
   );
@@ -31,6 +47,22 @@ export function ArmorNCharmSimulator() {
   const [armorCombinations, setArmorCombinations] = React.useState<ArmorSet[]>(
     []
   );
+
+  const getCombinatedSkills = (armorSet: ArmorSet): Record<string, number> => {
+    const skillMap: Record<string, number> = {};
+
+    Object.values(armorSet).forEach((armor) => {
+      if (!armor?.skills) return;
+
+      Object.entries(armor.skills as Record<string, number>).forEach(
+        ([skill, level]) => {
+          skillMap[skill] = (skillMap[skill] || 0) + level;
+        }
+      );
+    });
+
+    return skillMap;
+  };
 
   const itemsPerPage = 10;
   const { page, setPage, paginatedData, nextPage, prevPage } = usePagination(
@@ -145,34 +177,72 @@ export function ArmorNCharmSimulator() {
         <NoResults />
       ) : (
         <div className="grid grid-cols-1 gap-2">
-          {paginatedData.map((combination, index) => (
-            <div key={index} className="border p-4 rounded shadow space-y-2">
-              <div className="p-2 border rounded">
-                {mhWildsArmorNamespace?.[combination.head.name]}
-                {combination.head.name}
+          {paginatedData.map((combination, index) => {
+            const skills = getCombinatedSkills(combination);
+
+            return (
+              <div key={index} className="border p-4 rounded shadow space-y-2">
+                <div className="p-2 border rounded">
+                  {mhWildsArmorNamespace?.[combination.head.name]}
+                </div>
+                <div className="p-2 border rounded">
+                  {mhWildsArmorNamespace?.[combination.chest.name]}
+                </div>
+                <div className="p-2 border rounded">
+                  {mhWildsArmorNamespace?.[combination.arms.name]}
+                </div>
+                <div className="p-2 border rounded">
+                  {mhWildsArmorNamespace?.[combination.waist.name]}
+                </div>
+                <div className="p-2 border rounded">
+                  {mhWildsArmorNamespace?.[combination.legs.name]}
+                </div>
+                <div className="p-2 border rounded">
+                  {mhWildsCharmNamespace?.[combination.charm.name]}
+                </div>
+
+                <div className="gap-4 text-sm mt-2 space-y-2">
+                  <div className="bg-gray-800 text-white rounded p-4">
+                    {Object.entries(skills).length > 0 ? (
+                      CATEGORIES.map((category) => {
+                        const categorizedSkills = mhWildsArmorSkillData
+                          .filter(
+                            (skill) =>
+                              (skill.category ?? "mhwilds_skill_type_etc") ===
+                              category
+                          )
+                          .filter((skill) => skill.name in skills);
+
+                        if (categorizedSkills.length === 0) return null;
+
+                        return (
+                          <div className="mb-4" key={category}>
+                            <div className="text-xs font-bold mb-1">
+                              {getNamespaceData("mhWilds_skill_type")?.[
+                                category
+                              ] ?? category}
+                            </div>
+                            <ul>
+                              {categorizedSkills.map((skill) => (
+                                <li key={skill.name}>
+                                  {getNamespaceData("mhWilds_armor_skill")?.[
+                                    skill.name
+                                  ] ?? skill.name}{" "}
+                                  Lv {skills[skill.name]}
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        );
+                      })
+                    ) : (
+                      <div>{mhCommonNamespace?.mh_common_none}</div>
+                    )}
+                  </div>
+                </div>
               </div>
-              <div className="p-2 border rounded">
-                {mhWildsArmorNamespace?.[combination.chest.name]}
-                {combination.chest.name}
-              </div>
-              <div className="p-2 border rounded">
-                {mhWildsArmorNamespace?.[combination.arms.name]}
-                {combination.arms.name}
-              </div>
-              <div className="p-2 border rounded">
-                {mhWildsArmorNamespace?.[combination.waist.name]}
-                {combination.waist.name}
-              </div>
-              <div className="p-2 border rounded">
-                {mhWildsArmorNamespace?.[combination.legs.name]}
-                {combination.legs.name}
-              </div>
-              <div className="p-2 border rounded">
-                {mhWildsCharmNamespace?.[combination.charm.name]}
-                {combination.charm.name}
-              </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
       )}
 
