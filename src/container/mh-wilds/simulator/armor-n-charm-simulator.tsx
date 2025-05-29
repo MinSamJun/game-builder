@@ -8,11 +8,16 @@ import { useMhSelectRank } from "@/hook/mh-common/use-mh-select-rank";
 import {
   mhWildsEmptyArmorData,
   mhWildsEmptyCharmData,
+  mhWildsArmorData,
+  mhWildsCharmData,
+  mhWildsSlotonlyArmorData,
 } from "@/data/mh-wilds/armor-n-charms";
+import { mhWildsArmorSkillDecorationData } from "@/data/mh-wilds/decorations";
 import type { ArmorSet, Armor } from "@/types/mh-common";
 import { usePagination } from "@/hook/common/use-pagenation";
 import { Pagination } from "@infrastructure/common/pagenation";
 import { NoResults } from "@container/common/no-results";
+import { calculateDecorationCombinations } from "@/utils/mh-wilds/decoration-calculator";
 
 export function ArmorNCharmSimulator() {
   const CATEGORIES: string[] = [
@@ -39,6 +44,9 @@ export function ArmorNCharmSimulator() {
   const mhCommonNamespace = getNamespaceData("mh_common");
   const mhWildsArmorNamespace = getNamespaceData("mhWilds_armor");
   const mhWildsCharmNamespace = getNamespaceData("mhWilds_charm");
+  const mhWildsArmorDecorationNamespace = getNamespaceData(
+    "mhWilds_armor_decoration"
+  );
 
   const [selectedSkills, setSelectedSkills] = React.useState<
     Record<string, string>
@@ -47,6 +55,20 @@ export function ArmorNCharmSimulator() {
   const [armorCombinations, setArmorCombinations] = React.useState<ArmorSet[]>(
     []
   );
+
+  const decorations = React.useMemo(() => {
+    return mhWildsArmorSkillDecorationData;
+  }, []);
+
+  const numericSearchSkills = React.useMemo(() => {
+    const result: Record<string, number> = {};
+    Object.entries(selectedSkills).forEach(([skill, level]) => {
+      if (level) {
+        result[skill] = parseInt(level, 10);
+      }
+    });
+    return result;
+  }, [selectedSkills]);
 
   const getCombinatedSkills = (armorSet: ArmorSet): Record<string, number> => {
     const skillMap: Record<string, number> = {};
@@ -97,10 +119,6 @@ export function ArmorNCharmSimulator() {
       ([, level]) => level && level !== "---"
     );
 
-    if (hasSelectedSkills) {
-      return [];
-    }
-
     const mhwilds_armor_parts = [
       "mhwilds_head",
       "mhwilds_chest",
@@ -109,47 +127,135 @@ export function ArmorNCharmSimulator() {
       "mhwilds_legs",
     ];
 
-    const armorData = mhWildsEmptyArmorData;
-    const charmData = mhWildsEmptyCharmData;
+    const armorData = selectedRank
+      ? mhWildsArmorData.filter((armor) => armor.rank === selectedRank)
+      : [...mhWildsArmorData, ...mhWildsSlotonlyArmorData];
+
+    const charmData = hasSelectedSkills
+      ? mhWildsCharmData
+      : mhWildsEmptyCharmData;
+
+    const emptyArmor = mhWildsEmptyArmorData.find(
+      (armor) =>
+        armor.part === "mhwilds_head" &&
+        (selectedRank
+          ? armor.rank === selectedRank
+          : armor.rank === "mh_common_low_rank")
+    ) as Armor;
 
     const availableArmors = mhwilds_armor_parts.map((part) => {
-      return armorData.filter(
-        (armor) => armor.part === part && armor.rank === selectedRank
+      const matchingArmors = armorData.filter(
+        (armor) =>
+          armor.part === part && (!selectedRank || armor.rank === selectedRank)
       );
+
+      return matchingArmors.slice(0, 3);
     });
 
     const [headArmors, chestArmors, armArmors, waistArmors, legArmors] =
       availableArmors;
 
-    const emptyCharms = charmData.filter(
-      (charm) => charm.rank === selectedRank
+    let filteredCharms = charmData.filter(
+      (charm) => !selectedRank || charm.rank === selectedRank
     );
 
-    if (emptyCharms.length === 0) {
+    if (hasSelectedSkills) {
+      filteredCharms = filteredCharms.filter((charm) => {
+        const charmSkills = charm.skills || {};
+        return Object.entries(selectedSkills).every(([skill, level]) => {
+          if (!level || level === "---") return true;
+          const requiredLevel = parseInt(level);
+          const charmSkillLevel = charmSkills[skill] || 0;
+          return charmSkillLevel >= requiredLevel;
+        });
+      });
+    }
+
+    if (filteredCharms.length === 0) {
       return [];
     }
 
     const combinations: ArmorSet[] = [];
 
-    emptyCharms.forEach((charm) => {
-      headArmors.forEach((head) => {
-        chestArmors.forEach((chest) => {
-          armArmors.forEach((arms) => {
-            waistArmors.forEach((waist) => {
-              legArmors.forEach((legs) => {
-                combinations.push({
-                  charm: charm as Armor,
-                  head: head as Armor,
-                  chest: chest as Armor,
-                  arms: arms as Armor,
-                  waist: waist as Armor,
-                  legs: legs as Armor,
-                });
-              });
-            });
-          });
+    const satisfiesSkillRequirements = (armorSet: ArmorSet): boolean => {
+      if (!hasSelectedSkills) return true;
+
+      const skills = getCombinatedSkills(armorSet);
+      const allSlots = [
+        ...(armorSet.head.slots || []),
+        ...(armorSet.chest.slots || []),
+        ...(armorSet.arms.slots || []),
+        ...(armorSet.waist.slots || []),
+        ...(armorSet.legs.slots || []),
+      ];
+
+      const decorationCombinations = calculateDecorationCombinations(
+        allSlots,
+        decorations,
+        numericSearchSkills,
+        skills
+      );
+
+      if (decorationCombinations.length === 0) return false;
+
+      const firstCombination = decorationCombinations[0];
+      const totalSkills = { ...skills };
+
+      firstCombination.forEach((deco) => {
+        Object.entries(deco.skills).forEach(([skill, level]) => {
+          totalSkills[skill] = (totalSkills[skill] || 0) + level;
         });
       });
+
+      return Object.entries(selectedSkills).every(([skill, level]) => {
+        if (!level || level === "---") return true;
+        const requiredLevel = parseInt(level);
+        const totalSkillLevel = totalSkills[skill] || 0;
+        return totalSkillLevel >= requiredLevel;
+      });
+    };
+
+    if (hasSelectedSkills) {
+      const armorSets = [
+        { part: "head" as const, armors: headArmors },
+        { part: "chest" as const, armors: chestArmors },
+        { part: "arms" as const, armors: armArmors },
+        { part: "waist" as const, armors: waistArmors },
+        { part: "legs" as const, armors: legArmors },
+      ];
+
+      armorSets.forEach(({ part, armors }) => {
+        armors.forEach((armor) => {
+          const combination: ArmorSet = {
+            charm: mhWildsEmptyCharmData[0] as Armor,
+            head: emptyArmor,
+            chest: emptyArmor,
+            arms: emptyArmor,
+            waist: emptyArmor,
+            legs: emptyArmor,
+          };
+
+          combination[part] = armor as Armor;
+          if (satisfiesSkillRequirements(combination)) {
+            combinations.push(combination);
+          }
+        });
+      });
+    }
+
+    filteredCharms.forEach((charm) => {
+      const combination: ArmorSet = {
+        charm: charm as Armor,
+        head: emptyArmor,
+        chest: emptyArmor,
+        arms: emptyArmor,
+        waist: emptyArmor,
+        legs: emptyArmor,
+      };
+
+      if (satisfiesSkillRequirements(combination)) {
+        combinations.push(combination);
+      }
     });
 
     return combinations;
@@ -179,25 +285,76 @@ export function ArmorNCharmSimulator() {
         <div className="grid grid-cols-1 gap-2">
           {paginatedData.map((combination, index) => {
             const skills = getCombinatedSkills(combination);
+            const allSlots = [
+              ...(combination.head.slots || []),
+              ...(combination.chest.slots || []),
+              ...(combination.arms.slots || []),
+              ...(combination.waist.slots || []),
+              ...(combination.legs.slots || []),
+            ];
+            const decorationCombinations = calculateDecorationCombinations(
+              allSlots,
+              decorations,
+              numericSearchSkills,
+              skills
+            );
 
             return (
               <div key={index} className="border p-4 rounded shadow space-y-2">
                 <div className="p-2 border rounded">
+                  {mhCommonNamespace?.mh_common_head} :{" "}
                   {mhWildsArmorNamespace?.[combination.head.name]}
+                  {(combination.head.slots || []).length > 0 && (
+                    <>
+                      {" "}
+                      <span className="text-xs text-gray-500">
+                        {(combination.head.slots || []).join(" / ")}
+                      </span>
+                    </>
+                  )}
                 </div>
                 <div className="p-2 border rounded">
+                  {mhCommonNamespace?.mh_common_chest} :{" "}
                   {mhWildsArmorNamespace?.[combination.chest.name]}
+                  {(combination.chest.slots || []).length > 0 && (
+                    <>
+                      {" "}
+                      <span className="text-xs text-gray-500">
+                        {(combination.chest.slots || []).join(" / ")}
+                      </span>
+                    </>
+                  )}
                 </div>
                 <div className="p-2 border rounded">
+                  {mhCommonNamespace?.mh_common_arms} :{" "}
                   {mhWildsArmorNamespace?.[combination.arms.name]}
+                  {(combination.arms.slots || []).length > 0 && (
+                    <>
+                      {" "}
+                      <span className="text-xs text-gray-500">
+                        {(combination.arms.slots || []).join(" / ")}
+                      </span>
+                    </>
+                  )}
                 </div>
                 <div className="p-2 border rounded">
+                  {mhCommonNamespace?.mh_common_waist} :{" "}
                   {mhWildsArmorNamespace?.[combination.waist.name]}
+                  {(combination.waist.slots || []).length > 0 && (
+                    <>
+                      {" "}
+                      <span className="text-xs text-gray-500">
+                        {(combination.waist.slots || []).join(" / ")}
+                      </span>
+                    </>
+                  )}
                 </div>
                 <div className="p-2 border rounded">
+                  {mhCommonNamespace?.mh_common_legs} :{" "}
                   {mhWildsArmorNamespace?.[combination.legs.name]}
                 </div>
                 <div className="p-2 border rounded">
+                  {mhCommonNamespace?.mh_common_charm} :{" "}
                   {mhWildsCharmNamespace?.[combination.charm.name]}
                 </div>
 
@@ -239,6 +396,87 @@ export function ArmorNCharmSimulator() {
                       <div>{mhCommonNamespace?.mh_common_none}</div>
                     )}
                   </div>
+                  {decorationCombinations.length > 0 &&
+                    decorationCombinations[0].length > 0 && (
+                      <div className="grid grid-cols-3 gap-2">
+                        {decorationCombinations.map((combination, index) => {
+                          const decorationCounts = combination.reduce(
+                            (acc, dec) => {
+                              acc[dec.name] = (acc[dec.name] || 0) + 1;
+                              return acc;
+                            },
+                            {} as Record<string, number>
+                          );
+
+                          const usedSlots = combination.map(
+                            (dec) => dec.slotlevel
+                          );
+                          const remainingSlots = [...allSlots];
+
+                          const slotGroups = usedSlots.reduce(
+                            (acc, slotLevel) => {
+                              acc[slotLevel] = (acc[slotLevel] || 0) + 1;
+                              return acc;
+                            },
+                            {} as Record<number, number>
+                          );
+
+                          Object.entries(slotGroups).forEach(
+                            ([slotLevel, count]) => {
+                              const level = parseInt(slotLevel);
+                              const availableSlots = remainingSlots
+                                .map((slot, index) => ({ slot, index }))
+                                .filter(({ slot }) => slot >= level)
+                                .sort((a, b) => a.slot - b.slot);
+
+                              for (
+                                let i = 0;
+                                i < count && i < availableSlots.length;
+                                i++
+                              ) {
+                                remainingSlots[availableSlots[i].index] = -1;
+                              }
+                            }
+                          );
+
+                          const remainingSlotCounts = remainingSlots.reduce(
+                            (acc, slot) => {
+                              if (slot > 0) {
+                                acc[slot] = (acc[slot] || 0) + 1;
+                              }
+                              return acc;
+                            },
+                            {} as Record<number, number>
+                          );
+
+                          return (
+                            <div
+                              key={index}
+                              className="bg-gray-700 text-white rounded p-4"
+                            >
+                              <div className="text-xs text-gray-400 mb-2">
+                                {[3, 2, 1].map((level) => (
+                                  <span key={level} className="mr-2">
+                                    Lv {level} :{" "}
+                                    {remainingSlotCounts[level] || "x"}
+                                    {level !== 1 && " | "}
+                                  </span>
+                                ))}
+                              </div>
+                              {Object.entries(decorationCounts).map(
+                                ([name, count]) => (
+                                  <div key={name}>
+                                    {mhWildsArmorDecorationNamespace?.[name] ??
+                                      name}{" "}
+                                    x{count}
+                                  </div>
+                                )
+                              )}
+                            </div>
+                          );
+                        })}
+                      </div>
+                    )}
                 </div>
               </div>
             );
