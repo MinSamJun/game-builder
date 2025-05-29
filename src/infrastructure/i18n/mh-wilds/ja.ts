@@ -591,17 +591,25 @@ export const mhWildsArmorJa = {
   mhwilds_armor_guild_cross_coil_α: "ギルドクロスコイル α",
   mhwilds_armor_guild_cross_boots_α: "ギルドクロスブーツ α",
 
-  mhwilds_armor_empty_head_low: "なし_下位",
-  mhwilds_armor_empty_chest_low: "なし_下位",
-  mhwilds_armor_empty_arms_low: "なし_下位",
-  mhwilds_armor_empty_waist_low: "なし_下位",
-  mhwilds_armor_empty_legs_low: "なし_下位",
+  mhwilds_armor_empty_head_low: "_",
+  mhwilds_armor_empty_chest_low: "_",
+  mhwilds_armor_empty_arms_low: "_",
+  mhwilds_armor_empty_waist_low: "_",
+  mhwilds_armor_empty_legs_low: "_",
 
-  mhwilds_armor_empty_head_high: "なし_上位",
-  mhwilds_armor_empty_chest_high: "なし_上位",
-  mhwilds_armor_empty_arms_high: "なし_上位",
-  mhwilds_armor_empty_waist_high: "なし_上位",
-  mhwilds_armor_empty_legs_high: "なし_上位",
+  mhwilds_armor_empty_head_high: "_",
+  mhwilds_armor_empty_chest_high: "_",
+  mhwilds_armor_empty_arms_high: "_",
+  mhwilds_armor_empty_waist_high: "_",
+  mhwilds_armor_empty_legs_high: "_",
+
+  mhwilds_armor_1_head_low: "下位 1スロット",
+  mhwilds_armor_1_chest_low: "下位 1スロット",
+  mhwilds_armor_1_arms_low: "下位 1スロット",
+  mhwilds_armor_1_waist_low: "下位 1スロット",
+  mhwilds_armor_1_legs_low: "下位 1スロット",
+
+  mhwilds_armor_11_waist_low: "下位 1/1 スロット",
 
   mhwilds_armor_1_head_high: "上位 1スロット",
   mhwilds_armor_11_head_high: "上位 1/1 スロット",
@@ -840,9 +848,10 @@ export const mhWildsCharmJa = {
   mhwilds_charm_earplugs_charm_ii: "耳栓の護石Ⅱ",
   mhwilds_charm_evasion_charm_iv: "回避の護石Ⅳ",
   mhwilds_charm_convert_charm_ii: "属変の護石Ⅱ",
-  mhwilds_charm_empty_low: "空の護石",
-  mhwilds_charm_empty_high: "空の護石",
-  mhwilds_charm_empty_master: "空の護石",
+
+  mhwilds_charm_empty_low: "_",
+  mhwilds_charm_empty_high: "_",
+  mhwilds_charm_empty_master: "_",
 };
 
 export const mhWildsArmorSkillJa = {

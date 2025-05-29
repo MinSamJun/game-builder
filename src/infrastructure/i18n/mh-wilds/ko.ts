@@ -684,17 +684,25 @@ export const mhWildsArmorKo = {
   mhwilds_armor_guild_cross_coil_α: "길드크로스코일 α",
   mhwilds_armor_guild_cross_boots_α: "길드크로스부츠 α",
 
-  mhwilds_armor_empty_head_low: "없음_하위",
-  mhwilds_armor_empty_chest_low: "없음_하위",
-  mhwilds_armor_empty_arms_low: "없음_하위",
-  mhwilds_armor_empty_waist_low: "없음_하위",
-  mhwilds_armor_empty_legs_low: "없음_하위",
+  mhwilds_armor_empty_head_low: "_",
+  mhwilds_armor_empty_chest_low: "_",
+  mhwilds_armor_empty_arms_low: "_",
+  mhwilds_armor_empty_waist_low: "_",
+  mhwilds_armor_empty_legs_low: "_",
 
-  mhwilds_armor_empty_head_high: "없음_상위",
-  mhwilds_armor_empty_chest_high: "없음_상위",
-  mhwilds_armor_empty_arms_high: "없음_상위",
-  mhwilds_armor_empty_waist_high: "없음_상위",
-  mhwilds_armor_empty_legs_high: "없음_상위",
+  mhwilds_armor_empty_head_high: "_",
+  mhwilds_armor_empty_chest_high: "_",
+  mhwilds_armor_empty_arms_high: "_",
+  mhwilds_armor_empty_waist_high: "_",
+  mhwilds_armor_empty_legs_high: "_",
+
+  mhwilds_armor_1_head_low: "하위 1슬롯",
+  mhwilds_armor_1_chest_low: "하위 1슬롯",
+  mhwilds_armor_1_arms_low: "하위 1슬롯",
+  mhwilds_armor_1_waist_low: "하위 1슬롯",
+  mhwilds_armor_1_legs_low: "하위 1슬롯",
+
+  mhwilds_armor_11_waist_low: "하위 1/1 슬롯",
 
   mhwilds_armor_1_head_high: "상위 1슬롯",
   mhwilds_armor_11_head_high: "상위 1/1 슬롯",
@@ -934,9 +942,9 @@ export const mhWildsCharmKo = {
   mhwilds_charm_evasion_charm_iv: "회피의 호석 IV",
   mhwilds_charm_convert_charm_ii: "속변의 호석 II",
 
-  mhwilds_charm_empty_low: "아무 호석",
-  mhwilds_charm_empty_high: "아무 호석",
-  mhwilds_charm_empty_master: "아무 호석",
+  mhwilds_charm_empty_low: "_",
+  mhwilds_charm_empty_high: "_",
+  mhwilds_charm_empty_master: "_",
 };
 
 export const mhWildsArmorSkillKo = {

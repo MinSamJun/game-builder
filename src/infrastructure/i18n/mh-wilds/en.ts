@@ -591,17 +591,25 @@ export const mhWildsArmorEn = {
   mhwilds_armor_guild_cross_coil_α: "Guild Cross Coil α",
   mhwilds_armor_guild_cross_boots_α: "Guild Cross Boots α",
 
-  mhwilds_armor_empty_head_low: "None_low",
-  mhwilds_armor_empty_chest_low: "None_low",
-  mhwilds_armor_empty_arms_low: "None_low",
-  mhwilds_armor_empty_waist_low: "None_low",
-  mhwilds_armor_empty_legs_low: "None_low",
+  mhwilds_armor_empty_head_low: "_",
+  mhwilds_armor_empty_chest_low: "_",
+  mhwilds_armor_empty_arms_low: "_",
+  mhwilds_armor_empty_waist_low: "_",
+  mhwilds_armor_empty_legs_low: "_",
 
-  mhwilds_armor_empty_head_high: "None_high",
-  mhwilds_armor_empty_chest_high: "None_high",
-  mhwilds_armor_empty_arms_high: "None_high",
-  mhwilds_armor_empty_waist_high: "None_high",
-  mhwilds_armor_empty_legs_high: "None_high",
+  mhwilds_armor_empty_head_high: "_",
+  mhwilds_armor_empty_chest_high: "_",
+  mhwilds_armor_empty_arms_high: "_",
+  mhwilds_armor_empty_waist_high: "_",
+  mhwilds_armor_empty_legs_high: "_",
+
+  mhwilds_armor_1_head_low: "Low 1slot",
+  mhwilds_armor_1_chest_low: "Low 1slot",
+  mhwilds_armor_1_arms_low: "Low 1slot",
+  mhwilds_armor_1_waist_low: "Low 1slot",
+  mhwilds_armor_1_legs_low: "Low 1slot",
+
+  mhwilds_armor_11_waist_low: "Low 1/1 slot",
 
   mhwilds_armor_1_head_high: "High 1slot",
   mhwilds_armor_11_head_high: "High 1/1 slot",
@@ -840,9 +848,10 @@ export const mhWildsCharmEn = {
   mhwilds_charm_earplugs_charm_ii: "Earplugs Charm II",
   mhwilds_charm_evasion_charm_iv: "Evasion Charm IV",
   mhwilds_charm_convert_charm_ii: "Convert Charm II",
-  mhwilds_charm_empty_low: "Empty Charm",
-  mhwilds_charm_empty_high: "Empty Charm",
-  mhwilds_charm_empty_master: "Empty Charm",
+
+  mhwilds_charm_empty_low: "_",
+  mhwilds_charm_empty_high: "_",
+  mhwilds_charm_empty_master: "_",
 };
 
 export const mhWildsArmorSkillEn = {

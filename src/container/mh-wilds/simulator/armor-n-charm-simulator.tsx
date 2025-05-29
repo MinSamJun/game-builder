@@ -127,9 +127,11 @@ export function ArmorNCharmSimulator() {
       "mhwilds_legs",
     ];
 
-    const armorData = selectedRank
-      ? mhWildsArmorData.filter((armor) => armor.rank === selectedRank)
-      : [...mhWildsArmorData, ...mhWildsSlotonlyArmorData];
+    const sortedArmorData = [...mhWildsArmorData].sort((a, b) => {
+      const aDef = a.def?.[1] || 0;
+      const bDef = b.def?.[1] || 0;
+      return bDef - aDef;
+    });
 
     const charmData = hasSelectedSkills
       ? mhWildsCharmData
@@ -144,12 +146,23 @@ export function ArmorNCharmSimulator() {
     ) as Armor;
 
     const availableArmors = mhwilds_armor_parts.map((part) => {
-      const matchingArmors = armorData.filter(
-        (armor) =>
-          armor.part === part && (!selectedRank || armor.rank === selectedRank)
-      );
+      const normalArmors = sortedArmorData
+        .filter(
+          (armor) =>
+            armor.part === part &&
+            (!selectedRank || armor.rank === selectedRank)
+        )
+        .slice(0, 3);
 
-      return matchingArmors.slice(0, 3);
+      const slotOnlyArmors = mhWildsSlotonlyArmorData
+        .filter(
+          (armor) =>
+            armor.part === part &&
+            (!selectedRank || armor.rank === selectedRank)
+        )
+        .slice(0, 3);
+
+      return [...slotOnlyArmors, ...normalArmors];
     });
 
     const [headArmors, chestArmors, armArmors, waistArmors, legArmors] =
@@ -299,6 +312,15 @@ export function ArmorNCharmSimulator() {
               skills
             );
 
+            const totalSkills = { ...skills };
+            if (decorationCombinations.length > 0) {
+              decorationCombinations[0].forEach((deco) => {
+                Object.entries(deco.skills).forEach(([skill, level]) => {
+                  totalSkills[skill] = (totalSkills[skill] || 0) + level;
+                });
+              });
+            }
+
             return (
               <div key={index} className="border p-4 rounded shadow space-y-2">
                 <div className="p-2 border rounded">
@@ -360,7 +382,7 @@ export function ArmorNCharmSimulator() {
 
                 <div className="gap-4 text-sm mt-2 space-y-2">
                   <div className="bg-gray-800 text-white rounded p-4">
-                    {Object.entries(skills).length > 0 ? (
+                    {Object.entries(totalSkills).length > 0 ? (
                       CATEGORIES.map((category) => {
                         const categorizedSkills = mhWildsArmorSkillData
                           .filter(
@@ -368,7 +390,7 @@ export function ArmorNCharmSimulator() {
                               (skill.category ?? "mhwilds_skill_type_etc") ===
                               category
                           )
-                          .filter((skill) => skill.name in skills);
+                          .filter((skill) => skill.name in totalSkills);
 
                         if (categorizedSkills.length === 0) return null;
 
@@ -385,7 +407,7 @@ export function ArmorNCharmSimulator() {
                                   {getNamespaceData("mhWilds_armor_skill")?.[
                                     skill.name
                                   ] ?? skill.name}{" "}
-                                  Lv {skills[skill.name]}
+                                  Lv {totalSkills[skill.name]}
                                 </li>
                               ))}
                             </ul>
